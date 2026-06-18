@@ -6,6 +6,7 @@ title Push GitHub Cass1993/Examen — log
 cd /d "%~dp0"
 set LOG=%~dp0_push_log.txt
 set REPO=https://github.com/Cass1993/Examen.git
+set CONFLICT_DIR=%~dp0_github_remote_conflict
 
 echo === Push GitHub %DATE% %TIME% === > "%LOG%"
 
@@ -70,12 +71,40 @@ git commit -m "Streamlit Cloud: app + scripts + data/questions.json" >> "%LOG%" 
 
 git branch -M main >> "%LOG%" 2>&1
 
-echo [5] git pull --allow-unrelated-histories >> "%LOG%"
-git pull origin main --allow-unrelated-histories --no-edit >> "%LOG%" 2>&1
+echo [5] mut fisiere locale care blocheaza pull >> "%LOG%"
+if not exist "%CONFLICT_DIR%" mkdir "%CONFLICT_DIR%" >> "%LOG%" 2>&1
+for %%F in (
+    "backup_Itemi_txt_20260527_181707.txt"
+    "backup_banca_500_20260527_155708.md"
+    "backup_questions_2000_20260527_165614.json"
+    "backup_questions_2000_20260527_165614.md"
+    "instructions.txt"
+    "itemi noi 250 fiecare.txt"
+    "questions_1000_clean.json"
+    "questions_1000_readable.md"
+) do (
+    if exist %%~F move /Y %%~F "%CONFLICT_DIR%\" >> "%LOG%" 2>&1
+)
 
-echo [6] git push >> "%LOG%"
+echo [6] git pull --allow-unrelated-histories >> "%LOG%"
+git pull origin main --allow-unrelated-histories --no-edit >> "%LOG%" 2>&1
+if errorlevel 1 (
+    echo Pull cu conflicte — pastrez versiunea locala app.py / README >> "%LOG%"
+    git checkout --ours app.py README.md requirements.txt 2>>"%LOG%"
+    git add app.py README.md requirements.txt 2>>"%LOG%"
+    git commit -m "Merge: pastrez quiz Streamlit local" >> "%LOG%" 2>&1
+)
+
+echo [7] git push >> "%LOG%"
 git push -u origin main >> "%LOG%" 2>&1
 set PUSHERR=%ERRORLEVEL%
+
+if %PUSHERR% NEQ 0 (
+    echo Push respins — incerc force push pentru inlocuirea versiunii vechi de pe GitHub >> "%LOG%"
+    echo ATENTIE: inlocuieste continutul vechi de pe main cu versiunea locala. >> "%LOG%"
+    git push -u origin main --force >> "%LOG%" 2>&1
+    set PUSHERR=%ERRORLEVEL%
+)
 
 echo Push exit code: %PUSHERR% >> "%LOG%"
 echo. >> "%LOG%"
@@ -84,7 +113,7 @@ echo === Dupa push, pe GitHub trebuie sa vezi folderele data/ si scripts/ === >>
 if %PUSHERR% NEQ 0 (
     echo.
     echo PUSH ESUAT — vezi log: %LOG%
-    echo Posibil: login GitHub lipsa sau conflict. Deschide log-ul.
+    echo Daca cere login: completeaza autentificarea in browser, apoi ruleaza din nou.
     notepad "%LOG%"
     pause
     exit /b 1

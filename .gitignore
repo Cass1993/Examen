@@ -21,10 +21,17 @@ questions_clean.json
 
 # Rapoarte / artefacte locale
 audit_report_*.txt
-data/_run_audit.bat
-data/_shell_test_marker.txt
-_sync_out.txt
-_run_log.txt
+_push_log.txt
+_github_remote_conflict/
+
+# Backup-uri vechi (exista si pe GitHub vechi — nu le urcam din nou)
+backup_*.txt
+backup_*.md
+backup_*.json
+questions_1000_*.json
+questions_1000_*.md
+instructions.txt
+itemi noi 250 fiecare.txt
 
 # IDE / OS
 .idea/
