@@ -1004,10 +1004,14 @@ PSIHOLOGIA_MUNCII_ITEMS: List[Item] = [
 from scripts.psihologia_muncii_design_munca_bank_data import DESIGN_MUNCII_ITEMS
 from scripts.psihologia_muncii_selectie_bank_data import SELECTIE_PERSONAL_ITEMS
 from scripts.psihologia_muncii_performanta_bank_data import PERFORMANTA_MUNCII_ITEMS
+from scripts.psihologia_muncii_fluctuatie_satisfactie_bank_data import (
+    FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS,
+)
 
 PSIHOLOGIA_MUNCII_ALL_ITEMS: List[Item] = (
     PSIHOLOGIA_MUNCII_ITEMS
     + DESIGN_MUNCII_ITEMS
     + SELECTIE_PERSONAL_ITEMS
     + PERFORMANTA_MUNCII_ITEMS
+    + FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS
 )

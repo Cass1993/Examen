@@ -1,4 +1,4 @@
-"""Explicații pedagogice — lot examen Psihologia muncii II (255 itemi)."""
+"""Explicații pedagogice — lot examen Psihologia muncii II (315 itemi)."""
 
 from __future__ import annotations
 
@@ -1095,12 +1095,256 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "Adevărat: relevanță = ce e bun în măsurare; deficiență = ce lipsește; "
         "contaminare = ce nu ar trebui să intre."
     ),
+    # 256–315 Fluctuația și satisfacția muncii
+    (
+        "Turnover = părăsirea organizației. Voluntar: angajatul pleacă "
+        "din inițiativă proprie. Involuntar: organizația încetează relația."
+    ),
+    (
+        "Voluntar = demisie / plecare la alt angajator. Involuntar = "
+        "concediere sau neprelungire de contract de către firmă."
+    ),
+    (
+        "Funcțional: pleacă cei slabi — poate fi util. Disfuncțional: pleacă "
+        "performanții — pierdere de competențe; cea mai problematică formă."
+    ),
+    (
+        "Pierderea programatorilor de top = turnover disfuncțional. "
+        "Concedierea celor slabi poate fi funcțională, dar nu e cea mai "
+        "îngrijorătoare aici."
+    ),
+    (
+        "Funcțional, disfuncțional și faptul că disfuncțional e cel mai "
+        "problematic — toate adevărate. Nu e funcțional „mereu” bun la "
+        "orice volum."
+    ),
+    (
+        "Capcană: disfuncțional NU e preferabil — acolo pleacă cei valoroși. "
+        "Funcțional = pleacă cei slabi."
+    ),
+    (
+        "Demisia = voluntar. Concedierea = involuntar. Căutarea altui job "
+        "înainte de plecare tot voluntar. Neprelungirea contractului de "
+        "firmă = involuntar."
+    ),
+    (
+        "Rata brută nu spune cine pleacă. Tipul turnover (funcțional vs "
+        "disfuncțional) și voluntar vs involuntar schimbă interpretarea "
+        "și acțiunea HR."
+    ),
+    (
+        "Withdrawal Model: insatisfacție → gânduri plecare → căutare "
+        "alternative → intenție → plecare. Ordinea contează pedagogic."
+    ),
+    (
+        "Singura ordine corectă începe cu insatisfacția și trece prin "
+        "intenție înainte de plecarea efectivă."
+    ),
+    (
+        "Meta-analize: intenția de plecare bate de obicei absențele, vârsta "
+        "sau satisfacția veche ca predictor imediat al plecării."
+    ),
+    (
+        "Caută joburi + spune că pleacă în 3 luni = intenție de plecare, "
+        "nu turnover efectiv încă."
+    ),
+    (
+        "Hobo Syndrome: istoric de joburi scurte repetate prezice pattern "
+        "similar în viitor — util la selecție."
+    ),
+    (
+        "Salariu, promovare, suport, climat, leadership — predictori clasici. "
+        "Job description singur nu explică decizia de plecare."
+    ),
+    (
+        "N↑ și uneori Openness↑ legate de mai multă fluctuație; C↑ de "
+        "obicei mai puțin. Extraversiunea nu „elimină” plecarea."
+    ),
+    (
+        "Toate cele patru sunt etape pre-plecare din modelul retragerii, "
+        "înainte de demisie efectivă."
+    ),
+    (
+        "Fals: intenția e unul dintre cei mai buni predictori — nu unul "
+        "slab. Mulți rămân, dar intenția tot prezice cel mai bine cine pleacă."
+    ),
+    (
+        "Șase joburi în 8 ani = pattern hobo — risc de repetare, nu "
+        "spill-over sau cross-over."
+    ),
+    (
+        "Satisfacția = evaluare afectivă + așteptări vs realitate. Nu "
+        "productivitate sau test cognitiv."
+    ),
+    (
+        "Definiția clasică combină componenta afectivă și comparația "
+        "așteptări–realitate — ambele corecte."
+    ),
+    (
+        "Locke: satisfacție când munca îți permite valorile. Salariul mare "
+        "sau mărimea firmei nu sunt teoria lui Locke."
+    ),
+    (
+        "Valori încălcate → satisfacție scăzută la Locke, chiar cu plată ok."
+    ),
+    (
+        "Satisfacție ≠ angajament; satisfacția nu e performanță. "
+        "Așteptări nerealizate alimentează insatisfacția și retragerea."
+    ),
+    (
+        "Capcană: productivitatea nu înseamnă automat satisfacție afectivă."
+    ),
+    (
+        "Așteptările explică de ce aceeași firmă satisface diferit pe oameni. "
+        "Nu anulează Locke — completează evaluarea subiectivă."
+    ),
+    (
+        "Afectiv, așteptări, realitate percepută — componente satisfacție. "
+        "Turnover involuntar e alt construct."
+    ),
+    (
+        "Locke: valori împlinite la job → satisfacție. Oraș mare sau salariu "
+        "mediu cu valori încălcate nu susțin satisfacția."
+    ),
+    (
+        "Nu e euforie permanentă; include așteptări vs realitate; nu se "
+        "identifică cu performanța. Salariu decent nu garantează satisfacție."
+    ),
+    (
+        "Cele nouă dimensiuni clasice: pay, promotion, benefits, contingent "
+        "rewards, policies, coworkers, supervision, work itself, communication."
+    ),
+    (
+        "În multe studii, Promotion bate Pay la intenția de plecare — "
+        "blocaj de carieră frustrează pe termen lung."
+    ),
+    (
+        "Mesajul e despre lipsă de avansare — dimensiunea Promotion."
+    ),
+    (
+        "Pay, Work Itself, Supervision corect definite. Promotion nu e "
+        "concediul legal."
+    ),
+    (
+        "Contingent = meritocrație percepută (efort → recompensă). Nu "
+        "beneficii fixe egale pentru toți."
+    ),
+    (
+        "Coworkers, supervision și comunicarea țin de relații. Procedurile "
+        "contabile sunt alt registru."
+    ),
+    (
+        "Promovarea ține de dezvoltare și sens; salariul nu e „niciodată” "
+        "relevant — dar nu e mereu #1. Blocajul alimentează retragerea."
+    ),
+    (
+        "Work Itself, Policies și Contingent rewards potrivite. Ultima "
+        "opțiune descrie pay/comparație salarială, nu Promotion."
+    ),
+    (
+        "Capcană: Pay nu e întotdeauna predictorul #1 — Promotion des "
+        "mai puternic la intenția de plecare."
+    ),
+    (
+        "Insatisfacție: supervizare toxică + promovare blocată + proceduri "
+        "injuste; sau beneficii ok dar muncă monotonă. Opțiunea d e "
+        "profil satisfăcut."
+    ),
+    (
+        "Adevărat: corelație pozitivă modestă — fericirea nu garantează "
+        "performanță maximă."
+    ),
+    (
+        "Modestă și condiționată de abilități/resurse — nu identitate "
+        "satisfacție=performanță."
+    ),
+    (
+        "Spill-over = aceeași persoană (muncă→viață). Cross-over = între "
+        "persoane (partener→angajat)."
+    ),
+    (
+        "Fals: transfer între persoane = cross-over, nu spill-over."
+    ),
+    (
+        "Work Itself are cel mai mare spill-over spre satisfacția vieții — "
+        "munca semnificativă „curge” în afara biroului."
+    ),
+    (
+        "Work itself bun poate susține viața personală parțial chiar cu "
+        "pay slab. Nu anulează totul mereu; cross-over nu e garantat."
+    ),
+    (
+        "Stresul partenerului îți afectează starea = cross-over între "
+        "persoane."
+    ),
+    (
+        "Stres muncă→acasă și bine muncă→acasă = spill-over. Nemulțumirea "
+        "partenerului = cross-over. Demisia = turnover."
+    ),
+    (
+        "Corelație modestă + alți factori (abilități, resurse) + posibil "
+        "confort fără efort maxim — de aceea „fericiți pe toți” nu "
+        "explodează performanța."
+    ),
+    (
+        "Work itself plăcut se transferă în aceeași persoană spre viața "
+        "personală — nu cross-over și nu e anulat mereu de beneficii."
+    ),
+    (
+        "Afectiv = vrei să rămâi, identificare. Nu continuance (n-ai "
+        "alternative) și nu compliance (obligație față de șef)."
+    ),
+    (
+        "Angajament afectiv ridicat → performanță mai bună, mai puțin "
+        "turnover, mai mult OCB. Nu absențe obligatorii."
+    ),
+    (
+        "Satisfacție = job; angajament = organizație. Nu sunt aceeași "
+        "măsură. Afectiv = „vreau să rămân”."
+    ),
+    (
+        "Îi place munca dar nu firma → satisfacție job ok, angajament "
+        "afectiv scăzut, risc plecare la alternativă."
+    ),
+    (
+        "Capcană: continuance (rămâi că n-ai opțiuni) ≠ afectiv (rămâi "
+        "că vrei)."
+    ),
+    (
+        "Insatisfacție → intenție → turnover; sau lanțul complet al "
+        "retragerii. Angajament ridicat nu produce turnover disfuncțional."
+    ),
+    (
+        "Afectiv ridicat → OCB și retenție; satisfacția job ≠ angajament "
+        "firmă; promovarea influențează plecarea. Nu toți mulțumiții au "
+        "angajament maxim."
+    ),
+    (
+        "Disfuncțional = pleacă performanții; intenția prezice turnover; "
+        "spill-over = aceeași persoană. Cross-over nu e „fără influență "
+        "interpersonală”."
+    ),
+    (
+        "Lanț retragere + spill-over work itself + angajament afectiv "
+        "benefic. Ultima opțiune inversează funcțional/disfuncțional."
+    ),
+    (
+        "HR: promovare clară, supervizare/climat, monitorizare intenție. "
+        "Ignorarea satisfacției e greșită — legătura cu performanța e modestă."
+    ),
+    (
+        "Toate patru sunt capcane clasice de examen — respinge-le pe toate."
+    ),
+    (
+        "Sinteză finală: satisfacție job, angajament afectiv, intenție "
+        "ca predictor, promovare la intenția de plecare — toate corecte."
+    ),
 ]
 
 
 def explanation_for_exam_id(item_id: int) -> str:
-    """Explicație după id examen (9501–9755), independent de questions.json."""
-    if 9501 <= int(item_id) <= 9755:
+    """Explicație după id examen (9501–9815), independent de questions.json."""
+    if 9501 <= int(item_id) <= 9815:
         idx = int(item_id) - 9501
         if 0 <= idx < len(PSIHOLOGIA_MUNCII_EXPLANATIONS):
             return PSIHOLOGIA_MUNCII_EXPLANATIONS[idx]

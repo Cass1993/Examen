@@ -12,7 +12,7 @@ SupplementalLot = Tuple[str, Callable[[], List[Dict[str, Any]]], Callable[[str],
 REGISTERED_LOTS: List[SupplementalLot] = []
 
 # Bump la reformulări distractori — forțează rescrierea loturilor II în questions.json
-II_DISTRACTOR_VERSION = "122"
+II_DISTRACTOR_VERSION = "123"
 II_LOT_NAMES = frozenset(
     {
         "Introducere în evaluarea psihologică II",

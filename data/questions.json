@@ -75727,9 +75727,1146 @@
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
+        },
+        {
+          "id": 9756,
+          "text": "În psihologia organizațională, turnover-ul (fluctuația personalului) înseamnă părăsirea organizației de către angajați — fie voluntar (aleg să plece), fie involuntar (sunt concediați).",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Turnover = părăsirea organizației. Voluntar: angajatul pleacă din inițiativă proprie. Involuntar: organizația încetează relația.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9757,
+          "text": "Care distincție descrie corect turnover-ul voluntar față de cel involuntar?",
+          "options": {
+            "a": "Voluntar = absențe nemotivate; involuntar = concediu medical lung, în procesul terapeutic",
+            "b": "Voluntar = angajatul inițiază plecarea; involuntar = organizația încetează contractul",
+            "c": "Voluntar = transfer intern între departamente; involuntar = plecare către alt angajator",
+            "d": "Voluntar = concediere disciplinară; involuntar = demisie la cerere, în procesul terapeutic"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Voluntar = demisie / plecare la alt angajator. Involuntar = concediere sau neprelungire de contract de către firmă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9758,
+          "text": "Turnover-ul funcțional presupune că pleacă în principal angajații cu performanță slabă, eliberând loc pentru oameni mai potriviți. Turnover-ul disfuncțional înseamnă că pleacă performanții sau angajații valoroși — situația considerată cea mai problematică pentru organizație.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Funcțional: pleacă cei slabi — poate fi util. Disfuncțional: pleacă performanții — pierdere de competențe; cea mai problematică formă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9759,
+          "text": "O firmă de IT pierde trei programatori de top care pleacă la concurență, în timp ce doi angajați cu performanță sub așteptări sunt concediați în aceeași lună. Care tip de turnover este cel mai îngrijorător pentru organizație?",
+          "options": {
+            "a": "Disfuncțional — pleacă performanții valoroși",
+            "b": "Voluntar — pentru că demisiile sunt mereu mai costisitoare decât concedierile",
+            "c": "Funcțional — pleacă cei slabi, ceea ce e mereu benefic",
+            "d": "Involuntar — pentru că organizația a inițiat concedierile"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Pierderea programatorilor de top = turnover disfuncțional. Concedierea celor slabi poate fi funcțională, dar nu e cea mai îngrijorătoare aici.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9760,
+          "text": "Care afirmații despre turnover-ul funcțional și disfuncțional sunt corecte?",
+          "options": {
+            "a": "Disfuncțional: pleacă performanții — pierdere de know-how și costuri de înlocuire",
+            "b": "Funcțional: pleacă cei cu performanță slabă — poate îmbunătăți calitatea echipei",
+            "c": "Interpretarea transferului fără contractul de lucru inițial, în procesul terapeutic",
+            "d": "Disfuncțional este considerat cel mai problematic pentru firmă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Funcțional, disfuncțional și faptul că disfuncțional e cel mai problematic — toate adevărate. Nu e funcțional „mereu” bun la orice volum.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9761,
+          "text": "Care afirmație despre turnover-ul disfuncțional este falsă (deci greșită)?",
+          "options": {
+            "a": "Funcțional poate îmbunătăți uneori calitatea echipei",
+            "b": "Disfuncțional înseamnă că pleacă angajați valoroși",
+            "c": "Disfuncțional este preferabil pentru că eliberează posturi de neperformanți",
+            "d": "Disfuncțional este considerat cel mai problematic"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Capcană: disfuncțional NU e preferabil — acolo pleacă cei valoroși. Funcțional = pleacă cei slabi.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9762,
+          "text": "Care scenarii ilustrează turnover voluntar, respectiv involuntar?",
+          "options": {
+            "a": "Angajatul pleacă după ce a găsit alt job — voluntar",
+            "b": "Angajatul demisionează pentru un salariu mai bun — voluntar",
+            "c": "Firma îl concediază pentru abateri repetate — involuntar",
+            "d": "Contractul expiră și nu este prelungit la inițiativa angajatorului — involuntar"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Demisia = voluntar. Concedierea = involuntar. Căutarea altui job înainte de plecare tot voluntar. Neprelungirea contractului de firmă = involuntar.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9763,
+          "text": "De ce nu este suficient să raportezi doar „rata de fluctuație” fără a distinge tipul de turnover?",
+          "options": {
+            "a": "Costurile și implicațiile pentru organizație diferă după cine pleacă și de ce",
+            "b": "Aceeași rată poate ascunde plecări de performanți (disfuncțional) sau de neperformanți (funcțional)",
+            "c": "Voluntar vs involuntar ajută la înțelegerea cauzelor și a intervențiilor HR",
+            "d": "Toate tipurile de turnover au același impact asupra satisfacției clienților, deci distincția e decorativă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Rata brută nu spune cine pleacă. Tipul turnover (funcțional vs disfuncțional) și voluntar vs involuntar schimbă interpretarea și acțiunea HR.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9764,
+          "text": "Modelul retragerii (Withdrawal Model) descrie, în ordine logică, lanțul: insatisfacție la muncă → gânduri despre plecare → căutare de alternative → intenție de plecare → plecare efectivă.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Withdrawal Model: insatisfacție → gânduri plecare → căutare alternative → intenție → plecare. Ordinea contează pedagogic.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9765,
+          "text": "În modelul retragerii (Withdrawal Model), care este ordinea corectă a etapelor?",
+          "options": {
+            "a": "Insatisfacție → gânduri de plecare → căutare alternative → intenție de plecare → plecare",
+            "b": "Intenție de plecare → insatisfacție → gânduri de plecare → plecare",
+            "c": "Căutare alternative → insatisfacție → plecare imediată",
+            "d": "Plecare → intenție → insatisfacție → căutare alternative"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Singura ordine corectă începe cu insatisfacția și trece prin intenție înainte de plecarea efectivă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9766,
+          "text": "Care afirmație despre predicția turnover-ului este susținută cel mai consistent de cercetare?",
+          "options": {
+            "a": "Intenția de plecare este cel mai bun predictor al turnover-ului efectiv",
+            "b": "Vârsta cronologică singură explică majoritatea plecărilor, în procesul terapeutic",
+            "c": "Satisfacția raportată acum 5 ani prezice mai bine plecarea decât intenția actuală",
+            "d": "Absențele din ultima lună sunt mereu mai predictive decât intenția de plecare"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Meta-analize: intenția de plecare bate de obicei absențele, vârsta sau satisfacția veche ca predictor imediat al plecării.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9767,
+          "text": "Un angajat spune că e nemulțumit, caută activ joburi pe site-uri de recrutare și declară că „probabil pleacă în 3 luni”, dar încă vine la serviciu. În modelul retragerii, el se află cel mai probabil:",
+          "options": {
+            "a": "În turnover involuntar, pentru că organizația nu l-a concediat",
+            "b": "Deja în turnover efectiv, deoarece intenția = plecare",
+            "c": "La insatisfacție, fără legătură cu căutarea de alternative",
+            "d": "La etapa de intenție de plecare (înainte de plecarea efectivă)"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Caută joburi + spune că pleacă în 3 luni = intenție de plecare, nu turnover efectiv încă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9768,
+          "text": "Sindromul hobo (Hobo Syndrome) în literatura despre fluctuație se referie la:",
+          "options": {
+            "a": "Transferul satisfacției de la muncă către viața personală",
+            "b": "Angajamentul afectiv față de organizație, în procesul terapeutic",
+            "c": "Obligația legală de a preda laptopul la demisie",
+            "d": "Tendința ca turnover-ul din trecut să prezică turnover viitor la aceeași persoană"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Hobo Syndrome: istoric de joburi scurte repetate prezice pattern similar în viitor — util la selecție.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9769,
+          "text": "Care factori sunt asociați în mod tipic cu turnover-ul sau intenția de plecare?",
+          "options": {
+            "a": "Stilul de leadership perceput",
+            "b": "Suportul șefului și climatul organizațional",
+            "c": "Salariu și perspective de promovare",
+            "d": "Descrierea postului din analiza orientată spre sarcină — fără legătură cu decizia de a pleca"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Salariu, promovare, suport, climat, leadership — predictori clasici. Job description singur nu explică decizia de plecare.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9770,
+          "text": "În cercetarea personalității și a fluctuației, care tendințe sunt raportate frecvent?",
+          "options": {
+            "a": "Reduce parțial, fără a elimina integral, în procesul terapeutic",
+            "b": "Conștiinciozitatea (C) mai ridicată → asociată cu mai puțin turnover",
+            "c": "Neuroticismul (N) mai ridicat → asociat cu mai mult turnover / intenție de plecare",
+            "d": "Deschiderea (Openness) poate fi asociată cu mai multă schimbare de job (căutare de varietate)"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "N↑ și uneori Openness↑ legate de mai multă fluctuație; C↑ de obicei mai puțin. Extraversiunea nu „elimină” plecarea.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9771,
+          "text": "Care etape din modelul retragerii (Withdrawal Model) intervin înainte de plecarea efectivă?",
+          "options": {
+            "a": "Gânduri despre plecare",
+            "b": "Căutare de alternative de angajare",
+            "c": "Insatisfacție la muncă",
+            "d": "Intenție de plecare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Toate cele patru sunt etape pre-plecare din modelul retragerii, înainte de demisie efectivă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9772,
+          "text": "Intenția de plecare este un predictor slab al turnover-ului pentru că majoritatea oamenilor care spun că vor pleca rămân definitiv în firmă.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals: intenția e unul dintre cei mai buni predictori — nu unul slab. Mulți rămân, dar intenția tot prezice cel mai bine cine pleacă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9773,
+          "text": "Un recrutor observă că un candidat a avut șase joburi în opt ani, fiecare sub un an. Conceptul relevant pentru a anticipa comportament viitor este:",
+          "options": {
+            "a": "Spill-over — transfer al stresului de la muncă acasă",
+            "b": "Sindromul hobo (Hobo Syndrome) — pattern de fluctuație repetată",
+            "c": "Cross-over — influența satisfacției soțului asupra angajatului",
+            "d": "Turnover funcțional — pleacă performanții, în documentarea cerințelor postului"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Șase joburi în 8 ani = pattern hobo — risc de repetare, nu spill-over sau cross-over.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9774,
+          "text": "Care enunț descrie cel mai precis satisfacția muncii?",
+          "options": {
+            "a": "Numărul de ore suplimentare lucrate lunar",
+            "b": "Evaluare afectivă a experienței profesionale",
+            "c": "Compararea așteptărilor cu realitatea de la job",
+            "d": "Scorul la un test de inteligență generală (GMA)"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Satisfacția = evaluare afectivă + așteptări vs realitate. Nu productivitate sau test cognitiv.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9775,
+          "text": "Care definiție surprinde cel mai bine satisfacția muncii?",
+          "options": {
+            "a": "Numărul de promovări obținute în ultimii cinci ani",
+            "b": "Scorul pur cognitiv la un test de aptitudini profesionale",
+            "c": "Evaluare afectivă (pozitivă/negativă) a experienței la job",
+            "d": "Compararea așteptărilor cu ceea ce oferă efectiv munca"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Definiția clasică combină componenta afectivă și comparația așteptări–realitate — ambele corecte.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9776,
+          "text": "Conform lui Edwin Locke, satisfacția muncii crește atunci când:",
+          "options": {
+            "a": "Jobul se aliniază cu ce consideră angajatul că contează pentru el",
+            "b": "Munca permite îndeplinirea valorilor personale importante",
+            "c": "Organizația are cel mai mare număr de angajați din industrie",
+            "d": "Aplicarea aceleiași tehnici indiferent de orientarea teoretică"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Locke: satisfacție când munca îți permite valorile. Salariul mare sau mărimea firmei nu sunt teoria lui Locke.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9777,
+          "text": "Un angajat câștigă bine, dar simte că munca îi contrazice valorile (ex. etică, echilibru viață–muncă). Conform lui Locke, satisfacția lui va fi probabil:",
+          "options": {
+            "a": "Utilizarea testelor pentru screening, fără interpretare contextuală",
+            "b": "Neutră, pentru că Locke vorbește de promovare, în documentarea cerințelor postului",
+            "c": "Scăzută, deoarece valorile personale nu sunt împlinite la job",
+            "d": "Ridicată, pentru că salariul anulează orice evaluare afectivă"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Valori încălcate → satisfacție scăzută la Locke, chiar cu plată ok.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9778,
+          "text": "Care distincții sunt corecte între satisfacția muncii și concepte învecinate?",
+          "options": {
+            "a": "Satisfacția = evaluare afectivă a jobului, în documentarea cerințelor postului",
+            "b": "Satisfacția nu se reduce la performanță obiectivă sau la prezența la serviciu",
+            "c": "Satisfacția înseamnă același lucru cu angajamentul organizațional",
+            "d": "Așteptările nerealizate pot alimenta insatisfacția în modelul retragerii"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Satisfacție ≠ angajament; satisfacția nu e performanță. Așteptări nerealizate alimentează insatisfacția și retragerea.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9779,
+          "text": "Care afirmație despre satisfacția muncii este exagerată (deci greșită)?",
+          "options": {
+            "a": "Satisfacția include o componentă afectivă față de job",
+            "b": "Așteptările nerealizate pot genera insatisfacție",
+            "c": "Satisfacția se reduce la productivitate — dacă produci mult",
+            "d": "Locke leagă satisfacția de valorile personale"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Capcană: productivitatea nu înseamnă automat satisfacție afectivă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9780,
+          "text": "De ce este utilă distincția așteptări vs realitate în înțelegerea satisfacției muncii?",
+          "options": {
+            "a": "Anulează rolul valorilor personale în teoria lui Locke",
+            "b": "Aceeași situație obiectivă poate satisface pe unii și nu pe alții",
+            "c": "Explică de ce doi colegi la același job pot raporta satisfacții diferite",
+            "d": "Leagă satisfacția de percepția subiectivă"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Așteptările explică de ce aceeași firmă satisface diferit pe oameni. Nu anulează Locke — completează evaluarea subiectivă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9781,
+          "text": "Care perechi descriu corect componente ale experienței la muncă legate de satisfacție?",
+          "options": {
+            "a": "Așteptări — ce credeam că voi obține",
+            "b": "Turnover involuntar — concediere fără demisie",
+            "c": "Realitate percepută — ce oferă efectiv rolul",
+            "d": "Evaluare afectivă — plăcut vs neplăcut la job"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Afectiv, așteptări, realitate percepută — componente satisfacție. Turnover involuntar e alt construct.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9782,
+          "text": "Conform lui Locke, ce situație susține cel mai probabil satisfacția muncii?",
+          "options": {
+            "a": "Organizația are sediu central într-un oraș mare",
+            "b": "Salariul este mediu, dar valorile sunt încălcate zilnic",
+            "c": "Munca permite trăirea valorilor personale importante",
+            "d": "Jobul se aliniază cu ce contează pentru angajat"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Locke: valori împlinite la job → satisfacție. Oraș mare sau salariu mediu cu valori încălcate nu susțin satisfacția.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9783,
+          "text": "Un student crede că „satisfacția = fericire permanentă la birou”. Care clarificare pedagogică este cea mai potrivită?",
+          "options": {
+            "a": "Înseamnă că nu poți fi nemulțumit dacă ai salariu decent",
+            "b": "Poate coexista cu performanță bună sau slabă — nu le identifică",
+            "c": "E o evaluare afectivă relativ stabilă față de job, nu stare de euforie continuă",
+            "d": "Include și comparația între ce așteptam și ce am găsit"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Nu e euforie permanentă; include așteptări vs realitate; nu se identifică cu performanța. Salariu decent nu garantează satisfacție.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9784,
+          "text": "Care fac parte din dimensiunile frecvent evaluate ale satisfacției muncii?",
+          "options": {
+            "a": "Salariul (Pay) și perspectivele de promovare (Promotion)",
+            "b": "Procedurile interne și comunicarea organizațională",
+            "c": "Colegii, supervizarea și natura muncii în sine (Work Itself)",
+            "d": "Beneficiile (Benefits) și recompensele contingente"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Cele nouă dimensiuni clasice: pay, promotion, benefits, contingent rewards, policies, coworkers, supervision, work itself, communication.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9785,
+          "text": "În multe studii, care dimensiune a satisfacției muncii este cel mai puternic predictor al intenției de plecare?",
+          "options": {
+            "a": "Promovarea (Promotion) — percepția șanselor de avansare",
+            "b": "Beneficiile (Benefits) — asigurări, tichete etc.",
+            "c": "Procedurile (Policies) — reguli interne, în documentarea cerințelor postului",
+            "d": "Salariul (Pay) — uneori important, dar nu mereu cel mai puternic"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "În multe studii, Promotion bate Pay la intenția de plecare — blocaj de carieră frustrează pe termen lung.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9786,
+          "text": "Un angajat spune: „Plătesc ok, colegii sunt buni, dar nu văd nicio șansă să cresc.” Care dimensiune a satisfacției este probabil cea mai afectată?",
+          "options": {
+            "a": "Natura muncii în sine (Work Itself), în procesul terapeutic",
+            "b": "Comunicarea — deși e relevantă, mesajul indică blocaj de carieră",
+            "c": "Promovarea (Promotion), în procesul terapeutic",
+            "d": "Beneficiile (Benefits), în procesul terapeutic"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Mesajul e despre lipsă de avansare — dimensiunea Promotion.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9787,
+          "text": "Care afirmații despre dimensiunile satisfacției muncii sunt corecte?",
+          "options": {
+            "a": "Pay = satisfacția față de remunerare",
+            "b": "Supervision = relația cu șeful direct",
+            "c": "Work Itself = cât de interesantă și semnificativă e sarcina",
+            "d": "Promotion = numărul de zile de concediu legal"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Pay, Work Itself, Supervision corect definite. Promotion nu e concediul legal.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9788,
+          "text": "Ce înseamnă recompensele contingente în evaluarea satisfacției muncii?",
+          "options": {
+            "a": "Legătura dintre efort/rezultate și bonusuri sau recunoaștere",
+            "b": "Percepția că performanța mai bună este recompensată corect",
+            "c": "Beneficiile fixe din contract, identice pentru toți",
+            "d": "Numărul de zile de concediu medical plătit, în documentarea cerințelor postului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Contingent = meritocrație percepută (efort → recompensă). Nu beneficii fixe egale pentru toți.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9789,
+          "text": "Care dimensiuni țin mai direct de relațiile interpersonale la locul de muncă?",
+          "options": {
+            "a": "Comunicarea organizațională",
+            "b": "Colegii (Coworkers)",
+            "c": "Supervizarea (Supervision)",
+            "d": "Procedurile contabile — fără componentă socială directă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Coworkers, supervision și comunicarea țin de relații. Procedurile contabile sunt alt registru.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9790,
+          "text": "De ce promovarea (Promotion) poate prezice mai bine intenția de plecare decât salariul (Pay)?",
+          "options": {
+            "a": "Promovarea ține de sens, status și dezvoltare",
+            "b": "Lipsa perspectivei de creștere poate genera frustrare pe termen lung",
+            "c": "Percepția blocajului de carieră alimentează etapele din modelul retragerii",
+            "d": "Interpretarea transferului fără contractul de lucru inițial"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Promovarea ține de dezvoltare și sens; salariul nu e „niciodată” relevant — dar nu e mereu #1. Blocajul alimentează retragerea.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9791,
+          "text": "Asociază corect dimensiunea cu exemplul:",
+          "options": {
+            "a": "Work Itself — „Sarcinile mele sunt variate și îmi folosesc competențele”",
+            "b": "Policies/Procedures — „Regulile interne sunt clare și corecte”",
+            "c": "Promotion — „Știu exact cât plătesc colegii din alt departament”",
+            "d": "Contingent rewards — „Cei care muncesc mai mult sunt recompensați corect”"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Work Itself, Policies și Contingent rewards potrivite. Ultima opțiune descrie pay/comparație salarială, nu Promotion.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9792,
+          "text": "Care afirmație despre predictori ai intenției de plecare este falsă?",
+          "options": {
+            "a": "Lipsa perspectivei de carieră poate frustra chiar cu plată ok",
+            "b": "Promovarea percepută poate prezice puternic intenția de plecare",
+            "c": "Salariul (Pay) este întotdeauna cel mai puternic predictor",
+            "d": "Insatisfacția la promovare poate alimenta modelul retragerii"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Capcană: Pay nu e întotdeauna predictorul #1 — Promotion des mai puternic la intenția de plecare.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9793,
+          "text": "Care combinații de dimensiuni ar explica cel mai plauzibil o insatisfacție generalizată?",
+          "options": {
+            "a": "Beneficii decente, dar work itself monoton și fără sens perceput",
+            "b": "Supervizare toxică + lipsă promovare + proceduri percepute ca injuste",
+            "c": "Pay excelent + promotion clară + supervision suportivă",
+            "d": "Work itself captivant + colegi cooperanți + comunicare clară"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Insatisfacție: supervizare toxică + promovare blocată + proceduri injuste; sau beneficii ok dar muncă monotonă. Opțiunea d e profil satisfăcut.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9794,
+          "text": "Relația dintre satisfacția muncii și performanță este, în general, pozitivă, dar modestă: a fi mulțumit nu garantează automat performanță ridicată, și invers.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat: corelație pozitivă modestă — fericirea nu garantează performanță maximă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9795,
+          "text": "Care afirmație despre legătura satisfacție–performanță este cea mai fidelă cercetării?",
+          "options": {
+            "a": "Există o relație pozitivă, dar de obicei moderată (nu perfectă)",
+            "b": "Relația poate fi influențată de alți factori (abilități",
+            "c": "Performanța ridicată elimină orice nemulțumire, în documentarea cerințelor postului",
+            "d": "Calculul salarial bazat pe vechime, nu pe complexitatea rolului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Modestă și condiționată de abilități/resurse — nu identitate satisfacție=performanță.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9796,
+          "text": "Spill-over și cross-over descriu transferul satisfacției sau stării afective. Care definiții sunt corecte?",
+          "options": {
+            "a": "Spill-over = transfer în aceeași persoană (ex. muncă → viață personală)",
+            "b": "Cross-over = fluctuația între departamente în aceeași firmă",
+            "c": "Spill-over = transfer de la soț la angajat în aceeași familie",
+            "d": "Cross-over = transfer între persoane (ex. starea partenerului influențează pe angajat)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Spill-over = aceeași persoană (muncă→viață). Cross-over = între persoane (partener→angajat).",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9797,
+          "text": "Spill-over înseamnă transferul stării între două persoane diferite (ex. de la coleg la coleg).",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals: transfer între persoane = cross-over, nu spill-over.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9798,
+          "text": "Care dimensiune a satisfacției muncii are, în studii, cel mai mare spill-over către satisfacția vieții personale?",
+          "options": {
+            "a": "Beneficiile (Benefits), în documentarea cerințelor postului",
+            "b": "Procedurile (Policies), în documentarea cerințelor postului",
+            "c": "Recompensele contingente izolate de sensul muncii",
+            "d": "Natura muncii în sine (Work Itself)"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Work Itself are cel mai mare spill-over spre satisfacția vieții — munca semnificativă „curge” în afara biroului.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9799,
+          "text": "Un angajat iubește sarcinile zilnice (Work Itself ridicat), dar e nemulțumit de salariu. Ce efect este plauzibil conform ideii de spill-over?",
+          "options": {
+            "a": "Satisfacția vieții personale poate fi susținută parțial de plăcerea muncii",
+            "b": "Cross-over garantează că partenerul va fi și el mulțumit la job",
+            "c": "Aplicarea aceleiași tehnici indiferent de orientarea teoretică",
+            "d": "Work itself poate „curge” spre stare generală de bine dincolo de birou"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Work itself bun poate susține viața personală parțial chiar cu pay slab. Nu anulează totul mereu; cross-over nu e garantat.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9800,
+          "text": "Soția unui angajat e foarte stresată la job; el raportează că și el se simte mai tensionat acasă, deși la serviciul lui nimic nu s-a schimbat. Acest fenomen se numește cel mai probabil:",
+          "options": {
+            "a": "Turnover disfuncțional, în documentarea cerințelor postului",
+            "b": "Spill-over — transfer în aceeași persoană de la muncă la viață",
+            "c": "Cross-over — transfer între persoane, în documentarea cerințelor postului",
+            "d": "Sindrom hobo (Hobo Syndrome), în documentarea cerințelor postului"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Stresul partenerului îți afectează starea = cross-over între persoane.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9801,
+          "text": "Care exemple ilustrează spill-over, respectiv cross-over?",
+          "options": {
+            "a": "Mă simt bine la job și asta îmi îmbunătățește seara acasă — spill-over",
+            "b": "Stresul de la job îmi afectează dispoziția acasă — spill-over",
+            "c": "Plec de la firmă A la firmă B — turnover voluntar, în procesul terapeutic",
+            "d": "Nemulțumirea partenerului mă influențează și pe mine — cross-over"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Stres muncă→acasă și bine muncă→acasă = spill-over. Nemulțumirea partenerului = cross-over. Demisia = turnover.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9802,
+          "text": "De ce relația satisfacție–performanță nu justifică singură concluzia „dacă îi fac pe toți fericiți, performanța explodează”?",
+          "options": {
+            "a": "Satisfacția și performanța sunt aceeași măsurătoare cu alt nume",
+            "b": "Performanța depinde și de abilități, resurse, claritatea sarcinii",
+            "c": "Unii pot fi mulțumiți cu munca minimă necesară",
+            "d": "Corelația e modestă — mulți factori influențează performanța"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Corelație modestă + alți factori (abilități, resurse) + posibil confort fără efort maxim — de aceea „fericiți pe toți” nu explodează performanța.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9803,
+          "text": "De ce natura muncii în sine (Work Itself) are spill-over puternic către viața personală?",
+          "options": {
+            "a": "Aplicarea aceleiași tehnici indiferent de orientarea teoretică",
+            "b": "E o dimensiune centrală a experienței zilnice",
+            "c": "Plăcerea de a face munca se transferă în stare generală de bine",
+            "d": "Reducerea ședințelor la suport nonspecific, fără obiective explicite"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Work itself plăcut se transferă în aceeași persoană spre viața personală — nu cross-over și nu e anulat mereu de beneficii.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9804,
+          "text": "Care descriere se potrivește angajamentului afectiv (affective commitment)?",
+          "options": {
+            "a": "Rămâi pentru că nu ai oferte alternative (continuance)",
+            "b": "Implicare emoțională față de firmă",
+            "c": "Rămâi pentru că vrei — identificare cu organizația",
+            "d": "Rămâi pentru că șeful are autoritate formală (compliance)"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Afectiv = vrei să rămâi, identificare. Nu continuance (n-ai alternative) și nu compliance (obligație față de șef).",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9805,
+          "text": "Care consecințe sunt asociate tipic cu angajamentul afectiv ridicat?",
+          "options": {
+            "a": "Comportament de cetățenie organizațională (OCB) mai frecvent",
+            "b": "Turnover mai scăzut",
+            "c": "Absențe nemotivate obligatorii la toți angajații",
+            "d": "Performanță mai bună"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Angajament afectiv ridicat → performanță mai bună, mai puțin turnover, mai mult OCB. Nu absențe obligatorii.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9806,
+          "text": "Care distincție surprinde cel mai bine diferența dintre satisfacția muncii și angajamentul organizațional?",
+          "options": {
+            "a": "Satisfacția ține de evaluarea afectivă a muncii / jobului",
+            "b": "Angajamentul ține de legătura cu organizația ca întreg",
+            "c": "Angajamentul afectiv implică „vreau să rămân”",
+            "d": "Satisfacția și angajamentul sunt mereu identice ca măsură"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Satisfacție = job; angajament = organizație. Nu sunt aceeași măsură. Afectiv = „vreau să rămân”.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9807,
+          "text": "Un angajat își place munca zilnică (satisfacție ridicată), dar nu se simte legat de firmă și ar pleca pentru un alt angajator similar. Ce combinație descrie cel mai bine situația?",
+          "options": {
+            "a": "Angajament afectiv față de organizație probabil scăzut",
+            "b": "Satisfacție față de muncă relativ ridicată",
+            "c": "Risc de turnover dacă apare o alternativă atractivă",
+            "d": "Angajament afectiv ridicat — pentru că îi place sarcina"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Îi place munca dar nu firma → satisfacție job ok, angajament afectiv scăzut, risc plecare la alternativă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9808,
+          "text": "Care afirmație despre tipurile de angajament organizațional este falsă?",
+          "options": {
+            "a": "Continuance înseamnă că rămâi pentru că trebuie sau n-ai opțiuni",
+            "b": "Afectivul se leagă de identificare emoțională cu organizația",
+            "c": "Angajamentul continuance (lipsă alternative) = angajamentul afectiv",
+            "d": "Angajamentul afectiv implică dorința de a rămâne, în procesul terapeutic"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Capcană: continuance (rămâi că n-ai opțiuni) ≠ afectiv (rămâi că vrei).",
+          "domeniu": "Psihologia muncii II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 9809,
+          "text": "Care lanț cauzal este cel mai coerent cu materia despre insatisfacție și plecare?",
+          "options": {
+            "a": "Satisfacție ridicată → intenție de plecare maximă, în procesul terapeutic",
+            "b": "Insatisfacție → gânduri de plecare → căutare joburi — model retragerii",
+            "c": "Angajament afectiv ridicat → turnover disfuncțional garantat",
+            "d": "Insatisfacție (ex. promovare blocată) → intenție de plecare → turnover"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Insatisfacție → intenție → turnover; sau lanțul complet al retragerii. Angajament ridicat nu produce turnover disfuncțional.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9810,
+          "text": "Care afirmații leagă corect satisfacția, angajamentul și comportamentul la organizație?",
+          "options": {
+            "a": "Satisfacția față de muncă nu garantează angajament față de firmă",
+            "b": "Promovarea percepută influențează satisfacția și poate alimenta intenția de plecare",
+            "c": "Aplicarea aceleiași tehnici indiferent de orientarea teoretică",
+            "d": "Angajament afectiv ridicat → mai mult OCB, mai puțin turnover"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Afectiv ridicat → OCB și retenție; satisfacția job ≠ angajament firmă; promovarea influențează plecarea. Nu toți mulțumiții au angajament maxim.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9811,
+          "text": "Într-o sinteză pentru examen, care perechi de concepte sunt corect asociate?",
+          "options": {
+            "a": "Cross-over — transfer în aceeași persoană, fără influență interpersonală",
+            "b": "Intenție de plecare — cel mai bun predictor al turnover-ului",
+            "c": "Turnover disfuncțional — pleacă performanții",
+            "d": "Spill-over — aceeași persoană, muncă → viață"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Disfuncțional = pleacă performanții; intenția prezice turnover; spill-over = aceeași persoană. Cross-over nu e „fără influență interpersonală”.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9812,
+          "text": "Care scenarii combină corect mai multe idei din capitol?",
+          "options": {
+            "a": "Turnover funcțional când pleacă cei mai valoroși — disfuncțional",
+            "b": "Nemulțumire de promovare → căutare job → intenție → demisie",
+            "c": "Angajament afectiv ridicat → OCB și retenție mai bună",
+            "d": "Work itself plăcut → spill-over pozitiv spre viața personală"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Lanț retragere + spill-over work itself + angajament afectiv benefic. Ultima opțiune inversează funcțional/disfuncțional.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9813,
+          "text": "Un HR vrea să reducă turnover-ul disfuncțional. Care intervenții sunt cele mai bine ancorate în cercetare?",
+          "options": {
+            "a": "Clarificarea căilor de promovare și dezvoltare",
+            "b": "Îmbunătățirea supervizării și climatului",
+            "c": "Selecția bazată pe titlul formal, fără profil KSAO",
+            "d": "Monitorizarea intenției de plecare în sondaje"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "HR: promovare clară, supervizare/climat, monitorizare intenție. Ignorarea satisfacției e greșită — legătura cu performanța e modestă.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9814,
+          "text": "Care afirmații „capcană” (greșite dar plausible) trebuie respinse?",
+          "options": {
+            "a": "Turnover funcțional = pleacă cei mai buni performanți",
+            "b": "Spill-over = influență între două persoane diferite",
+            "c": "Fericit la job = automat performant maxim",
+            "d": "Satisfacția = angajament organizațional — același construct"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Toate patru sunt capcane clasice de examen — respinge-le pe toate.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 9815,
+          "text": "Care afirmații rezumă corect capitolul despre fluctuație și satisfacția muncii?",
+          "options": {
+            "a": "Promovarea percepută = adesea predictor puternic al intenției de plecare",
+            "b": "Angajamentul afectiv = dorința de a rămâne în organizație",
+            "c": "Intenția de plecare = cel mai bun predictor al turnover-ului",
+            "d": "Satisfacția muncii = evaluare afectivă a jobului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Sinteză finală: satisfacție job, angajament afectiv, intenție ca predictor, promovare la intenția de plecare — toate corecte.",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
         }
       ]
     }
   },
-  "total_questions": 4468
+  "total_questions": 4528
 }

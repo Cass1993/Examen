@@ -98,7 +98,7 @@ def bank_path_fallback() -> Path:
     return BANK_MD_DEFAULT
 
 
-WORDING_VERSION = "122"  # +50 itemi performanța în muncă
+WORDING_VERSION = "123"  # +60 itemi fluctuație și satisfacția muncii
 
 
 def _questions_cache_key() -> str:
@@ -159,6 +159,7 @@ def _questions_cache_key() -> str:
         APP_DIR / "scripts" / "psihologia_muncii_ii_bank_data.py",
         APP_DIR / "scripts" / "psihologia_muncii_selectie_bank_data.py",
         APP_DIR / "scripts" / "psihologia_muncii_performanta_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_muncii_fluctuatie_satisfactie_bank_data.py",
         APP_DIR / "scripts" / "psihologia_muncii_design_munca_bank_data.py",
         APP_DIR / "scripts" / "psihologia_muncii_ii_explanations.py",
         APP_DIR / "scripts" / "exam_ii_plausible_distractors.py",
@@ -279,7 +280,7 @@ def _resolve_explanation(qid: int, lot: str, explanation: str) -> str:
         from scripts.evaluare_psihologica_ii_explanations import explanation_for_exam_id
 
         return explanation_for_exam_id(int(qid))
-    if 9501 <= int(qid) <= 9755:
+    if 9501 <= int(qid) <= 9815:
         from scripts.psihologia_muncii_ii_explanations import explanation_for_exam_id
 
         return explanation_for_exam_id(int(qid))

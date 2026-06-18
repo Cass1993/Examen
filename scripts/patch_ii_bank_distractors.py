@@ -17,6 +17,10 @@ from scripts.exam_ii_plausible_distractors import fix_exam_wrong_options  # noqa
 II_BANK_SOURCES: List[Tuple[str, str]] = [
     ("scripts.psihologia_muncii_ii_bank_data", "PSIHOLOGIA_MUNCII_ITEMS"),
     ("scripts.psihologia_muncii_performanta_bank_data", "PERFORMANTA_MUNCII_ITEMS"),
+    (
+        "scripts.psihologia_muncii_fluctuatie_satisfactie_bank_data",
+        "FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS",
+    ),
     ("scripts.psihologia_muncii_selectie_bank_data", "SELECTIE_PERSONAL_ITEMS"),
     ("scripts.psihologia_muncii_design_munca_bank_data", "DESIGN_MUNCII_ITEMS"),
     ("scripts.evaluare_psihologica_ii_bank_data", "EVALUARE_ITEMS"),
