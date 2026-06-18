@@ -1,0 +1,34 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Streamlit local
+.streamlit/secrets.toml
+
+# Istoric local (pe Cloud oricum se resetează la redeploy)
+data/scores_history.json
+
+# Bănci sursă mari — pe Cloud folosim data/questions.json pre-generat
+questions_3400_merged.json
+questions_clean.json
+1400 x3/
+2000 itemi raw/
+
+# Rapoarte / artefacte locale
+audit_report_*.txt
+data/_run_audit.bat
+data/_shell_test_marker.txt
+_sync_out.txt
+_run_log.txt
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
