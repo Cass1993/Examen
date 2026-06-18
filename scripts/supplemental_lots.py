@@ -12,7 +12,7 @@ SupplementalLot = Tuple[str, Callable[[], List[Dict[str, Any]]], Callable[[str],
 REGISTERED_LOTS: List[SupplementalLot] = []
 
 # Bump la reformulări distractori — forțează rescrierea loturilor II în questions.json
-II_DISTRACTOR_VERSION = "123"
+II_DISTRACTOR_VERSION = "124"
 II_LOT_NAMES = frozenset(
     {
         "Introducere în evaluarea psihologică II",
@@ -148,8 +148,14 @@ def ensure_all_supplemental_lots(data: Dict[str, Any], bank_path: Path) -> Dict[
     if changed:
         data["total_questions"] = sum(len(b.get("questions") or []) for b in lots.values())
         bank_path.parent.mkdir(parents=True, exist_ok=True)
-        bank_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-        if force_ii_rebuild:
-            version_path.write_text(II_DISTRACTOR_VERSION, encoding="utf-8")
+        try:
+            bank_path.write_text(
+                json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
+            )
+            if force_ii_rebuild:
+                version_path.write_text(II_DISTRACTOR_VERSION, encoding="utf-8")
+        except OSError:
+            # Streamlit Cloud: filesystem read-only — folosim loturile în memorie.
+            pass
 
     return data

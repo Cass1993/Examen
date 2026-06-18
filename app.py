@@ -98,7 +98,7 @@ def bank_path_fallback() -> Path:
     return BANK_MD_DEFAULT
 
 
-WORDING_VERSION = "123"  # +60 itemi fluctuație și satisfacția muncii
+WORDING_VERSION = "124"  # Cloud: sync loturi în memorie fără write questions.json
 
 
 def _questions_cache_key() -> str:
@@ -193,10 +193,7 @@ def _ensure_questions_generated(bank_path: Path) -> Dict[str, Any]:
     if QUESTIONS_JSON.exists() and (IS_CLOUD or not _has_scripts()):
         data = _load_questions()
         if data.get("lots") and _has_scripts():
-            try:
-                return _ensure_supplemental_lots(data)
-            except Exception:
-                return data
+            return _ensure_supplemental_lots(data)
         return data
 
     if BANK_1400.exists() and BANK_2000.exists():
@@ -445,7 +442,7 @@ def _build_result_item(q: Q, selected: Sequence[str]) -> Dict[str, Any]:
     if explanation:
         explanation = (
             _exam_explanation(explanation)
-            if 9001 <= q.id <= 9360 or 9501 <= q.id <= 9755
+            if 9001 <= q.id <= 9360 or 9501 <= q.id <= 9815
             else polish_text(explanation)
         )
     return {
