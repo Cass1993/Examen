@@ -126,10 +126,10 @@ VALUE_FIT_STRES_ITEMS: List[Item] = [
             "(Hedonism) sau stimulare (Stimulare)?"
         ),
         "options": [
-            "hedonism — plăcere și satisfacere imediată",
-            "stimulare — noutate, provocare, varietate",
-            "tradiție — respect pentru obiceiuri și credințe consacrate",
-            "securitate — siguranță, stabilitate, ordine",
+            "plăcere și satisfacere imediată",
+            "noutate, provocare, varietate",
+            "respect pentru obiceiuri și credințe consacrate",
+            "siguranță, stabilitate, ordine",
         ],
         "correct": "ab",
     },
@@ -190,10 +190,10 @@ VALUE_FIT_STRES_ITEMS: List[Item] = [
             "cel mai mult cu:"
         ),
         "options": [
-            "aculturație — adaptare fără abandon total al valorilor",
-            "socializare organizațională — învățarea normelor noi",
-            "groupthink — presiune de conformitate necritică",
-            "sindromul hobo (Hobo Syndrome) — fluctuație repetată",
+            "adaptare la cultura nouă fără abandon total al valorilor proprii",
+            "învățarea normelor și culturii firmei",
+            "presiune de conformitate necritică",
+            "fluctuație repetată de la un job la altul",
         ],
         "correct": "ab",
     },
@@ -231,9 +231,9 @@ VALUE_FIT_STRES_ITEMS: List[Item] = [
         ),
         "options": [
             "universalism (Universalism)",
-            "bunăvoință (Bunăvoință) — grijă față de cei apropiați",
-            "putere (Putere) — status și dominare",
-            "realizare (Realizare) — succes personal demonstrat",
+            "bunăvoință (Bunăvoință)",
+            "putere (Putere)",
+            "realizare (Realizare)",
         ],
         "correct": "ab",
     },
@@ -254,11 +254,10 @@ VALUE_FIT_STRES_ITEMS: List[Item] = [
             "Asociază corect conceptul cu descrierea:"
         ),
         "options": [
-            "Value Fit — aliniere valori personale ↔ organizație",
-            "Socializare organizațională — învățarea culturii și normelor",
-            "Aculturație — adaptare la cultură nouă, păstrând parțial valorile",
-            "Shared Values — valori comune ce pot crește coeziunea, dar și "
-            "groupthink",
+            "aliniere între valorile personale și cele ale organizației",
+            "învățarea culturii și normelor firmei",
+            "adaptare la o cultură nouă, păstrând parțial valorile proprii",
+            "valori comune ce pot crește coeziunea, dar și groupthink",
         ],
         "correct": "abcd",
     },
@@ -303,10 +302,10 @@ VALUE_FIT_STRES_ITEMS: List[Item] = [
             "descrise corect?"
         ),
         "options": [
-            "alarmă — reacție inițială la agentul stresor",
-            "rezistență — organismul se adaptează temporar",
-            "epuizare — resurse epuizate dacă stresul persistă",
-            "rezistență — absența totală a oricărei reacții fiziologice",
+            "reacție inițială la agentul stresor",
+            "organismul se adaptează temporar",
+            "resurse epuizate dacă stresul persistă",
+            "absența totală a oricărei reacții fiziologice",
         ],
         "correct": "abc",
     },
@@ -455,8 +454,8 @@ VALUE_FIT_STRES_ITEMS: List[Item] = [
             "Care este ordinea logică în modelul evaluării cognitive Lazarus?"
         ),
         "options": [
-            "evaluare primară — pericol/oportunitate?",
-            "evaluare secundară — pot face față? ce resurse am?",
+            "situația este periculoasă sau benefică?",
+            "am resursele necesare pentru a face față?",
             "alegerea strategiei de coping",
             "evaluare secundară înainte de a percepe evenimentul",
         ],
@@ -477,12 +476,10 @@ VALUE_FIT_STRES_ITEMS: List[Item] = [
             "emoție?"
         ),
         "options": [
-            "negocierea unui deadline realist — centrat pe problemă",
-            "meditație sau respiro pentru calm după conflict — centrat pe emoție",
-            "reorganizarea priorităților pentru a reduce volumul — centrat pe "
-            "problemă",
-            "negarea completă a situației fără nicio strategie — nici problemă, "
-            "nici emoție adaptiv",
+            "negocierea unui deadline realist",
+            "meditație sau respiro pentru calm după conflict",
+            "reorganizarea priorităților pentru a reduce volumul de muncă",
+            "negarea completă a situației fără nicio strategie",
         ],
         "correct": "abc",
     },
@@ -546,10 +543,10 @@ VALUE_FIT_STRES_ITEMS: List[Item] = [
             "Care modele sunt asociate corect cu autorul sau ideea centrală?"
         ),
         "options": [
-            "Karasek — cerere–control (Demand–Control)",
-            "Lazarus — evaluare cognitivă și coping",
-            "Selye — sindrom general de adaptare (GAS)",
-            "Schwartz — zece valori fundamentale umane",
+            "model cerere–control al structurii jobului",
+            "evaluare cognitivă și strategii de coping",
+            "sindrom general de adaptare la stres",
+            "zece valori fundamentale umane",
         ],
         "correct": "abcd",
     },
@@ -592,10 +589,10 @@ VALUE_FIT_STRES_ITEMS: List[Item] = [
             "(Hindrance stressors) — care perechi sunt corecte?"
         ),
         "options": [
-            "challenge — oportunitate, dezvoltare, responsabilitate nouă",
-            "hindrance — birocrație, ambiguitate de rol, obstacole frustrante",
-            "challenge — proiecte care pot crește competențele",
-            "hindrance — sarcini care blochează obiectivele fără câștig",
+            "oportunitate, dezvoltare, responsabilitate nouă",
+            "birocrație, ambiguitate de rol, obstacole frustrante",
+            "proiecte care pot crește competențele",
+            "sarcini care blochează obiectivele fără câștig",
         ],
         "correct": "abcd",
     },

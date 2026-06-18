@@ -119,10 +119,10 @@ PSIHOLOGIA_MUNCII_ITEMS: List[Item] = [
             "Această cerință se încadrează la:"
         ),
         "options": [
-            "K — cunoștințe învățate",
-            "S — deprinderi practicate",
-            "A — aptitudini relativ stabile",
-            "O — factori din categoria „other”",
+            "cunoștințe învățate",
+            "deprinderi practicate",
+            "aptitudini relativ stabile",
+            "motivație, valori sau alte cerințe non-KSA",
         ],
         "correct": "a",
     },
@@ -132,10 +132,10 @@ PSIHOLOGIA_MUNCII_ITEMS: List[Item] = [
             "instruire repetată relevă în principal:"
         ),
         "options": [
-            "S — skill deprins prin practică",
-            "K — cunoștință teoretică neatinsă de exercițiu",
-            "A — aptitudine senzorial-perceptuală din taxonomia Fleishman (FJAS)",
-            "O — valoare organizațională abstractă",
+            "deprindere dobândită prin practică repetată",
+            "cunoștință teoretică neatinsă de exercițiu",
+            "aptitudine senzorial-perceptuală din taxonomia Fleishman (FJAS)",
+            "valoare organizațională abstractă",
         ],
         "correct": "a",
     },
@@ -145,10 +145,10 @@ PSIHOLOGIA_MUNCII_ITEMS: List[Item] = [
             "se încadrează cel mai probabil la:"
         ),
         "options": [
-            "A — abilities (aptitudini)",
-            "K — knowledge (cunoștințe)",
-            "S — skills (deprinderi automate)",
-            "O — other (motivație și valori)",
+            "capacități relativ stabile, măsurabile prin teste de aptitudine",
+            "informații învățate despre un domeniu",
+            "deprinderi automate dobândite prin practică",
+            "motivație, valori sau alte cerințe personale",
         ],
         "correct": "a",
     },
@@ -179,10 +179,10 @@ PSIHOLOGIA_MUNCII_ITEMS: List[Item] = [
             "raționament verbal”. În modelul cunoștințe, deprinderi, aptitudini și altele (KSAO), acestea corespund:"
         ),
         "options": [
-            "K — cunoștințe învățate",
-            "A — aptitudine relativ stabilă",
-            "S — deprindere motorie automată",
-            "O — atestat profesional obligatoriu pentru ocuparea postului",
+            "cunoștințe învățate despre legislația muncii",
+            "aptitudine relativ stabilă pentru raționament verbal",
+            "deprindere motorie automată",
+            "atestat profesional obligatoriu pentru ocuparea postului",
         ],
         "correct": "ab",
     },
@@ -192,8 +192,8 @@ PSIHOLOGIA_MUNCII_ITEMS: List[Item] = [
             "deprinderi (S) în cunoștințe, deprinderi, aptitudini și altele (KSAO)?"
         ),
         "options": [
-            "K: știe teoria contabilității — S: întocmește bilanțul conform procedurii",
-            "K: cunoaște regulamentul — S: aplică procedura de siguranță în practică",
+            "știe teoria contabilității / întocmește bilanțul conform procedurii",
+            "cunoaște regulamentul / aplică procedura de siguranță în practică",
             "K și S sunt identice dacă persoana a urmat un curs",
             "S desemnează doar talente înnăscute, fără practică",
         ],

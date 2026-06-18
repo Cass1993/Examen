@@ -98,7 +98,7 @@ def bank_path_fallback() -> Path:
     return BANK_MD_DEFAULT
 
 
-WORDING_VERSION = "127"  # +35 itemi capcane grilă PM II
+WORDING_VERSION = "130"  # fix explicație Self-Transcendence Schwartz + aliniere
 
 
 def _questions_cache_key() -> str:

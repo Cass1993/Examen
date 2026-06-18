@@ -68,10 +68,10 @@ PERFORMANTA_MUNCII_ITEMS: List[Item] = [
             "rezultat, în performanța la muncă?"
         ),
         "options": [
-            "respectarea procedurilor de siguranță — comportament",
-            "numărul de erori raportate la sfârșitul lunii — rezultat",
-            "modul de comunicare cu clienții — comportament",
-            "cota de vânzări atinsă — rezultat",
+            "respectarea procedurilor de siguranță",
+            "numărul de erori raportate la sfârșitul lunii",
+            "modul de comunicare cu clienții",
+            "cota de vânzări atinsă",
         ],
         "correct": "abcd",
     },
@@ -168,10 +168,10 @@ PERFORMANTA_MUNCII_ITEMS: List[Item] = [
             "Care perechi asociază corect conceptul cu descrierea lui?"
         ),
         "options": [
-            "relevanță — ce măsurăm din performanță este cu adevărat relevant",
-            "deficiență — lipsește ceva important din măsurare",
-            "contaminare — apare ceva nerelevant în scorul de performanță",
-            "contaminare — criteriul efectiv este mai scurt decât cel teoretic",
+            "ce măsurăm din performanță este cu adevărat relevant",
+            "lipsește ceva important din măsurare",
+            "apare ceva nerelevant în scorul de performanță",
+            "criteriul efectiv este mai scurt decât cel teoretic",
         ],
         "correct": "abc",
     },
@@ -224,11 +224,10 @@ PERFORMANTA_MUNCII_ITEMS: List[Item] = [
             "respectiv performanței contextuale?"
         ),
         "options": [
-            "un operator atinge standardele de productivitate din fișa postului — "
-            "task",
-            "un coleg ajută voluntar un nou angajat să învețe procedura — contextual",
-            "respectarea termenelor pentru livrabilele principale — task",
-            "acceptarea sarcinilor neplăcute fără plângeri excesive — contextual",
+            "un operator atinge standardele de productivitate din fișa postului",
+            "un coleg ajută voluntar un nou angajat să învețe procedura",
+            "respectarea termenelor pentru livrabilele principale",
+            "acceptarea sarcinilor neplăcute fără plângeri excesive",
         ],
         "correct": "abcd",
     },
@@ -365,11 +364,10 @@ PERFORMANTA_MUNCII_ITEMS: List[Item] = [
             "organizațională în sens OCB?"
         ),
         "options": [
-            "acceptă schimbarea procedurii fără a sabota atmosfera — sportsmanship",
-            "vine mai devreme pentru a termina o sarcină importantă — "
-            "conștiinciozitate organizațională",
-            "fură echipamente din birou — CWB, nu OCB",
-            "participă la întâlniri opționale despre direcția firmei — virtute civică",
+            "acceptă schimbarea procedurii fără a sabota atmosfera",
+            "vine mai devreme pentru a termina o sarcină importantă",
+            "fură echipamente din birou",
+            "participă la întâlniri opționale despre direcția firmei",
         ],
         "correct": "ab",
     },
@@ -458,10 +456,10 @@ PERFORMANTA_MUNCII_ITEMS: List[Item] = [
             "organizație, respectiv spre persoane?"
         ),
         "options": [
-            "furt de materiale din firmă — spre organizație",
-            "sabotaj intenționat al echipamentului — spre organizație",
-            "absenteism deliberat fără motiv legitim — spre organizație",
-            "agresivitate sau bullying la colegi — spre persoane",
+            "furt de materiale din firmă",
+            "sabotaj intenționat al echipamentului",
+            "absenteism deliberat fără motiv legitim",
+            "agresivitate sau bullying la colegi",
         ],
         "correct": "abcd",
     },
@@ -626,11 +624,10 @@ PERFORMANTA_MUNCII_ITEMS: List[Item] = [
             "Care scenarii ilustrează corect contaminarea vs deficiența criteriului?"
         ),
         "options": [
-            "nota crește din cauza prieteniei cu șeful — contaminare",
-            "evaluarea ignoră comportamentele de colaborare — deficiență",
-            "criteriul include doar sarcinile relevante din job — relevanță bună",
-            "în scor intră performanța echipei, nu a individului evaluat — posibilă "
-            "contaminare",
+            "nota crește din cauza prieteniei cu șeful",
+            "evaluarea ignoră comportamentele de colaborare",
+            "criteriul include doar sarcinile relevante din job",
+            "în scor intră performanța echipei, nu a individului evaluat",
         ],
         "correct": "abd",
     },

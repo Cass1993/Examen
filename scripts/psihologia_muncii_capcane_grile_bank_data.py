@@ -125,8 +125,8 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
             "Ce pereche de capcane descrie situația?"
         ),
         "options": [
-            "deficiență de criteriu = lipsește ce e relevant",
-            "contaminare de criteriu = intră ce e nerelevant",
+            "lipsește din evaluare ceva relevant pentru rol",
+            "intră în scor ceva nerelevant pentru rol",
             "screening = comprehensive — aceeași etapă",
             "spill-over = cross-over — aceeași persoană",
         ],
@@ -199,9 +199,9 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
             "rapoartele la termen. Cum clasifici?"
         ),
         "options": [
-            "task performance — posibil acceptabilă pe livrabile",
-            "CWB — comportament contraproductiv prezent",
-            "OCB — pentru că livrează la timp",
+            "livrabilele principale sunt la termen",
+            "prezentă sabotaj sau furt de timp de lucru",
+            "ajută colegii sau organizația în plus față de rol",
             "nu poți avea task bun și CWB simultan — capcană",
         ],
         "correct": "ab",
@@ -237,8 +237,8 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
             "Ce fenomen descrie?"
         ),
         "options": [
-            "spill-over — transfer între domenii la aceeași persoană",
-            "cross-over — între persoane diferite",
+            "transfer al stării de la muncă la viața personală, aceeași persoană",
+            "influența stării unei persoane asupra alteia",
             "turnover funcțional",
             "intenție de plecare",
         ],
@@ -250,8 +250,8 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
             "în aceeași firmă. Termenul potrivit:"
         ),
         "options": [
-            "cross-over (crossover) — între persoane diferite",
-            "spill-over — aceeași persoană, domenii diferite",
+            "starea unei persoane influențează starea altei persoane",
+            "aceeași persoană transferă starea între muncă și viața personală",
             "satisfacție muncii",
             "angajament continuu (continuance commitment)",
         ],
@@ -327,9 +327,9 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
             "anul a fost bun. Eroarea probabilă și capcana de pereche:"
         ),
         "options": [
-            "recență (Recency) — domină finalul perioadei",
-            "primacy — domină începutul",
-            "halo — impresie pozitivă globală",
+            "note mici peste tot după un conflict recent, deși anul a fost bun",
+            "evaluatorul ține cont exagerat doar de primele săptămâni",
+            "o impresie pozitivă globală ridică toate sub-scorurile",
             "confundarea recenței cu primacy la examen",
         ],
         "correct": "ad",
@@ -339,10 +339,12 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
             "Care perechi eroare / efect din grila EPP sunt inversate greșit?"
         ),
         "options": [
-            "halo = impresie + ridică scorurile; horns = impresie − le coboară",
+            "halo (Halo) = impresie pozitivă globală ridică scorurile; "
+            "horns (Horns / coarne) = impresie negativă globală le coboară",
             "primacy = începutul; recency = sfârșitul",
             "leniency = note prea mari; severity = note prea mici",
-            "halo = note mici peste tot; horns = note mari peste tot",
+            "halo (Halo) = note mici peste tot; horns (Horns) = note mari "
+            "peste tot — invers corect",
         ],
         "correct": "d",
     },
@@ -353,7 +355,7 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
         "options": [
             "BARS = frecvență; BOS = calitate — invers corect",
             "appraisal = managementul performanței — nu sunt identice",
-            "forced distribution elimină automat halo și recența",
+            "forced distribution elimină automat halo (Halo) și horns (Horns)",
             "scalele grafice simple sunt mereu obiective",
         ],
         "correct": "abcd",
@@ -429,7 +431,8 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
             "description/specification; knowledge/ability; screening/comprehensive",
             "sensibilitate/specificitate; deficiență/contaminare; task/contextual",
             "OCB/CWB; spill-over/cross-over; turnover/intenție plecare",
-            "appraisal/management; BARS/BOS; halo/horns; primacy/recency; "
+            "appraisal/management; BARS/BOS; halo (Halo)/horns (Horns); "
+            "primacy/recency; "
             "demands/resources; challenge/hindrance",
         ],
         "correct": "abcd",

@@ -71152,10 +71152,10 @@
           "id": 9509,
           "text": "În modelul cunoștințe, deprinderi, aptitudini și altele (KSAO), un post cere „cunoașterea regulamentului intern”. Această cerință se încadrează la:",
           "options": {
-            "a": "A — aptitudini relativ stabile",
-            "b": "S — deprinderi practicate",
-            "c": "O — factori din categoria „other”",
-            "d": "K — cunoștințe învățate"
+            "a": "Aptitudini relativ stabile, în documentarea cerințelor postului",
+            "b": "Deprinderi practicate, în documentarea cerințelor postului",
+            "c": "Motivație, valori sau alte cerințe non-KSA",
+            "d": "Cunoștințe învățate, în documentarea cerințelor postului"
           },
           "kind": "single",
           "correct": [
@@ -71170,10 +71170,10 @@
           "id": 9510,
           "text": "În modelul cunoștințe, deprinderi, aptitudini și altele (KSAO), capacitatea de a opera fluent un software după instruire repetată relevă în principal:",
           "options": {
-            "a": "O — valoare organizațională abstractă, în documentarea cerințelor postului",
-            "b": "A — aptitudine senzorial-perceptuală din taxonomia Fleishman (FJAS)",
-            "c": "K — cunoștință teoretică neatinsă de exercițiu",
-            "d": "S — skill deprins prin practică, în documentarea cerințelor postului"
+            "a": "Valoare organizațională abstractă, în documentarea cerințelor postului",
+            "b": "Aptitudine senzorial-perceptuală din taxonomia Fleishman (FJAS)",
+            "c": "Cunoștință teoretică neatinsă de exercițiu",
+            "d": "Deprindere dobândită prin practică repetată"
           },
           "kind": "single",
           "correct": [
@@ -71188,10 +71188,10 @@
           "id": 9511,
           "text": "În modelul cunoștințe, deprinderi, aptitudini și altele (KSAO), „raționament verbal” sau „coordonare manuală fină” se încadrează cel mai probabil la:",
           "options": {
-            "a": "A — abilities (aptitudini)",
-            "b": "S — skills (deprinderi automate)",
-            "c": "O — other (motivație și valori)",
-            "d": "K — knowledge (cunoștințe)"
+            "a": "Capacități relativ stabile, măsurabile prin teste de aptitudine",
+            "b": "Deprinderi automate dobândite prin practică",
+            "c": "Motivație, valori sau alte cerințe personale",
+            "d": "Informații învățate despre un domeniu, în documentarea cerințelor postului"
           },
           "kind": "single",
           "correct": [
@@ -71241,10 +71241,10 @@
           "id": 9514,
           "text": "Un post cere „cunoștințe de legislația muncii” și „aptitudine pentru raționament verbal”. În modelul cunoștințe, deprinderi, aptitudini și altele (KSAO), acestea corespund:",
           "options": {
-            "a": "O — atestat profesional obligatoriu pentru ocuparea postului",
-            "b": "S — deprindere motorie automată, în documentarea cerințelor postului",
-            "c": "A — aptitudine relativ stabilă",
-            "d": "K — cunoștințe învățate"
+            "a": "Atestat profesional obligatoriu pentru ocuparea postului",
+            "b": "Deprindere motorie automată, în documentarea cerințelor postului",
+            "c": "Aptitudine relativ stabilă pentru raționament verbal",
+            "d": "Cunoștințe învățate despre legislația muncii"
           },
           "kind": "multi",
           "correct": [
@@ -71261,8 +71261,8 @@
           "text": "Care pereche ilustrează corect diferența dintre cunoștințe (K) și deprinderi (S) în cunoștințe, deprinderi, aptitudini și altele (KSAO)?",
           "options": {
             "a": "K și S sunt identice dacă persoana a urmat un curs",
-            "b": "K: știe teoria contabilității — S: întocmește bilanțul conform procedurii",
-            "c": "K: cunoaște regulamentul — S: aplică procedura de siguranță în practică",
+            "b": "Știe teoria contabilității / întocmește bilanțul conform procedurii",
+            "c": "Cunoaște regulamentul / aplică procedura de siguranță în practică",
             "d": "S desemnează talente înnăscute, fără practică, în documentarea cerințelor postului"
           },
           "kind": "multi",
@@ -72668,10 +72668,10 @@
           "id": 9591,
           "text": "Care perechi asociază corect o caracteristică a muncii cu descrierea ei în modelul Hackman–Oldham?",
           "options": {
-            "a": "Skill variety — postul folosește o singură deprindere repetată",
-            "b": "Feedback — informații despre rezultate la nivel de echipă, fără legătură cu sarcina individuală",
-            "c": "Task significance — munca pare importantă pentru alții",
-            "d": "Task identity — angajatul vede un produs finit al muncii sale"
+            "a": "Postul folosește o singură deprindere repetată",
+            "b": "Informații despre rezultate la nivel de echipă, fără legătură cu sarcina individuală",
+            "c": "Munca pare importantă pentru alții",
+            "d": "Angajatul vede un produs finit al muncii sale"
           },
           "kind": "multi",
           "correct": [
@@ -73385,10 +73385,10 @@
           "id": 9630,
           "text": "Un consultant propune: (1) clarificarea impactului muncii asupra echipei, (2) lăsarea libertății în ordinea sarcinilor, (3) raport săptămânal de rezultate, (4) reducerea ambiguității rolului și (5) acces la mentorat. Care intervenții vizează direct caracteristicile Hackman–Oldham și care resurse din modelul cerințe–resurse (JD-R)?",
           "options": {
-            "a": "Task significance și feedback — Hackman–Oldham",
-            "b": "Autonomy — Hackman–Oldham",
+            "a": "Clarificarea impactului muncii asupra echipei și raport săptămânal de rezultate",
+            "b": "Libertatea în ordinea sarcinilor",
             "c": "Mentoratul este job demand, deoarece consumă timp",
-            "d": "Suport/mentorat și clarificarea rolului — resurse din modelul cerințe–resurse (JD-R)"
+            "d": "Acces la mentorat și reducerea ambiguității rolului"
           },
           "kind": "multi",
           "correct": [
@@ -74049,10 +74049,10 @@
           "id": 9666,
           "text": "Care perechi corectează conceptul cu efectul asupra erorilor de selecție?",
           "options": {
-            "a": "Specificitate ridicată → mai multe false negative garantat",
-            "b": "Sensibilitate ridicată → mai puține false positive",
-            "c": "Sensibilitate ridicată → mai puține false negative",
-            "d": "Specificitate ridicată → mai puține false positive"
+            "a": "Procedura respinge candidații slabi → garantat mai multe respingeri greșite",
+            "b": "Procedura prinde mai bine candidații buni → mai puține angajări greșite",
+            "c": "Procedura prinde mai bine candidații buni → mai puține respingeri greșite",
+            "d": "Procedura respinge mai bine candidații slabi → mai puține angajări greșite"
           },
           "kind": "multi",
           "correct": [
@@ -74159,10 +74159,10 @@
           "id": 9672,
           "text": "În logică de testare, asocierea corectă este:",
           "options": {
-            "a": "Sensibilitate — elimină pe cei nepotriviți; reduce false positive",
-            "b": "Specificitate — elimină pe cei nepotriviți; reduce false positive",
-            "c": "Specificitate — detectează pe cei buni; reduce false negative",
-            "d": "Sensibilitate — detectează pe cei buni; reduce false negative"
+            "a": "Elimină pe cei nepotriviți; reduce respingerile greșite",
+            "b": "Elimină pe cei nepotriviți; reduce angajările greșite",
+            "c": "Detectează pe cei buni; reduce angajările greșite",
+            "d": "Detectează pe cei buni; reduce respingerile greșite"
           },
           "kind": "multi",
           "correct": [
@@ -74624,10 +74624,10 @@
           "id": 9697,
           "text": "Care instrumente sunt asociate mai frecvent cu screening, respectiv cu selecție comprehensive?",
           "options": {
-            "a": "Filtru automat pe cuvinte cheie în CV — screening",
-            "b": "Test scurt online cu barem — screening",
-            "c": "Interviu de selecție structurat pe 2–3 ore cu exerciții simulate — de regulă comprehensive",
-            "d": "Simulare de o zi întreagă a rolului — comprehensive"
+            "a": "Filtru automat pe cuvinte cheie în CV",
+            "b": "Test scurt online cu barem",
+            "c": "Interviu de selecție structurat pe 2–3 ore cu exerciții simulate",
+            "d": "Simulare de o zi întreagă a rolului"
           },
           "kind": "multi",
           "correct": [
@@ -74645,10 +74645,10 @@
           "id": 9698,
           "text": "Un proces are două etape: (1) interviu telefonic de 15 minute pentru toți candidații; (2) probă de lucru de 2 ore doar pentru cei 12 rămași. Care încadrări sunt corecte?",
           "options": {
-            "a": "Etapa 2 — comprehensive (mai profundă, pe finaliști)",
-            "b": "Etapa 2 — screening, deoarece reduce numărul de candidați",
-            "c": "Etapa 1 — screening (rapidă, pe pool mare)",
-            "d": "Etapa 1 — comprehensive, deoarece implică interviu"
+            "a": "Probă de lucru de 2 ore pentru cei 12 rămași",
+            "b": "Probă de lucru ca filtru rapid pe pool mare, în procesul terapeutic",
+            "c": "Interviu telefonic de 15 minute pentru toți candidații",
+            "d": "Interviu telefonic ca evaluare profundă a competențelor"
           },
           "kind": "multi",
           "correct": [
@@ -74680,10 +74680,10 @@
           "id": 9700,
           "text": "O bancă angajează 8 casieri din 400 de aplicații. Lanțul: filtru studii + test scurt → 40 finaliști → assessment center cu role-play → 8 angajați. Care perechi etapă–tip selecție sunt corecte?",
           "options": {
-            "a": "Test scurt pe 400 de persoane — comprehensive de înaltă fidelitate",
-            "b": "Assessment center cu role-play — comprehensive",
-            "c": "Role-play pe finaliști — screening rapid și ieftin",
-            "d": "Filtru studii + test scurt — screening"
+            "a": "Test scurt pe 400 de persoane ca evaluare profundă",
+            "b": "Assessment center cu role-play pe finaliști",
+            "c": "Role-play pe finaliști ca filtru rapid și ieftin",
+            "d": "Filtru studii + test scurt pe pool mare"
           },
           "kind": "multi",
           "correct": [
@@ -74862,10 +74862,10 @@
           "id": 9710,
           "text": "Care exemple ilustrează componenta de comportament, respectiv de rezultat, în performanța la muncă?",
           "options": {
-            "a": "Respectarea procedurilor de siguranță — comportament",
-            "b": "Modul de comunicare cu clienții — comportament",
-            "c": "Numărul de erori raportate la sfârșitul lunii — rezultat",
-            "d": "Cota de vânzări atinsă — rezultat"
+            "a": "Respectarea procedurilor de siguranță",
+            "b": "Modul de comunicare cu clienții",
+            "c": "Numărul de erori raportate la sfârșitul lunii",
+            "d": "Cota de vânzări atinsă"
           },
           "kind": "multi",
           "correct": [
@@ -75009,10 +75009,10 @@
           "id": 9718,
           "text": "Care perechi asociază corect conceptul cu descrierea lui?",
           "options": {
-            "a": "Contaminare — apare ceva nerelevant în scorul de performanță",
-            "b": "Relevanță — ce măsurăm din performanță este cu adevărat relevant",
-            "c": "Deficiență — lipsește ceva important din măsurare",
-            "d": "Contaminare — criteriul efectiv este mai scurt decât cel teoretic"
+            "a": "Apare ceva nerelevant în scorul de performanță",
+            "b": "Ce măsurăm din performanță este cu adevărat relevant",
+            "c": "Lipsește ceva important din măsurare",
+            "d": "Criteriul efectiv este mai scurt decât cel teoretic"
           },
           "kind": "multi",
           "correct": [
@@ -75085,10 +75085,10 @@
           "id": 9722,
           "text": "Care exemple corespund performanței la sarcină (task performance), respectiv performanței contextuale?",
           "options": {
-            "a": "Un coleg ajută voluntar un nou angajat să învețe procedura — contextual",
-            "b": "Acceptarea sarcinilor neplăcute fără plângeri excesive — contextual",
-            "c": "Respectarea termenelor pentru livrabilele principale — task",
-            "d": "Un operator atinge standardele de productivitate din fișa postului — task"
+            "a": "Un coleg ajută voluntar un nou angajat să învețe procedura",
+            "b": "Acceptarea sarcinilor neplăcute fără plângeri excesive",
+            "c": "Respectarea termenelor pentru livrabilele principale",
+            "d": "Un operator atinge standardele de productivitate din fișa postului"
           },
           "kind": "multi",
           "correct": [
@@ -75278,10 +75278,10 @@
           "id": 9732,
           "text": "Care exemple ilustrează sportsmanship și, respectiv, conștiinciozitate organizațională în sens OCB?",
           "options": {
-            "a": "Vine mai devreme pentru a termina o sarcină importantă — conștiinciozitate organizațională",
-            "b": "Participă la întâlniri opționale despre direcția firmei — virtute civică",
-            "c": "Acceptă schimbarea procedurii fără a sabota atmosfera — sportsmanship",
-            "d": "Fură echipamente din birou — CWB, nu OCB, în procesul terapeutic"
+            "a": "Vine mai devreme pentru a termina o sarcină importantă",
+            "b": "Participă la întâlniri opționale despre direcția firmei",
+            "c": "Acceptă schimbarea procedurii fără a sabota atmosfera",
+            "d": "Fură echipamente din birou, în procesul terapeutic"
           },
           "kind": "multi",
           "correct": [
@@ -75410,10 +75410,10 @@
           "id": 9739,
           "text": "Care exemple sunt comportamente contraproductive (CWB) orientate spre organizație, respectiv spre persoane?",
           "options": {
-            "a": "Absenteism deliberat fără motiv legitim — spre organizație",
-            "b": "Agresivitate sau bullying la colegi — spre persoane",
-            "c": "Sabotaj intenționat al echipamentului — spre organizație",
-            "d": "Furt de materiale din firmă — spre organizație"
+            "a": "Absenteism deliberat fără motiv legitim",
+            "b": "Agresivitate sau bullying la colegi",
+            "c": "Sabotaj intenționat al echipamentului",
+            "d": "Furt de materiale din firmă"
           },
           "kind": "multi",
           "correct": [
@@ -75656,10 +75656,10 @@
           "id": 9752,
           "text": "Care scenarii ilustrează corect contaminarea vs deficiența criteriului?",
           "options": {
-            "a": "În scor intră performanța echipei, nu a individului evaluat — posibilă contaminare",
-            "b": "Nota crește din cauza prieteniei cu șeful — contaminare",
-            "c": "Evaluarea ignoră comportamentele de colaborare — deficiență",
-            "d": "Criteriul include sarcinile relevante din job — relevanță bună"
+            "a": "În scor intră performanța echipei, nu a individului evaluat",
+            "b": "Nota crește din cauza prieteniei cu șeful",
+            "c": "Evaluarea ignoră comportamentele de colaborare",
+            "d": "Criteriul include sarcinile relevante din job"
           },
           "kind": "multi",
           "correct": [
@@ -75838,10 +75838,10 @@
           "id": 9762,
           "text": "Care scenarii ilustrează turnover voluntar, respectiv involuntar?",
           "options": {
-            "a": "Angajatul pleacă după ce a găsit alt job — voluntar",
-            "b": "Angajatul demisionează pentru un salariu mai bun — voluntar",
-            "c": "Firma îl concediază pentru abateri repetate — involuntar",
-            "d": "Contractul expiră și nu este prelungit la inițiativa angajatorului — involuntar"
+            "a": "Angajatul pleacă după ce a găsit alt job",
+            "b": "Angajatul demisionează pentru un salariu mai bun",
+            "c": "Firma îl concediază pentru abateri repetate",
+            "d": "Contractul expiră și nu este prelungit la inițiativa angajatorului"
           },
           "kind": "multi",
           "correct": [
@@ -76390,10 +76390,10 @@
           "id": 9791,
           "text": "Asociază corect dimensiunea cu exemplul:",
           "options": {
-            "a": "Work Itself — „Sarcinile mele sunt variate și îmi folosesc competențele”",
-            "b": "Policies/Procedures — „Regulile interne sunt clare și corecte”",
-            "c": "Promotion — „Știu exact cât plătesc colegii din alt departament”",
-            "d": "Contingent rewards — „Cei care muncesc mai mult sunt recompensați corect”"
+            "a": "„Sarcinile mele sunt variate și îmi folosesc competențele”",
+            "b": "„Regulile interne sunt clare și corecte”",
+            "c": "„Știu exact cât plătesc colegii din alt departament”",
+            "d": "„Cei care muncesc mai mult sunt recompensați corect”"
           },
           "kind": "multi",
           "correct": [
@@ -76572,10 +76572,10 @@
           "id": 9801,
           "text": "Care exemple ilustrează spill-over, respectiv cross-over?",
           "options": {
-            "a": "Mă simt bine la job și asta îmi îmbunătățește seara acasă — spill-over",
-            "b": "Stresul de la job îmi afectează dispoziția acasă — spill-over",
-            "c": "Plec de la firmă A la firmă B — turnover voluntar, în procesul terapeutic",
-            "d": "Nemulțumirea partenerului mă influențează și pe mine — cross-over"
+            "a": "Mă simt bine la job și asta îmi îmbunătățește seara acasă",
+            "b": "Stresul de la job îmi afectează dispoziția acasă",
+            "c": "Plec de la firmă A la firmă B, în procesul terapeutic",
+            "d": "Nemulțumirea partenerului mă influențează și pe mine"
           },
           "kind": "multi",
           "correct": [
@@ -76631,10 +76631,10 @@
           "id": 9804,
           "text": "Care descriere se potrivește angajamentului afectiv (affective commitment)?",
           "options": {
-            "a": "Rămâi pentru că nu ai oferte alternative (continuance)",
+            "a": "Rămâi pentru că nu ai oferte alternative, în procesul terapeutic",
             "b": "Implicare emoțională față de firmă",
-            "c": "Rămâi pentru că vrei — identificare cu organizația",
-            "d": "Rămâi pentru că șeful are autoritate formală (compliance)"
+            "c": "Rămâi pentru că vrei și te identifici cu organizația",
+            "d": "Rămâi pentru că șeful are autoritate formală"
           },
           "kind": "multi",
           "correct": [
@@ -77037,10 +77037,10 @@
           "id": 9825,
           "text": "Care valori din modelul Schwartz aparțin tipului hedonism (Hedonism) sau stimulare (Stimulare)?",
           "options": {
-            "a": "Hedonism — plăcere și satisfacere imediată",
-            "b": "Securitate — siguranță, stabilitate, ordine, în procesul terapeutic",
-            "c": "Stimulare — noutate, provocare, varietate",
-            "d": "Tradiție — respect pentru obiceiuri și credințe consacrate"
+            "a": "Plăcere și satisfacere imediată",
+            "b": "Siguranță, stabilitate, ordine, în procesul terapeutic",
+            "c": "Noutate, provocare, varietate",
+            "d": "Respect pentru obiceiuri și credințe consacrate"
           },
           "kind": "multi",
           "correct": [
@@ -77127,7 +77127,7 @@
             "b",
             "d"
           ],
-          "explanation": "Socializare: norme, valori firmei, mentorat — corect. Nu înlocuiește total valorile personale aduse la angajare.",
+          "explanation": "Aculturație = adaptare la cultură nouă, păstrând parțial valorile. Nu renunțare totală.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77136,17 +77136,17 @@
           "id": 9830,
           "text": "Un specialist român intră într-o multinațională cu cultură puternic orientată spre ierarhie. El își păstrează valoarea autonomiei, dar învață protocoalele locale. Acest proces seamănă cel mai mult cu:",
           "options": {
-            "a": "Socializare organizațională — învățarea normelor noi",
-            "b": "Groupthink — presiune de conformitate necritică",
-            "c": "Sindromul hobo (Hobo Syndrome) — fluctuație repetată",
-            "d": "Aculturație — adaptare fără abandon total al valorilor"
+            "a": "Învățarea normelor și culturii firmei",
+            "b": "Presiune de conformitate necritică, în documentarea cerințelor postului",
+            "c": "Fluctuație repetată de la un job la altul",
+            "d": "Adaptare la cultura nouă fără abandon total al valorilor proprii"
           },
           "kind": "multi",
           "correct": [
             "a",
             "d"
           ],
-          "explanation": "Aculturație = adaptare la cultură nouă, păstrând parțial valorile. Nu renunțare totală.",
+          "explanation": "Adaptare la cultură multinațională = aculturație + socializare. Nu hobo sau groupthink.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77165,7 +77165,7 @@
             "a",
             "b"
           ],
-          "explanation": "Adaptare la cultură multinațională = aculturație + socializare. Nu hobo sau groupthink.",
+          "explanation": "Shared values → cooperare, dar risc groupthink — consens fără gândire critică.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77184,7 +77184,7 @@
             "b",
             "d"
           ],
-          "explanation": "Shared values → cooperare, dar risc groupthink — consens fără gândire critică.",
+          "explanation": "Groupthink = presiune de consens și evitarea contestării. Ascultarea unui membru nou contrazice groupthink.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77193,17 +77193,17 @@
           "id": 9833,
           "text": "Care valori Schwartz sunt orientate spre transcenderea interesului propriu (ex. protejarea mediului, egalitate)?",
           "options": {
-            "a": "Realizare (Realizare) — succes personal demonstrat",
-            "b": "Universalism (Universalism), în procesul terapeutic",
-            "c": "Bunăvoință (Bunăvoință) — grijă față de cei apropiați",
-            "d": "Putere (Putere) — status și dominare, în procesul terapeutic"
+            "a": "Realizare (Realizare), în procesul terapeutic",
+            "b": "Universalism (Universalism)",
+            "c": "Bunăvoință (Bunăvoință)",
+            "d": "Putere (Putere), în procesul terapeutic"
           },
           "kind": "multi",
           "correct": [
             "b",
             "c"
           ],
-          "explanation": "Groupthink = presiune de consens și evitarea contestării. Ascultarea unui membru nou contrazice groupthink.",
+          "explanation": "1. Transcenderea interesului propriu (Self-Transcendence)\nPreocupare pentru binele altora și al societății — nu pentru succes personal sau dominare.\n\n✅ Universalism: egalitate, justiție socială, protecția mediului, pace, toleranță. Ex.: „E important să protejăm natura și o societate echitabilă.”\n\n✅ Bunăvoință: grijă pentru familie și prieteni, loialitate, ajutorarea celor apropiați. Ex.: „Vreau să am grijă de oamenii apropiați mie.”\n\n❌ Putere și Realizare țin de interesul propriu (Self-Enhancement), nu de Self-Transcendence — de aceea nu sunt corecte aici.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77221,7 +77221,7 @@
           "correct": [
             "c"
           ],
-          "explanation": "Universalism = mediu, egalitate; bunăvoință = grijă față de apropiați. Putere și realizare sunt orientări egoiste/competitive.",
+          "explanation": "Capcană: socializarea nu obligă abandon total; aculturația există distinct — adaptare parțială.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77230,10 +77230,10 @@
           "id": 9835,
           "text": "Asociază corect conceptul cu descrierea:",
           "options": {
-            "a": "Shared Values — valori comune ce pot crește coeziunea, dar și groupthink",
-            "b": "Socializare organizațională — învățarea culturii și normelor",
-            "c": "Aculturație — adaptare la cultură nouă, păstrând parțial valorile",
-            "d": "Value Fit — aliniere valori personale ↔ organizație"
+            "a": "Valori comune ce pot crește coeziunea, dar și groupthink",
+            "b": "Învățarea culturii și normelor firmei",
+            "c": "Adaptare la o cultură nouă, păstrând parțial valorile proprii",
+            "d": "Aliniere între valorile personale și cele ale organizației"
           },
           "kind": "multi",
           "correct": [
@@ -77242,7 +77242,7 @@
             "c",
             "d"
           ],
-          "explanation": "Capcană: socializarea nu obligă abandon total; aculturația există distinct — adaptare parțială.",
+          "explanation": "Sinteză: Value Fit, socializare, aculturație, shared values + risc groupthink — toate corecte.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77258,7 +77258,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Sinteză: Value Fit, socializare, aculturație, shared values + risc groupthink — toate corecte.",
+          "explanation": "Adevărat: stres = reacție când cerințele depășesc resursele — nu evenimentul brut.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77278,7 +77278,7 @@
             "c",
             "d"
           ],
-          "explanation": "Adevărat: stres = reacție când cerințele depășesc resursele — nu evenimentul brut.",
+          "explanation": "Stres = dezechilibru cerințe–resurse, subiectiv, cu componentă psiho și somatică. Nu e identic la toți.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77296,7 +77296,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Stres = dezechilibru cerințe–resurse, subiectiv, cu componentă psiho și somatică. Nu e identic la toți.",
+          "explanation": "GAS Selye: alarmă → rezistență → epuizare. Singura ordine corectă.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77305,10 +77305,10 @@
           "id": 9839,
           "text": "Care etape ale sindromului general de adaptare (GAS) sunt descrise corect?",
           "options": {
-            "a": "Alarmă — reacție inițială la agentul stresor",
-            "b": "Epuizare — resurse epuizate dacă stresul persistă",
-            "c": "Rezistență — absența totală a oricărei reacții fiziologice",
-            "d": "Rezistență — organismul se adaptează temporar"
+            "a": "Reacție inițială la agentul stresor",
+            "b": "Resurse epuizate dacă stresul persistă",
+            "c": "Absența totală a oricărei reacții fiziologice",
+            "d": "Organismul se adaptează temporar"
           },
           "kind": "multi",
           "correct": [
@@ -77316,7 +77316,7 @@
             "b",
             "d"
           ],
-          "explanation": "GAS Selye: alarmă → rezistență → epuizare. Singura ordine corectă.",
+          "explanation": "Alarmă, rezistență, epuizare — corect. Rezistența nu e absența reacției.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77336,7 +77336,7 @@
             "b",
             "c"
           ],
-          "explanation": "Alarmă, rezistență, epuizare — corect. Rezistența nu e absența reacției.",
+          "explanation": "P–E Fit: nepotrivire persoană–mediu → stres. Include valori, cerințe, abilități.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77355,7 +77355,7 @@
             "a",
             "b"
           ],
-          "explanation": "P–E Fit: nepotrivire persoană–mediu → stres. Include valori, cerințe, abilități.",
+          "explanation": "Introvert + vânzări agresiv + zgomot = P–E Fit slab și cerințe > resurse.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77373,7 +77373,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Introvert + vânzări agresiv + zgomot = P–E Fit slab și cerințe > resurse.",
+          "explanation": "Capcană: stresul nu e identic cu evenimentul — depinde de resurse și evaluare.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77393,7 +77393,7 @@
             "b",
             "c"
           ],
-          "explanation": "Capcană: stresul nu e identic cu evenimentul — depinde de resurse și evaluare.",
+          "explanation": "Epuizarea GAS = resurse consumate, burnout, sănătate și performanță afectate.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77413,7 +77413,7 @@
             "b",
             "c"
           ],
-          "explanation": "Epuizarea GAS = resurse consumate, burnout, sănătate și performanță afectate.",
+          "explanation": "Cerințe mari + resurse mici = stres; resursele includ sprijin și control; percepția contează.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77429,7 +77429,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Cerințe mari + resurse mici = stres; resursele includ sprijin și control; percepția contează.",
+          "explanation": "Adevărat: rezistența e temporară; stres cronic → epuizare.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77449,7 +77449,7 @@
             "c",
             "d"
           ],
-          "explanation": "Adevărat: rezistența e temporară; stres cronic → epuizare.",
+          "explanation": "Value fit slab și conflict valoric pot stresa; fit perfect nu elimină volumul de muncă.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77467,7 +77467,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Value fit slab și conflict valoric pot stresa; fit perfect nu elimină volumul de muncă.",
+          "explanation": "Reorganizare → alarmă → rezistență → epuizare = arc GAS clasic.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77486,7 +77486,7 @@
             "a",
             "c"
           ],
-          "explanation": "Reorganizare → alarmă → rezistență → epuizare = arc GAS clasic.",
+          "explanation": "Karasek stres maxim: cerințe mari + control mic. Job activ = cerințe mari + control mare.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77505,7 +77505,7 @@
             "c",
             "d"
           ],
-          "explanation": "Karasek stres maxim: cerințe mari + control mic. Job activ = cerințe mari + control mare.",
+          "explanation": "Job activ Karasek = solicitant dar cu autonomie — poate fi stimulativ, nu maxim stresant.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77523,7 +77523,7 @@
           "correct": [
             "d"
           ],
-          "explanation": "Job activ Karasek = solicitant dar cu autonomie — poate fi stimulativ, nu maxim stresant.",
+          "explanation": "Evaluare primară Lazarus: pericol sau oportunitate? „Pot face față?” e secundară.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77532,9 +77532,9 @@
           "id": 9851,
           "text": "Care este ordinea logică în modelul evaluării cognitive Lazarus?",
           "options": {
-            "a": "Evaluare secundară — pot face față? ce resurse am?",
+            "a": "Am resursele necesare pentru a face față?",
             "b": "Evaluare secundară înainte de a percepe evenimentul",
-            "c": "Evaluare primară — pericol/oportunitate?",
+            "c": "Situația este periculoasă sau benefică?",
             "d": "Alegerea strategiei de coping"
           },
           "kind": "multi",
@@ -77543,7 +77543,7 @@
             "c",
             "d"
           ],
-          "explanation": "Evaluare primară Lazarus: pericol sau oportunitate? „Pot face față?” e secundară.",
+          "explanation": "Lazarus: primară → secundară → coping. Secundara nu vine înainte de percepția evenimentului.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77559,7 +77559,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Lazarus: primară → secundară → coping. Secundara nu vine înainte de percepția evenimentului.",
+          "explanation": "Adevărat: coping problemă = schimbă situația; coping emoție = reglează reacția.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77569,9 +77569,9 @@
           "text": "Care exemple ilustrează coping centrat pe problemă vs centrat pe emoție?",
           "options": {
             "a": "Lucrul cu simptomul prezent, fără relație terapeutică",
-            "b": "Negocierea unui deadline realist — centrat pe problemă",
-            "c": "Meditație sau respiro pentru calm după conflict — centrat pe emoție",
-            "d": "Reorganizarea priorităților pentru a reduce volumul — centrat pe problemă"
+            "b": "Negocierea unui deadline realist",
+            "c": "Meditație sau respiro pentru calm după conflict",
+            "d": "Reorganizarea priorităților pentru a reduce volumul de muncă"
           },
           "kind": "multi",
           "correct": [
@@ -77579,7 +77579,7 @@
             "c",
             "d"
           ],
-          "explanation": "Adevărat: coping problemă = schimbă situația; coping emoție = reglează reacția.",
+          "explanation": "Negociere deadline = problemă; meditație după conflict = emoție; reprioritizare = problemă.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77598,7 +77598,7 @@
             "a",
             "d"
           ],
-          "explanation": "Negociere deadline = problemă; meditație după conflict = emoție; reprioritizare = problemă.",
+          "explanation": "Amenințare → resurse prin exersare → acțiune = Lazarus + coping pe problemă.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77616,7 +77616,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Amenințare → resurse prin exersare → acțiune = Lazarus + coping pe problemă.",
+          "explanation": "Capcană: cerințe mari + control mare (job activ) nu e automat maxim stresant — autonomia ajută.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77635,7 +77635,7 @@
             "c",
             "d"
           ],
-          "explanation": "Capcană: cerințe mari + control mare (job activ) nu e automat maxim stresant — autonomia ajută.",
+          "explanation": "Resurse insuficiente → coping emoție sau problemă (sprijin, replanificare).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77654,7 +77654,7 @@
             "b",
             "d"
           ],
-          "explanation": "Resurse insuficiente → coping emoție sau problemă (sprijin, replanificare).",
+          "explanation": "Karasek: cerințe mari + control mic = cel mai stresant; exemplu ritm impus fără autonomie.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77663,10 +77663,10 @@
           "id": 9858,
           "text": "Care modele sunt asociate corect cu autorul sau ideea centrală?",
           "options": {
-            "a": "Lazarus — evaluare cognitivă și coping",
-            "b": "Schwartz — zece valori fundamentale umane",
-            "c": "Selye — sindrom general de adaptare (GAS)",
-            "d": "Karasek — cerere–control (Demand–Control)"
+            "a": "Evaluare cognitivă și strategii de coping",
+            "b": "Zece valori fundamentale umane",
+            "c": "Sindrom general de adaptare la stres",
+            "d": "Model cerere–control al structurii jobului"
           },
           "kind": "multi",
           "correct": [
@@ -77675,7 +77675,7 @@
             "c",
             "d"
           ],
-          "explanation": "Karasek: cerințe mari + control mic = cel mai stresant; exemplu ritm impus fără autonomie.",
+          "explanation": "Karasek–Demand–Control, Lazarus–coping, Selye–GAS, Schwartz–valori — toate corecte.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77691,7 +77691,7 @@
           "correct": [
             "b"
           ],
-          "explanation": "Karasek–Demand–Control, Lazarus–coping, Selye–GAS, Schwartz–valori — toate corecte.",
+          "explanation": "Fals: primară = periculos?; secundară = pot face față? — ordinea e inversată în capcană.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77710,7 +77710,7 @@
             "a",
             "c"
           ],
-          "explanation": "Fals: primară = periculos?; secundară = pot face față? — ordinea e inversată în capcană.",
+          "explanation": "Tip A: competitiv, grăbit, ostil, risc cardiovascular. Tip B: opus. Nu lipsă de ambiție la Tip A.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77730,7 +77730,7 @@
             "c",
             "d"
           ],
-          "explanation": "Tip A: competitiv, grăbit, ostil, risc cardiovascular. Tip B: opus. Nu lipsă de ambiție la Tip A.",
+          "explanation": "Challenge = dezvoltare, responsabilitate; hindrance = birocrație, ambiguitate, blocaje — toate corecte.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77739,10 +77739,10 @@
           "id": 9862,
           "text": "Stresorii provocare (Challenge stressors) vs stresori obstacol (Hindrance stressors) — care perechi sunt corecte?",
           "options": {
-            "a": "Challenge — proiecte care pot crește competențele",
-            "b": "Hindrance — birocrație, ambiguitate de rol, obstacole frustrante",
-            "c": "Hindrance — sarcini care blochează obiectivele fără câștig",
-            "d": "Challenge — oportunitate, dezvoltare, responsabilitate nouă"
+            "a": "Proiecte care pot crește competențele",
+            "b": "Birocrație, ambiguitate de rol, obstacole frustrante",
+            "c": "Sarcini care blochează obiectivele fără câștig",
+            "d": "Oportunitate, dezvoltare, responsabilitate nouă"
           },
           "kind": "multi",
           "correct": [
@@ -77751,7 +77751,7 @@
             "c",
             "d"
           ],
-          "explanation": "Challenge = dezvoltare, responsabilitate; hindrance = birocrație, ambiguitate, blocaje — toate corecte.",
+          "explanation": "Proiect dificil cu sens = challenge — poate motiva dacă resurse ok.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77769,7 +77769,7 @@
           "correct": [
             "d"
           ],
-          "explanation": "Proiect dificil cu sens = challenge — poate motiva dacă resurse ok.",
+          "explanation": "Birocrație și ambiguitate rol = hindrance — consumă fără câștig.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77787,7 +77787,7 @@
           "correct": [
             "c"
           ],
-          "explanation": "Birocrație și ambiguitate rol = hindrance — consumă fără câștig.",
+          "explanation": "Challenge poate motiva; hindrance e frustrant; distincția ghidează HR. Nu toți stresorii sunt egali.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77807,7 +77807,7 @@
             "b",
             "d"
           ],
-          "explanation": "Challenge poate motiva; hindrance e frustrant; distincția ghidează HR. Nu toți stresorii sunt egali.",
+          "explanation": "Capcană: Tip A/B nu sunt factori Big Five — sunt pattern-uri comportamentale.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77825,7 +77825,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Capcană: Tip A/B nu sunt factori Big Five — sunt pattern-uri comportamentale.",
+          "explanation": "Inovație vs securitate/tradiție = value fit slab, P–E Fit valoric, nevoie de aculturație.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77845,7 +77845,7 @@
             "c",
             "d"
           ],
-          "explanation": "Inovație vs securitate/tradiție = value fit slab, P–E Fit valoric, nevoie de aculturație.",
+          "explanation": "Autonomie la cerințe mari, reducere hindrance, clarificare rol — intervenții Karasek/P–E.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77865,7 +77865,7 @@
             "b",
             "c"
           ],
-          "explanation": "Autonomie la cerințe mari, reducere hindrance, clarificare rol — intervenții Karasek/P–E.",
+          "explanation": "Sinteză corectă: value fit, stres cerințe>resurse, GAS. Groupthink nu e beneficiu garantat.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77885,7 +77885,7 @@
             "c",
             "d"
           ],
-          "explanation": "Sinteză corectă: value fit, stres cerințe>resurse, GAS. Groupthink nu e beneficiu garantat.",
+          "explanation": "Toate patru capcane clasice — respinge-le: valori≠trăsături, stres≠eveniment, Karasek activ, aculturație totală.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77906,7 +77906,7 @@
             "c",
             "d"
           ],
-          "explanation": "Toate patru capcane clasice — respinge-le: valori≠trăsături, stres≠eveniment, Karasek activ, aculturație totală.",
+          "explanation": "Dissent constructiv evită groupthink fără a distruge coeziunea sau value fit.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77924,7 +77924,7 @@
           "correct": [
             "c"
           ],
-          "explanation": "Dissent constructiv evită groupthink fără a distruge coeziunea sau value fit.",
+          "explanation": "Lazarus: stresor→evaluări→coping; P–E mismatch→stres; GAS pe termen lung. Fit perfect nu elimină volumul.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -77944,7 +77944,7 @@
             "c",
             "d"
           ],
-          "explanation": "Lazarus: stresor→evaluări→coping; P–E mismatch→stres; GAS pe termen lung. Fit perfect nu elimină volumul.",
+          "explanation": "Schwartz, socializare, Karasek, challenge/hindrance — sinteză corectă în abc.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77964,7 +77964,7 @@
             "b",
             "c"
           ],
-          "explanation": "Schwartz, socializare, Karasek, challenge/hindrance — sinteză corectă în abc.",
+          "explanation": "Competitivitate firmă vs bunăvoință; onboarding→fit; hindrance+Karasek. Groupthink nu e garantat pozitiv.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -77984,7 +77984,7 @@
             "c",
             "d"
           ],
-          "explanation": "Competitivitate firmă vs bunăvoință; onboarding→fit; hindrance+Karasek. Groupthink nu e garantat pozitiv.",
+          "explanation": "Valorile, stresul, Lazarus, challenge/hindrance — corecte. Tip A/B inversat în capcană d.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78004,7 +78004,7 @@
             "b",
             "c"
           ],
-          "explanation": "Valorile, stresul, Lazarus, challenge/hindrance — corecte. Tip A/B inversat în capcană d.",
+          "explanation": "Adevărat: EPP = apreciere sistematică a performanței, cu legături clare spre promovare, recompense, instruire și dezvoltare.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78020,7 +78020,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Adevărat: EPP = apreciere sistematică a performanței, cu legături clare spre promovare, recompense, instruire și dezvoltare.",
+          "explanation": "EPP e sistematică (abc), nu doar numărare de piese fără feedback (d). Leagă munca de decizii HR și de dezvoltare.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78040,7 +78040,7 @@
             "c",
             "d"
           ],
-          "explanation": "EPP e sistematică (abc), nu doar numărare de piese fără feedback (d). Leagă munca de decizii HR și de dezvoltare.",
+          "explanation": "Administrativă = salariu, bonus, promovare (abd). Capcana c inversează rolul funcției de dezvoltare.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78049,10 +78049,10 @@
           "id": 9878,
           "text": "Care funcții ale evaluării performanțelor sunt corect asociate?",
           "options": {
-            "a": "Administrativă — salariu, bonus, promovare, uneori concediere",
-            "b": "De dezvoltare — coaching, feedback, identificarea nevoilor de training",
-            "c": "De dezvoltare — exclude orice feedback către angajat",
-            "d": "Administrativă — leagă performanța de recompense și decizii HR"
+            "a": "Salariu, bonus, promovare, uneori concediere",
+            "b": "Coaching, feedback, identificarea nevoilor de training",
+            "c": "Exclude orice feedback către angajat, în documentarea cerințelor postului",
+            "d": "Leagă performanța de recompense și decizii HR"
           },
           "kind": "multi",
           "correct": [
@@ -78060,7 +78060,7 @@
             "b",
             "d"
           ],
-          "explanation": "Administrativă = salariu, bonus, promovare (abd). Capcana c inversează rolul funcției de dezvoltare.",
+          "explanation": "Doar salariu fără discuție de creștere = administrativă predomină (a), dezvoltare lipsește (b). Nu inversa funcțiile.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78069,9 +78069,9 @@
           "id": 9879,
           "text": "Un manager folosește evaluarea anuală doar pentru a decide cine primește mărirea de salariu, fără discuție despre cum poate angajatul crește. Ce funcție predomină — și ce lipsește?",
           "options": {
-            "a": "Funcție de dezvoltare — predomină, în raport cu criteriul de validitate",
-            "b": "Funcție de dezvoltare — lipsește sau e slabă",
-            "c": "Funcție administrativă — predomină",
+            "a": "Predomină coaching și feedback pentru dezvoltare",
+            "b": "Lipsește discuția despre creștere și competențe de dezvoltat",
+            "c": "Predomină folosirea pentru decizii de salariu și promovare",
             "d": "Evaluarea nu are nicio funcție administrativă"
           },
           "kind": "multi",
@@ -78079,7 +78079,7 @@
             "b",
             "c"
           ],
-          "explanation": "Doar salariu fără discuție de creștere = administrativă predomină (a), dezvoltare lipsește (b). Nu inversa funcțiile.",
+          "explanation": "Funcția de dezvoltare aduce feedback, clarifică așteptări și planuri individuale (abd). Administrativă nu înlocuiește trainingul.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78099,7 +78099,7 @@
             "b",
             "c"
           ],
-          "explanation": "Funcția de dezvoltare aduce feedback, clarifică așteptări și planuri individuale (abd). Administrativă nu înlocuiește trainingul.",
+          "explanation": "Falsă: a — EPP nu trebuie limitată la rol administrativ; feedbackul pentru creștere e parte legitimă a procesului.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78117,7 +78117,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Falsă: a — EPP nu trebuie limitată la rol administrativ; feedbackul pentru creștere e parte legitimă a procesului.",
+          "explanation": "Bonus/promovare = administrativă; competențe de îmbunătățit = dezvoltare (abc). Excluderea autoevaluării nu e regulă generală.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78126,10 +78126,10 @@
           "id": 9882,
           "text": "Care scenarii ilustrează funcția administrativă, respectiv cea de dezvoltare?",
           "options": {
-            "a": "Nota determină bonusul anual — administrativă",
-            "b": "Evaluarea stabilește promovarea — administrativă",
+            "a": "Nota determină bonusul anual",
+            "b": "Evaluarea stabilește promovarea",
             "c": "Evaluarea exclude autoevaluarea — nu e regulă generală",
-            "d": "Discuția identifică competențe de îmbunătățit — dezvoltare"
+            "d": "Discuția identifică competențe de îmbunătățit"
           },
           "kind": "multi",
           "correct": [
@@ -78137,7 +78137,7 @@
             "b",
             "d"
           ],
-          "explanation": "Bonus/promovare = administrativă; competențe de îmbunătățit = dezvoltare (abc). Excluderea autoevaluării nu e regulă generală.",
+          "explanation": "Adevărat: EPP bună conectează măsurarea performanței de decizii HR și de parcursul individual de dezvoltare.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78153,7 +78153,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Adevărat: EPP bună conectează măsurarea performanței de decizii HR și de parcursul individual de dezvoltare.",
+          "explanation": "Appraisal = evaluare punctuală/periodică; management = ciclu continuu obiective–monitorizare–feedback–dezvoltare (abd). Nu sunt identici (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78173,7 +78173,7 @@
             "c",
             "d"
           ],
-          "explanation": "Appraisal = evaluare punctuală/periodică; management = ciclu continuu obiective–monitorizare–feedback–dezvoltare (abd). Nu sunt identici (c).",
+          "explanation": "Obiective trimestriale + feedback lunar + evaluare anuală = managementul performanței — sistem, nu doar formular.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78191,7 +78191,7 @@
           "correct": [
             "b"
           ],
-          "explanation": "Obiective trimestriale + feedback lunar + evaluare anuală = managementul performanței — sistem, nu doar formular.",
+          "explanation": "Surse uzuale: superior, colegi, subordonați, clienți, autoevaluare (abc). Testele de la angajare singure nu înlocuiesc observația.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78211,7 +78211,7 @@
             "b",
             "c"
           ],
-          "explanation": "Surse uzuale: superior, colegi, subordonați, clienți, autoevaluare (abc). Testele de la angajare singure nu înlocuiesc observația.",
+          "explanation": "360° = surse multiple, imagine mai bogată, dar cost și interpretare (abd). Nu e „mereu gratuit” (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78231,7 +78231,7 @@
             "b",
             "c"
           ],
-          "explanation": "360° = surse multiple, imagine mai bogată, dar cost și interpretare (abd). Nu e „mereu gratuit” (c).",
+          "explanation": "Superiorul observă direct, decide recompense, integrează obiective (abd). Nu e automat obiectiv — poate avea halo sau alte erori.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78251,7 +78251,7 @@
             "c",
             "d"
           ],
-          "explanation": "Superiorul observă direct, decide recompense, integrează obiective (abd). Nu e automat obiectiv — poate avea halo sau alte erori.",
+          "explanation": "Autoevaluarea implică angajatul și pregătește discuția (abd), dar singură nu garantează obiectivitate (c e capcană).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78271,7 +78271,7 @@
             "b",
             "c"
           ],
-          "explanation": "Autoevaluarea implică angajatul și pregătește discuția (abd), dar singură nu garantează obiectivitate (c e capcană).",
+          "explanation": "Exagerată: a — 360° nu elimină automat toate erorile; rămân bias-uri și interpretări.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78289,7 +78289,7 @@
           "correct": [
             "c"
           ],
-          "explanation": "Exagerată: a — 360° nu elimină automat toate erorile; rămân bias-uri și interpretări.",
+          "explanation": "Colegi/subordonați/clienți aduc perspective utile, cu riscuri proprii (abc). Superiorul nu e imun la halo (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78299,7 +78299,7 @@
           "text": "Care perechi sursă–avantaj/limitare sunt plauzibile?",
           "options": {
             "a": "Subordonați — văd stilul de leadership; poate fi intimidant",
-            "b": "Superior — mereu fără efect halo, în procesul terapeutic",
+            "b": "Superior — imun la efectul halo (Halo) — capcană",
             "c": "Clienți — văd calitatea serviciului; acces mai greu",
             "d": "Colegi — perspective pe colaborare; risc de favoritism reciproc"
           },
@@ -78309,7 +78309,7 @@
             "c",
             "d"
           ],
-          "explanation": "Colegi/subordonați/clienți aduc perspective utile, cu riscuri proprii (abc). Superiorul nu e imun la halo (d).",
+          "explanation": "Scale grafice = simple, dar subiective (abd). Nu elimină halo (c) și nu au ancore ca BARS.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78329,7 +78329,7 @@
             "b",
             "c"
           ],
-          "explanation": "Scale grafice = simple, dar subiective (abd). Nu elimină halo (c) și nu au ancore ca BARS.",
+          "explanation": "BARS = scale ancorate în comportamente observabile, pe niveluri de calitate — răspuns a.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78347,7 +78347,7 @@
           "correct": [
             "b"
           ],
-          "explanation": "BARS = scale ancorate în comportamente observabile, pe niveluri de calitate — răspuns a.",
+          "explanation": "BOS = frecvența comportamentelor observate (ab). Calitatea narativă e specific BARS; obiectivele agregate = MBO.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78366,7 +78366,7 @@
             "b",
             "c"
           ],
-          "explanation": "BOS = frecvența comportamentelor observate (ab). Calitatea narativă e specific BARS; obiectivele agregate = MBO.",
+          "explanation": "BARS = calitate cu ancore; BOS = frecvență observată (ab). Nu sunt identice și BOS se bazează pe observare.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78385,7 +78385,7 @@
             "b",
             "c"
           ],
-          "explanation": "BARS = calitate cu ancore; BOS = frecvență observată (ab). Nu sunt identice și BOS se bazează pe observare.",
+          "explanation": "MBO leagă evaluarea de obiective măsurabile agreate (ab), nu de impresii globale sau curba forțată.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78404,7 +78404,7 @@
             "a",
             "d"
           ],
-          "explanation": "MBO leagă evaluarea de obiective măsurabile agreate (ab), nu de impresii globale sau curba forțată.",
+          "explanation": "Forced distribution = categorii obligatorii, reduce leniency, dar poate fi nedreaptă dacă toți performează bine (abd).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78424,7 +78424,7 @@
             "b",
             "c"
           ],
-          "explanation": "Forced distribution = categorii obligatorii, reduce leniency, dar poate fi nedreaptă dacă toți performează bine (abd).",
+          "explanation": "Avantaje: diferențiere, mai puțină indulgență. Riscuri: nedreptate percepută, demotivare (abd). Nu garantează echitate procedurală.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78444,7 +78444,7 @@
             "c",
             "d"
           ],
-          "explanation": "Avantaje: diferențiere, mai puțină indulgență. Riscuri: nedreptate percepută, demotivare (abd). Nu garantează echitate procedurală.",
+          "explanation": "Mixed standard = exemple bune, medii, slabe ca reper (ab). Nu o singură ancoră vagă și nu doar obiective financiare.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78463,7 +78463,7 @@
             "a",
             "c"
           ],
-          "explanation": "Mixed standard = exemple bune, medii, slabe ca reper (ab). Nu o singură ancoră vagă și nu doar obiective financiare.",
+          "explanation": "Toate patru asocieri metodă–esențial sunt corecte: scale, BARS, BOS, MBO — memorează calitate vs frecvență la BARS/BOS.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78472,10 +78472,10 @@
           "id": 9900,
           "text": "Asociază corect metoda cu esențialul ei:",
           "options": {
-            "a": "Scale grafice — simplu, dar subiectiv",
-            "b": "MBO — evaluare după obiective",
-            "c": "BOS — observare, frecvență comportamente",
-            "d": "BARS — ancorat în comportamente, calitate"
+            "a": "Simplu, dar subiectiv",
+            "b": "Evaluare după obiective",
+            "c": "Observare, frecvență comportamente",
+            "d": "Ancorat în comportamente, calitate"
           },
           "kind": "multi",
           "correct": [
@@ -78484,7 +78484,7 @@
             "c",
             "d"
           ],
-          "explanation": "Toate patru asocieri metodă–esențial sunt corecte: scale, BARS, BOS, MBO — memorează calitate vs frecvență la BARS/BOS.",
+          "explanation": "„3 peste tot” pentru toți = tendință centrală — evită extreme, nu neapărat indulgență sau halo.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78502,7 +78502,7 @@
           "correct": [
             "d"
           ],
-          "explanation": "„3 peste tot” pentru toți = tendință centrală — evită extreme, nu neapărat indulgență sau halo.",
+          "explanation": "Falsă: a inversează BARS (calitate) și BOS (frecvență). Restul afirmațiilor despre BARS/BOS sunt corecte.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78520,7 +78520,7 @@
           "correct": [
             "b"
           ],
-          "explanation": "Falsă: a inversează BARS (calitate) și BOS (frecvență). Restul afirmațiilor despre BARS/BOS sunt corecte.",
+          "explanation": "Ținte trimestriale clare pe vânzări/proiecte = MBO. Scale simple sau forced fără criterii nu înlocuiesc obiectivele.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78538,7 +78538,7 @@
           "correct": [
             "c"
           ],
-          "explanation": "Ținte trimestriale clare pe vânzări/proiecte = MBO. Scale simple sau forced fără criterii nu înlocuiesc obiectivele.",
+          "explanation": "BARS reduce ambiguitatea prin ancore și facilitează feedback specific (abd). Nu elimină complet subiectivitatea (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78558,7 +78558,7 @@
             "c",
             "d"
           ],
-          "explanation": "BARS reduce ambiguitatea prin ancore și facilitează feedback specific (abd). Nu elimină complet subiectivitatea (c).",
+          "explanation": "Adevărat: halo (Halo) = impresie pozitivă globală ridică toate scorurile; horns (Horns / coarne) = impresie negativă globală le coboară pe toate.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78574,7 +78574,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Adevărat: halo ridică toate scorurile după impresie +; horns le coboară după impresie −.",
+          "explanation": "Prezentare excelentă → impresie pozitivă globală → note mari peste tot = efect halo (Halo).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78583,16 +78583,16 @@
           "id": 9906,
           "text": "Un șef a văzut un angajat excelent la o prezentare și îi dă note mari și la punctualitate și la raportare, deși acolo e mediocru. Eroarea probabilă:",
           "options": {
-            "a": "Efect coarne (Horns), în procesul terapeutic",
+            "a": "Efect coarne (Horns) — impresie negativă globală scade toate scorurile",
             "b": "Lenitate generală (Leniency), în procesul terapeutic",
-            "c": "Efect halo (Halo), în procesul terapeutic",
+            "c": "Efect halo (Halo) — impresie pozitivă globală ridică toate scorurile",
             "d": "Tendință centrală (Central Tendency), în procesul terapeutic"
           },
           "kind": "single",
           "correct": [
             "c"
           ],
-          "explanation": "Prezentare excelentă → note mari peste tot, inclusiv unde e mediocru = efect halo.",
+          "explanation": "Greșeală gravă → impresie negativă globală → note mici peste tot = horns (Horns), nu halo.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78601,8 +78601,8 @@
           "id": 9907,
           "text": "După o greșeală gravă, evaluatorul ignoră lunile bune anterioare și notează slab peste tot. Eroarea:",
           "options": {
-            "a": "Efect halo (Halo), în procesul terapeutic",
-            "b": "Efect coarne (Horns)",
+            "a": "Efect halo (Halo) — impresie pozitivă globală ridică toate scorurile",
+            "b": "Efect coarne (Horns) — impresie negativă globală scade toate scorurile",
             "c": "Recență (Recency), în procesul terapeutic",
             "d": "Similar cu mine (Similar-to-Me), în procesul terapeutic"
           },
@@ -78610,7 +78610,7 @@
           "correct": [
             "b"
           ],
-          "explanation": "O greșeală gravă recentă domină și ignoră lunile bune = horns (impresie negativă globală).",
+          "explanation": "Lenitate = note prea mari; severitate = note prea mici (ab). Tendința centrală și primacy sunt alte erori.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78619,17 +78619,17 @@
           "id": 9908,
           "text": "Care erori descriu indulgență excesivă, respectiv severitate excesivă?",
           "options": {
-            "a": "Severitate (Severity) — note prea mici",
-            "b": "Primacy — începutul contează, în procesul terapeutic",
-            "c": "Tendință centrală — toți în mijloc, în procesul terapeutic",
-            "d": "Lenitate (Leniency) — note prea mari"
+            "a": "Note sistematic prea mici",
+            "b": "Contează exagerat începutul perioadei, în procesul terapeutic",
+            "c": "Toți primiți spre mijlocul scalei, în procesul terapeutic",
+            "d": "Note sistematic prea mari"
           },
           "kind": "multi",
           "correct": [
             "a",
             "d"
           ],
-          "explanation": "Lenitate = note prea mari; severitate = note prea mici (ab). Tendința centrală și primacy sunt alte erori.",
+          "explanation": "Central tendency = spre mijloc; leniency = sistematic prea sus — erori distincte (abd). Nu sunt „mereu note maxime” (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78649,7 +78649,7 @@
             "b",
             "c"
           ],
-          "explanation": "Central tendency = spre mijloc; leniency = sistematic prea sus — erori distincte (abd). Nu sunt „mereu note maxime” (c).",
+          "explanation": "Când doar ultimele săptămâni contează la evaluarea anuală = recență.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78658,8 +78658,8 @@
           "id": 9910,
           "text": "Evaluatorul își amintește doar ultimele două săptămâni înainte de formular. Eroarea:",
           "options": {
-            "a": "Recență (Recency)",
-            "b": "Efect halo, în procesul terapeutic",
+            "a": "Recență (Recency), în procesul terapeutic",
+            "b": "Efect halo (Halo) — impresie pozitivă globală",
             "c": "Distribuție forțată, în procesul terapeutic",
             "d": "Primacy — începutul perioadei, în procesul terapeutic"
           },
@@ -78667,7 +78667,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Când doar ultimele săptămâni contează la evaluarea anuală = recență.",
+          "explanation": "Prima lună fixează opinia și ignoră evoluția = primacy — începutul perioadei domină.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78685,7 +78685,7 @@
           "correct": [
             "d"
           ],
-          "explanation": "Prima lună fixează opinia și ignoră evoluția = primacy — începutul perioadei domină.",
+          "explanation": "Similar-to-me = favorizează asemănarea. Halo (b) e altă eroare — impresie pozitivă globală, nu preferință pentru hobby-uri comune.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78694,16 +78694,16 @@
           "id": 9912,
           "text": "Un manager își favorizează angajații cu același stil de lucru și aceleași hobby-uri. Eroarea:",
           "options": {
-            "a": "Tendință centrală, în procesul terapeutic",
-            "b": "Similar cu mine (Similar-to-Me)",
-            "c": "Efect halo pozitiv pe tot departamentul, în procesul terapeutic",
+            "a": "Tendință centrală (Central Tendency), în procesul terapeutic",
+            "b": "Similar cu mine (Similar-to-Me), în procesul terapeutic",
+            "c": "Efect halo (Halo) — impresie pozitivă globală ridică toate scorurile",
             "d": "Feedback 360° obligatoriu, în procesul terapeutic"
           },
           "kind": "single",
           "correct": [
             "b"
           ],
-          "explanation": "Favorizarea celor asemănători ca stil/hobby = similar-to-me, nu halo pe tot departamentul.",
+          "explanation": "Halo = impresie pozitivă globală ridică toate scorurile; horns = impresie negativă globală le scade; recență = finalul perioadei; primacy = începutul — toate patru corecte.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78712,9 +78712,9 @@
           "id": 9913,
           "text": "Care perechi eroare–efect sunt corecte?",
           "options": {
-            "a": "Halo — impresie + ridică toate scorurile",
+            "a": "Halo (Halo) — o impresie pozitivă globală ridică toate scorurile",
             "b": "Recență — contează prea mult finalul perioadei",
-            "c": "Horns — impresie − scade toate scorurile",
+            "c": "Horns (Horns / coarne) — o impresie negativă globală scade toate scorurile",
             "d": "Primacy — contează prea mult începutul perioadei"
           },
           "kind": "multi",
@@ -78724,7 +78724,7 @@
             "c",
             "d"
           ],
-          "explanation": "Toate patru perechi eroare–efect sunt corecte: halo, horns, recency, primacy.",
+          "explanation": "Primacy = începutul; recency = sfârșitul — erori diferite (abd). Nu sunt aceeași eroare (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78744,7 +78744,7 @@
             "c",
             "d"
           ],
-          "explanation": "Primacy = începutul; recency = sfârșitul — erori diferite (abd). Nu sunt aceeași eroare (c).",
+          "explanation": "Lenitate/central tendency spre sus, recență după incident, evitarea extremelor = scenarii plauzibile (abc). BARS nu elimină automat erorile.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78754,9 +78754,9 @@
           "text": "Care scenarii ilustrează erori diferite de evaluare?",
           "options": {
             "a": "Prioritizarea validității de fațadă în detrimentul validității de conținut",
-            "b": "Un singur incident recent domină nota — recență, în interpretarea rezultatelor standardizate",
-            "c": "Toți primesc 4 din 5 indiferent de performanță — lenitate sau tendință centrală spre sus",
-            "d": "Evaluatorul evită extreme și pune pe toți „mediu” — tendință centrală"
+            "b": "Un singur incident recent domină nota",
+            "c": "Toți primesc 4 din 5 indiferent de performanță",
+            "d": "Evaluatorul evită extreme și pune pe toți „mediu”"
           },
           "kind": "multi",
           "correct": [
@@ -78764,7 +78764,7 @@
             "c",
             "d"
           ],
-          "explanation": "Lenitate/central tendency spre sus, recență după incident, evitarea extremelor = scenarii plauzibile (abc). BARS nu elimină automat erorile.",
+          "explanation": "Similar-to-me subevaluează diferiții dar eficienți și favorizează asemănarea, nu performanța (abd).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78784,7 +78784,7 @@
             "c",
             "d"
           ],
-          "explanation": "Similar-to-me subevaluează diferiții dar eficienți și favorizează asemănarea, nu performanța (abd).",
+          "explanation": "Forced distribution reduce indulgența, dar halo (Halo), horns (Horns), recența și similar-to-me pot persista (abd).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78794,9 +78794,9 @@
           "text": "Care afirmații despre distribuția forțată și erorile cognitive sunt corecte?",
           "options": {
             "a": "Reduce indulgența prin diferențiere forțată",
-            "b": "Halo poate persista în sub-criterii",
+            "b": "Halo (Halo) sau horns (Horns) pot persista în sub-criterii",
             "c": "Aplicarea aceleiași tehnici indiferent de orientarea teoretică",
-            "d": "Nu elimină halo, recența sau similar-to-me"
+            "d": "Nu elimină halo (Halo) sau horns (Horns), recența sau similar-to-me"
           },
           "kind": "multi",
           "correct": [
@@ -78804,7 +78804,7 @@
             "b",
             "d"
           ],
-          "explanation": "Forced distribution poate reduce indulgența, dar halo, recența și similar-to-me pot persista (abd).",
+          "explanation": "Prezentare → halo (impresie pozitivă globală); conflict → horns (impresie negativă globală) sau recență; extreme evitate → central tendency; asemănare → similar-to-me.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78813,10 +78813,10 @@
           "id": 9918,
           "text": "Care eroare este cel mai probabilă în fiecare situație?",
           "options": {
-            "a": "Evitarea notelor extreme — tendință centrală",
-            "b": "Conflict recent → note mici la toate — horns sau recență",
-            "c": "Preferință pentru angajați ca evaluatorul — similar-to-me",
-            "d": "Prezentare strălucitoare → note mari la toate criteriile — halo"
+            "a": "Evaluatorul evită extreme și pune pe toți spre mijloc",
+            "b": "Conflict recent → impresie negativă globală → note mici la toate",
+            "c": "Preferință pentru angajați cu același stil ca evaluatorul",
+            "d": "Prezentare strălucitoare → impresie pozitivă globală → note mari la toate criteriile"
           },
           "kind": "multi",
           "correct": [
@@ -78825,7 +78825,7 @@
             "c",
             "d"
           ],
-          "explanation": "Prezentare → halo; conflict recent → horns/recență; evitare extreme → central tendency; preferință personală → similar-to-me — toate corecte.",
+          "explanation": "Severitate = note prea mici; lenitate = prea mari (abd). Severitate nu înseamnă note mari (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78845,7 +78845,7 @@
             "b",
             "c"
           ],
-          "explanation": "Severitate = note prea mici; lenitate = prea mari (abd). Severitate nu înseamnă note mari (c).",
+          "explanation": "Note foarte mici deși țintele sunt atinse = severitate sistematică a evaluatorului.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78855,15 +78855,15 @@
           "text": "Un evaluator dă note foarte mici tuturor, deși echipa atinge țintele. Eroarea principală:",
           "options": {
             "a": "Lenitate (Leniency), în procesul terapeutic",
-            "b": "Efect halo, în procesul terapeutic",
-            "c": "Severitate (Severity)",
+            "b": "Efect halo (Halo) — impresie pozitivă globală",
+            "c": "Severitate (Severity), în procesul terapeutic",
             "d": "Managementul obiectivelor (MBO), în procesul terapeutic"
           },
           "kind": "single",
           "correct": [
             "c"
           ],
-          "explanation": "Note foarte mici deși țintele sunt atinse = severitate sistematică a evaluatorului.",
+          "explanation": "Distributivă = rezultat/recompense; procedurală = proces; interacțională = respect în comunicare (abc). Bonusul nu e singurul conținut al interacționalității.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78872,30 +78872,10 @@
           "id": 9921,
           "text": "Care tipuri de justiție în evaluare corespund: rezultat echitabil, proces corect, respect în feedback?",
           "options": {
-            "a": "Procedurală — pași clari și consistenți",
-            "b": "Distributivă — rezultat/recompense",
-            "c": "Interacțională — comunicare respectuoasă",
-            "d": "Interacțională — mărimea bonusului, în raport cu criteriul de validitate"
-          },
-          "kind": "multi",
-          "correct": [
-            "a",
-            "b",
-            "c"
-          ],
-          "explanation": "Distributivă = rezultat/recompense; procedurală = proces; interacțională = respect în comunicare (abc). Bonusul nu e singurul conținut al interacționalității.",
-          "domeniu": "Psihologia muncii II",
-          "tip": "multi",
-          "exam_item": true
-        },
-        {
-          "id": 9922,
-          "text": "Care caracteristici descriu feedbackul eficient în EPP?",
-          "options": {
-            "a": "Specific — comportamente concrete, nu etichete vagi",
-            "b": "Orientat spre comportament, nu spre atac la persoană",
-            "c": "La timp — apropiat de eveniment",
-            "d": "Vag și global — „trebuie să te pretenți”, în procesul terapeutic"
+            "a": "Pași clari și consistenți în proces",
+            "b": "Rezultat/recompense echitabile",
+            "c": "Comunicare respectuoasă în feedback",
+            "d": "Mărimea bonusului, fără respect, în interpretarea rezultatelor standardizate"
           },
           "kind": "multi",
           "correct": [
@@ -78909,13 +78889,33 @@
           "exam_item": true
         },
         {
+          "id": 9922,
+          "text": "Care caracteristici descriu feedbackul eficient în EPP?",
+          "options": {
+            "a": "Comportamente concrete, nu etichete vagi",
+            "b": "Descrie acțiuni, nu atacă persoana",
+            "c": "Aproape de momentul evenimentului",
+            "d": "Formulări vagi și globale, în procesul terapeutic"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Proces transparent = procedurală; explicație respectuoasă = interacțională; rezultatul poate implica și distributivă (abc).",
+          "domeniu": "Psihologia muncii II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
           "id": 9923,
           "text": "Angajatul acceptă mai ușor o notă medie dacă procesul a fost transparent și explicat respectuos. Ce tipuri de justiție sunt implicate?",
           "options": {
-            "a": "Distributivă — poate fi și ea relevantă pentru rezultat",
-            "b": "Efect halo — nu e justiție, în procesul terapeutic",
-            "c": "Interacțională — comunicare respectuoasă",
-            "d": "Procedurală — proces clar"
+            "a": "Percepția echității rezultatului/recompensei",
+            "b": "Efect halo (Halo) — nu e tip de justiție, în procesul terapeutic",
+            "c": "Comunicare respectuoasă a notei",
+            "d": "Proces transparent și explicat"
           },
           "kind": "multi",
           "correct": [
@@ -78923,7 +78923,7 @@
             "c",
             "d"
           ],
-          "explanation": "Proces transparent = procedurală; explicație respectuoasă = interacțională; rezultatul poate implica și distributivă (abc).",
+          "explanation": "Appraisal vs management, BARS vs BOS, halo vs horns (pozitiv global vs negativ global), primacy vs recency — toate perechile corecte (abcd).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78932,9 +78932,9 @@
           "id": 9924,
           "text": "Care confuzii frecvente de examen sunt perechi corecte?",
           "options": {
-            "a": "Primacy — început; recency — final",
-            "b": "Halo — impresie pozitivă; horns — impresie negativă",
-            "c": "Evaluarea performanței (Appraisal) vs managementul performanței",
+            "a": "horns (Horns / coarne) — impresie negativă globală le scade",
+            "b": "halo (Halo) — impresie pozitivă globală ridică scorurile",
+            "c": "evaluarea performanței (Appraisal) vs managementul performanței — punctual vs sistem continuu",
             "d": "BARS — calitate ancorată în comportamente; BOS — frecvență"
           },
           "kind": "multi",
@@ -78944,7 +78944,7 @@
             "c",
             "d"
           ],
-          "explanation": "Appraisal vs management, BARS vs BOS, halo vs horns, primacy vs recency — toate perechile corecte (abcd).",
+          "explanation": "Screening/comprehensive = selecție. Deficiență = lipsește relevant; contaminare = intră nerelevant (abc). Screening nu e BARS.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78964,7 +78964,7 @@
             "b",
             "c"
           ],
-          "explanation": "Screening/comprehensive = selecție. Deficiență = lipsește relevant; contaminare = intră nerelevant (abc). Screening nu e BARS.",
+          "explanation": "Exemplu bun: feedback specific pe raport („date incomplete la 12 martie”). Atac personal, generalizări absolute sau întârziere de un an sunt contra-productive.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -78974,15 +78974,15 @@
           "text": "„Feedbackul trebuie să fie specific, obiectiv, relevant, la timp și orientat spre comportament” — care afirmație completează cel mai bine această regulă?",
           "options": {
             "a": "Interpretarea transferului fără contractul de lucru inițial",
-            "b": "După un an — prea târziu pentru feedback util, în procesul terapeutic",
-            "c": "„Ești prost” — încalcă orientarea spre comportament",
-            "d": "„La raportul din 12 martie, datele erau incomplete” — specific"
+            "b": "Feedback dat la un an după eveniment, în procesul terapeutic",
+            "c": "„Ești prost”, în procesul terapeutic",
+            "d": "„La raportul din 12 martie, datele erau incomplete”"
           },
           "kind": "single",
           "correct": [
             "d"
           ],
-          "explanation": "Exemplu bun: feedback specific pe raport („date incomplete la 12 martie”). Atac personal, generalizări absolute sau întârziere de un an sunt contra-productive.",
+          "explanation": "Training evaluatori, BARS/BOS, jurnal pe tot anul reduc erori (abc). Fără feedback scris crește subiectivitatea (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -78992,7 +78992,7 @@
           "text": "Care intervenții reduc erorile de evaluare?",
           "options": {
             "a": "BARS sau BOS pentru criterii mai clare",
-            "b": "Training pentru evaluatori despre halo, recență, lenitate",
+            "b": "Training pentru evaluatori despre halo (Halo)",
             "c": "Interpretarea scorurilor fără raportare la baremul de administrare",
             "d": "Jurnal de observații pe tot anul"
           },
@@ -79002,14 +79002,14 @@
             "b",
             "d"
           ],
-          "explanation": "Training evaluatori, BARS/BOS, jurnal pe tot anul reduc erori (abc). Fără feedback scris crește subiectivitatea (d).",
+          "explanation": "Proiectul combină management performanță, criterii clare BARS, training anti-bias și 360° pentru manageri (abc). Subiectivitatea zero e nerealistă (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
         },
         {
           "id": 9928,
-          "text": "Un HR proiectează EPP: obiective trimestriale, BARS pe comportamente cheie, training anti-halo pentru șefi, feedback 360° pentru manageri. Combinația urmărește:",
+          "text": "Un HR proiectează EPP: obiective trimestriale, BARS pe comportamente cheie, training anti-halo (Halo) și anti-horns (Horns) pentru șefi, feedback 360° pentru manageri. Combinația urmărește:",
           "options": {
             "a": "Reducerea semnificativă, dar nu eliminarea totală",
             "b": "Reducerea erorilor cognitive",
@@ -79022,7 +79022,7 @@
             "c",
             "d"
           ],
-          "explanation": "Proiectul combină management performanță, criterii clare BARS, training anti-bias și 360° pentru manageri (abc). Subiectivitatea zero e nerealistă (d).",
+          "explanation": "Adevărat: MBO evaluează după obiective măsurabile agreate între angajat și șef.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79038,7 +79038,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Adevărat: MBO evaluează după obiective măsurabile agreate între angajat și șef.",
+          "explanation": "Adevărat: 360° adună evaluări din mai multe surse pentru imagine mai completă.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79054,7 +79054,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Adevărat: 360° adună evaluări din mai multe surse pentru imagine mai completă.",
+          "explanation": "Adevărat: justiția procedurală = corectitudinea procesului, nu mărimea bonusului (asta ține mai mult de distributivă).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79070,7 +79070,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Adevărat: justiția procedurală = corectitudinea procesului, nu mărimea bonusului (asta ține mai mult de distributivă).",
+          "explanation": "Task vs contextual, OCB vs CWB, deficiență vs contaminare — corecte (abc). Appraisal ≠ screening la angajare (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79090,7 +79090,7 @@
             "c",
             "d"
           ],
-          "explanation": "Task vs contextual, OCB vs CWB, deficiență vs contaminare — corecte (abc). Appraisal ≠ screening la angajare (d).",
+          "explanation": "Observație pe perioadă lungă reduce recența; BARS clarifică; ton respectuos = justiție interacțională (abc).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79110,7 +79110,7 @@
             "c",
             "d"
           ],
-          "explanation": "Observație pe perioadă lungă reduce recența; BARS clarifică; ton respectuos = justiție interacțională (abc).",
+          "explanation": "Knowledge vs ability, task vs contextual, turnover vs intenție, description vs specification — perechi clasice de examen (abcd).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79131,7 +79131,7 @@
             "c",
             "d"
           ],
-          "explanation": "Knowledge vs ability, task vs contextual, turnover vs intenție, description vs specification — perechi clasice de examen (abcd).",
+          "explanation": "Sinteză EPP: apreciere sistematică, metode, erori cognitive, trei tipuri de justiție. Interacțională nu e „doar bonus” (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79143,7 +79143,7 @@
             "a": "Justiția interacțională = mărimea bonusului, în interpretarea rezultatelor standardizate",
             "b": "Metode: scale, BARS, BOS, MBO, forced distribution, mixed standard",
             "c": "EPP = apreciere sistematică; funcții administrativă și dezvoltare",
-            "d": "Erori: halo, horns, leniency, severity, central tendency, recency, primacy, similar-to-me"
+            "d": "Erori: halo (Halo), horns (Horns), leniency, severity, central tendency, recency, primacy, similar-to-me"
           },
           "kind": "multi",
           "correct": [
@@ -79151,7 +79151,7 @@
             "c",
             "d"
           ],
-          "explanation": "Sinteză EPP: apreciere sistematică, metode, erori cognitive, trei tipuri de justiție. Interacțională nu e „doar bonus” (d).",
+          "explanation": "Job description = sarcini, responsabilități, raportări (postul). Job specification = KSAO, profilul persoanei (ab). Nu inversa (c, d).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79170,7 +79170,7 @@
             "a",
             "c"
           ],
-          "explanation": "Job description = sarcini, responsabilități, raportări (postul). Job specification = KSAO, profilul persoanei (ab). Nu inversa (c, d).",
+          "explanation": "Știe teoria dar nu execută = knowledge vs ability (abd). Nu sunt mereu identice — abilitatea cere aplicare practică.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79190,7 +79190,7 @@
             "b",
             "d"
           ],
-          "explanation": "Știe teoria dar nu execută = knowledge vs ability (abd). Nu sunt mereu identice — abilitatea cere aplicare practică.",
+          "explanation": "Adevărat: description = postul; specification = profilul persoanei potrivite — pereche clasică de capcană.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79206,7 +79206,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Adevărat: description = postul; specification = profilul persoanei potrivite — pereche clasică de capcană.",
+          "explanation": "Spre sarcină = ce face; spre angajat = ce trebuie să aibă (ab). Nu sunt sinonime și spre angajat nu e fluxul zilnic (c, d).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79225,7 +79225,7 @@
             "b",
             "c"
           ],
-          "explanation": "Spre sarcină = ce face; spre angajat = ce trebuie să aibă (ab). Nu sunt sinonime și spre angajat nu e fluxul zilnic (c, d).",
+          "explanation": "Capcana inversată: c — description nu e KSAO; specification nu e lista sarcinilor. Restul perechilor sunt corecte.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79243,7 +79243,7 @@
           "correct": [
             "c"
           ],
-          "explanation": "Capcana inversată: c — description nu e KSAO; specification nu e lista sarcinilor. Restul perechilor sunt corecte.",
+          "explanation": "Amestecă sarcini cu cerințe de persoană = description/specification și uneori knowledge/ability (ab).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79262,7 +79262,7 @@
             "a",
             "c"
           ],
-          "explanation": "Amestecă sarcini cu cerințe de persoană = description/specification și uneori knowledge/ability (ab).",
+          "explanation": "Adevărat: screening elimină nepotriviții; comprehensive selectează dintre cei rămași — etape diferite în selecție.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79278,7 +79278,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Adevărat: screening elimină nepotriviții; comprehensive selectează dintre cei rămași — etape diferite în selecție.",
+          "explanation": "Sensibilitate = prinde buni (a); specificitate = elimină răi — nu e același lucru (c). Utilă când nu vrei să pierzi talente (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79297,7 +79297,7 @@
             "a",
             "d"
           ],
-          "explanation": "Sensibilitate = prinde buni (a); specificitate = elimină răi — nu e același lucru (c). Utilă când nu vrei să pierzi talente (d).",
+          "explanation": "Sensibilitate = adevărați pozitivi; specificitate = adevărați negativi (abd). Nu sunt mereu maxime simultan (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79317,7 +79317,7 @@
             "b",
             "c"
           ],
-          "explanation": "Sensibilitate = adevărați pozitivi; specificitate = adevărați negativi (abd). Nu sunt mereu maxime simultan (c).",
+          "explanation": "Lipsește relevant (deficiență) + intră nerelevant (contaminare) = ab. Screening/comprehensive și spill-over/cross-over sunt alte perechi.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79328,15 +79328,15 @@
           "options": {
             "a": "Screening = comprehensive — aceeași etapă",
             "b": "Spill-over = cross-over — aceeași persoană",
-            "c": "Contaminare de criteriu = intră ce e nerelevant",
-            "d": "Deficiență de criteriu = lipsește ce e relevant"
+            "c": "Intră în scor ceva nerelevant pentru rol",
+            "d": "Lipsește din evaluare ceva relevant pentru rol"
           },
           "kind": "multi",
           "correct": [
             "c",
             "d"
           ],
-          "explanation": "Lipsește relevant (deficiență) + intră nerelevant (contaminare) = ab. Screening/comprehensive și spill-over/cross-over sunt alte perechi.",
+          "explanation": "Screening/comprehensive, sensibilitate/specificitate, deficiență/contaminare — toate corecte (abc). Trade-off sensibilitate–specificitate e real, nu „mereu maxime” (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79356,7 +79356,7 @@
             "b",
             "d"
           ],
-          "explanation": "Screening/comprehensive, sensibilitate/specificitate, deficiență/contaminare — toate corecte (abc). Trade-off sensibilitate–specificitate e real, nu „mereu maxime” (d).",
+          "explanation": "Specificitate scăzută = trec slabi (a); confundată cu sensibilitatea (c); specificitate ridicată elimină slabi (d). Nu respinge pe toți (b).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79376,7 +79376,7 @@
             "c",
             "d"
           ],
-          "explanation": "Specificitate scăzută = trec slabi (a); confundată cu sensibilitatea (c); specificitate ridicată elimină slabi (d). Nu respinge pe toți (b).",
+          "explanation": "Sarcini îndeplinite dar fără OCB = task bun, contextual slab (abd). CWB dăunează, nu ajută (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79396,7 +79396,7 @@
             "c",
             "d"
           ],
-          "explanation": "Sarcini îndeplinite dar fără OCB = task bun, contextual slab (abd). CWB dăunează, nu ajută (c).",
+          "explanation": "Adevărat: OCB ajută organizația; CWB îi dăunează — nu inversa la examen.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79412,7 +79412,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Adevărat: OCB ajută organizația; CWB îi dăunează — nu inversa la examen.",
+          "explanation": "Capcana inversată: c — OCB și CWB sunt schimbate. Task și contextual sunt distincte.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79430,7 +79430,7 @@
           "correct": [
             "c"
           ],
-          "explanation": "Capcana inversată: c — OCB și CWB sunt schimbate. Task și contextual sunt distincte.",
+          "explanation": "Livrabile la termen (task) dar furt de timp/sabotaj = CWB prezent (ab). Pot coexista — nu e capcană să ai ambele.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79439,9 +79439,9 @@
           "id": 9951,
           "text": "Un angajat fură timp de lucru și sabotează proiecte, dar livrează rapoartele la termen. Cum clasifici?",
           "options": {
-            "a": "CWB — comportament contraproductiv prezent",
-            "b": "OCB — pentru că livrează la timp, în procesul terapeutic",
-            "c": "Task performance — posibil acceptabilă pe livrabile",
+            "a": "Prezentă sabotaj sau furt de timp de lucru",
+            "b": "Ajută colegii sau organizația în plus față de rol",
+            "c": "Livrabilele principale sunt la termen",
             "d": "Nu poți avea task bun și CWB simultan — capcană"
           },
           "kind": "multi",
@@ -79449,7 +79449,7 @@
             "a",
             "c"
           ],
-          "explanation": "Livrabile la termen (task) dar furt de timp/sabotaj = CWB prezent (ab). Pot coexista — nu e capcană să ai ambele.",
+          "explanation": "Toate patru asocieri task/contextual/OCB/CWB sunt corecte — memorează task = rol, OCB = extra-rol pozitiv, CWB = contraproductiv.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79470,7 +79470,7 @@
             "c",
             "d"
           ],
-          "explanation": "Toate patru asocieri task/contextual/OCB/CWB sunt corecte — memorează task = rol, OCB = extra-rol pozitiv, CWB = contraproductiv.",
+          "explanation": "Turnover = plecare efectivă; intenție = predictor atitudinal (abd). Nu sunt același construct (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79490,7 +79490,7 @@
             "b",
             "d"
           ],
-          "explanation": "Turnover = plecare efectivă; intenție = predictor atitudinal (abd). Nu sunt același construct (c).",
+          "explanation": "Stare de la muncă se transferă acasă la aceeași persoană = spill-over, nu cross-over (b) sau turnover.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79499,16 +79499,16 @@
           "id": 9954,
           "text": "După o zi grea la birou, angajatul e irascibil acasă cu familia. Ce fenomen descrie?",
           "options": {
-            "a": "Spill-over — transfer între domenii la aceeași persoană",
+            "a": "Transfer al stării de la muncă la viața personală, aceeași persoană",
             "b": "Turnover funcțional, în procesul terapeutic",
-            "c": "Cross-over — între persoane diferite, în procesul terapeutic",
+            "c": "Influența stării unei persoane asupra alteia",
             "d": "Intenție de plecare, în procesul terapeutic"
           },
           "kind": "single",
           "correct": [
             "a"
           ],
-          "explanation": "Stare de la muncă se transferă acasă la aceeași persoană = spill-over, nu cross-over (b) sau turnover.",
+          "explanation": "Cross-over = influență între persoane diferite (ex. partenerul devine anxios). Spill-over = aceeași persoană, domenii diferite.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79517,8 +79517,8 @@
           "id": 9955,
           "text": "Partenerul unui angajat stresat devine și el anxios fără să lucreze în aceeași firmă. Termenul potrivit:",
           "options": {
-            "a": "Cross-over (crossover) — între persoane diferite",
-            "b": "Spill-over — aceeași persoană, domenii diferite",
+            "a": "Starea unei persoane influențează starea altei persoane",
+            "b": "Aceeași persoană transferă starea între muncă și viața personală",
             "c": "Satisfacție muncii, în procesul terapeutic",
             "d": "Angajament continuu (continuance commitment)"
           },
@@ -79526,7 +79526,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Cross-over = influență între persoane diferite (ex. partenerul devine anxios). Spill-over = aceeași persoană, domenii diferite.",
+          "explanation": "Capcana: c inversează spill-over (soțul influențează angajatul = cross-over, nu spill-over muncă–acasă).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79544,7 +79544,7 @@
           "correct": [
             "d"
           ],
-          "explanation": "Capcana: c inversează spill-over (soțul influențează angajatul = cross-over, nu spill-over muncă–acasă).",
+          "explanation": "Satisfacție = evaluare a jobului; angajament = legătură cu organizația (abd). Corelate, dar nu identice (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79564,7 +79564,7 @@
             "b",
             "c"
           ],
-          "explanation": "Satisfacție = evaluare a jobului; angajament = legătură cu organizația (abd). Corelate, dar nu identice (c).",
+          "explanation": "Toate patru sunt capcane de respins: turnover≠intenție, spill-over≠cross-over, satisfacție≠angajament, turnover funcțional≠disfuncțional.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79585,7 +79585,7 @@
             "c",
             "d"
           ],
-          "explanation": "Toate patru sunt capcane de respins: turnover≠intenție, spill-over≠cross-over, satisfacție≠angajament, turnover funcțional≠disfuncțional.",
+          "explanation": "Appraisal = evaluare periodică; management = sistem continuu (abd). Nu sunt interschimbabili (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79605,7 +79605,7 @@
             "c",
             "d"
           ],
-          "explanation": "Appraisal = evaluare periodică; management = sistem continuu (abd). Nu sunt interschimbabili (c).",
+          "explanation": "BARS = calitate ancorată; BOS = frecvență (abd). Capcana c inversează. Ambele mai structurate decât scale simple (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79625,7 +79625,7 @@
             "c",
             "d"
           ],
-          "explanation": "BARS = calitate ancorată; BOS = frecvență (abd). Capcana c inversează. Ambele mai structurate decât scale simple (d).",
+          "explanation": "Conflict recent domină nota = recență (a). Confundarea cu primacy e capcana frecventă (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79634,17 +79634,17 @@
           "id": 9961,
           "text": "Un evaluator dă note mici peste tot după un conflict recent, deși anul a fost bun. Eroarea probabilă și capcana de pereche:",
           "options": {
-            "a": "Recență (Recency) — domină finalul perioadei",
-            "b": "Primacy — domină începutul, în procesul terapeutic",
+            "a": "Note mici peste tot după un conflict recent, deși anul a fost bun",
+            "b": "Evaluatorul ține cont exagerat de primele săptămâni",
             "c": "Confundarea recenței cu primacy la examen",
-            "d": "Halo — impresie pozitivă globală, în procesul terapeutic"
+            "d": "O impresie pozitivă globală ridică toate sub-scorurile"
           },
           "kind": "multi",
           "correct": [
             "a",
             "c"
           ],
-          "explanation": "Conflict recent domină nota = recență (a). Confundarea cu primacy e capcana frecventă (d).",
+          "explanation": "Capcana inversată: d — halo (Halo) ridică scorurile după impresie pozitivă globală; horns (Horns) le coboară după impresie negativă globală.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79653,16 +79653,16 @@
           "id": 9962,
           "text": "Care perechi eroare / efect din grila EPP sunt inversate greșit?",
           "options": {
-            "a": "Leniency = note prea mari; severity = note prea mici",
-            "b": "Halo = note mici peste tot; horns = note mari peste tot",
-            "c": "Halo = impresie + ridică scorurile; horns = impresie − le coboară",
+            "a": "Leniency = note prea mari; severity = note prea mici, în procesul terapeutic",
+            "b": "Halo (Halo) = note mici peste tot; horns (Horns) = note mari peste tot — invers corect",
+            "c": "Halo (Halo) = impresie pozitivă globală ridică scorurile; horns (Horns / coarne) = impresie negativă globală le coboară",
             "d": "Primacy = începutul; recency = sfârșitul, în procesul terapeutic"
           },
           "kind": "single",
           "correct": [
             "b"
           ],
-          "explanation": "Capcana inversată: d — halo ridică scorurile, horns le coboară. Restul perechilor sunt corecte.",
+          "explanation": "Toate patru capcane EPP: BARS/BOS invers, appraisal≠management, forced nu elimină halo (Halo) și horns (Horns), scale simple nu sunt obiective.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79672,7 +79672,7 @@
           "text": "Care capcane despre metode și erori în EPP trebuie respinse?",
           "options": {
             "a": "BARS = frecvență; BOS = calitate — invers corect",
-            "b": "Forced distribution elimină automat halo și recența",
+            "b": "Forced distribution elimină automat halo (Halo) și horns (Horns)",
             "c": "Appraisal = managementul performanței — nu sunt identice",
             "d": "Scalele grafice simple sunt mereu obiective"
           },
@@ -79683,7 +79683,7 @@
             "c",
             "d"
           ],
-          "explanation": "Toate patru capcane EPP: BARS/BOS invers, appraisal≠management, forced nu elimină erori, scale simple nu sunt obiective.",
+          "explanation": "Adevărat: Karasek — demands mari + control mic = stres maxim (job activ = demands și control ridicate).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79699,7 +79699,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Adevărat: Karasek — demands mari + control mic = stres maxim (job activ = demands și control ridicate).",
+          "explanation": "JD-R: demands fără resurse → burnout; resurse → engagement (abd). Demands și resources nu sunt același lucru (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79719,7 +79719,7 @@
             "b",
             "c"
           ],
-          "explanation": "JD-R: demands fără resurse → burnout; resurse → engagement (abd). Demands și resources nu sunt același lucru (c).",
+          "explanation": "Challenge = creștere cu sens; hindrance = obstacol frustrant (abd). Nu sunt la fel (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79739,7 +79739,7 @@
             "b",
             "c"
           ],
-          "explanation": "Challenge = creștere cu sens; hindrance = obstacol frustrant (abd). Nu sunt la fel (c).",
+          "explanation": "Capcana inversată: c — challenge vs hindrance sunt schimbate. Karasek și stresor≠stres sunt corecte în celelalte variante.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79757,7 +79757,7 @@
           "correct": [
             "b"
           ],
-          "explanation": "Capcana inversată: c — challenge vs hindrance sunt schimbate. Karasek și stresor≠stres sunt corecte în celelalte variante.",
+          "explanation": "Value fit ⊂ P–E fit mai larg; potrivire valorică slabă poate crește stresul și intenția de plecare (abd). Nu sunt mereu sinonime (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79777,7 +79777,7 @@
             "c",
             "d"
           ],
-          "explanation": "Value fit ⊂ P–E fit mai larg; potrivire valorică slabă poate crește stresul și intenția de plecare (abd). Nu sunt mereu sinonime (c).",
+          "explanation": "Sinteză capcane: toate perechile din grila ta de examen sunt corect formulate în abcd — memorează-le ca perechi, nu izolat.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79788,7 +79788,7 @@
           "options": {
             "a": "Description/specification; knowledge/ability; screening/comprehensive",
             "b": "OCB/CWB; spill-over/cross-over; turnover/intenție plecare",
-            "c": "Appraisal/management; BARS/BOS; halo/horns; primacy/recency; demands/resources; challenge/hindrance",
+            "c": "Appraisal/management; BARS/BOS; halo (Halo)/horns (Horns); primacy/recency; demands/resources; challenge/hindrance",
             "d": "Sensibilitate/specificitate; deficiență/contaminare; task/contextual"
           },
           "kind": "multi",
@@ -79798,7 +79798,7 @@
             "c",
             "d"
           ],
-          "explanation": "Sinteză capcane: toate perechile din grila ta de examen sunt corect formulate în abcd — memorează-le ca perechi, nu izolat.",
+          "explanation": "Toate patru afirmații sunt capcane de respins: specification≠sarcini, sensibilitate/specificitate inversate, spill-over≠cross-over, Karasek stres maxim la control mic nu mare.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79819,7 +79819,7 @@
             "c",
             "d"
           ],
-          "explanation": "Toate patru afirmații sunt capcane de respins: specification≠sarcini, sensibilitate/specificitate inversate, spill-over≠cross-over, Karasek stres maxim la control mic nu mare.",
+          "explanation": "",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true

@@ -477,10 +477,10 @@ SELECTIE_PERSONAL_ITEMS: List[Item] = [
             "selecție?"
         ),
         "options": [
-            "sensibilitate ridicată → mai puține false negative",
-            "specificitate ridicată → mai puține false positive",
-            "sensibilitate ridicată → mai puține false positive",
-            "specificitate ridicată → mai multe false negative garantat",
+            "procedura prinde mai bine candidații buni → mai puține respingeri greșite",
+            "procedura respinge mai bine candidații slabi → mai puține angajări greșite",
+            "procedura prinde mai bine candidații buni → mai puține angajări greșite",
+            "procedura respinge candidații slabi → garantat mai multe respingeri greșite",
         ],
         "correct": "ab",
     },
@@ -554,10 +554,10 @@ SELECTIE_PERSONAL_ITEMS: List[Item] = [
             "În logică de testare, asocierea corectă este:"
         ),
         "options": [
-            "sensibilitate — detectează pe cei buni; reduce false negative",
-            "specificitate — elimină pe cei nepotriviți; reduce false positive",
-            "sensibilitate — elimină pe cei nepotriviți; reduce false positive",
-            "specificitate — detectează pe cei buni; reduce false negative",
+            "detectează pe cei buni; reduce respingerile greșite",
+            "elimină pe cei nepotriviți; reduce angajările greșite",
+            "elimină pe cei nepotriviți; reduce respingerile greșite",
+            "detectează pe cei buni; reduce angajările greșite",
         ],
         "correct": "ab",
     },
@@ -892,11 +892,10 @@ SELECTIE_PERSONAL_ITEMS: List[Item] = [
             "cu selecție comprehensive?"
         ),
         "options": [
-            "filtru automat pe cuvinte cheie în CV — screening",
-            "test scurt online cu barem — screening",
-            "simulare de o zi întreagă a rolului — comprehensive",
-            "interviu de selecție structurat pe 2–3 ore cu exerciții simulate — "
-            "de regulă comprehensive, nu screening de masă",
+            "filtru automat pe cuvinte cheie în CV",
+            "test scurt online cu barem",
+            "simulare de o zi întreagă a rolului",
+            "interviu de selecție structurat pe 2–3 ore cu exerciții simulate",
         ],
         "correct": "abcd",
     },
@@ -907,10 +906,10 @@ SELECTIE_PERSONAL_ITEMS: List[Item] = [
             "rămași. Care încadrări sunt corecte?"
         ),
         "options": [
-            "etapa 1 — screening (rapidă, pe pool mare)",
-            "etapa 2 — comprehensive (mai profundă, pe finaliști)",
-            "etapa 1 — comprehensive, deoarece implică interviu",
-            "etapa 2 — screening, deoarece reduce numărul de candidați",
+            "interviu telefonic de 15 minute pentru toți candidații",
+            "probă de lucru de 2 ore doar pentru cei 12 rămași",
+            "interviu telefonic ca evaluare profundă a competențelor",
+            "probă de lucru ca filtru rapid pe pool mare",
         ],
         "correct": "ab",
     },
@@ -930,10 +929,10 @@ SELECTIE_PERSONAL_ITEMS: List[Item] = [
             "→ 8 angajați. Care perechi etapă–tip selecție sunt corecte?"
         ),
         "options": [
-            "filtru studii + test scurt — screening",
-            "assessment center cu role-play — comprehensive",
-            "test scurt pe 400 de persoane — comprehensive de înaltă fidelitate",
-            "role-play pe finaliști — screening rapid și ieftin",
+            "filtru studii + test scurt pe pool mare",
+            "assessment center cu role-play pe finaliști",
+            "test scurt pe 400 de persoane ca evaluare profundă",
+            "role-play pe finaliști ca filtru rapid și ieftin",
         ],
         "correct": "ab",
     },

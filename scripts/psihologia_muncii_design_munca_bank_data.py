@@ -150,11 +150,11 @@ DESIGN_MUNCII_ITEMS: List[Item] = [
             "descrierea ei în modelul Hackman–Oldham?"
         ),
         "options": [
-            "task identity — angajatul vede un produs finit al muncii sale",
-            "task significance — munca pare importantă pentru alții",
-            "skill variety — postul folosește o singură deprindere repetată",
-            "feedback — informații despre rezultate doar la nivel de echipă, "
-            "fără legătură cu sarcina individuală",
+            "angajatul vede un produs finit al muncii sale",
+            "munca pare importantă pentru alții",
+            "postul folosește o singură deprindere repetată",
+            "informații despre rezultate doar la nivel de echipă, fără legătură "
+            "cu sarcina individuală",
         ],
         "correct": "ab",
     },
@@ -682,10 +682,10 @@ DESIGN_MUNCII_ITEMS: List[Item] = [
             "Hackman–Oldham și care resurse din modelul cerințe–resurse (JD-R)?"
         ),
         "options": [
-            "task significance și feedback — Hackman–Oldham",
-            "autonomy — Hackman–Oldham",
-            "suport/mentorat și clarificarea rolului — resurse din modelul "
-            "cerințe–resurse (JD-R)",
+            "clarificarea impactului muncii asupra echipei și raport săptămânal "
+            "de rezultate",
+            "libertatea în ordinea sarcinilor",
+            "acces la mentorat și reducerea ambiguității rolului",
             "mentoratul este job demand, deoarece consumă timp",
         ],
         "correct": "abc",

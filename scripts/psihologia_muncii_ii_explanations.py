@@ -1393,10 +1393,6 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "aduse de angajat."
     ),
     (
-        "Socializare: norme, valori firmei, mentorat — corect. Nu înlocuiește "
-        "total valorile personale aduse la angajare."
-    ),
-    (
         "Aculturație = adaptare la cultură nouă, păstrând parțial valorile. "
         "Nu renunțare totală."
     ),
@@ -1413,8 +1409,17 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "unui membru nou contrazice groupthink."
     ),
     (
-        "Universalism = mediu, egalitate; bunăvoință = grijă față de apropiați. "
-        "Putere și realizare sunt orientări egoiste/competitive."
+        "1. Transcenderea interesului propriu (Self-Transcendence)\n"
+        "Preocupare pentru binele altora și al societății — nu pentru succes "
+        "personal sau dominare.\n\n"
+        "✅ Universalism: egalitate, justiție socială, protecția mediului, "
+        "pace, toleranță. Ex.: „E important să protejăm natura și o societate "
+        "echitabilă.”\n\n"
+        "✅ Bunăvoință: grijă pentru familie și prieteni, loialitate, "
+        "ajutorarea celor apropiați. Ex.: „Vreau să am grijă de oamenii "
+        "apropiați mie.”\n\n"
+        "❌ Putere și Realizare țin de interesul propriu (Self-Enhancement), "
+        "nu de Self-Transcendence — de aceea nu sunt corecte aici."
     ),
     (
         "Capcană: socializarea nu obligă abandon total; aculturația există "
@@ -1693,16 +1698,17 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "specific (abd). Nu elimină complet subiectivitatea (c)."
     ),
     (
-        "Adevărat: halo ridică toate scorurile după impresie +; horns le "
-        "coboară după impresie −."
+        "Adevărat: halo (Halo) = impresie pozitivă globală ridică toate "
+        "scorurile; horns (Horns / coarne) = impresie negativă globală le "
+        "coboară pe toate."
     ),
     (
-        "Prezentare excelentă → note mari peste tot, inclusiv unde e mediocru "
-        "= efect halo."
+        "Prezentare excelentă → impresie pozitivă globală → note mari peste "
+        "tot = efect halo (Halo)."
     ),
     (
-        "O greșeală gravă recentă domină și ignoră lunile bune = horns "
-        "(impresie negativă globală)."
+        "Greșeală gravă → impresie negativă globală → note mici peste tot = "
+        "horns (Horns), nu halo."
     ),
     (
         "Lenitate = note prea mari; severitate = note prea mici (ab). "
@@ -1721,12 +1727,13 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "perioadei domină."
     ),
     (
-        "Favorizarea celor asemănători ca stil/hobby = similar-to-me, nu "
-        "halo pe tot departamentul."
+        "Similar-to-me = favorizează asemănarea. Halo (b) e altă eroare — "
+        "impresie pozitivă globală, nu preferință pentru hobby-uri comune."
     ),
     (
-        "Toate patru perechi eroare–efect sunt corecte: halo, horns, recency, "
-        "primacy."
+        "Halo = impresie pozitivă globală ridică toate scorurile; horns = "
+        "impresie negativă globală le scade; recență = finalul perioadei; "
+        "primacy = începutul — toate patru corecte."
     ),
     (
         "Primacy = începutul; recency = sfârșitul — erori diferite (abd). "
@@ -1742,13 +1749,13 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "asemănarea, nu performanța (abd)."
     ),
     (
-        "Forced distribution poate reduce indulgența, dar halo, recența și "
-        "similar-to-me pot persista (abd)."
+        "Forced distribution reduce indulgența, dar halo (Halo), horns "
+        "(Horns), recența și similar-to-me pot persista (abd)."
     ),
     (
-        "Prezentare → halo; conflict recent → horns/recență; evitare extreme "
-        "→ central tendency; preferință personală → similar-to-me — toate "
-        "corecte."
+        "Prezentare → halo (impresie pozitivă globală); conflict → horns "
+        "(impresie negativă globală) sau recență; extreme evitate → central "
+        "tendency; asemănare → similar-to-me."
     ),
     (
         "Severitate = note prea mici; lenitate = prea mari (abd). Severitate "
@@ -1772,8 +1779,9 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "interacțională; rezultatul poate implica și distributivă (abc)."
     ),
     (
-        "Appraisal vs management, BARS vs BOS, halo vs horns, primacy vs "
-        "recency — toate perechile corecte (abcd)."
+        "Appraisal vs management, BARS vs BOS, halo vs horns (pozitiv global "
+        "vs negativ global), primacy vs recency — toate perechile corecte "
+        "(abcd)."
     ),
     (
         "Screening/comprehensive = selecție. Deficiență = lipsește relevant; "
@@ -1927,12 +1935,14 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "capcana frecventă (d)."
     ),
     (
-        "Capcana inversată: d — halo ridică scorurile, horns le coboară. "
-        "Restul perechilor sunt corecte."
+        "Capcana inversată: d — halo (Halo) ridică scorurile după impresie "
+        "pozitivă globală; horns (Horns) le coboară după impresie negativă "
+        "globală."
     ),
     (
         "Toate patru capcane EPP: BARS/BOS invers, appraisal≠management, "
-        "forced nu elimină erori, scale simple nu sunt obiective."
+        "forced nu elimină halo (Halo) și horns (Horns), scale simple nu sunt "
+        "obiective."
     ),
     (
         "Adevărat: Karasek — demands mari + control mic = stres maxim "

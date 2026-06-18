@@ -35,11 +35,10 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "Care funcții ale evaluării performanțelor sunt corect asociate?"
         ),
         "options": [
-            "administrativă — salariu, bonus, promovare, uneori concediere",
-            "de dezvoltare — coaching, feedback, identificarea nevoilor de "
-            "training",
-            "de dezvoltare — exclude orice feedback către angajat",
-            "administrativă — leagă performanța de recompense și decizii HR",
+            "salariu, bonus, promovare, uneori concediere",
+            "coaching, feedback, identificarea nevoilor de training",
+            "exclude orice feedback către angajat",
+            "leagă performanța de recompense și decizii HR",
         ],
         "correct": "abd",
     },
@@ -50,9 +49,9 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "angajatul crește. Ce funcție predomină — și ce lipsește?"
         ),
         "options": [
-            "funcție administrativă — predomină",
-            "funcție de dezvoltare — lipsește sau e slabă",
-            "funcție de dezvoltare — predomină",
+            "predomină folosirea pentru decizii de salariu și promovare",
+            "lipsește discuția despre creștere și competențe de dezvoltat",
+            "predomină coaching și feedback pentru dezvoltare",
             "evaluarea nu are nicio funcție administrativă",
         ],
         "correct": "ab",
@@ -89,9 +88,9 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "de dezvoltare?"
         ),
         "options": [
-            "nota determină bonusul anual — administrativă",
-            "discuția identifică competențe de îmbunătățit — dezvoltare",
-            "evaluarea stabilește promovarea — administrativă",
+            "nota determină bonusul anual",
+            "discuția identifică competențe de îmbunătățit",
+            "evaluarea stabilește promovarea",
             "evaluarea exclude autoevaluarea — nu e regulă generală",
         ],
         "correct": "abc",
@@ -206,7 +205,7 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "colegi — perspective pe colaborare; risc de favoritism reciproc",
             "subordonați — văd stilul de leadership; poate fi intimidant",
             "clienți — văd calitatea serviciului; acces mai greu",
-            "superior — mereu fără efect halo",
+            "superior — imun la efectul halo (Halo) — capcană",
         ],
         "correct": "abc",
     },
@@ -218,7 +217,7 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
         "options": [
             "sunt ușor de administrat",
             "sunt vulnerabile la subiectivitatea evaluatorului",
-            "elimină complet efectul halo",
+            "elimină complet efectul halo (Halo) — nerealist",
             "nu folosesc ancore comportamentale — spre deosebire de BARS",
         ],
         "correct": "abd",
@@ -316,10 +315,10 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "Asociază corect metoda cu esențialul ei:"
         ),
         "options": [
-            "scale grafice — simplu, dar subiectiv",
-            "BARS — ancorat în comportamente, calitate",
-            "BOS — observare, frecvență comportamente",
-            "MBO — evaluare după obiective",
+            "simplu, dar subiectiv",
+            "ancorat în comportamente, calitate",
+            "observare, frecvență comportamente",
+            "evaluare după obiective",
         ],
         "correct": "abcd",
     },
@@ -391,8 +390,8 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "Eroarea probabilă:"
         ),
         "options": [
-            "efect halo (Halo)",
-            "efect coarne (Horns)",
+            "efect halo (Halo) — impresie pozitivă globală ridică toate scorurile",
+            "efect coarne (Horns) — impresie negativă globală scade toate scorurile",
             "lenitate generală (Leniency)",
             "tendință centrală (Central Tendency)",
         ],
@@ -404,8 +403,8 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "și notează slab peste tot. Eroarea:"
         ),
         "options": [
-            "efect coarne (Horns)",
-            "efect halo (Halo)",
+            "efect coarne (Horns) — impresie negativă globală scade toate scorurile",
+            "efect halo (Halo) — impresie pozitivă globală ridică toate scorurile",
             "recență (Recency)",
             "similar cu mine (Similar-to-Me)",
         ],
@@ -417,10 +416,10 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "excesivă?"
         ),
         "options": [
-            "lenitate (Leniency) — note prea mari",
-            "severitate (Severity) — note prea mici",
-            "tendință centrală — toți în mijloc",
-            "primacy — doar începutul contează",
+            "note sistematic prea mari",
+            "note sistematic prea mici",
+            "toți primiți spre mijlocul scalei",
+            "contează exagerat doar începutul perioadei",
         ],
         "correct": "ab",
     },
@@ -444,7 +443,7 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
         "options": [
             "recență (Recency)",
             "primacy — începutul perioadei",
-            "efect halo",
+            "efect halo (Halo) — impresie pozitivă globală",
             "distribuție forțată",
         ],
         "correct": "a",
@@ -469,8 +468,8 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
         ),
         "options": [
             "similar cu mine (Similar-to-Me)",
-            "efect halo pozitiv pe tot departamentul",
-            "tendință centrală",
+            "efect halo (Halo) — impresie pozitivă globală ridică toate scorurile",
+            "tendință centrală (Central Tendency)",
             "feedback 360° obligatoriu",
         ],
         "correct": "a",
@@ -480,8 +479,8 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "Care perechi eroare–efect sunt corecte?"
         ),
         "options": [
-            "halo — impresie + ridică toate scorurile",
-            "horns — impresie − scade toate scorurile",
+            "halo (Halo) — o impresie pozitivă globală ridică toate scorurile",
+            "horns (Horns / coarne) — o impresie negativă globală scade toate scorurile",
             "recență — contează prea mult finalul perioadei",
             "primacy — contează prea mult începutul perioadei",
         ],
@@ -504,11 +503,9 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "Care scenarii ilustrează erori diferite de evaluare?"
         ),
         "options": [
-            "toți primesc 4 din 5 indiferent de performanță — lenitate sau "
-            "tendință centrală spre sus",
-            "un singur incident recent domină nota — recență",
-            "evaluatorul evită extreme și pune pe toți „mediu” — tendință "
-            "centrală",
+            "toți primesc 4 din 5 indiferent de performanță",
+            "un singur incident recent domină nota",
+            "evaluatorul evită extreme și pune pe toți „mediu”",
             "BARS elimină automat toate erorile",
         ],
         "correct": "abc",
@@ -533,9 +530,9 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
         ),
         "options": [
             "reduce indulgența prin diferențiere forțată",
-            "nu elimină halo, recența sau similar-to-me",
+            "nu elimină halo (Halo) sau horns (Horns), recența sau similar-to-me",
             "elimină automat toate erorile cognitive",
-            "halo poate persista în sub-criterii",
+            "halo (Halo) sau horns (Horns) pot persista în sub-criterii",
         ],
         "correct": "abd",
     },
@@ -544,10 +541,11 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "Care eroare este cel mai probabilă în fiecare situație?"
         ),
         "options": [
-            "prezentare strălucitoare → note mari la toate criteriile — halo",
-            "conflict recent → note mici la toate — horns sau recență",
-            "evitarea notelor extreme — tendință centrală",
-            "preferință pentru angajați ca evaluatorul — similar-to-me",
+            "prezentare strălucitoare → impresie pozitivă globală → note mari "
+            "la toate criteriile",
+            "conflict recent → impresie negativă globală → note mici la toate",
+            "evaluatorul evită extreme și pune pe toți spre mijloc",
+            "preferință pentru angajați cu același stil ca evaluatorul",
         ],
         "correct": "abcd",
     },
@@ -571,7 +569,7 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
         "options": [
             "severitate (Severity)",
             "lenitate (Leniency)",
-            "efect halo",
+            "efect halo (Halo) — impresie pozitivă globală",
             "managementul obiectivelor (MBO)",
         ],
         "correct": "a",
@@ -583,10 +581,10 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "proces corect, respect în feedback?"
         ),
         "options": [
-            "distributivă — rezultat/recompense",
-            "procedurală — pași clari și consistenți",
-            "interacțională — comunicare respectuoasă",
-            "interacțională — doar mărimea bonusului",
+            "rezultat/recompense echitabile",
+            "pași clari și consistenți în proces",
+            "comunicare respectuoasă în feedback",
+            "doar mărimea bonusului, fără respect",
         ],
         "correct": "abc",
     },
@@ -595,10 +593,10 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "Care caracteristici descriu feedbackul eficient în EPP?"
         ),
         "options": [
-            "specific — comportamente concrete, nu etichete vagi",
-            "la timp — apropiat de eveniment",
-            "orientat spre comportament, nu spre atac la persoană",
-            "vag și global — „trebuie să te pretenți”",
+            "comportamente concrete, nu etichete vagi",
+            "aproape de momentul evenimentului",
+            "descrie acțiuni, nu atacă persoana",
+            "formulări vagi și globale",
         ],
         "correct": "abc",
     },
@@ -609,10 +607,10 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "sunt implicate?"
         ),
         "options": [
-            "procedurală — proces clar",
-            "interacțională — comunicare respectuoasă",
-            "distributivă — poate fi și ea relevantă pentru rezultat",
-            "doar efect halo — nu e justiție",
+            "proces transparent și explicat",
+            "comunicare respectuoasă a notei",
+            "percepția echității rezultatului/recompensei",
+            "doar efect halo (Halo) — nu e tip de justiție",
         ],
         "correct": "abc",
     },
@@ -624,7 +622,8 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "evaluarea performanței (Appraisal) vs managementul performanței "
             "— punctual vs sistem continuu",
             "BARS — calitate ancorată în comportamente; BOS — frecvență",
-            "halo — impresie pozitivă; horns — impresie negativă",
+            "halo (Halo) — impresie pozitivă globală ridică scorurile",
+            "horns (Horns / coarne) — impresie negativă globală le scade",
             "primacy — început; recency — final",
         ],
         "correct": "abcd",
@@ -649,10 +648,10 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "mai bine această regulă?"
         ),
         "options": [
-            "„Ești prost” — încalcă orientarea spre comportament",
-            "„La raportul din 12 martie, datele erau incomplete” — specific",
-            "„Niciodată nu ești punctual” — generalizare absolută",
-            "după un an — prea târziu pentru feedback util",
+            "„Ești prost”",
+            "„La raportul din 12 martie, datele erau incomplete”",
+            "„Niciodată nu ești punctual”",
+            "feedback dat la un an după eveniment",
         ],
         "correct": "b",
     },
@@ -661,7 +660,8 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
             "Care intervenții reduc erorile de evaluare?"
         ),
         "options": [
-            "training pentru evaluatori despre halo, recență, lenitate",
+            "training pentru evaluatori despre halo (Halo), horns (Horns), "
+            "recență, lenitate",
             "BARS sau BOS pentru criterii mai clare",
             "jurnal de observații pe tot anul, nu doar ultimele săptămâni",
             "eliminarea oricărui feedback scris — agravează subiectivitatea",
@@ -671,7 +671,8 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
     {
         "stem": (
             "Un HR proiectează EPP: obiective trimestriale, BARS pe "
-            "comportamente cheie, training anti-halo pentru șefi, feedback "
+            "comportamente cheie, training anti-halo (Halo) și anti-horns "
+            "(Horns) pentru șefi, feedback "
             "360° pentru manageri. Combinația urmărește:"
         ),
         "options": [
@@ -755,8 +756,8 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
         "options": [
             "EPP = apreciere sistematică; funcții administrativă și dezvoltare",
             "metode: scale, BARS, BOS, MBO, forced distribution, mixed standard",
-            "erori: halo, horns, leniency, severity, central tendency, recency, "
-            "primacy, similar-to-me",
+            "erori: halo (Halo), horns (Horns), leniency, severity, central "
+            "tendency, recency, primacy, similar-to-me",
             "justiția interacțională = doar mărimea bonusului",
         ],
         "correct": "abc",

@@ -94,11 +94,10 @@ FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS: List[Item] = [
             "Care scenarii ilustrează turnover voluntar, respectiv involuntar?"
         ),
         "options": [
-            "angajatul demisionează pentru un salariu mai bun — voluntar",
-            "firma îl concediază pentru abateri repetate — involuntar",
-            "angajatul pleacă după ce a găsit alt job — voluntar",
-            "contractul expiră și nu este prelungit la inițiativa angajatorului "
-            "— involuntar",
+            "angajatul demisionează pentru un salariu mai bun",
+            "firma îl concediază pentru abateri repetate",
+            "angajatul pleacă după ce a găsit alt job",
+            "contractul expiră și nu este prelungit la inițiativa angajatorului",
         ],
         "correct": "abcd",
     },
@@ -491,12 +490,10 @@ FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS: List[Item] = [
             "Asociază corect dimensiunea cu exemplul:"
         ),
         "options": [
-            "Work Itself — „Sarcinile mele sunt variate și îmi folosesc "
-            "competențele”",
-            "Policies/Procedures — „Regulile interne sunt clare și corecte”",
-            "Contingent rewards — „Cei care muncesc mai mult sunt recompensați "
-            "corect”",
-            "Promotion — „Știu exact cât plătesc colegii din alt departament”",
+            "„Sarcinile mele sunt variate și îmi folosesc competențele”",
+            "„Regulile interne sunt clare și corecte”",
+            "„Cei care muncesc mai mult sunt recompensați corect”",
+            "„Știu exact cât plătesc colegii din alt departament”",
         ],
         "correct": "abc",
     },
@@ -623,11 +620,10 @@ FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS: List[Item] = [
             "Care exemple ilustrează spill-over, respectiv cross-over?"
         ),
         "options": [
-            "stresul de la job îmi afectează dispoziția acasă — spill-over",
-            "nemulțumirea partenerului mă influențează și pe mine — cross-over",
-            "plec de la firmă A la firmă B — turnover voluntar",
-            "mă simt bine la job și asta îmi îmbunătățește seara acasă — "
-            "spill-over",
+            "stresul de la job îmi afectează dispoziția acasă",
+            "nemulțumirea partenerului mă influențează și pe mine",
+            "plec de la firmă A la firmă B",
+            "mă simt bine la job și asta îmi îmbunătățește seara acasă",
         ],
         "correct": "abd",
     },
@@ -666,10 +662,10 @@ FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS: List[Item] = [
             "commitment)?"
         ),
         "options": [
-            "rămâi pentru că vrei — identificare cu organizația",
+            "rămâi pentru că vrei și te identifici cu organizația",
             "implicare emoțională față de firmă, nu doar obligație",
-            "rămâi doar pentru că nu ai oferte alternative (continuance)",
-            "rămâi pentru că șeful are autoritate formală (compliance)",
+            "rămâi doar pentru că nu ai oferte alternative",
+            "rămâi pentru că șeful are autoritate formală",
         ],
         "correct": "ab",
     },
