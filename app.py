@@ -98,7 +98,7 @@ def bank_path_fallback() -> Path:
     return BANK_MD_DEFAULT
 
 
-WORDING_VERSION = "124"  # Cloud: sync loturi în memorie fără write questions.json
+WORDING_VERSION = "127"  # +35 itemi capcane grilă PM II
 
 
 def _questions_cache_key() -> str:
@@ -160,6 +160,9 @@ def _questions_cache_key() -> str:
         APP_DIR / "scripts" / "psihologia_muncii_selectie_bank_data.py",
         APP_DIR / "scripts" / "psihologia_muncii_performanta_bank_data.py",
         APP_DIR / "scripts" / "psihologia_muncii_fluctuatie_satisfactie_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_muncii_value_fit_stres_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_muncii_epp_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_muncii_capcane_grile_bank_data.py",
         APP_DIR / "scripts" / "psihologia_muncii_design_munca_bank_data.py",
         APP_DIR / "scripts" / "psihologia_muncii_ii_explanations.py",
         APP_DIR / "scripts" / "exam_ii_plausible_distractors.py",
@@ -277,7 +280,7 @@ def _resolve_explanation(qid: int, lot: str, explanation: str) -> str:
         from scripts.evaluare_psihologica_ii_explanations import explanation_for_exam_id
 
         return explanation_for_exam_id(int(qid))
-    if 9501 <= int(qid) <= 9815:
+    if 9501 <= int(qid) <= 9970:
         from scripts.psihologia_muncii_ii_explanations import explanation_for_exam_id
 
         return explanation_for_exam_id(int(qid))
@@ -442,7 +445,7 @@ def _build_result_item(q: Q, selected: Sequence[str]) -> Dict[str, Any]:
     if explanation:
         explanation = (
             _exam_explanation(explanation)
-            if 9001 <= q.id <= 9360 or 9501 <= q.id <= 9815
+            if 9001 <= q.id <= 9360 or 9501 <= q.id <= 9970
             else polish_text(explanation)
         )
     return {

@@ -1,4 +1,4 @@
-"""Explicații pedagogice — lot examen Psihologia muncii II (315 itemi)."""
+"""Explicații pedagogice — lot examen Psihologia muncii II (470 itemi)."""
 
 from __future__ import annotations
 
@@ -1339,12 +1339,636 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "Sinteză finală: satisfacție job, angajament afectiv, intenție "
         "ca predictor, promovare la intenția de plecare — toate corecte."
     ),
+    # 316–375 Value Fit & Stres
+    (
+        "Value Fit = aliniere valori personale ↔ organizație. Efecte tipice: "
+        "satisfacție↑, angajament↑, performanță↑, turnover↓."
+    ),
+    (
+        "Aliniere valori, efecte pozitive pe satisfacție, angajament, "
+        "performanță, retenție. Nu e același lucru cu potrivirea KSAO."
+    ),
+    (
+        "Adevărat: valorile sunt convingeri despre ce contează — nu aptitudini, "
+        "trăsături sau emoții."
+    ),
+    (
+        "Toate patru distincții corecte. Valorile ghidează ce e important; "
+        "abilitățile/trăsăturile/emoțiile sunt constructe diferite."
+    ),
+    (
+        "Competiție ascunsă vs transparență = mismatch valoric → insatisfacție "
+        "și angajament scăzut. Groupthink nu e problema directă aici."
+    ),
+    (
+        "Capcană: valorile ≠ Big Five. Restul sunt adevărate despre valori "
+        "și socializare."
+    ),
+    (
+        "Valorile dau sens; conflict valoric epuizează; salariul nu anulează "
+        "disonanța. Fit bun susține angajamentul afectiv."
+    ),
+    (
+        "Capcană: value fit nu se măsoară prin teste de aptitudine — e despre "
+        "convingeri și aliniere culturală."
+    ),
+    (
+        "Schwartz: autodirecționare, universalism, putere, realizare, "
+        "bunăvoință, conformitate — da. Extraversiune/Neuroticism = Big Five."
+    ),
+    (
+        "Hedonism = plăcere; stimulare = noutate/provocare. Tradiție și "
+        "securitate sunt alte valori Schwartz."
+    ),
+    (
+        "Securitate, conformitate, tradiție = orientare spre ordine și "
+        "siguranță. Autodirecționarea e despre independență."
+    ),
+    (
+        "Socializarea = învățare norme/cultură; poate crește fit. Nu înlocuiește "
+        "total valorile personale. Include onboarding și mentorat."
+    ),
+    (
+        "Onboarding și mentorat ajută la fit. Nu înlocuiește complet valorile "
+        "aduse de angajat."
+    ),
+    (
+        "Socializare: norme, valori firmei, mentorat — corect. Nu înlocuiește "
+        "total valorile personale aduse la angajare."
+    ),
+    (
+        "Aculturație = adaptare la cultură nouă, păstrând parțial valorile. "
+        "Nu renunțare totală."
+    ),
+    (
+        "Adaptare la cultură multinațională = aculturație + socializare. "
+        "Nu hobo sau groupthink."
+    ),
+    (
+        "Shared values → cooperare, dar risc groupthink — consens fără gândire "
+        "critică."
+    ),
+    (
+        "Groupthink = presiune de consens și evitarea contestării. Ascultarea "
+        "unui membru nou contrazice groupthink."
+    ),
+    (
+        "Universalism = mediu, egalitate; bunăvoință = grijă față de apropiați. "
+        "Putere și realizare sunt orientări egoiste/competitive."
+    ),
+    (
+        "Capcană: socializarea nu obligă abandon total; aculturația există "
+        "distinct — adaptare parțială."
+    ),
+    (
+        "Sinteză: Value Fit, socializare, aculturație, shared values + risc "
+        "groupthink — toate corecte."
+    ),
+    (
+        "Adevărat: stres = reacție când cerințele depășesc resursele — nu "
+        "evenimentul brut."
+    ),
+    (
+        "Stres = dezechilibru cerințe–resurse, subiectiv, cu componentă "
+        "psiho și somatică. Nu e identic la toți."
+    ),
+    (
+        "GAS Selye: alarmă → rezistență → epuizare. Singura ordine corectă."
+    ),
+    (
+        "Alarmă, rezistență, epuizare — corect. Rezistența nu e absența "
+        "reacției."
+    ),
+    (
+        "P–E Fit: nepotrivire persoană–mediu → stres. Include valori, "
+        "cerințe, abilități."
+    ),
+    (
+        "Introvert + vânzări agresiv + zgomot = P–E Fit slab și cerințe > "
+        "resurse."
+    ),
+    (
+        "Capcană: stresul nu e identic cu evenimentul — depinde de resurse și "
+        "evaluare."
+    ),
+    (
+        "Epuizarea GAS = resurse consumate, burnout, sănătate și performanță "
+        "afectate."
+    ),
+    (
+        "Cerințe mari + resurse mici = stres; resursele includ sprijin și "
+        "control; percepția contează."
+    ),
+    (
+        "Adevărat: rezistența e temporară; stres cronic → epuizare."
+    ),
+    (
+        "Value fit slab și conflict valoric pot stresa; fit perfect nu elimină "
+        "volumul de muncă."
+    ),
+    (
+        "Reorganizare → alarmă → rezistență → epuizare = arc GAS clasic."
+    ),
+    (
+        "Karasek stres maxim: cerințe mari + control mic. Job activ = cerințe "
+        "mari + control mare."
+    ),
+    (
+        "Job activ Karasek = solicitant dar cu autonomie — poate fi "
+        "stimulativ, nu maxim stresant."
+    ),
+    (
+        "Evaluare primară Lazarus: pericol sau oportunitate? „Pot face față?” "
+        "e secundară."
+    ),
+    (
+        "Lazarus: primară → secundară → coping. Secundara nu vine înainte de "
+        "percepția evenimentului."
+    ),
+    (
+        "Adevărat: coping problemă = schimbă situația; coping emoție = "
+        "reglează reacția."
+    ),
+    (
+        "Negociere deadline = problemă; meditație după conflict = emoție; "
+        "reprioritizare = problemă."
+    ),
+    (
+        "Amenințare → resurse prin exersare → acțiune = Lazarus + coping "
+        "pe problemă."
+    ),
+    (
+        "Capcană: cerințe mari + control mare (job activ) nu e automat maxim "
+        "stresant — autonomia ajută."
+    ),
+    (
+        "Resurse insuficiente → coping emoție sau problemă (sprijin, "
+        "replanificare)."
+    ),
+    (
+        "Karasek: cerințe mari + control mic = cel mai stresant; exemplu "
+        "ritm impus fără autonomie."
+    ),
+    (
+        "Karasek–Demand–Control, Lazarus–coping, Selye–GAS, Schwartz–valori — "
+        "toate corecte."
+    ),
+    (
+        "Fals: primară = periculos?; secundară = pot face față? — ordinea "
+        "e inversată în capcană."
+    ),
+    (
+        "Tip A: competitiv, grăbit, ostil, risc cardiovascular. Tip B: opus. "
+        "Nu lipsă de ambiție la Tip A."
+    ),
+    (
+        "Challenge = dezvoltare, responsabilitate; hindrance = birocrație, "
+        "ambiguitate, blocaje — toate corecte."
+    ),
+    (
+        "Proiect dificil cu sens = challenge — poate motiva dacă resurse ok."
+    ),
+    (
+        "Birocrație și ambiguitate rol = hindrance — consumă fără câștig."
+    ),
+    (
+        "Challenge poate motiva; hindrance e frustrant; distincția ghidează "
+        "HR. Nu toți stresorii sunt egali."
+    ),
+    (
+        "Capcană: Tip A/B nu sunt factori Big Five — sunt pattern-uri "
+        "comportamentale."
+    ),
+    (
+        "Inovație vs securitate/tradiție = value fit slab, P–E Fit valoric, "
+        "nevoie de aculturație."
+    ),
+    (
+        "Autonomie la cerințe mari, reducere hindrance, clarificare rol — "
+        "intervenții Karasek/P–E."
+    ),
+    (
+        "Sinteză corectă: value fit, stres cerințe>resurse, GAS. Groupthink "
+        "nu e beneficiu garantat."
+    ),
+    (
+        "Toate patru capcane clasice — respinge-le: valori≠trăsături, "
+        "stres≠eveniment, Karasek activ, aculturație totală."
+    ),
+    (
+        "Dissent constructiv evită groupthink fără a distruge coeziunea sau "
+        "value fit."
+    ),
+    (
+        "Lazarus: stresor→evaluări→coping; P–E mismatch→stres; GAS pe "
+        "termen lung. Fit perfect nu elimină volumul."
+    ),
+    (
+        "Schwartz, socializare, Karasek, challenge/hindrance — sinteză "
+        "corectă în abc."
+    ),
+    (
+        "Competitivitate firmă vs bunăvoință; onboarding→fit; hindrance+Karasek. "
+        "Groupthink nu e garantat pozitiv."
+    ),
+    (
+        "Valorile, stresul, Lazarus, challenge/hindrance — corecte. Tip A/B "
+        "inversat în capcană d."
+    ),
+    # 376–435 — Evaluarea performanțelor (EPP), 9876–9935
+    (
+        "Adevărat: EPP = apreciere sistematică a performanței, cu legături "
+        "clare spre promovare, recompense, instruire și dezvoltare."
+    ),
+    (
+        "EPP e sistematică (abc), nu doar numărare de piese fără feedback (d). "
+        "Leagă munca de decizii HR și de dezvoltare."
+    ),
+    (
+        "Administrativă = salariu, bonus, promovare (abd). Capcana c inversează "
+        "rolul funcției de dezvoltare."
+    ),
+    (
+        "Doar salariu fără discuție de creștere = administrativă predomină (a), "
+        "dezvoltare lipsește (b). Nu inversa funcțiile."
+    ),
+    (
+        "Funcția de dezvoltare aduce feedback, clarifică așteptări și planuri "
+        "individuale (abd). Administrativă nu înlocuiește trainingul."
+    ),
+    (
+        "Falsă: a — EPP nu trebuie limitată la rol administrativ; feedbackul "
+        "pentru creștere e parte legitimă a procesului."
+    ),
+    (
+        "Bonus/promovare = administrativă; competențe de îmbunătățit = "
+        "dezvoltare (abc). Excluderea autoevaluării nu e regulă generală."
+    ),
+    (
+        "Adevărat: EPP bună conectează măsurarea performanței de decizii HR "
+        "și de parcursul individual de dezvoltare."
+    ),
+    (
+        "Appraisal = evaluare punctuală/periodică; management = ciclu continuu "
+        "obiective–monitorizare–feedback–dezvoltare (abd). Nu sunt identici (c)."
+    ),
+    (
+        "Obiective trimestriale + feedback lunar + evaluare anuală = "
+        "managementul performanței — sistem, nu doar formular."
+    ),
+    (
+        "Surse uzuale: superior, colegi, subordonați, clienți, autoevaluare "
+        "(abc). Testele de la angajare singure nu înlocuiesc observația."
+    ),
+    (
+        "360° = surse multiple, imagine mai bogată, dar cost și interpretare "
+        "(abd). Nu e „mereu gratuit” (c)."
+    ),
+    (
+        "Superiorul observă direct, decide recompense, integrează obiective "
+        "(abd). Nu e automat obiectiv — poate avea halo sau alte erori."
+    ),
+    (
+        "Autoevaluarea implică angajatul și pregătește discuția (abd), dar "
+        "singură nu garantează obiectivitate (c e capcană)."
+    ),
+    (
+        "Exagerată: a — 360° nu elimină automat toate erorile; rămân bias-uri "
+        "și interpretări."
+    ),
+    (
+        "Colegi/subordonați/clienți aduc perspective utile, cu riscuri proprii "
+        "(abc). Superiorul nu e imun la halo (d)."
+    ),
+    (
+        "Scale grafice = simple, dar subiective (abd). Nu elimină halo (c) și "
+        "nu au ancore ca BARS."
+    ),
+    (
+        "BARS = scale ancorate în comportamente observabile, pe niveluri de "
+        "calitate — răspuns a."
+    ),
+    (
+        "BOS = frecvența comportamentelor observate (ab). Calitatea narativă "
+        "e specific BARS; obiectivele agregate = MBO."
+    ),
+    (
+        "BARS = calitate cu ancore; BOS = frecvență observată (ab). Nu sunt "
+        "identice și BOS se bazează pe observare."
+    ),
+    (
+        "MBO leagă evaluarea de obiective măsurabile agreate (ab), nu de "
+        "impresii globale sau curba forțată."
+    ),
+    (
+        "Forced distribution = categorii obligatorii, reduce leniency, dar "
+        "poate fi nedreaptă dacă toți performează bine (abd)."
+    ),
+    (
+        "Avantaje: diferențiere, mai puțină indulgență. Riscuri: nedreptate "
+        "percepută, demotivare (abd). Nu garantează echitate procedurală."
+    ),
+    (
+        "Mixed standard = exemple bune, medii, slabe ca reper (ab). Nu o "
+        "singură ancoră vagă și nu doar obiective financiare."
+    ),
+    (
+        "Toate patru asocieri metodă–esențial sunt corecte: scale, BARS, BOS, "
+        "MBO — memorează calitate vs frecvență la BARS/BOS."
+    ),
+    (
+        "„3 peste tot” pentru toți = tendință centrală — evită extreme, nu "
+        "neapărat indulgență sau halo."
+    ),
+    (
+        "Falsă: a inversează BARS (calitate) și BOS (frecvență). Restul "
+        "afirmațiilor despre BARS/BOS sunt corecte."
+    ),
+    (
+        "Ținte trimestriale clare pe vânzări/proiecte = MBO. Scale simple sau "
+        "forced fără criterii nu înlocuiesc obiectivele."
+    ),
+    (
+        "BARS reduce ambiguitatea prin ancore și facilitează feedback "
+        "specific (abd). Nu elimină complet subiectivitatea (c)."
+    ),
+    (
+        "Adevărat: halo ridică toate scorurile după impresie +; horns le "
+        "coboară după impresie −."
+    ),
+    (
+        "Prezentare excelentă → note mari peste tot, inclusiv unde e mediocru "
+        "= efect halo."
+    ),
+    (
+        "O greșeală gravă recentă domină și ignoră lunile bune = horns "
+        "(impresie negativă globală)."
+    ),
+    (
+        "Lenitate = note prea mari; severitate = note prea mici (ab). "
+        "Tendința centrală și primacy sunt alte erori."
+    ),
+    (
+        "Central tendency = spre mijloc; leniency = sistematic prea sus — "
+        "erori distincte (abd). Nu sunt „mereu note maxime” (c)."
+    ),
+    (
+        "Când doar ultimele săptămâni contează la evaluarea anuală = "
+        "recență."
+    ),
+    (
+        "Prima lună fixează opinia și ignoră evoluția = primacy — începutul "
+        "perioadei domină."
+    ),
+    (
+        "Favorizarea celor asemănători ca stil/hobby = similar-to-me, nu "
+        "halo pe tot departamentul."
+    ),
+    (
+        "Toate patru perechi eroare–efect sunt corecte: halo, horns, recency, "
+        "primacy."
+    ),
+    (
+        "Primacy = începutul; recency = sfârșitul — erori diferite (abd). "
+        "Nu sunt aceeași eroare (c)."
+    ),
+    (
+        "Lenitate/central tendency spre sus, recență după incident, evitarea "
+        "extremelor = scenarii plauzibile (abc). BARS nu elimină automat "
+        "erorile."
+    ),
+    (
+        "Similar-to-me subevaluează diferiții dar eficienți și favorizează "
+        "asemănarea, nu performanța (abd)."
+    ),
+    (
+        "Forced distribution poate reduce indulgența, dar halo, recența și "
+        "similar-to-me pot persista (abd)."
+    ),
+    (
+        "Prezentare → halo; conflict recent → horns/recență; evitare extreme "
+        "→ central tendency; preferință personală → similar-to-me — toate "
+        "corecte."
+    ),
+    (
+        "Severitate = note prea mici; lenitate = prea mari (abd). Severitate "
+        "nu înseamnă note mari (c)."
+    ),
+    (
+        "Note foarte mici deși țintele sunt atinse = severitate sistematică "
+        "a evaluatorului."
+    ),
+    (
+        "Distributivă = rezultat/recompense; procedurală = proces; "
+        "interacțională = respect în comunicare (abc). Bonusul nu e singurul "
+        "conținut al interacționalității."
+    ),
+    (
+        "Feedback eficient: specific, la timp, orientat pe comportament "
+        "(abc). Etichete vagi (d) încalcă regula."
+    ),
+    (
+        "Proces transparent = procedurală; explicație respectuoasă = "
+        "interacțională; rezultatul poate implica și distributivă (abc)."
+    ),
+    (
+        "Appraisal vs management, BARS vs BOS, halo vs horns, primacy vs "
+        "recency — toate perechile corecte (abcd)."
+    ),
+    (
+        "Screening/comprehensive = selecție. Deficiență = lipsește relevant; "
+        "contaminare = intră nerelevant (abc). Screening nu e BARS."
+    ),
+    (
+        "Exemplu bun: feedback specific pe raport („date incomplete la 12 "
+        "martie”). Atac personal, generalizări absolute sau întârziere de un "
+        "an sunt contra-productive."
+    ),
+    (
+        "Training evaluatori, BARS/BOS, jurnal pe tot anul reduc erori (abc). "
+        "Fără feedback scris crește subiectivitatea (d)."
+    ),
+    (
+        "Proiectul combină management performanță, criterii clare BARS, "
+        "training anti-bias și 360° pentru manageri (abc). Subiectivitatea "
+        "zero e nerealistă (d)."
+    ),
+    (
+        "Adevărat: MBO evaluează după obiective măsurabile agreate între "
+        "angajat și șef."
+    ),
+    (
+        "Adevărat: 360° adună evaluări din mai multe surse pentru imagine "
+        "mai completă."
+    ),
+    (
+        "Adevărat: justiția procedurală = corectitudinea procesului, nu "
+        "mărimea bonusului (asta ține mai mult de distributivă)."
+    ),
+    (
+        "Task vs contextual, OCB vs CWB, deficiență vs contaminare — corecte "
+        "(abc). Appraisal ≠ screening la angajare (d)."
+    ),
+    (
+        "Observație pe perioadă lungă reduce recența; BARS clarifică; ton "
+        "respectuos = justiție interacțională (abc)."
+    ),
+    (
+        "Knowledge vs ability, task vs contextual, turnover vs intenție, "
+        "description vs specification — perechi clasice de examen (abcd)."
+    ),
+    (
+        "Sinteză EPP: apreciere sistematică, metode, erori cognitive, trei "
+        "tipuri de justiție. Interacțională nu e „doar bonus” (d)."
+    ),
+    # 436–470 — Capcane grilă PM II, 9936–9970
+    (
+        "Job description = sarcini, responsabilități, raportări (postul). "
+        "Job specification = KSAO, profilul persoanei (ab). Nu inversa (c, d)."
+    ),
+    (
+        "Știe teoria dar nu execută = knowledge vs ability (abd). Nu sunt "
+        "mereu identice — abilitatea cere aplicare practică."
+    ),
+    (
+        "Adevărat: description = postul; specification = profilul persoanei "
+        "potrivite — pereche clasică de capcană."
+    ),
+    (
+        "Spre sarcină = ce face; spre angajat = ce trebuie să aibă (ab). "
+        "Nu sunt sinonime și spre angajat nu e fluxul zilnic (c, d)."
+    ),
+    (
+        "Capcana inversată: c — description nu e KSAO; specification nu e "
+        "lista sarcinilor. Restul perechilor sunt corecte."
+    ),
+    (
+        "Amestecă sarcini cu cerințe de persoană = description/specification "
+        "și uneori knowledge/ability (ab)."
+    ),
+    (
+        "Adevărat: screening elimină nepotriviții; comprehensive selectează "
+        "dintre cei rămași — etape diferite în selecție."
+    ),
+    (
+        "Sensibilitate = prinde buni (a); specificitate = elimină răi — nu "
+        "e același lucru (c). Utilă când nu vrei să pierzi talente (d)."
+    ),
+    (
+        "Sensibilitate = adevărați pozitivi; specificitate = adevărați negativi "
+        "(abd). Nu sunt mereu maxime simultan (c)."
+    ),
+    (
+        "Lipsește relevant (deficiență) + intră nerelevant (contaminare) = ab. "
+        "Screening/comprehensive și spill-over/cross-over sunt alte perechi."
+    ),
+    (
+        "Screening/comprehensive, sensibilitate/specificitate, "
+        "deficiență/contaminare — toate corecte (abc). Trade-off sensibilitate–"
+        "specificitate e real, nu „mereu maxime” (d)."
+    ),
+    (
+        "Specificitate scăzută = trec slabi (a); confundată cu sensibilitatea "
+        "(c); specificitate ridicată elimină slabi (d). Nu respinge pe toți (b)."
+    ),
+    (
+        "Sarcini îndeplinite dar fără OCB = task bun, contextual slab (abd). "
+        "CWB dăunează, nu ajută (c)."
+    ),
+    (
+        "Adevărat: OCB ajută organizația; CWB îi dăunează — nu inversa la examen."
+    ),
+    (
+        "Capcana inversată: c — OCB și CWB sunt schimbate. Task și contextual "
+        "sunt distincte."
+    ),
+    (
+        "Livrabile la termen (task) dar furt de timp/sabotaj = CWB prezent (ab). "
+        "Pot coexista — nu e capcană să ai ambele."
+    ),
+    (
+        "Toate patru asocieri task/contextual/OCB/CWB sunt corecte — memorează "
+        "task = rol, OCB = extra-rol pozitiv, CWB = contraproductiv."
+    ),
+    (
+        "Turnover = plecare efectivă; intenție = predictor atitudinal (abd). "
+        "Nu sunt același construct (c)."
+    ),
+    (
+        "Stare de la muncă se transferă acasă la aceeași persoană = spill-over, "
+        "nu cross-over (b) sau turnover."
+    ),
+    (
+        "Cross-over = influență între persoane diferite (ex. partenerul devine "
+        "anxios). Spill-over = aceeași persoană, domenii diferite."
+    ),
+    (
+        "Capcana: c inversează spill-over (soțul influențează angajatul = "
+        "cross-over, nu spill-over muncă–acasă)."
+    ),
+    (
+        "Satisfacție = evaluare a jobului; angajament = legătură cu "
+        "organizația (abd). Corelate, dar nu identice (c)."
+    ),
+    (
+        "Toate patru sunt capcane de respins: turnover≠intenție, spill-over≠"
+        "cross-over, satisfacție≠angajament, turnover funcțional≠disfuncțional."
+    ),
+    (
+        "Appraisal = evaluare periodică; management = sistem continuu (abd). "
+        "Nu sunt interschimbabili (c)."
+    ),
+    (
+        "BARS = calitate ancorată; BOS = frecvență (abd). Capcana c inversează. "
+        "Ambele mai structurate decât scale simple (d)."
+    ),
+    (
+        "Conflict recent domină nota = recență (a). Confundarea cu primacy e "
+        "capcana frecventă (d)."
+    ),
+    (
+        "Capcana inversată: d — halo ridică scorurile, horns le coboară. "
+        "Restul perechilor sunt corecte."
+    ),
+    (
+        "Toate patru capcane EPP: BARS/BOS invers, appraisal≠management, "
+        "forced nu elimină erori, scale simple nu sunt obiective."
+    ),
+    (
+        "Adevărat: Karasek — demands mari + control mic = stres maxim "
+        "(job activ = demands și control ridicate)."
+    ),
+    (
+        "JD-R: demands fără resurse → burnout; resurse → engagement (abd). "
+        "Demands și resources nu sunt același lucru (c)."
+    ),
+    (
+        "Challenge = creștere cu sens; hindrance = obstacol frustrant (abd). "
+        "Nu sunt la fel (c)."
+    ),
+    (
+        "Capcana inversată: c — challenge vs hindrance sunt schimbate. "
+        "Karasek și stresor≠stres sunt corecte în celelalte variante."
+    ),
+    (
+        "Value fit ⊂ P–E fit mai larg; potrivire valorică slabă poate crește "
+        "stresul și intenția de plecare (abd). Nu sunt mereu sinonime (c)."
+    ),
+    (
+        "Sinteză capcane: toate perechile din grila ta de examen sunt corect "
+        "formulate în abcd — memorează-le ca perechi, nu izolat."
+    ),
+    (
+        "Toate patru afirmații sunt capcane de respins: specification≠sarcini, "
+        "sensibilitate/specificitate inversate, spill-over≠cross-over, Karasek "
+        "stres maxim la control mic nu mare."
+    ),
 ]
 
 
 def explanation_for_exam_id(item_id: int) -> str:
-    """Explicație după id examen (9501–9815), independent de questions.json."""
-    if 9501 <= int(item_id) <= 9815:
+    """Explicație după id examen (9501–9970), independent de questions.json."""
+    if 9501 <= int(item_id) <= 9970:
         idx = int(item_id) - 9501
         if 0 <= idx < len(PSIHOLOGIA_MUNCII_EXPLANATIONS):
             return PSIHOLOGIA_MUNCII_EXPLANATIONS[idx]

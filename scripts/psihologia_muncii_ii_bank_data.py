@@ -1007,6 +1007,11 @@ from scripts.psihologia_muncii_performanta_bank_data import PERFORMANTA_MUNCII_I
 from scripts.psihologia_muncii_fluctuatie_satisfactie_bank_data import (
     FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS,
 )
+from scripts.psihologia_muncii_value_fit_stres_bank_data import (
+    VALUE_FIT_STRES_ITEMS,
+)
+from scripts.psihologia_muncii_epp_bank_data import EPP_PERFORMANTA_ITEMS
+from scripts.psihologia_muncii_capcane_grile_bank_data import CAPCANE_GRILE_ITEMS
 
 PSIHOLOGIA_MUNCII_ALL_ITEMS: List[Item] = (
     PSIHOLOGIA_MUNCII_ITEMS
@@ -1014,4 +1019,7 @@ PSIHOLOGIA_MUNCII_ALL_ITEMS: List[Item] = (
     + SELECTIE_PERSONAL_ITEMS
     + PERFORMANTA_MUNCII_ITEMS
     + FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS
+    + VALUE_FIT_STRES_ITEMS
+    + EPP_PERFORMANTA_ITEMS
+    + CAPCANE_GRILE_ITEMS
 )

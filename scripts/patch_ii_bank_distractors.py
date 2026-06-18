@@ -21,6 +21,18 @@ II_BANK_SOURCES: List[Tuple[str, str]] = [
         "scripts.psihologia_muncii_fluctuatie_satisfactie_bank_data",
         "FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS",
     ),
+    (
+        "scripts.psihologia_muncii_value_fit_stres_bank_data",
+        "VALUE_FIT_STRES_ITEMS",
+    ),
+    (
+        "scripts.psihologia_muncii_epp_bank_data",
+        "EPP_PERFORMANTA_ITEMS",
+    ),
+    (
+        "scripts.psihologia_muncii_capcane_grile_bank_data",
+        "CAPCANE_GRILE_ITEMS",
+    ),
     ("scripts.psihologia_muncii_selectie_bank_data", "SELECTIE_PERSONAL_ITEMS"),
     ("scripts.psihologia_muncii_design_munca_bank_data", "DESIGN_MUNCII_ITEMS"),
     ("scripts.evaluare_psihologica_ii_bank_data", "EVALUARE_ITEMS"),
