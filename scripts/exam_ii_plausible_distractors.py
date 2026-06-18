@@ -193,7 +193,10 @@ def detect_domain(stem: str) -> str:
         r"specification|analiz[aă]|ierarhia muncii|psihologia muncii|duty|ocupați|"
         r"performanț|training|incidente critice|fjass?|design(?:ul)? muncii|"
         r"hackman|oldham|mps|empowerment|jd-r|engagement|burnout|selecți|"
-        r"predictor|criteriu|gma|validitate incremental|selection ratio|base rate",
+        r"predictor|criteriu|gma|validitate incremental|selection ratio|base rate|"
+        r"turnover|fluctuați|neuroticism|conștiinciozitate|extraversiune|"
+        r"deschidere|big five|angajament|satisfacți|withdrawal|spill-over|"
+        r"cross-over|value fit|karasek|burnout|stres la muncă",
         s,
     ):
         return "hr"

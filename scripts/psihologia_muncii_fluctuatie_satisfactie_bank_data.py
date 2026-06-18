@@ -206,12 +206,12 @@ FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS: List[Item] = [
             "raportate frecvent?"
         ),
         "options": [
-            "neuroticismul (N) mai ridicat → asociat cu mai mult turnover / "
-            "intenție de plecare",
-            "conștiinciozitatea (C) mai ridicată → asociată cu mai puțin "
+            "neuroticismul (N) mai ridicat este asociat cu mai mult turnover "
+            "sau intenție de plecare",
+            "conștiinciozitatea (C) mai ridicată este asociată cu mai puțin "
             "turnover",
             "deschiderea (Openness) poate fi asociată cu mai multă schimbare "
-            "de job (căutare de varietate)",
+            "de job, din căutarea de varietate",
             "extraversiunea (E) elimină complet orice intenție de plecare",
         ],
         "correct": "abc",

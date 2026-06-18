@@ -75281,7 +75281,7 @@
             "a": "Vine mai devreme pentru a termina o sarcină importantă",
             "b": "Participă la întâlniri opționale despre direcția firmei",
             "c": "Acceptă schimbarea procedurii fără a sabota atmosfera",
-            "d": "Fură echipamente din birou, în procesul terapeutic"
+            "d": "Fură echipamente din birou, în documentarea cerințelor postului"
           },
           "kind": "multi",
           "correct": [
@@ -75442,7 +75442,7 @@
             "b",
             "d"
           ],
-          "explanation": "N↑, C↓, A↓ → mai mult CWB în medie. Conștiinciozitate ridicată tinde să reduce CWB, nu invers.",
+          "explanation": "Trăsături Big Five și comportament contraproductiv (CWB):\n✅ Neuroticism ridicat: mai mult CWB în medie (instabilitate, iritabilitate).\n✅ Conștiinciozitate scăzută: mai mult CWB (mai puțin autocontrol).\n✅ Agreabilitate scăzută: mai mult CWB (mai puțin cooperant).\nConștiinciozitate ridicată tinde să reducă CWB, nu invers.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -75748,10 +75748,10 @@
           "id": 9757,
           "text": "Care distincție descrie corect turnover-ul voluntar față de cel involuntar?",
           "options": {
-            "a": "Voluntar = absențe nemotivate; involuntar = concediu medical lung, în procesul terapeutic",
+            "a": "Voluntar = absențe nemotivate; involuntar = concediu medical lung",
             "b": "Voluntar = angajatul inițiază plecarea; involuntar = organizația încetează contractul",
             "c": "Voluntar = transfer intern între departamente; involuntar = plecare către alt angajator",
-            "d": "Voluntar = concediere disciplinară; involuntar = demisie la cerere, în procesul terapeutic"
+            "d": "Voluntar = concediere disciplinară; involuntar = demisie la cerere"
           },
           "kind": "single",
           "correct": [
@@ -75802,7 +75802,7 @@
           "options": {
             "a": "Disfuncțional: pleacă performanții — pierdere de know-how și costuri de înlocuire",
             "b": "Funcțional: pleacă cei cu performanță slabă — poate îmbunătăți calitatea echipei",
-            "c": "Interpretarea transferului fără contractul de lucru inițial, în procesul terapeutic",
+            "c": "Redactarea job specification înainte de analiza sarcinilor, în documentarea cerințelor postului",
             "d": "Disfuncțional este considerat cel mai problematic pentru firmă"
           },
           "kind": "multi",
@@ -75914,7 +75914,7 @@
           "text": "Care afirmație despre predicția turnover-ului este susținută cel mai consistent de cercetare?",
           "options": {
             "a": "Intenția de plecare este cel mai bun predictor al turnover-ului efectiv",
-            "b": "Vârsta cronologică singură explică majoritatea plecărilor, în procesul terapeutic",
+            "b": "Vârsta cronologică singură explică majoritatea plecărilor, în documentarea cerințelor postului",
             "c": "Satisfacția raportată acum 5 ani prezice mai bine plecarea decât intenția actuală",
             "d": "Absențele din ultima lună sunt mereu mai predictive decât intenția de plecare"
           },
@@ -75950,7 +75950,7 @@
           "text": "Sindromul hobo (Hobo Syndrome) în literatura despre fluctuație se referie la:",
           "options": {
             "a": "Transferul satisfacției de la muncă către viața personală",
-            "b": "Angajamentul afectiv față de organizație, în procesul terapeutic",
+            "b": "Angajamentul afectiv față de organizație, în documentarea cerințelor postului",
             "c": "Obligația legală de a preda laptopul la demisie",
             "d": "Tendința ca turnover-ul din trecut să prezică turnover viitor la aceeași persoană"
           },
@@ -75987,10 +75987,10 @@
           "id": 9770,
           "text": "În cercetarea personalității și a fluctuației, care tendințe sunt raportate frecvent?",
           "options": {
-            "a": "Reduce parțial, fără a elimina integral, în procesul terapeutic",
-            "b": "Conștiinciozitatea (C) mai ridicată → asociată cu mai puțin turnover",
-            "c": "Neuroticismul (N) mai ridicat → asociat cu mai mult turnover / intenție de plecare",
-            "d": "Deschiderea (Openness) poate fi asociată cu mai multă schimbare de job (căutare de varietate)"
+            "a": "Reduce parțial, fără a elimina integral, în documentarea cerințelor postului",
+            "b": "Conștiinciozitatea (C) mai ridicată este asociată cu mai puțin turnover",
+            "c": "Neuroticismul (N) mai ridicat este asociat cu mai mult turnover sau intenție de plecare",
+            "d": "Deschiderea (Openness) poate fi asociată cu mai multă schimbare de job, din căutarea de varietate"
           },
           "kind": "multi",
           "correct": [
@@ -75998,7 +75998,7 @@
             "c",
             "d"
           ],
-          "explanation": "N↑ și uneori Openness↑ legate de mai multă fluctuație; C↑ de obicei mai puțin. Extraversiunea nu „elimină” plecarea.",
+          "explanation": "Personalitate (modelul Big Five) și fluctuația la muncă:\n\n✅ Neuroticism (N) mai ridicat\nPersoane mai anxioase, mai reactive la stres, mai instabile emoțional. Cercetarea leagă neuroticismul ridicat de mai mult turnover și de intenție de plecare.\n\n✅ Conștiinciozitate (C) mai ridicată\nOrganizare, autodisciplină, fiabilitate, respectarea angajamentelor. Este asociată cu mai puțin turnover — tind să rămână și să performeze constant.\n\n✅ Deschidere (Openness)\nCăutare de noutate, varietate, experiențe noi. Poate fi legată de schimbări mai frecvente de job când persoana caută diversitate.\n\n❌ Extraversiune (E)\nNu elimină complet intenția de plecare. Nicio trăsătură nu anulează total posibilitatea de a vrea să pleci.\n\nRăspuns corect: a + b + c.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -76103,7 +76103,7 @@
             "a": "Jobul se aliniază cu ce consideră angajatul că contează pentru el",
             "b": "Munca permite îndeplinirea valorilor personale importante",
             "c": "Organizația are cel mai mare număr de angajați din industrie",
-            "d": "Aplicarea aceleiași tehnici indiferent de orientarea teoretică"
+            "d": "Selecția bazată pe titlul formal, fără profil KSAO"
           },
           "kind": "multi",
           "correct": [
@@ -76119,7 +76119,7 @@
           "id": 9777,
           "text": "Un angajat câștigă bine, dar simte că munca îi contrazice valorile (ex. etică, echilibru viață–muncă). Conform lui Locke, satisfacția lui va fi probabil:",
           "options": {
-            "a": "Utilizarea testelor pentru screening, fără interpretare contextuală",
+            "a": "Calculul salarial bazat pe vechime, nu pe complexitatea rolului",
             "b": "Neutră, pentru că Locke vorbește de promovare, în documentarea cerințelor postului",
             "c": "Scăzută, deoarece valorile personale nu sunt împlinite la job",
             "d": "Ridicată, pentru că salariul anulează orice evaluare afectivă"
@@ -76293,10 +76293,10 @@
           "id": 9786,
           "text": "Un angajat spune: „Plătesc ok, colegii sunt buni, dar nu văd nicio șansă să cresc.” Care dimensiune a satisfacției este probabil cea mai afectată?",
           "options": {
-            "a": "Natura muncii în sine (Work Itself), în procesul terapeutic",
+            "a": "Natura muncii în sine (Work Itself), în documentarea cerințelor postului",
             "b": "Comunicarea — deși e relevantă, mesajul indică blocaj de carieră",
-            "c": "Promovarea (Promotion), în procesul terapeutic",
-            "d": "Beneficiile (Benefits), în procesul terapeutic"
+            "c": "Promovarea (Promotion), în documentarea cerințelor postului",
+            "d": "Beneficiile (Benefits), în documentarea cerințelor postului"
           },
           "kind": "single",
           "correct": [
@@ -76537,7 +76537,7 @@
           "options": {
             "a": "Satisfacția vieții personale poate fi susținută parțial de plăcerea muncii",
             "b": "Cross-over garantează că partenerul va fi și el mulțumit la job",
-            "c": "Aplicarea aceleiași tehnici indiferent de orientarea teoretică",
+            "c": "Calculul salarial bazat pe vechime, nu pe complexitatea rolului",
             "d": "Work itself poate „curge” spre stare generală de bine dincolo de birou"
           },
           "kind": "multi",
@@ -76574,7 +76574,7 @@
           "options": {
             "a": "Mă simt bine la job și asta îmi îmbunătățește seara acasă",
             "b": "Stresul de la job îmi afectează dispoziția acasă",
-            "c": "Plec de la firmă A la firmă B, în procesul terapeutic",
+            "c": "Plec de la firmă A la firmă B, în documentarea cerințelor postului",
             "d": "Nemulțumirea partenerului mă influențează și pe mine"
           },
           "kind": "multi",
@@ -76612,10 +76612,10 @@
           "id": 9803,
           "text": "De ce natura muncii în sine (Work Itself) are spill-over puternic către viața personală?",
           "options": {
-            "a": "Aplicarea aceleiași tehnici indiferent de orientarea teoretică",
+            "a": "Selecția bazată pe titlul formal, fără profil KSAO",
             "b": "E o dimensiune centrală a experienței zilnice",
             "c": "Plăcerea de a face munca se transferă în stare generală de bine",
-            "d": "Reducerea ședințelor la suport nonspecific, fără obiective explicite"
+            "d": "Clasificarea postului la nivel de ocupație, fără sarcini detaliate"
           },
           "kind": "multi",
           "correct": [
@@ -76631,7 +76631,7 @@
           "id": 9804,
           "text": "Care descriere se potrivește angajamentului afectiv (affective commitment)?",
           "options": {
-            "a": "Rămâi pentru că nu ai oferte alternative, în procesul terapeutic",
+            "a": "Rămâi pentru că nu ai oferte alternative, în documentarea cerințelor postului",
             "b": "Implicare emoțională față de firmă",
             "c": "Rămâi pentru că vrei și te identifici cu organizația",
             "d": "Rămâi pentru că șeful are autoritate formală"
@@ -76713,7 +76713,7 @@
             "a": "Continuance înseamnă că rămâi pentru că trebuie sau n-ai opțiuni",
             "b": "Afectivul se leagă de identificare emoțională cu organizația",
             "c": "Angajamentul continuance (lipsă alternative) = angajamentul afectiv",
-            "d": "Angajamentul afectiv implică dorința de a rămâne, în procesul terapeutic"
+            "d": "Angajamentul afectiv implică dorința de a rămâne, în documentarea cerințelor postului"
           },
           "kind": "single",
           "correct": [
@@ -76728,7 +76728,7 @@
           "id": 9809,
           "text": "Care lanț cauzal este cel mai coerent cu materia despre insatisfacție și plecare?",
           "options": {
-            "a": "Satisfacție ridicată → intenție de plecare maximă, în procesul terapeutic",
+            "a": "Satisfacție ridicată → intenție de plecare maximă, în documentarea cerințelor postului",
             "b": "Insatisfacție → gânduri de plecare → căutare joburi — model retragerii",
             "c": "Angajament afectiv ridicat → turnover disfuncțional garantat",
             "d": "Insatisfacție (ex. promovare blocată) → intenție de plecare → turnover"
@@ -76749,7 +76749,7 @@
           "options": {
             "a": "Satisfacția față de muncă nu garantează angajament față de firmă",
             "b": "Promovarea percepută influențează satisfacția și poate alimenta intenția de plecare",
-            "c": "Aplicarea aceleiași tehnici indiferent de orientarea teoretică",
+            "c": "Prioritizarea comparării salariilor cu media pieței externe",
             "d": "Angajament afectiv ridicat → mai mult OCB, mai puțin turnover"
           },
           "kind": "multi",
@@ -77608,7 +77608,7 @@
           "text": "Care afirmație despre modelul Karasek este falsă?",
           "options": {
             "a": "Orice job cu cerințe mari este automat maxim stresant",
-            "b": "Modelul pune accent pe structura rolului, în procesul terapeutic",
+            "b": "Modelul pune accent pe structura rolului, în documentarea cerințelor postului",
             "c": "Joburile pasive au cerințe mici și control mic",
             "d": "Autonomia poate atenua efectul cerințelor mari"
           },
@@ -77974,7 +77974,7 @@
           "text": "Care exemple combină value fit și stres?",
           "options": {
             "a": "Hindrance birocratic + cerințe mari + control zero → Karasek stres maxim",
-            "b": "Shared values → groupthink garantat pozitiv pentru performanță, în procesul terapeutic",
+            "b": "Shared values → groupthink garantat pozitiv pentru performanță",
             "c": "Onboarding bun → învățare valori → fit mai bun → mai puțin stres identitar",
             "d": "Firmă agresiv competitivă + angajat cu valori de bunăvoință → disonanță"
           },
@@ -79151,7 +79151,7 @@
             "c",
             "d"
           ],
-          "explanation": "Job description = sarcini, responsabilități, raportări (postul). Job specification = KSAO, profilul persoanei (ab). Nu inversa (c, d).",
+          "explanation": "1. Job description vs Job specification\n✅ Description = POSTUL: sarcini, responsabilități, raportări — ce se face în rol.\n✅ Specification = PERSOANA: studii, experiență, KSAO — cine poate reuși în rol.\nRăspuns corect: a + b. Capcane: c și d inversează sau fac sinonime greșite.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79170,7 +79170,7 @@
             "a",
             "c"
           ],
-          "explanation": "Știe teoria dar nu execută = knowledge vs ability (abd). Nu sunt mereu identice — abilitatea cere aplicare practică.",
+          "explanation": "1. Knowledge vs Ability (KSAO)\n✅ Knowledge = ce ȘTII teoretic (a citit manualul).\n✅ Ability = ce POȚI face efectiv (închide raportarea la termen).\nExemplul: știe teoria, nu livrează → problemă de ability, nu doar knowledge (abd). Nu sunt mereu identice (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79190,7 +79190,7 @@
             "b",
             "d"
           ],
-          "explanation": "Adevărat: description = postul; specification = profilul persoanei potrivite — pereche clasică de capcană.",
+          "explanation": "Adevărat: description = postul; specification = profilul persoanei (KSAO). Memorează: post vs persoană — pereche de capcană #1 la examen.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79206,7 +79206,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Spre sarcină = ce face; spre angajat = ce trebuie să aibă (ab). Nu sunt sinonime și spre angajat nu e fluxul zilnic (c, d).",
+          "explanation": "1. Analiză orientată spre sarcină vs spre angajat\n✅ Spre sarcină = CE FACE ocupantul (proceduri, activități).\n✅ Spre angajat = CE TREBUIE SĂ AIBĂ (KSAO, competențe).\nCorect: a + b. Nu sunt sinonime (c); fluxul zilnic e sarcină, nu profilul persoanei (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79225,7 +79225,7 @@
             "b",
             "c"
           ],
-          "explanation": "Capcana inversată: c — description nu e KSAO; specification nu e lista sarcinilor. Restul perechilor sunt corecte.",
+          "explanation": "Capcana INVERSATĂ este c: description ≠ KSAO; specification ≠ lista sarcinilor. Restul perechilor (a, b, d) sunt formulate corect.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79243,7 +79243,7 @@
           "correct": [
             "c"
           ],
-          "explanation": "Amestecă sarcini cu cerințe de persoană = description/specification și uneori knowledge/ability (ab).",
+          "explanation": "Amestecă „operează soft X” (sarcină/post) cu „are diplomă Y” (profil persoană) → confuzie description/specification ȘI uneori knowledge/ability (ab).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79262,7 +79262,7 @@
             "a",
             "c"
           ],
-          "explanation": "Adevărat: screening elimină nepotriviții; comprehensive selectează dintre cei rămași — etape diferite în selecție.",
+          "explanation": "Adevărat — etape diferite în selecție:\n✅ Screening = ELIMINĂ nepotriviții (CV, filtre, teste scurte).\n✅ Comprehensive = SELECTEAZĂ cel mai bun dintre cei rămași (interviu, assessment center).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79278,7 +79278,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Sensibilitate = prinde buni (a); specificitate = elimină răi — nu e același lucru (c). Utilă când nu vrei să pierzi talente (d).",
+          "explanation": "1. Sensibilitate vs Specificitate\n✅ Sensibilitate = PRINDE candidații BUNI (adevărați pozitivi) — util când nu vrei să pierzi talente (a, d).\n✅ Specificitate = ELIMINĂ candidații SLABI — altă măsură (b).\n❌ Nu sunt același lucru (c). Sensibilitate ridicată poate lăsa să treacă și slabi (fals pozitivi).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79297,7 +79297,7 @@
             "a",
             "d"
           ],
-          "explanation": "Sensibilitate = adevărați pozitivi; specificitate = adevărați negativi (abd). Nu sunt mereu maxime simultan (c).",
+          "explanation": "1. Sensibilitate vs Specificitate\n✅ Sensibilitate ridicată = prinde mai bine pe cei buni.\n✅ Specificitate ridicată = respinge mai bine pe cei slabi.\n✅ Le confundă frecvent grilele — nu sunt același lucru (d).\n❌ Capcană c: nu pot fi ambele maxime simultan mereu — există trade-off în practică.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79317,7 +79317,7 @@
             "b",
             "c"
           ],
-          "explanation": "Lipsește relevant (deficiență) + intră nerelevant (contaminare) = ab. Screening/comprehensive și spill-over/cross-over sunt alte perechi.",
+          "explanation": "1. Deficiență vs Contaminare (măsurare performanță)\n✅ Deficiență = LIPSEȘTE din evaluare ce e relevant (ex. lucru în echipă neglijat) — a.\n✅ Contaminare = INTRĂ în scor ce e nerelevant (ex. aspect vestimentar) — b.\nScreening/comprehensive și spill-over/cross-over sunt alte perechi (c, d).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79336,7 +79336,7 @@
             "c",
             "d"
           ],
-          "explanation": "Screening/comprehensive, sensibilitate/specificitate, deficiență/contaminare — toate corecte (abc). Trade-off sensibilitate–specificitate e real, nu „mereu maxime” (d).",
+          "explanation": "Grile selecție + măsurare — 3 perechi corecte (a, b, c):\n\n1️⃣ Screening vs Comprehensive\n✅ Screening = elimină nepotriviții.\n✅ Comprehensive = selectează dintre cei rămași.\n\n2️⃣ Sensibilitate vs Specificitate\n✅ Sensibilitate = prinde candidații buni.\n✅ Specificitate = elimină candidații răi.\n\n3️⃣ Deficiență vs Contaminare\n✅ Deficiență = lipsește ce e relevant.\n✅ Contaminare = apare ce e nerelevant.\n\n❌ Greșit d: sensibilitatea și specificitatea NU sunt „mereu maxime simultan” — în practică există compromis (trade-off).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79356,7 +79356,7 @@
             "b",
             "d"
           ],
-          "explanation": "Specificitate scăzută = trec slabi (a); confundată cu sensibilitatea (c); specificitate ridicată elimină slabi (d). Nu respinge pe toți (b).",
+          "explanation": "Specificitate scăzută = trec mai mulți nepotriviți (a). Nu respinge pe toți inclusiv pe cei buni — asta ar fi altceva (b, fals). Sensibilitatea și specificitatea se confundă des la examen (c). Specificitate ridicată ajută să elimini slabi (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79376,7 +79376,7 @@
             "c",
             "d"
           ],
-          "explanation": "Sarcini îndeplinite dar fără OCB = task bun, contextual slab (abd). CWB dăunează, nu ajută (c).",
+          "explanation": "Task vs contextual / OCB:\n✅ Sarcinile din fișă îndeplinite = task bun (a).\n✅ Refuză ajutor, norme de bunăvoință = contextual/OCB slab (b).\n❌ CWB dăunează, nu ajută (c). Task ≠ contextual (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79396,7 +79396,7 @@
             "c",
             "d"
           ],
-          "explanation": "Adevărat: OCB ajută organizația; CWB îi dăunează — nu inversa la examen.",
+          "explanation": "Adevărat: OCB = comportament voluntar care AJUTĂ organizația; CWB = comportament care DĂUNEȘTE. Nu inversa la examen.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79412,7 +79412,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Capcana inversată: c — OCB și CWB sunt schimbate. Task și contextual sunt distincte.",
+          "explanation": "Capcana INVERSATĂ: c — a scris OCB ca contraproductiv și CWB ca cetățenie. Corect: OCB ajută, CWB dăunează.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79430,7 +79430,7 @@
           "correct": [
             "c"
           ],
-          "explanation": "Livrabile la termen (task) dar furt de timp/sabotaj = CWB prezent (ab). Pot coexista — nu e capcană să ai ambele.",
+          "explanation": "Poți avea simultan:\n✅ Task bun — rapoarte la termen (a).\n✅ CWB prezent — furt timp, sabotaj (b).\nOCB (ajutor extra) nu e garantat doar pentru că livrezi la termen (c). Coexistența task + CWB e posibilă (d e capcană).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79449,7 +79449,7 @@
             "a",
             "c"
           ],
-          "explanation": "Toate patru asocieri task/contextual/OCB/CWB sunt corecte — memorează task = rol, OCB = extra-rol pozitiv, CWB = contraproductiv.",
+          "explanation": "Toate patru asocieri corecte:\n✅ Task = obligații din job description.\n✅ Contextual = extra-rol care susține mediul de lucru.\n✅ OCB = voluntar, ajută organizația.\n✅ CWB = dăunează organizației sau colegilor.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79470,7 +79470,7 @@
             "c",
             "d"
           ],
-          "explanation": "Turnover = plecare efectivă; intenție = predictor atitudinal (abd). Nu sunt același construct (c).",
+          "explanation": "1. Turnover vs Intenție de plecare\n✅ Turnover = plecare EFECTIVĂ din firmă (comportament).\n✅ Intenție = atitudine/gând de a pleca; cel mai bun predictor (abd).\n❌ Nu sunt același construct (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79481,7 +79481,7 @@
           "options": {
             "a": "Intenție de plecare = atitudine; predictor al turnover-ului",
             "b": "Turnover = comportament de plecare efectivă",
-            "c": "Sunt mereu același construct măsurat, în procesul terapeutic",
+            "c": "Sunt mereu același construct măsurat, în documentarea cerințelor postului",
             "d": "Intenția poate fi măsurată înainte de plecare"
           },
           "kind": "multi",
@@ -79490,7 +79490,7 @@
             "b",
             "d"
           ],
-          "explanation": "Stare de la muncă se transferă acasă la aceeași persoană = spill-over, nu cross-over (b) sau turnover.",
+          "explanation": "Spill-over: aceeași persoană, starea de la MUNCĂ se transferă la VIAȚA PERSONALĂ (ex. irascibil acasă după zi grea). Nu cross-over (între persoane) și nu turnover.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79508,7 +79508,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Cross-over = influență între persoane diferite (ex. partenerul devine anxios). Spill-over = aceeași persoană, domenii diferite.",
+          "explanation": "Cross-over: starea unei persoane influențează starea ALTEI persoane (ex. partenerul devine anxios). Spill-over = aceeași persoană, domenii diferite.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79526,7 +79526,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "Capcana: c inversează spill-over (soțul influențează angajatul = cross-over, nu spill-over muncă–acasă).",
+          "explanation": "Capcana c inversează spill-over: soțul care îl influențează pe angajat = cross-over (persoane diferite), NU spill-over muncă–acasă.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79544,7 +79544,7 @@
           "correct": [
             "d"
           ],
-          "explanation": "Satisfacție = evaluare a jobului; angajament = legătură cu organizația (abd). Corelate, dar nu identice (c).",
+          "explanation": "1. Satisfacție muncii vs Angajament organizațional\n✅ Satisfacție = cum îți EVALUEZI jobul (plăcut/neplăcut).\n✅ Angajament = legătura psihologică cu ORGANIZAȚIA (abd).\n❌ Nu sunt identice (c), deși pot fi corelate.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79564,7 +79564,7 @@
             "b",
             "c"
           ],
-          "explanation": "Toate patru sunt capcane de respins: turnover≠intenție, spill-over≠cross-over, satisfacție≠angajament, turnover funcțional≠disfuncțional.",
+          "explanation": "Toate patru sunt capcane de RESPINS:\n❌ Turnover ≠ intenție de plecare.\n❌ Spill-over ≠ cross-over (persoane diferite).\n❌ Satisfacție ≠ angajament organizațional.\n❌ Turnover funcțional = pleacă cei slabi; disfuncțional = pleacă cei valoroși — nu inversa.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79585,7 +79585,7 @@
             "c",
             "d"
           ],
-          "explanation": "Appraisal = evaluare periodică; management = sistem continuu (abd). Nu sunt interschimbabili (c).",
+          "explanation": "1. Appraisal vs Management performanță\n✅ Appraisal = evaluarea propriu-zisă, adesea anuală/periodică.\n✅ Management = sistem CONTINUU: obiective → monitorizare → feedback → dezvoltare (abd).\n❌ Nu sunt același formular (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79605,7 +79605,7 @@
             "c",
             "d"
           ],
-          "explanation": "BARS = calitate ancorată; BOS = frecvență (abd). Capcana c inversează. Ambele mai structurate decât scale simple (d).",
+          "explanation": "1. BARS vs BOS\n✅ BARS = CALITATEA comportamentului, ancorată în exemple concrete.\n✅ BOS = FRECVENȚA observată a comportamentelor.\n❌ Capcană c: inversează BARS/BOS. Ambele sunt mai bune decât scalele simple (d).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79625,7 +79625,7 @@
             "c",
             "d"
           ],
-          "explanation": "Conflict recent domină nota = recență (a). Confundarea cu primacy e capcana frecventă (d).",
+          "explanation": "Conflict recent domină nota deși anul a fost bun = RECENȚĂ (a). Confundarea recenței cu primacy e capcană frecventă (d). Halo = impresie pozitivă globală (c); primacy = începutul (b).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79644,7 +79644,7 @@
             "a",
             "c"
           ],
-          "explanation": "Capcana inversată: d — halo (Halo) ridică scorurile după impresie pozitivă globală; horns (Horns) le coboară după impresie negativă globală.",
+          "explanation": "Capcana INVERSATĂ: d — halo ridică scorurile (impresie pozitivă globală), horns le coboară (impresie negativă globală). Restul perechilor din a, b, c sunt corecte.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79662,7 +79662,7 @@
           "correct": [
             "b"
           ],
-          "explanation": "Toate patru capcane EPP: BARS/BOS invers, appraisal≠management, forced nu elimină halo (Halo) și horns (Horns), scale simple nu sunt obiective.",
+          "explanation": "Toate patru sunt capcane de RESPINS:\n❌ BARS ≠ frecvență; BOS ≠ calitate (sunt invers).\n❌ Appraisal ≠ management performanță.\n❌ Forced distribution nu elimină halo/horns.\n❌ Scale grafice simple nu sunt „mereu obiective”.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79683,7 +79683,7 @@
             "c",
             "d"
           ],
-          "explanation": "Adevărat: Karasek — demands mari + control mic = stres maxim (job activ = demands și control ridicate).",
+          "explanation": "Adevărat — modelul Karasek (cerințe–control):\nStres MAXIM când demands (cerințe) MARI + control MIC.\nJob activ = cerințe mari + control mare (solicitant, dar cu autonomie).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79699,7 +79699,7 @@
           "correct": [
             "a"
           ],
-          "explanation": "JD-R: demands fără resurse → burnout; resurse → engagement (abd). Demands și resources nu sunt același lucru (c).",
+          "explanation": "Model JD-R (Job Demands–Resources):\n✅ Cerințe mari fără resurse → risc BURNOUT.\n✅ Resurse (sprijin, autonomie, feedback) → ENGAGEMENT (abd).\n❌ Demands și resources nu sunt același lucru (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79719,7 +79719,7 @@
             "b",
             "c"
           ],
-          "explanation": "Challenge = creștere cu sens; hindrance = obstacol frustrant (abd). Nu sunt la fel (c).",
+          "explanation": "1. Challenge vs Hindrance (stres la muncă)\n✅ Challenge = dificultate cu SENS, creștere (proiect cu învățare) — poate motiva.\n✅ Hindrance = obstacol FRUSTRANT fără câștig (birocrație, ambiguitate) — abd.\n❌ Nu sunt la fel (c).",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79739,7 +79739,7 @@
             "b",
             "c"
           ],
-          "explanation": "Capcana inversată: c — challenge vs hindrance sunt schimbate. Karasek și stresor≠stres sunt corecte în celelalte variante.",
+          "explanation": "Capcana INVERSATĂ: c — a schimbat challenge cu hindrance. Corect: challenge = proiect cu sens; hindrance = birocrație. Karasek și stresor ≠ stres (Lazarus) sunt formulate bine în celelalte variante.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79757,7 +79757,7 @@
           "correct": [
             "b"
           ],
-          "explanation": "Value fit ⊂ P–E fit mai larg; potrivire valorică slabă poate crește stresul și intenția de plecare (abd). Nu sunt mereu sinonime (c).",
+          "explanation": "1. Value fit vs P–E fit\n✅ Value fit = potrivire VALORI persoană ↔ organizație.\n✅ P–E fit = mai LARG: valori, cerințe–abilități, nevoi–oferte (abd).\n❌ Nu sunt mereu sinonime (c). Fit slab → stres, intenție de plecare.",
           "domeniu": "Psihologia muncii II",
           "tip": "unic",
           "exam_item": true
@@ -79777,7 +79777,7 @@
             "c",
             "d"
           ],
-          "explanation": "Sinteză capcane: toate perechile din grila ta de examen sunt corect formulate în abcd — memorează-le ca perechi, nu izolat.",
+          "explanation": "Sinteză — perechi corecte din grila de examen (toate a, b, c, d):\ndescription/specification · knowledge/ability · screening/comprehensive · sensibilitate/specificitate · deficiență/contaminare · task/contextual · OCB/CWB · spill-over/cross-over · turnover/intenție · appraisal/management · BARS/BOS · halo/horns · primacy/recency · demands/resources · challenge/hindrance.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true
@@ -79798,7 +79798,7 @@
             "c",
             "d"
           ],
-          "explanation": "Toate patru afirmații sunt capcane de respins: specification≠sarcini, sensibilitate/specificitate inversate, spill-over≠cross-over, Karasek stres maxim la control mic nu mare.",
+          "explanation": "Toate patru afirmații sunt GREȘITE — de respins:\n❌ Specification ≠ lista sarcinilor.\n❌ Sensibilitate/specificitate inversate.\n❌ Spill-over soț–angajat = cross-over, nu spill-over.\n❌ Karasek: stres maxim la control MIC, nu la control MARE.",
           "domeniu": "Psihologia muncii II",
           "tip": "multi",
           "exam_item": true

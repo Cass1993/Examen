@@ -98,7 +98,7 @@ def bank_path_fallback() -> Path:
     return BANK_MD_DEFAULT
 
 
-WORDING_VERSION = "130"  # fix explicație Self-Transcendence Schwartz + aliniere
+WORDING_VERSION = "132"  # explicație Big Five + turnover fără prescurtări
 
 
 def _questions_cache_key() -> str:

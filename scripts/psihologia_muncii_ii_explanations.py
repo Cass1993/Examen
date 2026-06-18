@@ -1034,8 +1034,12 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "= CWB interpersonal."
     ),
     (
-        "N↑, C↓, A↓ → mai mult CWB în medie. Conștiinciozitate ridicată tinde să "
-        "reduce CWB, nu invers."
+        "Trăsături Big Five și comportament contraproductiv (CWB):\n"
+        "✅ Neuroticism ridicat: mai mult CWB în medie (instabilitate, "
+        "iritabilitate).\n"
+        "✅ Conștiinciozitate scăzută: mai mult CWB (mai puțin autocontrol).\n"
+        "✅ Agreabilitate scăzută: mai mult CWB (mai puțin cooperant).\n"
+        "Conștiinciozitate ridicată tinde să reducă CWB, nu invers."
     ),
     (
         "Injustiție și frustrare cresc riscul de CWB. Justiția ridicată tinde să "
@@ -1157,8 +1161,22 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
         "Job description singur nu explică decizia de plecare."
     ),
     (
-        "N↑ și uneori Openness↑ legate de mai multă fluctuație; C↑ de "
-        "obicei mai puțin. Extraversiunea nu „elimină” plecarea."
+        "Personalitate (modelul Big Five) și fluctuația la muncă:\n\n"
+        "✅ Neuroticism (N) mai ridicat\n"
+        "Persoane mai anxioase, mai reactive la stres, mai instabile "
+        "emoțional. Cercetarea leagă neuroticismul ridicat de mai mult "
+        "turnover și de intenție de plecare.\n\n"
+        "✅ Conștiinciozitate (C) mai ridicată\n"
+        "Organizare, autodisciplină, fiabilitate, respectarea angajamentelor. "
+        "Este asociată cu mai puțin turnover — tind să rămână și să "
+        "performeze constant.\n\n"
+        "✅ Deschidere (Openness)\n"
+        "Căutare de noutate, varietate, experiențe noi. Poate fi legată de "
+        "schimbări mai frecvente de job când persoana caută diversitate.\n\n"
+        "❌ Extraversiune (E)\n"
+        "Nu elimină complet intenția de plecare. Nicio trăsătură nu anulează "
+        "total posibilitatea de a vrea să pleci.\n\n"
+        "Răspuns corect: a + b + c."
     ),
     (
         "Toate cele patru sunt etape pre-plecare din modelul retragerii, "
@@ -1831,147 +1849,232 @@ PSIHOLOGIA_MUNCII_EXPLANATIONS: List[str] = [
     ),
     # 436–470 — Capcane grilă PM II, 9936–9970
     (
-        "Job description = sarcini, responsabilități, raportări (postul). "
-        "Job specification = KSAO, profilul persoanei (ab). Nu inversa (c, d)."
+        "1. Job description vs Job specification\n"
+        "✅ Description = POSTUL: sarcini, responsabilități, raportări — ce se "
+        "face în rol.\n"
+        "✅ Specification = PERSOANA: studii, experiență, KSAO — cine poate "
+        "reuși în rol.\n"
+        "Răspuns corect: a + b. Capcane: c și d inversează sau fac sinonime "
+        "greșite."
     ),
     (
-        "Știe teoria dar nu execută = knowledge vs ability (abd). Nu sunt "
-        "mereu identice — abilitatea cere aplicare practică."
+        "1. Knowledge vs Ability (KSAO)\n"
+        "✅ Knowledge = ce ȘTII teoretic (a citit manualul).\n"
+        "✅ Ability = ce POȚI face efectiv (închide raportarea la termen).\n"
+        "Exemplul: știe teoria, nu livrează → problemă de ability, nu doar "
+        "knowledge (abd). Nu sunt mereu identice (c)."
     ),
     (
         "Adevărat: description = postul; specification = profilul persoanei "
-        "potrivite — pereche clasică de capcană."
+        "(KSAO). Memorează: post vs persoană — pereche de capcană #1 la examen."
     ),
     (
-        "Spre sarcină = ce face; spre angajat = ce trebuie să aibă (ab). "
-        "Nu sunt sinonime și spre angajat nu e fluxul zilnic (c, d)."
+        "1. Analiză orientată spre sarcină vs spre angajat\n"
+        "✅ Spre sarcină = CE FACE ocupantul (proceduri, activități).\n"
+        "✅ Spre angajat = CE TREBUIE SĂ AIBĂ (KSAO, competențe).\n"
+        "Corect: a + b. Nu sunt sinonime (c); fluxul zilnic e sarcină, nu "
+        "profilul persoanei (d)."
     ),
     (
-        "Capcana inversată: c — description nu e KSAO; specification nu e "
-        "lista sarcinilor. Restul perechilor sunt corecte."
+        "Capcana INVERSATĂ este c: description ≠ KSAO; specification ≠ lista "
+        "sarcinilor. Restul perechilor (a, b, d) sunt formulate corect."
     ),
     (
-        "Amestecă sarcini cu cerințe de persoană = description/specification "
-        "și uneori knowledge/ability (ab)."
+        "Amestecă „operează soft X” (sarcină/post) cu „are diplomă Y” (profil "
+        "persoană) → confuzie description/specification ȘI uneori "
+        "knowledge/ability (ab)."
     ),
     (
-        "Adevărat: screening elimină nepotriviții; comprehensive selectează "
-        "dintre cei rămași — etape diferite în selecție."
+        "Adevărat — etape diferite în selecție:\n"
+        "✅ Screening = ELIMINĂ nepotriviții (CV, filtre, teste scurte).\n"
+        "✅ Comprehensive = SELECTEAZĂ cel mai bun dintre cei rămași "
+        "(interviu, assessment center)."
     ),
     (
-        "Sensibilitate = prinde buni (a); specificitate = elimină răi — nu "
-        "e același lucru (c). Utilă când nu vrei să pierzi talente (d)."
+        "1. Sensibilitate vs Specificitate\n"
+        "✅ Sensibilitate = PRINDE candidații BUNI (adevărați pozitivi) — util "
+        "când nu vrei să pierzi talente (a, d).\n"
+        "✅ Specificitate = ELIMINĂ candidații SLABI — altă măsură (b).\n"
+        "❌ Nu sunt același lucru (c). Sensibilitate ridicată poate lăsa să "
+        "treacă și slabi (fals pozitivi)."
     ),
     (
-        "Sensibilitate = adevărați pozitivi; specificitate = adevărați negativi "
-        "(abd). Nu sunt mereu maxime simultan (c)."
+        "1. Sensibilitate vs Specificitate\n"
+        "✅ Sensibilitate ridicată = prinde mai bine pe cei buni.\n"
+        "✅ Specificitate ridicată = respinge mai bine pe cei slabi.\n"
+        "✅ Le confundă frecvent grilele — nu sunt același lucru (d).\n"
+        "❌ Capcană c: nu pot fi ambele maxime simultan mereu — există "
+        "trade-off în practică."
     ),
     (
-        "Lipsește relevant (deficiență) + intră nerelevant (contaminare) = ab. "
-        "Screening/comprehensive și spill-over/cross-over sunt alte perechi."
+        "1. Deficiență vs Contaminare (măsurare performanță)\n"
+        "✅ Deficiență = LIPSEȘTE din evaluare ce e relevant (ex. lucru în "
+        "echipă neglijat) — a.\n"
+        "✅ Contaminare = INTRĂ în scor ce e nerelevant (ex. aspect "
+        "vestimentar) — b.\n"
+        "Screening/comprehensive și spill-over/cross-over sunt alte perechi "
+        "(c, d)."
     ),
     (
-        "Screening/comprehensive, sensibilitate/specificitate, "
-        "deficiență/contaminare — toate corecte (abc). Trade-off sensibilitate–"
-        "specificitate e real, nu „mereu maxime” (d)."
+        "Grile selecție + măsurare — 3 perechi corecte (a, b, c):\n\n"
+        "1️⃣ Screening vs Comprehensive\n"
+        "✅ Screening = elimină nepotriviții.\n"
+        "✅ Comprehensive = selectează dintre cei rămași.\n\n"
+        "2️⃣ Sensibilitate vs Specificitate\n"
+        "✅ Sensibilitate = prinde candidații buni.\n"
+        "✅ Specificitate = elimină candidații răi.\n\n"
+        "3️⃣ Deficiență vs Contaminare\n"
+        "✅ Deficiență = lipsește ce e relevant.\n"
+        "✅ Contaminare = apare ce e nerelevant.\n\n"
+        "❌ Greșit d: sensibilitatea și specificitatea NU sunt „mereu maxime "
+        "simultan” — în practică există compromis (trade-off)."
     ),
     (
-        "Specificitate scăzută = trec slabi (a); confundată cu sensibilitatea "
-        "(c); specificitate ridicată elimină slabi (d). Nu respinge pe toți (b)."
+        "Specificitate scăzută = trec mai mulți nepotriviți (a). Nu respinge "
+        "pe toți inclusiv pe cei buni — asta ar fi altceva (b, fals). "
+        "Sensibilitatea și specificitatea se confundă des la examen (c). "
+        "Specificitate ridicată ajută să elimini slabi (d)."
     ),
     (
-        "Sarcini îndeplinite dar fără OCB = task bun, contextual slab (abd). "
-        "CWB dăunează, nu ajută (c)."
+        "Task vs contextual / OCB:\n"
+        "✅ Sarcinile din fișă îndeplinite = task bun (a).\n"
+        "✅ Refuză ajutor, norme de bunăvoință = contextual/OCB slab (b).\n"
+        "❌ CWB dăunează, nu ajută (c). Task ≠ contextual (d)."
     ),
     (
-        "Adevărat: OCB ajută organizația; CWB îi dăunează — nu inversa la examen."
+        "Adevărat: OCB = comportament voluntar care AJUTĂ organizația; CWB = "
+        "comportament care DĂUNEȘTE. Nu inversa la examen."
     ),
     (
-        "Capcana inversată: c — OCB și CWB sunt schimbate. Task și contextual "
-        "sunt distincte."
+        "Capcana INVERSATĂ: c — a scris OCB ca contraproductiv și CWB ca "
+        "cetățenie. Corect: OCB ajută, CWB dăunează."
     ),
     (
-        "Livrabile la termen (task) dar furt de timp/sabotaj = CWB prezent (ab). "
-        "Pot coexista — nu e capcană să ai ambele."
+        "Poți avea simultan:\n"
+        "✅ Task bun — rapoarte la termen (a).\n"
+        "✅ CWB prezent — furt timp, sabotaj (b).\n"
+        "OCB (ajutor extra) nu e garantat doar pentru că livrezi la termen "
+        "(c). Coexistența task + CWB e posibilă (d e capcană)."
     ),
     (
-        "Toate patru asocieri task/contextual/OCB/CWB sunt corecte — memorează "
-        "task = rol, OCB = extra-rol pozitiv, CWB = contraproductiv."
+        "Toate patru asocieri corecte:\n"
+        "✅ Task = obligații din job description.\n"
+        "✅ Contextual = extra-rol care susține mediul de lucru.\n"
+        "✅ OCB = voluntar, ajută organizația.\n"
+        "✅ CWB = dăunează organizației sau colegilor."
     ),
     (
-        "Turnover = plecare efectivă; intenție = predictor atitudinal (abd). "
-        "Nu sunt același construct (c)."
+        "1. Turnover vs Intenție de plecare\n"
+        "✅ Turnover = plecare EFECTIVĂ din firmă (comportament).\n"
+        "✅ Intenție = atitudine/gând de a pleca; cel mai bun predictor "
+        "(abd).\n"
+        "❌ Nu sunt același construct (c)."
     ),
     (
-        "Stare de la muncă se transferă acasă la aceeași persoană = spill-over, "
-        "nu cross-over (b) sau turnover."
+        "Spill-over: aceeași persoană, starea de la MUNCĂ se transferă la "
+        "VIAȚA PERSONALĂ (ex. irascibil acasă după zi grea). Nu cross-over "
+        "(între persoane) și nu turnover."
     ),
     (
-        "Cross-over = influență între persoane diferite (ex. partenerul devine "
-        "anxios). Spill-over = aceeași persoană, domenii diferite."
+        "Cross-over: starea unei persoane influențează starea ALTEI persoane "
+        "(ex. partenerul devine anxios). Spill-over = aceeași persoană, "
+        "domenii diferite."
     ),
     (
-        "Capcana: c inversează spill-over (soțul influențează angajatul = "
-        "cross-over, nu spill-over muncă–acasă)."
+        "Capcana c inversează spill-over: soțul care îl influențează pe "
+        "angajat = cross-over (persoane diferite), NU spill-over muncă–acasă."
     ),
     (
-        "Satisfacție = evaluare a jobului; angajament = legătură cu "
-        "organizația (abd). Corelate, dar nu identice (c)."
+        "1. Satisfacție muncii vs Angajament organizațional\n"
+        "✅ Satisfacție = cum îți EVALUEZI jobul (plăcut/neplăcut).\n"
+        "✅ Angajament = legătura psihologică cu ORGANIZAȚIA (abd).\n"
+        "❌ Nu sunt identice (c), deși pot fi corelate."
     ),
     (
-        "Toate patru sunt capcane de respins: turnover≠intenție, spill-over≠"
-        "cross-over, satisfacție≠angajament, turnover funcțional≠disfuncțional."
+        "Toate patru sunt capcane de RESPINS:\n"
+        "❌ Turnover ≠ intenție de plecare.\n"
+        "❌ Spill-over ≠ cross-over (persoane diferite).\n"
+        "❌ Satisfacție ≠ angajament organizațional.\n"
+        "❌ Turnover funcțional = pleacă cei slabi; disfuncțional = pleacă "
+        "cei valoroși — nu inversa."
     ),
     (
-        "Appraisal = evaluare periodică; management = sistem continuu (abd). "
-        "Nu sunt interschimbabili (c)."
+        "1. Appraisal vs Management performanță\n"
+        "✅ Appraisal = evaluarea propriu-zisă, adesea anuală/periodică.\n"
+        "✅ Management = sistem CONTINUU: obiective → monitorizare → feedback "
+        "→ dezvoltare (abd).\n"
+        "❌ Nu sunt același formular (c)."
     ),
     (
-        "BARS = calitate ancorată; BOS = frecvență (abd). Capcana c inversează. "
-        "Ambele mai structurate decât scale simple (d)."
+        "1. BARS vs BOS\n"
+        "✅ BARS = CALITATEA comportamentului, ancorată în exemple "
+        "concrete.\n"
+        "✅ BOS = FRECVENȚA observată a comportamentelor.\n"
+        "❌ Capcană c: inversează BARS/BOS. Ambele sunt mai bune decât "
+        "scalele simple (d)."
     ),
     (
-        "Conflict recent domină nota = recență (a). Confundarea cu primacy e "
-        "capcana frecventă (d)."
+        "Conflict recent domină nota deși anul a fost bun = RECENȚĂ (a). "
+        "Confundarea recenței cu primacy e capcană frecventă (d). Halo = "
+        "impresie pozitivă globală (c); primacy = începutul (b)."
     ),
     (
-        "Capcana inversată: d — halo (Halo) ridică scorurile după impresie "
-        "pozitivă globală; horns (Horns) le coboară după impresie negativă "
-        "globală."
+        "Capcana INVERSATĂ: d — halo ridică scorurile (impresie pozitivă "
+        "globală), horns le coboară (impresie negativă globală). Restul "
+        "perechilor din a, b, c sunt corecte."
     ),
     (
-        "Toate patru capcane EPP: BARS/BOS invers, appraisal≠management, "
-        "forced nu elimină halo (Halo) și horns (Horns), scale simple nu sunt "
-        "obiective."
+        "Toate patru sunt capcane de RESPINS:\n"
+        "❌ BARS ≠ frecvență; BOS ≠ calitate (sunt invers).\n"
+        "❌ Appraisal ≠ management performanță.\n"
+        "❌ Forced distribution nu elimină halo/horns.\n"
+        "❌ Scale grafice simple nu sunt „mereu obiective”."
     ),
     (
-        "Adevărat: Karasek — demands mari + control mic = stres maxim "
-        "(job activ = demands și control ridicate)."
+        "Adevărat — modelul Karasek (cerințe–control):\n"
+        "Stres MAXIM când demands (cerințe) MARI + control MIC.\n"
+        "Job activ = cerințe mari + control mare (solicitant, dar cu "
+        "autonomie)."
     ),
     (
-        "JD-R: demands fără resurse → burnout; resurse → engagement (abd). "
-        "Demands și resources nu sunt același lucru (c)."
+        "Model JD-R (Job Demands–Resources):\n"
+        "✅ Cerințe mari fără resurse → risc BURNOUT.\n"
+        "✅ Resurse (sprijin, autonomie, feedback) → ENGAGEMENT (abd).\n"
+        "❌ Demands și resources nu sunt același lucru (c)."
     ),
     (
-        "Challenge = creștere cu sens; hindrance = obstacol frustrant (abd). "
-        "Nu sunt la fel (c)."
+        "1. Challenge vs Hindrance (stres la muncă)\n"
+        "✅ Challenge = dificultate cu SENS, creștere (proiect cu învățare) — "
+        "poate motiva.\n"
+        "✅ Hindrance = obstacol FRUSTRANT fără câștig (birocrație, "
+        "ambiguitate) — abd.\n"
+        "❌ Nu sunt la fel (c)."
     ),
     (
-        "Capcana inversată: c — challenge vs hindrance sunt schimbate. "
-        "Karasek și stresor≠stres sunt corecte în celelalte variante."
+        "Capcana INVERSATĂ: c — a schimbat challenge cu hindrance. Corect: "
+        "challenge = proiect cu sens; hindrance = birocrație. Karasek și "
+        "stresor ≠ stres (Lazarus) sunt formulate bine în celelalte variante."
     ),
     (
-        "Value fit ⊂ P–E fit mai larg; potrivire valorică slabă poate crește "
-        "stresul și intenția de plecare (abd). Nu sunt mereu sinonime (c)."
+        "1. Value fit vs P–E fit\n"
+        "✅ Value fit = potrivire VALORI persoană ↔ organizație.\n"
+        "✅ P–E fit = mai LARG: valori, cerințe–abilități, nevoi–oferte (abd).\n"
+        "❌ Nu sunt mereu sinonime (c). Fit slab → stres, intenție de plecare."
     ),
     (
-        "Sinteză capcane: toate perechile din grila ta de examen sunt corect "
-        "formulate în abcd — memorează-le ca perechi, nu izolat."
+        "Sinteză — perechi corecte din grila de examen (toate a, b, c, d):\n"
+        "description/specification · knowledge/ability · screening/comprehensive "
+        "· sensibilitate/specificitate · deficiență/contaminare · "
+        "task/contextual · OCB/CWB · spill-over/cross-over · "
+        "turnover/intenție · appraisal/management · BARS/BOS · halo/horns · "
+        "primacy/recency · demands/resources · challenge/hindrance."
     ),
     (
-        "Toate patru afirmații sunt capcane de respins: specification≠sarcini, "
-        "sensibilitate/specificitate inversate, spill-over≠cross-over, Karasek "
-        "stres maxim la control mic nu mare."
+        "Toate patru afirmații sunt GREȘITE — de respins:\n"
+        "❌ Specification ≠ lista sarcinilor.\n"
+        "❌ Sensibilitate/specificitate inversate.\n"
+        "❌ Spill-over soț–angajat = cross-over, nu spill-over.\n"
+        "❌ Karasek: stres maxim la control MIC, nu la control MARE."
     ),
 ]
 
