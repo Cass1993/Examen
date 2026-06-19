@@ -21,7 +21,7 @@ METODE_CERCETARE_EXPLANATIONS: List[str] = [
         "Trei perechi corecte descriu longitudinală față de transversală: urmărirea aceleiași persoane vs compararea vârstelor simultan; attrition la longitudinal vs cohortă la transversal; rapiditatea transversalului vs durata și costul longitudinalului."
     ),
     (
-        "Compari o dată copii de vârste și generații diferite → risc efect de cohortă, nu validitate internă experimentală."
+        "Studiul transversal compară grupe de vârste diferite în același moment. Dacă generațiile diferă (ex. acces la tehnologie), diferențele pot veni din cohortă/generație, nu doar din vârstă — nu din validitate internă a unui experiment, care ține de design experimental."
     ),
     (
         "Longitudinalul surprinde schimbarea reală, dar costă în timp. Transversalul e rapid, dar poate confunda vârsta cu cohorta."

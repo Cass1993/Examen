@@ -38815,14 +38815,13 @@
             "c": "operații formale abstracte ca la adolescent",
             "d": "reprezentativitatea eșantionului în studiul de caz"
           },
-          "kind": "multi",
+          "kind": "single",
           "correct": [
-            "a",
             "b"
           ],
-          "explanation": "Compari o dată copii de vârste și generații diferite → risc efect de cohortă, nu validitate internă experimentală.",
+          "explanation": "Studiul transversal compară grupe de vârste diferite în același moment. Dacă generațiile diferă (ex. acces la tehnologie), diferențele pot veni din cohortă/generație, nu doar din vârstă — nu din validitate internă a unui experiment, care ține de design experimental.",
           "domeniu": "Psihologia dezvoltării II",
-          "tip": "multi",
+          "tip": "unic",
           "exam_item": true
         },
         {

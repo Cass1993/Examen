@@ -55,7 +55,7 @@ METODE_CERCETARE_ITEMS: List[Item] = [
             "reprezentativitatea eșantionului în studiul de caz",
             "operații formale abstracte ca la adolescent",
         ],
-        "correct": "ab",
+        "correct": "a",
     },
     {
         "stem": "Care două combinații descriu corect avantaje și limite?",
