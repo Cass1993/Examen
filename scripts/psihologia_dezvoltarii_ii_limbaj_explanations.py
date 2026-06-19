@@ -5,198 +5,96 @@ from __future__ import annotations
 from typing import List
 
 LIMBAJ_EXPLANATIONS: List[str] = [
-    # 10181
     (
-        "Chomsky susține că omul are o predispoziție biologică pentru limbaj — "
-        "capacitatea de a învăța structuri gramaticale complexe nu se explică "
-        "doar prin imitație sau întărire. Aceasta nu înseamnă că mediul nu "
-        "contă, ci că există o bază înnăscută care face achiziția posibilă."
+        "Chomsky susține că omul are o predispoziție biologică pentru limbaj — capacitatea de a învăța structuri gramaticale complexe nu se explică doar prin imitație sau întărire. Aceasta nu înseamnă că mediul nu contă, ci că există o bază înnăscută care face achiziția posibilă."
     ),
-    # 10182
     (
-        "Perspectiva nativistă pune accent pe predispoziția biologică și pe "
-        "limitele unei explicații pure behavioriste. Cuvintele noi nu apar "
-        "exclusiv prin pedeapsă și recompensă — Chomsky critică exact această "
-        "reducere la condiționare."
+        "Perspectiva nativistă pune accent pe predispoziția biologică și pe limitele unei explicații pure behavioriste. Cuvintele noi nu apar exclusiv prin pedeapsă și recompensă — Chomsky critică exact această reducere la condiționare."
     ),
-    # 10183
     (
-        "Skinner vede limbajul ca comportament verbal modelat de mediu: adultul "
-        "întărește anumite răspunsuri, copilul imită structuri auzite, iar "
-        "consecințele sociale influențează ce forme verbale se repetă. "
-        "Maturarea piagetiană sau atașamentul fără feedback nu sunt nucleul "
-        "explicației skinneriene."
+        "Skinner vede limbajul ca comportament verbal modelat de mediu: adultul întărește anumite răspunsuri, copilul imită structuri auzite, iar consecințele sociale influențează ce forme verbale se repetă. Maturarea piagetiană sau atașamentul fără feedback nu sunt nucleul explicației skinneriene."
     ),
-    # 10184
     (
-        "La Piaget limbajul nu e separat de gândire: simbolizarea din jocul "
-        "simbolic și reprezentările mentale pregătesc și susțin vorbirea. "
-        "Limbajul reflectă nivelul cognitiv al copilului, nu apare ca reflex "
-        "condiționat izolat."
+        "La Piaget limbajul nu e separat de gândire: simbolizarea din jocul simbolic și reprezentările mentale pregătesc și susțin vorbirea. Limbajul reflectă nivelul cognitiv al copilului, nu apare ca reflex condiționat izolat."
     ),
-    # 10185
     (
-        "Chomsky pune accent pe mecanisme înnăscute; Skinner pe consecințe "
-        "și întărire din mediu. Skinner nu reduce totul la pedeapsă, iar "
-        "Chomsky nu negă inputul social — diferența e ce pun central ca "
-        "explicație."
+        "Chomsky pune accent pe mecanisme înnăscute; Skinner pe consecințe și întărire din mediu. Skinner nu reduce totul la pedeapsă, iar Chomsky nu negă inputul social — diferența e ce pun central ca explicație."
     ),
-    # 10186
     (
-        "Ordinea tipică: vocalizări variate → gângurit cu silabe → primele "
-        "cuvinte → propoziții de două cuvinte → limbaj telegrafic → vocabular "
-        "tot mai bogat. Operațiile formale apar în adolescență, nu la începutul "
-        "vieții."
+        "Ordinea tipică: vocalizări variate → gângurit cu silabe → primele cuvinte → propoziții de două cuvinte → limbaj telegrafic → vocabular tot mai bogat. Operațiile formale apar în adolescență, nu la începutul vieții."
     ),
-    # 10187
     (
-        "Skinner explică limbajul prin învățare și întărire, nu prin capacitate "
-        "exclusiv înnăscută. Chomsky, nu Skinner, insistă pe predispoziția "
-        "biologică ca element central."
+        "Skinner explică limbajul prin învățare și întărire, nu prin capacitate exclusiv înnăscută. Chomsky, nu Skinner, insistă pe predispoziția biologică ca element central."
     ),
-    # 10188
     (
-        "Primele cuvinte cu referință („mama”, „apa”, „minge”) apar de obicei "
-        "în jurul primului an de viață, cu variații individuale. Nu la naștere "
-        "și nu exclusiv la școală."
+        "Primele cuvinte cu referință („mama”, „apa”, „minge”) apar de obicei în jurul primului an de viață, cu variații individuale. Nu la naștere și nu exclusiv la școală."
     ),
-    # 10189
     (
-        "Propozițiile de două cuvinte („mama vin”) combină simboluri pentru un "
-        "mesaj simplu. Limbajul telegrafic păstrează cuvintele esențiale și "
-        "omite unele gramaticale, dar transmite sens — e o etapă spre propoziții "
-        "complete, nu gândire formală abstractă."
+        "Propozițiile de două cuvinte („mama vin”) combină simboluri pentru un mesaj simplu. Limbajul telegrafic păstrează cuvintele esențiale și omite unele gramaticale, dar transmite sens — e o etapă spre propoziții complete, nu gândire formală abstractă."
     ),
-    # 10190
     (
-        "Explozia vocabularului înseamnă creștere rapidă a cuvintelor înțelese "
-        "și folosite, trecând de la câteva cuvinte izolate la zeci sau sute. "
-        "Comunicarea nonverbală nu dispare — se completează cu cuvintele. "
-        "Ritmul variază de la copil la copil."
+        "Explozia vocabularului înseamnă creștere rapidă a cuvintelor înțelese și folosite, trecând de la câteva cuvinte izolate la zeci sau sute. Comunicarea nonverbală nu dispare — se completează cu cuvintele. Ritmul variază de la copil la copil."
     ),
-    # 10191
     (
-        "Holofraza: un cuvânt poate înlocui o propoziție întreagă în context "
-        "(„apa!” = vreau apă). Nu e gramatică adultă și nu exclude gesturile "
-        "sau plânsul — e o etapă normală înainte de propoziții complete."
+        "Holofraza: un cuvânt poate înlocui o propoziție întreagă în context („apa!” = vreau apă). Nu e gramatică adultă și nu exclude gesturile sau plânsul — e o etapă normală înainte de propoziții complete."
     ),
-    # 10192
     (
-        "Piaget leagă limbajul de simbolizare și de schemele cognitive — "
-        "cuvintele sunt reprezentări, la fel ca gesturile din jocul simbolic. "
-        "Gândirea senzorio-motoră timpurie pregătește reprezentările folosite "
-        "ulterior în vorbire."
+        "Piaget leagă limbajul de simbolizare și de schemele cognitive — cuvintele sunt reprezentări, la fel ca gesturile din jocul simbolic. Gândirea senzorio-motoră timpurie pregătește reprezentările folosite ulterior în vorbire."
     ),
-    # 10193
     (
-        "Plânsul poate indica foame, durere, disconfort sau nevoie de contact. "
-        "Adultul învață treptat să diferențieze tipuri de plâns — e o formă "
-        "de comunicare socială înainte de cuvinte, nu manipulare logică formală."
+        "Plânsul poate indica foame, durere, disconfort sau nevoie de contact. Adultul învață treptat să diferențieze tipuri de plâns — e o formă de comunicare socială înainte de cuvinte, nu manipulare logică formală."
     ),
-    # 10194
     (
-        "Zâmbetul social răspunde la fața sau vocea umană și întărește schimbul "
-        "afectiv cu adultul. Nu e același lucru cu zâmbetul reflex foarte "
-        "timpuriu și nu așteaptă explozia vocabularului."
+        "Zâmbetul social răspunde la fața sau vocea umană și întărește schimbul afectiv cu adultul. Nu e același lucru cu zâmbetul reflex foarte timpuriu și nu așteaptă explozia vocabularului."
     ),
-    # 10195
     (
-        "Zâmbetul social apare când copilul reacționează la o persoană, nu doar "
-        "la un stimul intern. Întărește comunicarea timpurie și relația "
-        "afectivă. Nu depinde de primul cuvânt rostit."
+        "Zâmbetul social apare când copilul reacționează la o persoană, nu doar la un stimul intern. Întărește comunicarea timpurie și relația afectivă. Nu depinde de primul cuvânt rostit."
     ),
-    # 10196
     (
-        "Zâmbetul reflex apare foarte devreme; cel social răspunde la stimuli "
-        "umani și implică recunoașterea interacțiunii. Nu sunt identice ca "
-        "moment sau funcție, iar cel social nu apare după vocabular."
+        "Zâmbetul reflex apare foarte devreme; cel social răspunde la stimuli umani și implică recunoașterea interacțiunii. Nu sunt identice ca moment sau funcție, iar cel social nu apare după vocabular."
     ),
-    # 10197
     (
-        "Înainte de propoziții elaborate apar vocalizările, gânguritul cu "
-        "silabe și primele cuvinte cu referință. Gramatica adultă nu e prezentă "
-        "de la naștere — se construiește treptat."
+        "Înainte de propoziții elaborate apar vocalizările, gânguritul cu silabe și primele cuvinte cu referință. Gramatica adultă nu e prezentă de la naștere — se construiește treptat."
     ),
-    # 10198
     (
-        "Gânguritul antrenează articularea și combinarea silabelor — de exemplu "
-        "„ma-ma” sau „ba-ba”. E joc vocal care precede cuvintele cu sens real, "
-        "nu dovadă de gândire formală abstractă."
+        "Gânguritul antrenează articularea și combinarea silabelor — de exemplu „ma-ma” sau „ba-ba”. E joc vocal care precede cuvintele cu sens real, nu dovadă de gândire formală abstractă."
     ),
-    # 10199
     (
-        "Skinner aplică întărirea, modelarea și consecințele sociale asupra "
-        "comportamentului verbal. Capacitatea înnăscută de gramatică universală "
-        "e ideea lui Chomsky, nu a lui Skinner."
+        "Skinner aplică întărirea, modelarea și consecințele sociale asupra comportamentului verbal. Capacitatea înnăscută de gramatică universală e ideea lui Chomsky, nu a lui Skinner."
     ),
-    # 10200
     (
-        "Plânsul are funcție comunicativă — adultul răspunde, interpretează și "
-        "satisface nevoi. Nu e doar reflex fiziologic fără semnificație socială."
+        "Plânsul are funcție comunicativă — adultul răspunde, interpretează și satisface nevoi. Nu e doar reflex fiziologic fără semnificație socială."
     ),
-    # 10201
     (
-        "Limbajul telegrafic folosește puține cuvinte esențiale („dă minge”) "
-        "și omite adesea articole sau terminații — dar mesajul e înțeles. "
-        "Apare de obicei după propozițiile de două cuvinte, înainte de "
-        "gramatică elaborată."
+        "Limbajul telegrafic folosește puține cuvinte esențiale („dă minge”) și omite adesea articole sau terminații — dar mesajul e înțeles. Apare de obicei după propozițiile de două cuvinte, înainte de gramatică elaborată."
     ),
-    # 10202
     (
-        "Înainte de cuvinte copilul comunică prin plâns, zâmbet, contact vizual, "
-        "vocalizări și gângurit. Propozițiile complexe și scrisul vin mult mai "
-        "târziu."
+        "Înainte de cuvinte copilul comunică prin plâns, zâmbet, contact vizual, vocalizări și gângurit. Propozițiile complexe și scrisul vin mult mai târziu."
     ),
-    # 10203
     (
-        "Piaget leagă explozia vocabularului de maturarea reprezentării și a "
-        "gândirii simbolice — nu o reduce la întărire singură. Skinner pune "
-        "accent pe condiționare; Chomsky pe predispoziție înnăscută."
+        "Piaget leagă explozia vocabularului de maturarea reprezentării și a gândirii simbolice — nu o reduce la întărire singură. Skinner pune accent pe condiționare; Chomsky pe predispoziție înnăscută."
     ),
-    # 10204
     (
-        "Chomsky — predispoziție biologică; Skinner — întărire și condiționare; "
-        "Piaget — legătura limbaj–gândire–simbolizare. Watson nu descrie stadii "
-        "fără limbaj până la școală în acest cadru piagetian."
+        "Chomsky — predispoziție biologică; Skinner — întărire și condiționare; Piaget — legătura limbaj–gândire–simbolizare. Watson nu descrie stadii fără limbaj până la școală în acest cadru piagetian."
     ),
-    # 10205
     (
-        "Vocalizările sunt sunete variate din primele luni; gânguritul combină "
-        "silabe și precede de obicei primele cuvinte — nu invers. Ambele "
-        "antrenează articularea vorbirii."
+        "Vocalizările sunt sunete variate din primele luni; gânguritul combină silabe și precede de obicei primele cuvinte — nu invers. Ambele antrenează articularea vorbirii."
     ),
-    # 10206
     (
-        "Zâmbetul social stimulează răspunsul adultului, întărește atașamentul "
-        "și semnalează disponibilitatea pentru interacțiune. Nu înlocuiește "
-        "nevoia de contact fizic — o completează."
+        "Zâmbetul social stimulează răspunsul adultului, întărește atașamentul și semnalează disponibilitatea pentru interacțiune. Nu înlocuiește nevoia de contact fizic — o completează."
     ),
-    # 10207
     (
-        "Dezvoltarea limbajului urmează o succesiune recognoscibilă: sunete "
-        "→ gângurit → cuvinte → propoziții simple → vocabular în creștere. "
-        "Plânsul și zâmbetul comunică înainte de cuvinte. Limbajul adult "
-        "complet nu apare brusc la naștere."
+        "Dezvoltarea limbajului urmează o succesiune recognoscibilă: sunete → gângurit → cuvinte → propoziții simple → vocabular în creștere. Plânsul și zâmbetul comunică înainte de cuvinte. Limbajul adult complet nu apare brusc la naștere."
     ),
-    # 10208
     (
-        "Răspunsul entuziast al adultului la un cuvânt nou întărește repetarea "
-        "acelui comportament verbal — mecanism skinnerian de întărire pozitivă "
-        "și modelare socială. Nu e singura explicație posibilă (Chomsky "
-        "adaugă predispoziția înnăscută), dar e centrală la Skinner."
+        "Răspunsul entuziast al adultului la un cuvânt nou întărește repetarea acelui comportament verbal — mecanism skinnerian de întărire pozitivă și modelare socială. Nu e singura explicație posibilă (Chomsky adaugă predispoziția înnăscută), dar e centrală la Skinner."
     ),
-    # 10209
     (
-        "După telegrafic, vocabularul se extinde și propozițiile devin mai "
-        "complete. Copilul nu rămâne permanent la un cuvânt, iar gândirea "
-        "formală abstractă nu e caracteristică acestei etape."
+        "După telegrafic, vocabularul se extinde și propozițiile devin mai complete. Copilul nu rămâne permanent la un cuvânt, iar gândirea formală abstractă nu e caracteristică acestei etape."
     ),
-    # 10210
     (
-        "Plânsul diferit poate fi interpretat de adult și semnalează nevoi "
-        "concrete. Face parte din comunicarea preverbală, alături de zâmbet "
-        "și vocalizări — nu așteaptă primul cuvânt pentru a avea funcție socială."
-    ),
+        "Plânsul diferit poate fi interpretat de adult și semnalează nevoi concrete. Face parte din comunicarea preverbală, alături de zâmbet și vocalizări — nu așteaptă primul cuvânt pentru a avea funcție socială."
+    )
 ]
 
 assert len(LIMBAJ_EXPLANATIONS) == 30
