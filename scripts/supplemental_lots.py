@@ -12,13 +12,14 @@ SupplementalLot = Tuple[str, Callable[[], List[Dict[str, Any]]], Callable[[str],
 REGISTERED_LOTS: List[SupplementalLot] = []
 
 # Bump la reformulări distractori — forțează rescrierea loturilor II în questions.json
-II_DISTRACTOR_VERSION = "132"
+II_DISTRACTOR_VERSION = "150"
 II_LOT_NAMES = frozenset(
     {
         "Introducere în evaluarea psihologică II",
         "Psihologia muncii II",
         "Psihoterapie II: Orientări și metode în psihoterapie",
         "Psihopatologie II",
+        "Psihologia dezvoltării II",
     }
 )
 
@@ -61,6 +62,11 @@ def _register() -> None:
         build_items as build_psiho_muncii_ii,
         merge_into_bank as merge_psiho_muncii_ii,
     )
+    from scripts.psihologia_dezvoltarii_ii_exam_items import (
+        LOT_NAME as PSIHO_DEZ_II_LOT,
+        build_items as build_psiho_dez_ii,
+        merge_into_bank as merge_psiho_dez_ii,
+    )
 
     REGISTERED_LOTS.extend(
         [
@@ -71,6 +77,7 @@ def _register() -> None:
             (PSIHOPAT_II_LOT, build_psihopat_ii, merge_psihopat_ii),
             (EVALUARE_II_LOT, build_evaluare_ii, merge_evaluare_ii),
             (PSIHO_MUNCII_II_LOT, build_psiho_muncii_ii, merge_psiho_muncii_ii),
+            (PSIHO_DEZ_II_LOT, build_psiho_dez_ii, merge_psiho_dez_ii),
         ]
     )
 
@@ -114,24 +121,41 @@ def _merge_missing_explanations(
 
 def ensure_all_supplemental_lots(data: Dict[str, Any], bank_path: Path) -> Dict[str, Any]:
     """Adaugă sau actualizează loturile examen când conținutul din cod diferă."""
+    from scripts.lot_archive import (
+        archive_path_for,
+        ensure_archive_split,
+        is_ii_lot,
+        load_archive,
+        merge_active_and_archive,
+    )
+
     _register()
     if bank_path.exists():
         data = json.loads(bank_path.read_text(encoding="utf-8"))
 
-    lots = data.setdefault("lots", {})
+    archive_path = archive_path_for(bank_path)
+    archive_data = load_archive(archive_path)
+    active_lots = data.setdefault("lots", {})
+    archive_lots = archive_data.setdefault("lots", {})
     changed = False
+    archive_changed = False
     version_path = bank_path.parent / ".ii_distractor_version"
     stored_ii_version = (
         version_path.read_text(encoding="utf-8").strip() if version_path.exists() else ""
     )
     force_ii_rebuild = stored_ii_version != II_DISTRACTOR_VERSION
+
     for obsolete in ("Perspectiva psihometrică",):
-        if obsolete in lots:
-            del lots[obsolete]
-            changed = True
+        for store in (active_lots, archive_lots):
+            if obsolete in store:
+                del store[obsolete]
+                changed = True
+                archive_changed = True
+
     for lot_name, build_items, _merge_into_bank in REGISTERED_LOTS:
         built = build_items()
-        existing = lots.get(lot_name, {}).get("questions") or []
+        store = active_lots if is_ii_lot(lot_name) else archive_lots
+        existing = store.get(lot_name, {}).get("questions") or []
         if (
             not (force_ii_rebuild and lot_name in II_LOT_NAMES)
             and existing
@@ -139,14 +163,23 @@ def ensure_all_supplemental_lots(data: Dict[str, Any], bank_path: Path) -> Dict[
             and _lot_content_hash(existing) == _lot_content_hash(built)
         ):
             if _merge_missing_explanations(existing, built):
-                lots[lot_name] = {"questions": existing}
-                changed = True
+                store[lot_name] = {"questions": existing}
+                if is_ii_lot(lot_name):
+                    changed = True
+                else:
+                    archive_changed = True
             continue
-        lots[lot_name] = {"questions": built}
-        changed = True
+        store[lot_name] = {"questions": built}
+        if is_ii_lot(lot_name):
+            changed = True
+        else:
+            archive_changed = True
 
     if changed:
-        data["total_questions"] = sum(len(b.get("questions") or []) for b in lots.values())
+        data["total_questions"] = sum(
+            len(b.get("questions") or []) for b in active_lots.values()
+        )
+        data["active_lots_only"] = True
         bank_path.parent.mkdir(parents=True, exist_ok=True)
         try:
             bank_path.write_text(
@@ -155,7 +188,26 @@ def ensure_all_supplemental_lots(data: Dict[str, Any], bank_path: Path) -> Dict[
             if force_ii_rebuild:
                 version_path.write_text(II_DISTRACTOR_VERSION, encoding="utf-8")
         except OSError:
-            # Streamlit Cloud: filesystem read-only — folosim loturile în memorie.
             pass
 
-    return data
+    if archive_changed:
+        archive_data["total_questions"] = sum(
+            len(b.get("questions") or []) for b in archive_lots.values()
+        )
+        try:
+            archive_path.write_text(
+                json.dumps(archive_data, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
+        except OSError:
+            pass
+
+    try:
+        ensure_archive_split(bank_path)
+        if bank_path.exists():
+            data = json.loads(bank_path.read_text(encoding="utf-8"))
+        archive_data = load_archive(archive_path)
+    except OSError:
+        pass
+
+    return merge_active_and_archive(data, archive_data)

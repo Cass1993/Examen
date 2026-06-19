@@ -25,6 +25,7 @@ MERGE_REPORT = APP_DIR / "2000 itemi raw" / "raport_validare_merge_3400.txt"
 MERGE_RESEARCH = APP_DIR / "2000 itemi raw" / "raport_cercetare_metodologica_2000.txt"
 BANK_MD_DEFAULT = MERGED_JSON
 QUESTIONS_JSON = DATA_DIR / "questions.json"
+QUESTIONS_ARCHIVE_JSON = DATA_DIR / "questions_archive.json"
 HISTORY_JSON = DATA_DIR / "scores_history.json"
 
 
@@ -67,9 +68,35 @@ class Q:
     explanation: str = ""
 
 
+def _is_ii_lot(lot_name: str) -> bool:
+    if _has_scripts():
+        from scripts.lot_archive import is_ii_lot
+
+        return is_ii_lot(lot_name)
+    return " II" in lot_name or lot_name.endswith(" II")
+
+
 def _load_questions() -> Dict[str, Any]:
     if QUESTIONS_JSON.exists():
-        return json.loads(QUESTIONS_JSON.read_text(encoding="utf-8"))
+        data = json.loads(QUESTIONS_JSON.read_text(encoding="utf-8"))
+        if QUESTIONS_ARCHIVE_JSON.exists():
+            archive_data = json.loads(
+                QUESTIONS_ARCHIVE_JSON.read_text(encoding="utf-8")
+            )
+            if _has_scripts():
+                from scripts.lot_archive import merge_active_and_archive
+
+                return merge_active_and_archive(data, archive_data)
+            merged = dict(data.get("lots") or {})
+            for name, content in (archive_data.get("lots") or {}).items():
+                merged.setdefault(name, content)
+            out = dict(data)
+            out["lots"] = merged
+            out["total_questions"] = sum(
+                len(block.get("questions") or []) for block in merged.values()
+            )
+            return out
+        return data
     return {"lots": {}}
 
 
@@ -98,13 +125,13 @@ def bank_path_fallback() -> Path:
     return BANK_MD_DEFAULT
 
 
-WORDING_VERSION = "132"  # explicație Big Five + turnover fără prescurtări
+WORDING_VERSION = "152"  # rebalance II lot MC distributions (16/12/10/3/5 etc.)
 
 
 def _questions_cache_key() -> str:
     """Cheie cache — se invalidează când se schimbă fișierele băncii."""
     parts: List[str] = [WORDING_VERSION]
-    for path in (MERGED_JSON, BANK_1400, BANK_2000, QUESTIONS_JSON):
+    for path in (MERGED_JSON, BANK_1400, BANK_2000, QUESTIONS_JSON, QUESTIONS_ARCHIVE_JSON):
         if path.exists():
             parts.append(f"{path}:{path.stat().st_mtime_ns}")
     io_items = APP_DIR / "scripts" / "i_o_exam_items.py"
@@ -219,6 +246,9 @@ def _ensure_questions_generated(bank_path: Path) -> Dict[str, Any]:
         from scripts.apply_all_bank_fixes import ensure_bank_fixed
 
         ensure_bank_fixed(QUESTIONS_JSON, DATA_DIR)
+        from scripts.lot_archive import ensure_archive_split
+
+        ensure_archive_split(QUESTIONS_JSON)
     data = _load_questions()
     if _has_scripts():
         return _ensure_supplemental_lots(data)
@@ -273,18 +303,42 @@ def _polish_expl_text(text: str) -> str:
 
 
 def _resolve_explanation(qid: int, lot: str, explanation: str) -> str:
-    expl = (explanation or "").strip()
-    if expl or not _has_scripts():
-        return expl
-    if 9001 <= int(qid) <= 9360:
-        from scripts.evaluare_psihologica_ii_explanations import explanation_for_exam_id
+    """Explicații loturi examen II: sursa din scripturi are prioritate față de JSON."""
+    qid_int = int(qid)
+    if _has_scripts():
+        if 7001 <= qid_int <= 7858:
+            from scripts.psihoterapie_ii_explanations import explanation_for_exam_id
 
-        return explanation_for_exam_id(int(qid))
-    if 9501 <= int(qid) <= 9970:
-        from scripts.psihologia_muncii_ii_explanations import explanation_for_exam_id
+            script_expl = explanation_for_exam_id(qid_int).strip()
+            if script_expl:
+                return script_expl
+        if 8001 <= qid_int <= 8360:
+            from scripts.psihopatologie_ii_explanations import explanation_for_exam_id
 
-        return explanation_for_exam_id(int(qid))
-    return ""
+            script_expl = explanation_for_exam_id(qid_int).strip()
+            if script_expl:
+                return script_expl
+        if 9001 <= qid_int <= 9360:
+            from scripts.evaluare_psihologica_ii_explanations import explanation_for_exam_id
+
+            script_expl = explanation_for_exam_id(qid_int).strip()
+            if script_expl:
+                return script_expl
+        if 9501 <= qid_int <= 9970:
+            from scripts.psihologia_muncii_ii_explanations import explanation_for_exam_id
+
+            script_expl = explanation_for_exam_id(qid_int).strip()
+            if script_expl:
+                return script_expl
+        if 10001 <= qid_int <= 10490:
+            from scripts.psihologia_dezvoltarii_ii_explanations import (
+                explanation_for_exam_id,
+            )
+
+            script_expl = explanation_for_exam_id(qid_int).strip()
+            if script_expl:
+                return script_expl
+    return (explanation or "").strip()
 
 
 def _flatten_questions(
@@ -445,7 +499,13 @@ def _build_result_item(q: Q, selected: Sequence[str]) -> Dict[str, Any]:
     if explanation:
         explanation = (
             _exam_explanation(explanation)
-            if 9001 <= q.id <= 9360 or 9501 <= q.id <= 9970
+            if (
+                7001 <= q.id <= 7858
+                or 8001 <= q.id <= 8360
+                or 9001 <= q.id <= 9360
+                or 9501 <= q.id <= 9970
+                or 10001 <= q.id <= 10490
+            )
             else polish_text(explanation)
         )
     return {
@@ -606,12 +666,28 @@ def main() -> None:
         all_questions = _get_all_questions(cache_key)
         _ensure_history()
 
-        available_lots = sorted({q.lot for q in all_questions})
+        all_lot_names = sorted({q.lot for q in all_questions})
+        active_lots = sorted(lot for lot in all_lot_names if _is_ii_lot(lot))
+        archived_lots = sorted(lot for lot in all_lot_names if not _is_ii_lot(lot))
+
         selected_lots = st.multiselect(
             "Alege loturile",
-            options=available_lots,
-            default=available_lots,
+            options=active_lots,
+            default=active_lots,
         )
+        if archived_lots:
+            with st.expander(f"Arhivă — loturi vechi ({len(archived_lots)})"):
+                st.caption(
+                    "Loturile fără „II” (licență veche, bancă combinată). "
+                    "Bifează doar dacă vrei să incluzi și pe acestea în test."
+                )
+                selected_archived = st.multiselect(
+                    "Loturi arhivate",
+                    options=archived_lots,
+                    default=[],
+                    label_visibility="collapsed",
+                )
+                selected_lots = selected_lots + selected_archived
         mode = st.selectbox(
             "Mod",
             options=[
@@ -627,7 +703,9 @@ def main() -> None:
         st.divider()
         st.caption("Bancă încărcată")
         st.write(f"Întrebări disponibile: **{len(all_questions)}**")
-        st.write(f"Domenii: **{len(available_lots)}**")
+        st.write(f"Domenii active (II): **{len(active_lots)}**")
+        if archived_lots:
+            st.write(f"Loturi arhivate: **{len(archived_lots)}**")
         if MERGED_JSON.exists():
             st.caption(f"Sursă combinată: `{MERGED_JSON.name}`")
         if MERGE_REPORT.exists():
@@ -638,6 +716,7 @@ def main() -> None:
         st.divider()
         st.caption("Fișiere date")
         st.write(f"- `data/questions.json`: {QUESTIONS_JSON.exists()}")
+        st.write(f"- `data/questions_archive.json`: {QUESTIONS_ARCHIVE_JSON.exists()}")
         st.write(f"- `data/scores_history.json`: {HISTORY_JSON.exists()}")
 
     if not selected_lots:

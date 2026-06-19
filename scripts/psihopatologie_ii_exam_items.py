@@ -25,9 +25,11 @@ def _load_raw():
 
 
 def build_items() -> List[Dict]:
+    from scripts.psihopatologie_ii_explanations import attach_explanations
     from scripts.psihopatologie_ii_option_polish import polish_bank_row
 
     raw = _load_raw()
+    raw = attach_explanations(raw)
     polished = [polish_bank_row(row) for row in raw]
     return build_items_from_bank(polished, START_ID, LOT_NAME)
 

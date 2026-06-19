@@ -698,7 +698,7 @@ FLUCTUATIE_SATISFACTIE_MUNCII_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Un angajat își place munca zilnică (satisfacție ridicată), dar "
+            "Unui angajat îi place munca zilnică (satisfacție ridicată), dar "
             "nu se simte legat de firmă și ar pleca pentru un alt angajator "
             "similar. Ce combinație descrie cel mai bine situația?"
         ),

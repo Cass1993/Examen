@@ -751,15 +751,24 @@ VALUE_FIT_STRES_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care rezumat pedagogic al capitolului este corect?"
+            "Care afirmații rezumă corect ideile centrale studiate despre "
+            "potrivirea valorilor (value fit), stresul la muncă și modul în "
+            "care persoana evaluează situațiile solicitante și răspunde la ele "
+            "(modelul Lazarus)?"
         ),
         "options": [
-            "valorile = convingeri despre ce e important; fit cu organizația "
-            "contează",
-            "stres = reacție cerințe > resurse; GAS și P–E Fit explică "
-            "mecanisme",
-            "Lazarus: evaluări cognitive → coping problemă vs emoție",
-            "Tip A relaxat, Tip B competitiv — inversat față de literatură",
+            "valorile sunt convingeri despre ce este important; când valorile "
+            "persoanei se potrivesc cu cele ale organizației, cresc de regulă "
+            "satisfacția, angajamentul și retenția",
+            "stresul la muncă poate fi înțeles ca reacție la percepția că "
+            "cerințele depășesc resursele disponibile; sindromul general de "
+            "adaptare (GAS, Selye) și potrivirea persoană–mediu (P–E Fit) "
+            "explică mecanismele implicate",
+            "în modelul lui Richard Lazarus, evaluarea primară (este periculos?) "
+            "și evaluarea secundară (pot face față?) precedă alegerea între "
+            "coping centrat pe problemă și coping centrat pe emoție",
+            "personalitatea de tip A este relaxată și puțin orientată spre "
+            "competiție, iar tipul B este agresiv, grăbit și ostil",
         ],
         "correct": "abc",
     },

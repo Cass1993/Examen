@@ -38,6 +38,14 @@ def main() -> int:
     _configure_stdio()
     print("=== Pregatire deploy Streamlit Cloud ===\n")
 
+    try:
+        from scripts._apply_quote_fix import main as fix_quotes
+
+        print("Corectez ghilimelele din scripturile Python ...")
+        fix_quotes()
+    except Exception as exc:
+        print(f"Avertisment fix ghilimele: {exc}")
+
     if not QUESTIONS_JSON.exists():
         merged = ROOT / "questions_3400_merged.json"
         bank_1400 = ROOT / "1400 x3" / "questions_1400_v6_fara_prescurtari.json"
@@ -61,9 +69,39 @@ def main() -> int:
     except Exception as exc:
         print(f"Avertisment sync Psihologia muncii II: {exc}")
 
-    total = _sync_supplemental_lots()
+    try:
+        from scripts.sync_psihologia_dezvoltarii_ii_lot import main as sync_dez_ii
+
+        print("Actualizez lotul Psihologia dezvoltării II ...")
+        sync_dez_ii()
+    except Exception as exc:
+        print(f"Avertisment sync Psihologia dezvoltării II: {exc}")
+
+    _sync_supplemental_lots()
+
+    try:
+        from scripts.split_lot_archive import main as split_lots
+
+        print("Separ loturile II de arhiva ...")
+        split_lots()
+    except Exception as exc:
+        print(f"Avertisment separare loturi: {exc}")
+
     size_mb = QUESTIONS_JSON.stat().st_size / (1024 * 1024)
-    print(f"\nOK: data/questions.json — {total} intrebari, {size_mb:.1f} MB")
+    archive_path = ROOT / "data" / "questions_archive.json"
+    archive_mb = (
+        archive_path.stat().st_size / (1024 * 1024) if archive_path.exists() else 0.0
+    )
+    active_data = json.loads(QUESTIONS_JSON.read_text(encoding="utf-8"))
+    active_total = sum(
+        len(block.get("questions") or [])
+        for block in (active_data.get("lots") or {}).values()
+    )
+    print(
+        f"\nOK: data/questions.json — {active_total} intrebari (II), {size_mb:.1f} MB"
+    )
+    if archive_path.exists():
+        print(f"    data/questions_archive.json — {archive_mb:.1f} MB")
 
     if QUESTIONS_JSON.stat().st_size < MIN_SIZE_BYTES:
         print("EROARE: questions.json pare prea mic.")

@@ -26,7 +26,7 @@ ITEMS: List[Item] = [
             "antrenarea abilităților sociale prin modelare",
             "clarificarea alegerilor și responsabilității în prezent",
         ],
-        "correct": "b",
+        "correct": "a",
     },
     {
         "stem": "La Freud, Sinele (Es) funcționează după:",

@@ -1,4 +1,4 @@
-"""Itemi examen — Psihoterapie II: Orientări și metode în psihoterapie."""
+"""Itemi examen — Psihologia dezvoltării II."""
 
 from __future__ import annotations
 
@@ -6,25 +6,21 @@ from typing import Dict, List
 
 from scripts.exam_item_utils import build_items_from_bank
 
-LOT_NAME = "Psihoterapie II: Orientări și metode în psihoterapie"
-START_ID = 7001
+LOT_NAME = "Psihologia dezvoltării II"
+START_ID = 10001
 
 
 def _load_raw():
-    from pathlib import Path
-    import json
+    from scripts.psihologia_dezvoltarii_ii_bank_data import (
+        PSIHOLOGIA_DEZVOLTARII_II_ITEMS,
+    )
 
-    data_path = Path(__file__).resolve().parent.parent / "data" / "psihoterapie_ii_items.json"
-    if data_path.exists():
-        return json.loads(data_path.read_text(encoding="utf-8"))
-    from scripts.psihoterapie_ii_bank_data import ITEMS
-
-    return ITEMS
+    return PSIHOLOGIA_DEZVOLTARII_II_ITEMS
 
 
 def build_items() -> List[Dict]:
-    from scripts.psihoterapie_ii_explanations import attach_explanations
-    from scripts.psihoterapie_ii_option_polish import polish_bank_row
+    from scripts.psihologia_dezvoltarii_ii_explanations import attach_explanations
+    from scripts.psihologia_dezvoltarii_ii_option_polish import polish_bank_row
 
     raw = _load_raw()
     raw = attach_explanations(raw)
