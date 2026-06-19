@@ -115,7 +115,7 @@ SENZORIO_MOTOR_ITEMS: List[Item] = [
             "copilul protestează când obiectul familiar dispare temporar",
             "copilul imită acțiunea de ascundere după ce adultul a demonstrat-o",
         ],
-        "correct": "abcd",
+        "correct": "a",
     },
     {
         "stem": "Care trei achiziții piagetiene apar spre sfârșitul stadiului senzorio-motor?",
@@ -365,7 +365,7 @@ SENZORIO_MOTOR_ITEMS: List[Item] = [
             "rezolvarea problemelor cu variabile ipotetice abstracte",
             "absența oricărei reacții la stimuli vizuali familiari",
         ],
-        "correct": "abcd",
+        "correct": "ab",
     },
     {
         "stem": "Care formulare rezumă cel mai bine a doua parte a stadiului senzorio-motor?",
@@ -375,7 +375,7 @@ SENZORIO_MOTOR_ITEMS: List[Item] = [
             "stadiu exclusiv verbal, fără acțiune sau manipulare",
             "etapă de gândire formală abstractă și ipoteze științifice",
         ],
-        "correct": "abcd",
+        "correct": "a",
     },
     {
         "stem": "Care două procese se susțin reciproc în perioada tropăitorului?",

@@ -378,7 +378,7 @@ TEORII_INVATARII_ITEMS: List[Item] = [
             "condiționare clasică watsoniană",
             "centrare preoperațională permanentă",
         ],
-        "correct": "abcd",
+        "correct": "a",
     },
     {
         "stem": "Care două distincții sociocultural / piagetian sunt corecte?",
@@ -408,7 +408,7 @@ TEORII_INVATARII_ITEMS: List[Item] = [
             "niciunul nu acordă rol limbajului",
             "doar psihodinamia explică dezvoltarea",
         ],
-        "correct": "abcd",
+        "correct": "a",
     },
 ]
 

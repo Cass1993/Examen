@@ -190,7 +190,7 @@ METODE_CERCETARE_ITEMS: List[Item] = [
             "interviu: poate reflecta subiectivitatea participantului",
             "observație naturală: validitate ecologică mare, control redus",
         ],
-        "correct": "abcd",
+        "correct": "acd",
     },
     {
         "stem": "O cercetătoare notează fără a interveni cum negociază copiii rolurile în joaca liberă la grădiniță. Metoda este:",
@@ -420,7 +420,7 @@ METODE_CERCETARE_ITEMS: List[Item] = [
             "experiment cu pedepse",
             "sondaj telefonic scurt",
         ],
-        "correct": "abcd",
+        "correct": "a",
     },
     {
         "stem": "Care perechi metodă–limită frecventă sunt corecte?",
@@ -460,7 +460,7 @@ METODE_CERCETARE_ITEMS: List[Item] = [
             "sondaj standardizat pe eșantion național",
             "interviu și observație în cadrul clinicii",
         ],
-        "correct": "abcd",
+        "correct": "abd",
     },
     {
         "stem": "Care cerințe etice trebuie verificate înainte de colectarea datelor la copii?",
