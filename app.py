@@ -194,6 +194,24 @@ def _questions_cache_key() -> str:
         APP_DIR / "scripts" / "psihologia_muncii_ii_explanations.py",
         APP_DIR / "scripts" / "exam_ii_plausible_distractors.py",
         APP_DIR / "scripts" / "psihologia_muncii_ii_exam_items.py",
+        APP_DIR / "scripts" / "psihologia_dezvoltarii_ii_exam_items.py",
+        APP_DIR / "scripts" / "psihologia_dezvoltarii_ii_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_dezvoltarii_ii_explanations.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_exam_items.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_bandura_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_cognitive_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_cognitive_explanations.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_umanist_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_umanist_explanations.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_educatie_invatare_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_educatie_invatare_explanations.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_tipuri_forme_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_tipuri_forme_explanations.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_vark_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_vark_explanations.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_diferente_grila_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_invatarii_ii_diferente_grila_explanations.py",
         APP_DIR / "scripts" / "perspectiva_psihometrica_bank_data.py",
         APP_DIR / "scripts" / "psihopatologie_ii_option_polish.py",
         APP_DIR / "scripts" / "psihoterapie_ii_option_polish.py",
@@ -332,6 +350,14 @@ def _resolve_explanation(qid: int, lot: str, explanation: str) -> str:
                 return script_expl
         if 10001 <= qid_int <= 10490:
             from scripts.psihologia_dezvoltarii_ii_explanations import (
+                explanation_for_exam_id,
+            )
+
+            script_expl = explanation_for_exam_id(qid_int).strip()
+            if script_expl:
+                return script_expl
+        if 10501 <= qid_int <= 10790:
+            from scripts.psihologia_invatarii_ii_explanations import (
                 explanation_for_exam_id,
             )
 
@@ -505,6 +531,7 @@ def _build_result_item(q: Q, selected: Sequence[str]) -> Dict[str, Any]:
                 or 9001 <= q.id <= 9360
                 or 9501 <= q.id <= 9970
                 or 10001 <= q.id <= 10490
+                or 10501 <= q.id <= 10790
             )
             else polish_text(explanation)
         )

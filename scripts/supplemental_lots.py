@@ -20,6 +20,7 @@ II_LOT_NAMES = frozenset(
         "Psihoterapie II: Orientări și metode în psihoterapie",
         "Psihopatologie II",
         "Psihologia dezvoltării II",
+        "Psihologia învățării II",
     }
 )
 
@@ -67,6 +68,11 @@ def _register() -> None:
         build_items as build_psiho_dez_ii,
         merge_into_bank as merge_psiho_dez_ii,
     )
+    from scripts.psihologia_invatarii_ii_exam_items import (
+        LOT_NAME as PSIHO_INV_II_LOT,
+        build_items as build_psiho_inv_ii,
+        merge_into_bank as merge_psiho_inv_ii,
+    )
 
     REGISTERED_LOTS.extend(
         [
@@ -78,6 +84,7 @@ def _register() -> None:
             (EVALUARE_II_LOT, build_evaluare_ii, merge_evaluare_ii),
             (PSIHO_MUNCII_II_LOT, build_psiho_muncii_ii, merge_psiho_muncii_ii),
             (PSIHO_DEZ_II_LOT, build_psiho_dez_ii, merge_psiho_dez_ii),
+            (PSIHO_INV_II_LOT, build_psiho_inv_ii, merge_psiho_inv_ii),
         ]
     )
 

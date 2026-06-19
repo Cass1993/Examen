@@ -77,6 +77,14 @@ def main() -> int:
     except Exception as exc:
         print(f"Avertisment sync Psihologia dezvoltării II: {exc}")
 
+    try:
+        from scripts.sync_psihologia_invatarii_ii_lot import main as sync_inv_ii
+
+        print("Actualizez lotul Psihologia învățării II ...")
+        sync_inv_ii()
+    except Exception as exc:
+        print(f"Avertisment sync Psihologia învățării II: {exc}")
+
     _sync_supplemental_lots()
 
     try:
