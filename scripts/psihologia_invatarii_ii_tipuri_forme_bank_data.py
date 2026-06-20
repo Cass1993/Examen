@@ -47,7 +47,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
             "Învățarea conceptuală se referă în principal la:"
         ),
         "options": [
-            "idei, relații, categorii și abstractizări — nu la reacții senzoriale izolate",
+            "idei, relații, categorii și abstractizări",
             "coordonarea mișcărilor fine și a gesturilor motorii",
             "memorarea mecanică a listelor de cuvinte fără înțelegere",
             "reflexele necondiționate la stimuli simpli",
@@ -258,10 +258,10 @@ TIPURI_FORME_ITEMS: List[Item] = [
             "reciproc conținutul și să se corecteze?"
         ),
         "options": [
-            "învățarea reciprocă — elevii se instruiesc și se evaluează unii pe alții",
-            "lectura pasivă a manualului fără discuție",
-            "condiționarea clasică a reflexelor",
-            "memorarea listelor de termeni în ordine alfabetică",
+            "învățarea reciprocă",
+            "învățarea prin proiecte",
+            "învățarea experiențială",
+            "învățarea colaborativă în echipă",
         ],
         "correct": "a",
     },
@@ -270,8 +270,8 @@ TIPURI_FORME_ITEMS: List[Item] = [
             "Care dintre următoarele forme de învățare activă sunt enumerate corect?"
         ),
         "options": [
-            "studii de caz — analiza unor situații reale sau simulate",
-            "învățare prin proiecte — elaborarea unui produs sau rezolvarea unei probleme",
+            "studii de caz",
+            "învățare prin proiecte",
             "ascultarea neinteractivă a unei prelegeri de două ore",
             "copierea textului de pe tablă fără procesare",
         ],
@@ -282,10 +282,10 @@ TIPURI_FORME_ITEMS: List[Item] = [
             "Primul pas în ciclul experiențial al lui Kolb este:"
         ),
         "options": [
-            "experiența concretă — trăirea directă a unei situații",
-            "aplicarea/testarea în practică a conceptelor",
-            "conceptualizarea abstractă fără experiență anterioară",
-            "reflecția asupra unei teorii citite pasiv",
+            "experiența concretă",
+            "reflecția observațională",
+            "conceptualizarea abstractă",
+            "aplicarea activă",
         ],
         "correct": "a",
     },
@@ -295,9 +295,9 @@ TIPURI_FORME_ITEMS: List[Item] = [
         ),
         "options": [
             "experiență concretă",
-            "reflecție observativă asupra experienței",
-            "conceptualizare abstractă — generalizare, teorii",
-            "aplicare activă — testare în situații noi",
+            "reflecție observativă",
+            "conceptualizare abstractă",
+            "aplicare activă",
         ],
         "correct": "abcd",
     },
@@ -450,8 +450,8 @@ TIPURI_FORME_ITEMS: List[Item] = [
             "la interesele elevilor?"
         ),
         "options": [
-            "curriculum emergent — teme care se dezvoltă din întrebările grupului",
-            "învățare prin investigare/cercetare — elevii explorează o problemă",
+            "curriculum emergent",
+            "învățare prin investigare/cercetare",
             "dictarea mecanică a definițiilor din manual",
             "testarea standardizată fără activitate exploratorie",
         ],

@@ -24,12 +24,49 @@ AUTHOR_STEM_MISMATCH = re.compile(
     r"\bautori\b(?!.*\bperech)", re.I
 )
 DASH_PAIR_OPTION = re.compile(r"\s[—–-]\s")
+# Explicație după liniuță în variantă (nu doar perechi scurte tip „formală — școală”)
+DASH_EXPLANATION = re.compile(r"\s[—–-]\s.{12,}", re.DOTALL)
 
 
 @dataclass(frozen=True)
 class StemIssue:
     rule: str
     message: str
+
+
+def _option_has_dash_explanation(text: str) -> bool:
+    return bool(DASH_EXPLANATION.search((text or "").strip()))
+
+
+def audit_options_spoonfeed(
+    options: Iterable[str], correct: str
+) -> List[StemIssue]:
+    """Semnalează când doar variantele corecte au explicație după liniuță."""
+    opts = [str(o) for o in options]
+    if len(opts) != 4 or not correct or correct in ("t", "f"):
+        return []
+
+    correct_letters = set(correct)
+    wrong_letters = set("abcd") - correct_letters
+    correct_opts = [opts[i] for i, ch in enumerate("abcd") if ch in correct_letters]
+    wrong_opts = [opts[i] for i, ch in enumerate("abcd") if ch in wrong_letters]
+
+    correct_with = sum(1 for o in correct_opts if _option_has_dash_explanation(o))
+    wrong_with = sum(1 for o in wrong_opts if _option_has_dash_explanation(o))
+    wrong_without = sum(1 for o in wrong_opts if not _option_has_dash_explanation(o))
+
+    # Toate variantele au același format (perechi/grilă) — OK
+    if correct_with and wrong_with >= len(wrong_opts) // 2:
+        return []
+    if correct_with and wrong_without >= 2:
+        return [
+            StemIssue(
+                "option_spoonfeed",
+                "variantele corecte au explicație după liniuță, iar cele greșite nu — "
+                "răspunsul e prea evident",
+            )
+        ]
+    return []
 
 
 def audit_stem(stem: str, options: Iterable[str] | None = None) -> List[StemIssue]:

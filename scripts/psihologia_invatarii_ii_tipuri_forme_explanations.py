@@ -132,9 +132,9 @@ TIPURI_FORME_EXPLANATIONS: List[str] = [
     ),
     # 10711
     (
-        "Învățarea reciprocă (peer tutoring): perechi sau grupuri în care elevii "
-        "explică, pun întrebări și se corectează reciproc — solicită procesare "
-        "profundă. Lectura pasivă sau condiționarea reflexă nu sunt forme active."
+        "Învățarea reciprocă (peer tutoring) presupune ca elevii să își explice "
+        "reciproc conținutul și să se corecteze. Celelalte variante sunt tot forme "
+        "active, dar nu se bazează pe instruire și evaluare reciprocă între colegi."
     ),
     # 10712
     (
@@ -144,9 +144,9 @@ TIPURI_FORME_EXPLANATIONS: List[str] = [
     ),
     # 10713
     (
-        "Ciclul Kolb începe cu experiența concretă — trăiești sau faci ceva. Abia "
-        "apoi reflecția, conceptualizarea și aplicarea. A începe cu teorie pasivă "
-        "fără experiență inversează logica experiențială."
+        "Primul pas din ciclul Kolb este experiența concretă — trăirea sau "
+        "realizarea directă a unei situații. Celelalte etape (reflecție, "
+        "conceptualizare, aplicare) urmează logic după această experiență."
     ),
     # 10714
     (

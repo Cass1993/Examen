@@ -50535,7 +50535,7 @@
           "id": 10694,
           "text": "Învățarea conceptuală se referă în principal la:",
           "options": {
-            "a": "idei, relații, categorii și abstractizări — nu la reacții senzoriale izolate",
+            "a": "idei, relații, categorii și abstractizări",
             "b": "reflexele necondiționate la stimuli simpli",
             "c": "coordonarea mișcărilor fine și a gesturilor motorii",
             "d": "memorarea mecanică a listelor de cuvinte fără înțelegere"
@@ -50851,16 +50851,16 @@
           "id": 10711,
           "text": "Care formă de învățare activă presupune ca elevii să își explice reciproc conținutul și să se corecteze?",
           "options": {
-            "a": "memorarea listelor de termeni în ordine alfabetică",
-            "b": "învățarea reciprocă — elevii se instruiesc și se evaluează unii pe alții",
-            "c": "condiționarea clasică a reflexelor",
-            "d": "lectura pasivă a manualului fără discuție"
+            "a": "învățarea colaborativă în echipă",
+            "b": "învățarea reciprocă",
+            "c": "învățarea experiențială",
+            "d": "învățarea prin proiecte"
           },
           "kind": "single",
           "correct": [
             "b"
           ],
-          "explanation": "Învățarea reciprocă (peer tutoring): perechi sau grupuri în care elevii explică, pun întrebări și se corectează reciproc — solicită procesare profundă. Lectura pasivă sau condiționarea reflexă nu sunt forme active.",
+          "explanation": "Învățarea reciprocă (peer tutoring) presupune ca elevii să își explice reciproc conținutul și să se corecteze. Celelalte variante sunt tot forme active, dar nu se bazează pe instruire și evaluare reciprocă între colegi.",
           "domeniu": "Psihologia învățării II",
           "tip": "unic",
           "exam_item": true
@@ -50869,8 +50869,8 @@
           "id": 10712,
           "text": "Care dintre următoarele forme de învățare activă sunt enumerate corect?",
           "options": {
-            "a": "învățare prin proiecte — elaborarea unui produs sau rezolvarea unei probleme",
-            "b": "studii de caz — analiza unor situații reale sau simulate",
+            "a": "învățare prin proiecte",
+            "b": "studii de caz",
             "c": "ascultarea neinteractivă a unei prelegeri de două ore",
             "d": "copierea textului de pe tablă fără procesare"
           },
@@ -50888,16 +50888,16 @@
           "id": 10713,
           "text": "Primul pas în ciclul experiențial al lui Kolb este:",
           "options": {
-            "a": "aplicarea/testarea în practică a conceptelor",
-            "b": "reflecția asupra unei teorii citite pasiv",
-            "c": "conceptualizarea abstractă fără experiență anterioară",
-            "d": "experiența concretă — trăirea directă a unei situații"
+            "a": "reflecția observațională",
+            "b": "aplicarea activă",
+            "c": "conceptualizarea abstractă",
+            "d": "experiența concretă"
           },
           "kind": "single",
           "correct": [
             "d"
           ],
-          "explanation": "Ciclul Kolb începe cu experiența concretă — trăiești sau faci ceva. Abia apoi reflecția, conceptualizarea și aplicarea. A începe cu teorie pasivă fără experiență inversează logica experiențială.",
+          "explanation": "Primul pas din ciclul Kolb este experiența concretă — trăirea sau realizarea directă a unei situații. Celelalte etape (reflecție, conceptualizare, aplicare) urmează logic după această experiență.",
           "domeniu": "Psihologia învățării II",
           "tip": "unic",
           "exam_item": true
@@ -50906,10 +50906,10 @@
           "id": 10714,
           "text": "Ce etape compun ciclul experiențial Kolb, în ordinea logică?",
           "options": {
-            "a": "conceptualizare abstractă — generalizare, teorii",
+            "a": "conceptualizare abstractă",
             "b": "experiență concretă",
-            "c": "aplicare activă — testare în situații noi",
-            "d": "reflecție observativă asupra experienței"
+            "c": "aplicare activă",
+            "d": "reflecție observativă"
           },
           "kind": "multi",
           "correct": [
@@ -51152,8 +51152,8 @@
           "text": "Care dintre următoarele forme de învățare activă implică adaptarea conținutului la interesele elevilor?",
           "options": {
             "a": "dictarea mecanică a definițiilor din manual",
-            "b": "curriculum emergent — teme care se dezvoltă din întrebările grupului",
-            "c": "învățare prin investigare/cercetare — elevii explorează o problemă",
+            "b": "curriculum emergent",
+            "c": "învățare prin investigare/cercetare",
             "d": "testarea standardizată fără activitate exploratorie"
           },
           "kind": "multi",

@@ -28,7 +28,7 @@ from scripts.psihologia_invatarii_ii_exam_items import LOT_NAME, START_ID, build
 
 from scripts.psihologia_invatarii_ii_explanations import explanation_for_exam_id  # noqa: E402
 
-from scripts.invatarii_ii_stem_audit import audit_option_text, audit_stem  # noqa: E402
+from scripts.invatarii_ii_stem_audit import audit_option_text, audit_options_spoonfeed, audit_stem  # noqa: E402
 
 
 
@@ -115,6 +115,11 @@ def main() -> int:
         for issue in audit_stem(stem, opt_texts):
 
                 issues.append(f"{qid}: [{issue.rule}] {issue.message} — «{stem[:90]}»")
+
+        correct_key = str(q.get("correct") or "")
+        if opt_texts and correct_key and not q.get("tf"):
+            for issue in audit_options_spoonfeed(opt_texts, correct_key):
+                issues.append(f"{qid}: [{issue.rule}] {issue.message}")
 
 
 
