@@ -1,4 +1,4 @@
-"""Verifică consistența itemilor Psihologia învățării II (10501–10790)."""
+"""Verifică consistența itemilor Psihologia învățării II (10501–10890)."""
 
 from __future__ import annotations
 
@@ -26,7 +26,7 @@ def main() -> int:
     json_lot = data.get("lots", {}).get(LOT_NAME, {}).get("questions") or []
     issues: list[str] = []
 
-    expected_n = 290
+    expected_n = 390
     if len(built) != expected_n:
         issues.append(f"build_items: așteptat {expected_n}, primit {len(built)}")
     if len(json_lot) != expected_n:
@@ -34,8 +34,8 @@ def main() -> int:
 
     for q in built:
         qid = int(q["id"])
-        if not (10501 <= qid <= 10790):
-            issues.append(f"{qid}: ID în afara intervalului 10501–10790")
+        if not (10501 <= qid <= 10890):
+            issues.append(f"{qid}: ID în afara intervalului 10501–10890")
         if not str(q.get("text") or "").strip():
             issues.append(f"{qid}: enunț gol")
         if not q.get("options"):

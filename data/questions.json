@@ -52338,10 +52338,1878 @@
           "domeniu": "Psihologia învățării II",
           "tip": "unic",
           "exam_item": true
+        },
+        {
+          "id": 10791,
+          "text": "Eficiența profesorului nu înseamnă doar transmiterea de informații, ci capacitatea de a crea condiții psihopedagogice pentru învățare, dezvoltare și autonomie.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Profesorul eficient nu e depozitar de informații care „toarnă” conținut — organizează situații de învățare, motivează, relaționează, adaptează și sprijină autonomia. Transmiterea fără condiții psihopedagogice produce memorare fragilă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10792,
+          "text": "Care formulare surprinde cel mai bine ideea centrală a profesorului eficient?",
+          "options": {
+            "a": "menține distanță rigidă și evită adaptarea la nevoile clasei",
+            "b": "transmite integral manualul, indiferent de reacțiile elevilor",
+            "c": "creează condiții pentru învățare și dezvoltare, nu livrează mecanic conținut",
+            "d": "se bazează pe pedeapsă publică ca principală metodă de motivare"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Ideea centrală: condiții pentru învățare și dezvoltare — structură, sens, relație, adaptare. Livrarea mecanică a manualului, distanța rigidă sau pedeapsa ca motivație principală descriu un model tradițional slab, nu profesorul eficient.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10793,
+          "text": "Care două competențe trebuie combinate de profesorul eficient?",
+          "options": {
+            "a": "competență administrativă birocratică, fără relație cu sala de clasă",
+            "b": "competență limitată la memorarea definițiilor din programă",
+            "c": "competență de specialitate — stăpânirea disciplinei predate",
+            "d": "competență pedagogică — adaptarea predării la elevi și la situația de învățare"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Specialitatea (știi materia) și pedagogia (știi să o predai la acești elevi) se completează. Fără conținut solid eșuezi la rigoare; fără pedagogie eșuezi la comunicare și adaptare — chiar dacă ești expert în disciplină.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10794,
+          "text": "Care trei elemente definesc predarea eficientă, pe lângă transmiterea conținutului?",
+          "options": {
+            "a": "accentul pe copierea mecanică a textului, fără procesare",
+            "b": "construirea unor relații educative funcționale",
+            "c": "generarea motivelor pentru învățare",
+            "d": "structurarea cunoștințelor și a operațiilor mentale solicitate elevilor"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Predare eficientă = structurare cognitivă (ce gândesc elevii), motive (de ce să învețe), relații (climat, respect, dialog). Copierea mecanică fără procesare nu e predare eficientă, ci doar expunere.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10795,
+          "text": "Aptitudinea pedagogică este:",
+          "options": {
+            "a": "capacitatea de a aplica pedeapsa ca unic instrument de disciplină",
+            "b": "talentul innat care face imposibilă formarea prin practică",
+            "c": "un sistem de însușiri psihice care permite transmiterea cunoștințelor, structurarea operațiilor esențiale și generarea motivelor pentru învățare",
+            "d": "sinonimul perfect al competenței de specialitate în disciplină"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Aptitudinea pedagogică: ansamblu de însușiri psihice (atenție la elevi, empatie, claritate, flexibilitate) care fac posibilă transmiterea structurată și motivarea. Nu e doar talent — se dezvoltă; nu e identică cu expertiza în disciplină.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10796,
+          "text": "Care două componente aparțin competenței pedagogice a profesorului?",
+          "options": {
+            "a": "cunoștințe, atitudini și modul de relaționare cu elevii",
+            "b": "renunțarea la feedback și la evaluarea formativă",
+            "c": "predarea identică pentru toți, fără diferențiere",
+            "d": "cadrele formale ale activității didactice (planificare, organizare lecție)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Competența pedagogică include cunoștințe despre învățare și predare, atitudini față de elevi, relaționare și cadre formale (plan, organizare, evaluare). Renunțarea la feedback sau predarea identică pentru toți contrazic competența pedagogică.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10797,
+          "text": "Competența profesional-științifică a profesorului se referă la:",
+          "options": {
+            "a": "aplicarea condiționării operante, fără explicații conceptuale",
+            "b": "gestionarea climatului de grup și a comunicării în clasă",
+            "c": "adaptarea conținutului la nivelul elevilor și la situația de învățare",
+            "d": "stăpânirea conținutului disciplinei predate"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Profesional-științifică = stăpânirea disciplinei (concepte, metode, erori frecvente). Adaptarea la elevi și gestionarea grupului aparțin altor competențe (psihopedagogică, psihosocială).",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10798,
+          "text": "Care două distincții între competența profesional-științifică și cea psihopedagogică sunt corecte?",
+          "options": {
+            "a": "științifică: gestionarea conflictelor din clasă; psihopedagogică: memorarea programului fără adaptare",
+            "b": "ambele se reduc la același lucru — cunoștințe din manual",
+            "c": "psihopedagogică: structurarea lecției, strategii, diferențiere",
+            "d": "științifică: cunoașterea profundă a materiei; psihopedagogică: adaptarea la elevi și la contextul de învățare"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Științifică: ce predai (conținut corect, profund). Psihopedagogică: cum predai (strategii, diferențiere, structură lecție, operații mentale). Ambele sunt necesare; una nu o înlocuiește pe cealaltă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10799,
+          "text": "Competența psihosocială a profesorului presupune gestionarea grupului, a relațiilor, a comunicării și a climatului clasei.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Psihosocială: dinamica grupului, comunicarea, conflictele, climatul, statutul elevilor (cine e ascultat, cine e marginalizat). Fără această competență, conținutul bun nu ajunge la elevi tensionați sau demotivați.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10800,
+          "text": "Competența psihosocială include în principal:",
+          "options": {
+            "a": "limitarea comunicării la transmiterea notei, fără dialog cu părinții",
+            "b": "gestionarea grupului, a relațiilor, a comunicării și a climatului clasei",
+            "c": "aplicarea pedepsei colective pentru abateri minore ale unui elev",
+            "d": "stăpânirea formulelor din manual, fără interacțiune cu elevii"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Psihosocială = relații + grup + climat + comunicare. Stăpânirea formulelor e competență științifică. Pedepsa colectivă sau izolarea comunicării deteriorează climatul, nu reflectă competență psihosocială.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10801,
+          "text": "Care două calități ale profesorului eficient susțin relația educațională?",
+          "options": {
+            "a": "distanțare emoțională totală pentru a părea autoritar",
+            "b": "comunicare clară — explicații inteligibile, feedback explicit",
+            "c": "comunicare unidirecțională, fără ascultarea întrebărilor elevilor",
+            "d": "empatie — înțelegerea perspectivei și nevoilor elevilor"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Comunicare clară: elevul înțelege ce, cum și de ce. Empatie: profesorul percepe dificultăți, temeri, nevoia de sprijin. Distanțarea totală sau monologul fără ascultare slăbesc relația educațională.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10802,
+          "text": "Autoritatea flexibilă, la profesorul eficient, înseamnă:",
+          "options": {
+            "a": "control rigid al fiecărui cuvânt, fără excepții sau negociere",
+            "b": "fermitate și limite clare, dar deschidere la dialog și adaptare",
+            "c": "lipsa regulilor pentru a nu tensiona relația cu elevii",
+            "d": "lipsa regulilor pentru a menține relația aparent relaxată"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Autoritate flexibilă: limite și așteptări clare, dar nu dictatură — poți negocia, explica reguli, adapta. Permisivitatea fără limite sau controlul micromanagerial sunt extreme nedorite.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10803,
+          "text": "Care trei elemente intră în competența pedagogică, conform sintezei cursului?",
+          "options": {
+            "a": "cunoștințe și motive ale profesorului pentru activitatea didactică",
+            "b": "cadrele formale ale activității didactice (planificare, desfășurare)",
+            "c": "renunțarea la planificare în favoarea improvizației totale",
+            "d": "atitudini, sentimente și modul de relaționare cu elevii"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Competența pedagogică integrată: cunoștințe și motive ale profesorului, atitudini și sentimente în relație, cadre formale (planificare, desfășurare). Improvizația totală fără obiective nu e semn de competență.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10804,
+          "text": "Organizarea didactică eficientă presupune că profesorul:",
+          "options": {
+            "a": "improvizează fără obiective, de la un minut la altul",
+            "b": "planifică, structurează timpul și resursele lecției coerent",
+            "c": "acoperă manualul mecanic, indiferent de înțelegerea clasei",
+            "d": "evită pregătirea pentru a părea spontan în fața elevilor"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Organizare: obiective clare, timp structurat, materiale pregătite, tranziții logice. Improvizația permanentă sau acoperirea mecanică a programului fără verificarea înțelegerii slăbesc eficiența.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10805,
+          "text": "Care două forme de adaptare la elevi reflectă competența psihopedagogică?",
+          "options": {
+            "a": "ignorarea feedback-ului elevilor pentru a termina programa",
+            "b": "ajustarea explicațiilor și a exemplelor la nivelul clasei",
+            "c": "predarea identică pentru toți, indiferent de dificultăți",
+            "d": "diferențierea sarcinilor sau a sprijinului după nevoile elevilor"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Adaptare psihopedagogică: explicații și sarcini la nivelul clasei; sprijin suplimentar unde e nevoie. Predarea identică ignoră diferențele — semn de competență slabă, nu de „echitate” rigidă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10806,
+          "text": "Care patru dimensiuni combină profesorul eficient în practică?",
+          "options": {
+            "a": "competență de specialitate și competență pedagogică",
+            "b": "organizare didactică și autoritate flexibilă",
+            "c": "adaptare la elevi și capacitate de a motiva învățarea",
+            "d": "comunicare clară și empatie"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Profesorul eficient integrează: specialitate + pedagogie, comunicare + empatie, organizare + autoritate flexibilă, adaptare + motivare. Toate patru perechi din opțiuni sunt dimensioni complementare.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10807,
+          "text": "Generarea motivelor pentru învățare, în viziunea aptitudinii pedagogice, înseamnă că profesorul:",
+          "options": {
+            "a": "renunță la feedback și la provocări cognitive în lecție",
+            "b": "se bazează pe pedeapsă și umilire ca strategii principale",
+            "c": "creează sens, relevanță și implicare — nu se limitează la note și teamă",
+            "d": "transmite conținut fără a explica de ce contează pentru elevi"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Motive pentru învățare: sens, relevanță, curiozitate, provocare realizabilă — nu teamă și umilire. Profesorul conectează conținutul de viața elevului și oferă feedback care susține efortul.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10808,
+          "text": "Care două caracteristici definesc relațiile educative funcționale?",
+          "options": {
+            "a": "respect reciproc și comunicare deschisă",
+            "b": "compararea publică constantă între elevi ca motivație principală",
+            "c": "ierarhie rigidă în care elevul nu își exprimă întrebările",
+            "d": "climat de încredere în care elevul poate greși și învăța"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Relații funcționale: respect, încredere, posibilitatea de a greși și corecta. Ierarhia umilitoare sau competiția publică distrug climatul și ascund dificultățile reale de învățare.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10809,
+          "text": "Dacă profesorul stăpânește perfect conținutul disciplinei, competența psihopedagogică devine inutilă în sala de clasă.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Expertul în materie care nu știe să explice, să diferențieze sau să gestioneze clasa rămâne ineficient — elevii nu învață doar din faptul că profesorul „știe mult”. Psihopedagogia e complement, nu opțional.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10810,
+          "text": "Structurarea operațiilor mentale în lecție presupune că profesorul:",
+          "options": {
+            "a": "se limitează la dictare, fără activități cognitive",
+            "b": "ghidează elevul prin pași de gândire: compară, analizează, rezumă, aplică",
+            "c": "cere memorarea mecanică fără a explica raționamentul",
+            "d": "evită întrebările care solicită gândirea superioară"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Operații mentale: profesorul modelează și solicită comparare, analiză, sinteză, aplicare — nu doar repetare. Dictarea fără gândire lasă informația la suprafață.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10811,
+          "text": "Care trei componente ale competenței pedagogice includ dimensiunea afectiv-relațională?",
+          "options": {
+            "a": "motivele profesorului pentru activitatea didactică",
+            "b": "sentimentele și modul de relaționare în clasă",
+            "c": "atitudinile față de elevi și de meserie",
+            "d": "contact minim cu elevii, în favoarea expunerii orale prelungite"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Dimensiune afectiv-relațională: atitudini (respect, optimism profesional), sentimente (implicare, răbdare), relaționare (ton, feedback). Motivele profesorului pentru meserie influențează și energia din clasă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10812,
+          "text": "Care două elemente aparțin cadrelor formale ale activității didactice?",
+          "options": {
+            "a": "lipsa regulilor de conduită în clasă",
+            "b": "organizarea timpului, a materialelor și a evaluării",
+            "c": "improvizația completă, fără obiective sau plan",
+            "d": "planificarea lecției și respectarea structurii didactice"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Cadre formale: plan de lecție, structură (introducere–activitate–închidere), timp, materiale, evaluare. Fără cadru, lecția devine haotică; cadrul nu înseamnă rigiditate, ci orientare.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10813,
+          "text": "Gestionarea statutului elevilor în clasă ține de competența:",
+          "options": {
+            "a": "psihosocială — recunoaștere, roluri, apartenență la grup",
+            "b": "profesional-științifică — formule și teoreme din disciplină",
+            "c": "strict administrativă — completarea formularelor școlii",
+            "d": "behavioristă — programe de întărire pe raport variabil"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Statutul elevilor (recunoscut, marginalizat, lider informal) se gestionează psihosocial — prin distribuție echitabilă a vorbirii, roluri, feedback. Formulele din disciplină țin de competența științifică.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10814,
+          "text": "Care două practici susțin un climat de clasă favorabil învățării?",
+          "options": {
+            "a": "pedeapsa colectivă pentru greșelile unui elev",
+            "b": "feedback constructiv și evitarea umilirii publice",
+            "c": "tăcerea obligatorie, fără întrebări sau discuție",
+            "d": "reguli clare, aplicate cu consecvență și explicare"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Climat bun: reguli explicate și consecvente; feedback constructiv; evitarea umilirii. Pedepsa colectivă și tăcerea impusă creează teamă, nu învățare profundă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10815,
+          "text": "Diferența esențială între a transmite informații și a crea condiții pentru învățare este că:",
+          "options": {
+            "a": "a doua presupune structurare, motivație, relație și adaptare la elevi",
+            "b": "ambele înseamnă dictarea manualului fără interacțiune",
+            "c": "a doua presupune renunțarea la conținut în favoarea jocului liber",
+            "d": "prima este întotdeauna superioară celei de-a doua"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Transmiterea = livrare de informație. Crearea condițiilor = structurare, motivare, relație, adaptare — elevul devine activ. A doua nu renunță la conținut, îl integrează pedagogic.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10816,
+          "text": "Care patru componente ale predării eficiente sunt enumerate în sinteza profesorului eficient?",
+          "options": {
+            "a": "operații mentale ghidate",
+            "b": "relații educative funcționale",
+            "c": "motive pentru învățare",
+            "d": "structurarea cunoștințelor"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Cele patru componente din sinteză: structurare cunoștințe, operații mentale, motive, relații educative. Toate patru opțiuni sunt corecte ca listă integrală.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10817,
+          "text": "Care două modalități prin care profesorul generează motive pentru învățare sunt plauzibile pedagogic?",
+          "options": {
+            "a": "arată relevanța conținutului pentru viața și interesele elevilor",
+            "b": "amenință cu note mici ca unică strategie de motivare",
+            "c": "oferă sarcini provocatoare, dar realizabile, cu feedback",
+            "d": "compară public elevii slabi cu cei performanți"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Motive: relevanță personală, sarcini provocatoare realizabile, feedback. Amenințarea cu nota sau compararea publică pot produce anxietate, nu motivație intrinsecă durabilă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10818,
+          "text": "Aptitudinea pedagogică și competența pedagogică se deosebesc astfel:",
+          "options": {
+            "a": "aptitudinea — potențial/însușiri psihice; competența — formare integrată cunoștințe–atitudini–practică în activitate",
+            "b": "competența se reduce la stăpânirea manualului, fără relație cu elevii",
+            "c": "aptitudinea înlocuiește nevoia de pregătire la disciplină",
+            "d": "aptitudinea e talent innat fix; competența nu se poate dezvolta în timp"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Aptitudinea = potențial, predisposiții (poate fi cultivată). Competența = formare integrată în practică — cunoștințe, atitudini, abilități demonstrate. Nu e talent fix vs imposibilitate de dezvoltare.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10819,
+          "text": "Care trei calități reflectă capacitatea de adaptare a profesorului eficient?",
+          "options": {
+            "a": "ajustarea ritmului și a exemplelor la nevoile clasei",
+            "b": "autoritate flexibilă — limite clare, dar deschidere la dialog",
+            "c": "flexibilitate în strategii când observă că elevii nu înțeleg",
+            "d": "refuzul de a modifica lecția după reacțiile elevilor"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Adaptare: schimbi strategia când vezi confuzie; autoritate flexibilă; ritm și exemple ajustate. Refuzul de a modifica lecția ignoră feedback-ul clasei.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10820,
+          "text": "Care patru tipuri de competență ale profesorului apar în modelul prezentat la curs?",
+          "options": {
+            "a": "competență pedagogică (generală)",
+            "b": "competență psihopedagogică",
+            "c": "competență profesional-științifică",
+            "d": "competență psihosocială"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Cele patru competențe din model: pedagogică (generală), profesional-științifică, psihopedagogică, psihosocială. Împreună descriu profesorul eficient — nu doar expertul în conținut.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10821,
+          "text": "Atitudinile profesorului față de predare și învățare pot orienta stilul didactic — spre profesie, spre elev sau spre sine.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Atitudinea față de profesie, față de elev și față de sine filtrează alegerile didactice: ce accentuezi, cum relaționezi, cât te dezvolți. Nu sunt separate total — se combină în stilul din clasă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10822,
+          "text": "Care trei orientări ale atitudinii profesorului sunt frecvent distinse în literatura didactică?",
+          "options": {
+            "a": "față de notă — concentrare pe cifre, fără relație cu învățarea",
+            "b": "față de sine — autoreflecție, dezvoltare personală, echilibru",
+            "c": "față de profesie — identitate, standarde, responsabilitate profesională",
+            "d": "față de elev — respect, încredere, sprijin pentru participare"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Cele trei orientări: profesie (standarde, etică, responsabilitate), elev (respect, încredere, participare), sine (autoreflecție, echilibru). Concentrarea pe notă ca scop unic nu e orientare atitudinală completă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10823,
+          "text": "Care două componente aparțin atitudinii față de predare?",
+          "options": {
+            "a": "organizarea conținutului și claritatea instruirii",
+            "b": "gestionarea disciplinei prin pedeapsă publică ca metodă principală",
+            "c": "corectitudinea informațiilor transmise elevilor",
+            "d": "renunțarea la planificare în favoarea improvizației totale"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Atitudinea față de predare: informație corectă, conținut bine organizat, explicații clare. Pedepsa publică sau improvizația fără plan nu definesc o atitudine profesională pozitivă față de predare.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10824,
+          "text": "Care trei efecte ale atitudinii profesorului față de elev sunt evocate în psihopedagogie?",
+          "options": {
+            "a": "disponibilitatea de participare la activitate",
+            "b": "încrederea elevilor și sentimentul de siguranță",
+            "c": "memorarea mecanică fără implicare afectivă",
+            "d": "climatul afectiv al clasei"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Față de elev: climatul emoțional, încrederea, siguranța psihologică și dorința de a participa. Memorarea fără implicare afectivă nu e efect vizat al unei atitudini pozitive.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10825,
+          "text": "Elevii receptează frecvent mesajele nonverbale ale profesorului — mimică, ton, postură — uneori mai puternic decât cuvintele. Care formulare este corectă?",
+          "options": {
+            "a": "adevărat — nonverbalul înlocuiește complet nevoia de explicație clară",
+            "b": "fals — elevii iau în seamă aproape doar cuvintele rostite",
+            "c": "adevărat — nonverbalul poate întări sau contrazice mesajul verbal",
+            "d": "fals — și adolescenții percep tonul, postura și mimică profesorului"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Adevărat. Mimica, tonul și postura pot confirma sau infirma cuvintele — un „e bine” spus cu ton disprețuitor sau plictiseală vizibilă subminează încrederea. Nonverbalul nu înlocuiește claritatea verbală, o completează.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10826,
+          "text": "Care două canale nonverbale transmit atitudinea profesorului în clasă?",
+          "options": {
+            "a": "conținutul manualului scris, fără prezența fizică a profesorului",
+            "b": "tonul vocii și postura — siguranță, descurajare, disponibilitate",
+            "c": "mimica și expresia facială — plictiseală, interes, dezaprobare",
+            "d": "nota din catalog, fără feedback în timpul lecției"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Nonverbal: față și gesturi (plictiseală, interes), voce și postură (siguranță, descurajare). Manualul scris sau nota din catalog nu sunt canale nonverbale în timpul lecției.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10827,
+          "text": "Profesorul centrat pe conținut se caracterizează prin:",
+          "options": {
+            "a": "selectarea informațiilor esențiale și transmiterea lor structurată",
+            "b": "analiza nevoilor fiecărui elev înainte de fiecare activitate",
+            "c": "predare fără obiective sau fără structură logică",
+            "d": "renunțarea la organizarea conținutului în favoarea jocului liber"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Centrat pe conținut: selectezi esențialul, structurezi, transmiți clar. Nu înseamnă automat analiza nevoilor individuale sau renunțarea la plan — acelea sunt alte orientări.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10828,
+          "text": "Care două observații despre profesorul centrat pe conținut sunt corecte?",
+          "options": {
+            "a": "risc: poate neglija relația profesor–elev și climatul afectiv",
+            "b": "ignoră în mod necesar corectitudinea informațiilor",
+            "c": "exclude structurarea conținutului în lecție",
+            "d": "valorizează rigoarea și claritatea transmiterii materiei"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Punct forte: rigoare și claritate. Risc: relația și climatul pot fi neglijate dacă rămâi doar la „acoperirea programului”. Nu exclude corectitudinea — o presupune.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10829,
+          "text": "Profesorul centrat pe interacțiune construiește mediul de învățare prin relația profesor–elev și prin participarea activă.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Centrat pe interacțiune: mediul se construiește prin dialog, colaborare, participare — relația e parte din învățare, nu decor.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10830,
+          "text": "Profesorul centrat pe elev:",
+          "options": {
+            "a": "analizează nevoile elevului, pune întrebări și susține descoperirea",
+            "b": "transmite mecanic manualul, fără a ține cont de reacțiile clasei",
+            "c": "se concentrează pe proceduri rigide, fără dialog",
+            "d": "evită adaptarea personală și diferențierea"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Centrat pe elev: nevoile, întrebările, descoperirea ghidată, adaptarea. Nu e dictare mecanică sau rigiditate procedurală — e atenție la cine învață, nu doar la ce se predă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10831,
+          "text": "Care două practici reflectă orientarea profesorului centrat pe elev?",
+          "options": {
+            "a": "compararea publică constantă a elevilor slabi cu cei buni",
+            "b": "adaptarea exemplelor și a sprijinului la nevoile elevilor",
+            "c": "întrebări deschise care solicită gândirea și descoperirea",
+            "d": "dictarea integrală a manualului, fără pauze de verificare"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Întrebări deschise și adaptare la nevoile elevilor sunt practice centrate pe elev. Dictarea integrală sau compararea publică umilitoare sunt opusul acestei orientări.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10832,
+          "text": "Profesorul centrat pe interacțiune pune accentul pe:",
+          "options": {
+            "a": "evaluarea sumativă ca singur moment de comunicare",
+            "b": "memorarea listelor de definiții, fără activitate de grup",
+            "c": "construirea mediului de învățare prin relație și participare activă",
+            "d": "transmiterea unidirecțională, fără schimb cu elevii"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Centrat pe interacțiune = relație + participare activă (dialog, grup, feedback). Monologul lung sau evaluarea doar la final nu construiesc interacțiunea.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10833,
+          "text": "Care trei trăsături descriu profesorul cu inițiativă ridicată?",
+          "options": {
+            "a": "organizează flexibil activitatea, în funcție de progresul clasei",
+            "b": "dezvoltă responsabilitatea și autonomia în învățare",
+            "c": "urmează proceduri rigide, fără ajustare după feedback",
+            "d": "stimulează alegerea și implicarea elevilor"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Inițiativă ridicată: flexibilitate în organizare, stimularea alegerilor, responsabilitatea elevilor. Proceduri rigide fără ajustare descriu inițiativă scăzută.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10834,
+          "text": "Profesorul cu inițiativă scăzută se caracterizează prin:",
+          "options": {
+            "a": "organizare flexibilă și stimularea alegerilor elevilor",
+            "b": "construirea deliberată a participării active în grup",
+            "c": "accent pe descoperirea ghidată și pe întrebările elevilor",
+            "d": "predare mai formală, rigidă, centrată pe proceduri și control extern"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Inițiativă scăzută: formal, rigid, control extern, proceduri fixe. Nu e același lucru cu centrat pe elev — care poate fi flexibil și adaptiv.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10835,
+          "text": "Care două diferențe între profesorul cu inițiativă ridicată și cel cu inițiativă scăzută sunt corecte?",
+          "options": {
+            "a": "ridicată: evită orice planificare sau structură",
+            "b": "scăzută: pune întrebări deschise și susține descoperirea",
+            "c": "ridicată: flexibilitate și stimularea responsabilității elevilor",
+            "d": "scăzută: formalism, proceduri fixe, control extern accentuat"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Ridicată: flexibilitate, responsabilitate elev. Scăzută: formalism, control. Ridicată nu înseamnă lipsă de plan; scăzută nu înseamnă descoperire ghidată.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10836,
+          "text": "Care patru tipuri de profesor din clasificarea pentru grilă sunt descrise corect?",
+          "options": {
+            "a": "centrat pe elev — analizează nevoile, susține descoperirea",
+            "b": "cu inițiativă ridicată — flexibilitate, alegere, responsabilitate",
+            "c": "centrat pe interacțiune — relație și participare activă",
+            "d": "centrat pe conținut — selectează și structurează informația esențială"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru tipuri pentru grilă: conținut, elev, interacțiune, inițiativă ridicată — fiecare cu accentul din tabel. Inițiativă scăzută e al cincilea tip, în alt item.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10837,
+          "text": "Un ton monoton, postură închisă și mimică de plictiseală transmit elevilor, în principal, mesaje de:",
+          "options": {
+            "a": "disponibilitate pentru întrebări și sprijin",
+            "b": "încurajare activă a participării",
+            "c": "respect și siguranță emoțională",
+            "d": "descurajare sau dezinteres față de lecție"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Ton monoton, postură închisă, plictiseală = mesaje de dezinteres sau descurajare — elevii le citesc rapid și participă mai puțin. Respectul și siguranța se transmit prin prezență atentă și ton calm.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10838,
+          "text": "Care două atitudini nonverbale susțin climatul afectiv pozitiv?",
+          "options": {
+            "a": "brațele încrucișate și răspunsuri uscate la întrebări",
+            "b": "suspin repetat și întoarcerea spre tablă, evitând privirea elevilor",
+            "c": "ton calm, respectuos, care transmite siguranță",
+            "d": "contact vizual adecvat și postură deschisă"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Climat pozitiv: contact vizual, postură deschisă, ton respectuos. Suspinul, evitarea privirii și răspunsurile uscate transmit respingere sau indiferență.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10839,
+          "text": "Elevii percep în principal mesajele verbale ale profesorului; canalele nonverbale au impact minor în clasă.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Nonverbalul contează mult — cercetările arată că elevii sunt sensibili la ton, mimică, postură. A subestima nonverbalul explică de multe ori de ce „spui una și se înțelege alta”.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10840,
+          "text": "Care trei componente aparțin atitudinii față de predare?",
+          "options": {
+            "a": "corectitudinea informațiilor",
+            "b": "claritatea instruirii",
+            "c": "pedeapsa publică ca metodă principală de motivare",
+            "d": "organizarea conținutului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Atitudine față de predare: corectitudine, organizare, claritate — cele trei componente din sinteză. Pedeapsa ca motivație principală nu aparține acestei atitudini pozitive.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10841,
+          "text": "Disponibilitatea de participare a elevilor crește cel mai probabil când profesorul transmite, prin atitudine:",
+          "options": {
+            "a": "tăcere impusă, fără posibilitate de răspuns",
+            "b": "comparare constantă cu colegii mai performanți",
+            "c": "respect, siguranță și deschidere la întrebări",
+            "d": "plictiseală, dezaprobare sau dezinteres vizibil"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Participarea crește când elevul se simte respectat, în siguranță, invitat să întrebe. Plictiseala vizibilă, dezaprobarea sau tăcerea impusă o reduc.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10842,
+          "text": "Care două caracteristici definesc atitudinea orientată față de profesie?",
+          "options": {
+            "a": "respectul pentru standardele și etica meseriei",
+            "b": "lipsa autoreflecției profesionale și a feedback-ului de la colegi",
+            "c": "responsabilitatea pentru calitatea predării și a informației",
+            "d": "neglijarea conținutului în favoarea notei finale"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Față de profesie: standarde, etică, responsabilitate pentru calitatea predării. Nu e neglijarea conținutului sau refuzul autoreflecției — dimpotrivă, profesionalismul le include.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10843,
+          "text": "Care trei mesaje nonverbale pot transmite respect și siguranță?",
+          "options": {
+            "a": "postură deschisă și prezență atentă în clasă",
+            "b": "ton încurajator, fără umilire publică",
+            "c": "evitarea privirii și răspunsuri grăbite, respingătoare",
+            "d": "ascultarea activă a întrebării elevului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Respect și siguranță nonverbale: asculți, ton încurajator, prezență deschisă. Evitarea privirii și răspunsurile respingătoare le distrug.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10844,
+          "text": "Profesorul cu inițiativă scăzută este același lucru cu profesorul centrat pe elev, deoarece ambii evită controlul rigid. Care răspuns este corect?",
+          "options": {
+            "a": "fals — centrat pe elev presupune formalism și proceduri fixe",
+            "b": "adevărat — inițiativă scăzută și centrat pe elev sunt sinonime",
+            "c": "adevărat — ambii tipuri exclud structurarea conținutului",
+            "d": "fals — inițiativă scăzută înseamnă rigiditate; centrat pe elev înseamnă adaptare și descoperire"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Fals. Inițiativă scăzută = rigiditate, control extern. Centrat pe elev = adaptare, descoperire, nevoi — orientări diferite, nu sinonime.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10845,
+          "text": "Care două diferențe între profesorul centrat pe conținut și cel centrat pe elev sunt corecte?",
+          "options": {
+            "a": "conținut: exclude corectitudinea informațiilor; elev: exclude întrebările",
+            "b": "conținut: prioritate la structurarea materiei; elev: prioritate la nevoi și descoperire",
+            "c": "ambii renunță la organizarea lecției",
+            "d": "conținut: risc de neglijare a relației; elev: accent pe adaptare personală"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Conținut: prioritate la materie structurată; elev: prioritate la nevoi și descoperire. Conținut poate neglija relația; elev pune accent pe adaptare. Niciunul nu renunță obligatoriu la organizare.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10846,
+          "text": "Care patru efecte ale atitudinii profesorului față de elev sunt enumerate în sinteza cursului?",
+          "options": {
+            "a": "încrederea elevilor",
+            "b": "sentimentul de siguranță",
+            "c": "climatul afectiv al clasei",
+            "d": "disponibilitatea de participare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Cele patru efecte ale atitudinii față de elev din sinteză: climat, încredere, siguranță, participare. Toate patru opțiuni sunt corecte ca listă integrală.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10847,
+          "text": "Claritatea instruirii, în cadrul atitudinii față de predare, presupune:",
+          "options": {
+            "a": "terminologie obscură pentru a filtra elevii slabi",
+            "b": "explicații inteligibile, exemple potrivite, structură logică a lecției",
+            "c": "lecție fără obiective comunicate elevilor",
+            "d": "volum maxim de text dictat, fără verificarea înțelegerii"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Claritate = explicații pe înțelesul elevilor, exemple, structură logică, obiective clare. Dictarea fără verificare sau terminologia obscură contrazic claritatea.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10848,
+          "text": "Care două practici reflectă profesorul centrat pe interacțiune?",
+          "options": {
+            "a": "evaluare finală fără nicio discuție în timpul lecției",
+            "b": "monolog de o oră, fără întrebări din partea clasei",
+            "c": "activități în perechi sau grupuri cu roluri clare",
+            "d": "dialog și feedback continuu între profesor și elevi"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Interacțiune: grupuri, dialog, feedback continuu. Monologul de o oră sau absența discuției în lecție nu reflectă această orientare.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10849,
+          "text": "Profesorul centrat pe elev ignoră conținutul curricular și renunță la transmiterea informațiilor esențiale. Care răspuns este corect?",
+          "options": {
+            "a": "adevărat — elevul alege integral programa, fără obiective comune",
+            "b": "fals — centrat pe elev adaptează predarea, dar nu exclude conținutul",
+            "c": "fals — centrat pe conținut este singurul tip care păstrează curriculumul",
+            "d": "adevărat — centrat pe elev înseamnă fără materie și fără structură"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Centrat pe elev nu renunță la curriculum — îl adaptează, îl face accesibil, îl leagă de nevoi. Fără conținut esențial, nu e predare completă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10850,
+          "text": "Care trei orientări pot modela stilul didactic al profesorului?",
+          "options": {
+            "a": "atitudinea față de elev",
+            "b": "atitudinea față de sine",
+            "c": "atitudinea față de profesie",
+            "d": "atitudinea față de pedeapsă ca unic instrument"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Cele trei orientări atitudinale: profesie, elev, sine — modelizează stilul didactic. Pedeapsa ca unic instrument nu e orientare atitudinală din sinteză.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10851,
+          "text": "Atitudinea față de sine a profesorului poate include:",
+          "options": {
+            "a": "autoreflecție, dezvoltare profesională continuă și echilibru personal",
+            "b": "concentrarea pe controlul rigid al clasei, fără reflecție",
+            "c": "renunțarea la standardele etice ale meseriei",
+            "d": "evitarea feedback-ului de la colegi sau mentori"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Față de sine: autoreflecție, formare continuă, echilibru — profesorul îngrijit și reflexiv predă mai bine. Renunțarea la etică sau control rigid fără reflecție nu descriu această atitudine.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10852,
+          "text": "Care două capcane trebuie evitate când interpretezi tipurile de profesor?",
+          "options": {
+            "a": "centrat pe elev nu înseamnă renunțarea la structură și la conținut",
+            "b": "centrat pe conținut nu înseamnă automat lipsă de respect față de elevi",
+            "c": "inițiativă ridicată înseamnă absența regulilor în clasă",
+            "d": "inițiativă scăzută înseamnă competență pedagogică superioară"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Capcane: centrat pe conținut poate fi respectuos; centrat pe elev nu înseamnă haos. Inițiativă ridicată nu e lipsă de reguli; inițiativă scăzută nu e competență superioară.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10853,
+          "text": "Care patru perechi tip de profesor–accent sunt potrivite pentru grilă?",
+          "options": {
+            "a": "centrat pe elev — nevoi, întrebări, descoperire",
+            "b": "centrat pe interacțiune — relație, participare activă",
+            "c": "centrat pe conținut — informație esențială, structurată",
+            "d": "inițiativă scăzută — formal, rigid, control extern"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru perechi tip–accent: conținut (informație), elev (nevoi), interacțiune (relație), inițiativă scăzută (rigid/formal). Toate patru sunt potrivite pentru grilă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10854,
+          "text": "Organizarea conținutului, ca parte a atitudinii față de predare, înseamnă:",
+          "options": {
+            "a": "predare fără plan și fără încheiere de lecție",
+            "b": "selecția esențialului, progresie logică și legături între idei",
+            "c": "acoperirea mecanică a tuturor paginilor din manual, fără ierarhie",
+            "d": "renunțarea la obiective pentru a urmări reacțiile elevilor, fără structură"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Organizare conținut: esențial, progresie, legături — nu copierea mecanică a manualului. Obiectivele rămân relevante chiar și când urmezi reacțiile elevilor.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10855,
+          "text": "Care două trăsături ale profesorului cu inițiativă ridicată susțin autonomia elevilor?",
+          "options": {
+            "a": "stimularea responsabilității pentru propriul parcurs de învățare",
+            "b": "controlul pas cu pas al fiecărui răspuns, fără alegere",
+            "c": "predare rigidă după script, fără deviații",
+            "d": "oferirea unor opțiuni reale sau parțiale în modul de lucru"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Inițiativă ridicată: opțiuni pentru elevi, responsabilitate pentru parcurs. Controlul pas cu pas al fiecărui cuvânt e stil de inițiativă scăzută.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10856,
+          "text": "Care trei semnale nonverbale pot reduce participarea elevilor?",
+          "options": {
+            "a": "ascultare atentă și încurajare prin gesturi pozitive",
+            "b": "pliciseală vizibilă — căscături, privire la ceas",
+            "c": "descurajare — ridicarea ochilor, ton disprețuitor",
+            "d": "postură închisă și evitarea contactului vizual"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Semnale negative: plictiseală, descurajare, postură închisă — reduc participarea. Ascultarea atentă și gesturile pozitive o cresc.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10857,
+          "text": "Profesorul centrat pe interacțiune și cel cu inițiativă ridicată sunt identici — amândoi exclud structurarea conținutului.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Interacțiunea și inițiativa ridicată nu exclud conținutul — îl livrează altfel, cu participare. Tipurile se combină; nu sunt mutual exclusive cu structurarea.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10858,
+          "text": "Corectitudinea informațiilor, în atitudinea față de predare, presupune:",
+          "options": {
+            "a": "evitarea actualizării cunoștințelor după formarea inițială",
+            "b": "transmiterea fidelă a conținutului științific, fără erori grave",
+            "c": "recunoașterea limitelor proprii și corectarea greșelilor când apar",
+            "d": "simplificarea până la distorsiunea faptelor pentru a obține note mari"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Corectitudine: informație științifică exactă, recunoașterea greșelilor. Distorsiunea pentru note sau refuzul actualizării contrazic atitudinea profesională față de predare.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10859,
+          "text": "Care trei idei sintetizează rolul atitudinilor profesorului în clasă?",
+          "options": {
+            "a": "mesajele nonverbale transmit adesea mai mult decât cuvintele",
+            "b": "atitudinile orientează stilul didactic (profesie, elev, sine)",
+            "c": "atitudinile sunt irelevante dacă manualul este bine structurat",
+            "d": "atitudinea față de elev modelează climatul și participarea"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Sinteză: atitudinile orientează stilul; față de elev modelează climatul; nonverbalul contează. Manualul bun nu compensează atitudinea respingătoare.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10860,
+          "text": "Pentru grilă, diferența rapidă între profesorul cu inițiativă ridicată și cel cu inițiativă scăzută este:",
+          "options": {
+            "a": "transmitere structurată a conținutului vs analiza nevoilor elevului",
+            "b": "empatie rogersiană vs condiționare operantă skinneriană",
+            "c": "flexibilitate, stimularea alegerii și a responsabilității vs formalism rigid și control extern",
+            "d": "relație și participare activă vs selectarea informației esențiale"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Diferența rapidă inițiativă ridicată vs scăzută: flexibilitate, alegere, responsabilitate vs formalism rigid și control extern. Celelalte opțiuni amestecă alte tipuri de profesor (conținut, elev, interacțiune).",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10861,
+          "text": "Studiile citate în curs sugerează că predarea indirectă poate determina un nivel mai înalt al învățării decât predarea strict directă, mai ales când elevii sunt implicați activ.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Predarea indirectă nu înseamnă haos sau lipsă de profesor — profesorul proiectează contexte, pune întrebări, ghidează investigarea. Când elevii gândesc activ, discută și descoperă, învățarea poate depăși nivelul unei prelegeri pasive. Condiția cheie este implicarea activă, nu renunțarea la structură.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10862,
+          "text": "Predarea directă se caracterizează prin:",
+          "options": {
+            "a": "renunțarea la explicații în favoarea memorării mecanice",
+            "b": "intervenția profesorului se limitează la notarea lucrărilor, fără explicații",
+            "c": "control mai mare al profesorului asupra procesului, explicații clare, structurarea sarcinii și conducere explicită a învățării",
+            "d": "lăsarea integrală a descoperirii elevului, fără ghidare sau structură"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Predarea directă pune profesorul în rol de conductor: controlează procesul, explică clar, structurează sarcina și conduce explicit pașii. Nu e sinonimă cu dictare mecanică sau cu absența elevului — dar accentul cade pe transmitere organizată și ghidare vizibilă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10863,
+          "text": "Care două elemente aparțin predării directe?",
+          "options": {
+            "a": "dialog deschis în care elevul stabilește singur obiectivele lecției",
+            "b": "investigarea autonomă fără întrebări din partea profesorului",
+            "c": "explicații clare și structurate ale conținutului",
+            "d": "conducerea explicită a pașilor de învățare"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Două piese centrale ale predării directe: explicații clare (conținutul e prezentat, ordonat, verbalizat) și conducerea explicită (profesorul spune ce urmează, cum se lucrează, când se verifică). Investigarea autonomă fără ghidare și dialogul în care elevul stabilește singur obiectivele aparțin predării indirecte.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10864,
+          "text": "Care trei componente definesc predarea indirectă?",
+          "options": {
+            "a": "întrebări și dialog care solicită gândirea elevului",
+            "b": "investigare și autonomie cognitivă ghidată",
+            "c": "dictarea mecanică a manualului, fără participare",
+            "d": "crearea de contexte de descoperire și explorare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Predarea indirectă combină trei idei: contexte de descoperire (situații în care elevul explorează), întrebări și dialog (gândire activă), investigare și autonomie cognitivă (elevul construiește înțelegerea, cu sprijin). Dictarea mecanică fără participare e stil direct rigid, nu indirect.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10865,
+          "text": "Predarea indirectă presupune că profesorul:",
+          "options": {
+            "a": "controlează pas cu pas fiecare răspuns, fără autonomie",
+            "b": "transmite integral conținutul fără a permite întrebări",
+            "c": "creează situații în care elevul descoperă, investighează și gândește activ",
+            "d": "renunță la feedback și la evaluarea formativă"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Indirectă = profesorul creează condiții pentru descoperire, investigare și gândire activă. Elevul nu e receptor pasiv; participă la construirea cunoștințelor. Profesorul rămâne esențial — dar rolul e de facilitator și ghid, nu doar de vorbitor frontal.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10866,
+          "text": "Care patru afirmații despre stilurile de predare sunt corecte?",
+          "options": {
+            "a": "predarea indirectă valorifică întrebări, dialog și investigare",
+            "b": "predarea directă include explicații clare ale conținutului",
+            "c": "predarea directă presupune structurarea explicită a sarcinii",
+            "d": "predarea indirectă urmărește autonomie cognitivă ghidată, nu abandonul clasei"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru afirmații corecte care leagă cele două stiluri: directă = structurare explicită + explicații clare; indirectă = întrebări, dialog, investigare + autonomie cognitivă ghidată. Indirectă nu înseamnă abandonul clasei — profesorul proiectează activitatea.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10867,
+          "text": "Profesorul cu nivel conceptual scăzut percepe sarcina didactică ca:",
+          "options": {
+            "a": "transmitere de conținut — elevul trebuie să memoreze pasiv",
+            "b": "dezvoltare interactivă a elevului prin întrebări și adaptare",
+            "c": "investigare autonomă fără rol al profesorului",
+            "d": "flexibilitate maximă și metode adaptate nevoilor fiecărui copil"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Nivel conceptual scăzut: profesorul vede lecția ca transmitere de conținut, iar elevul trebuie să memoreze pasiv. Rolul interactiv, adaptarea la nevoie sau investigarea autonomă apar la niveluri mai înalt conceptual.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10868,
+          "text": "Care două trăsături descriu profesorul cu nivel conceptual mediu?",
+          "options": {
+            "a": "percepe rolul ca interactiv — nu doar transmițător",
+            "b": "vede elevul ca recipient pasiv al informației",
+            "c": "urmărește dezvoltarea elevului, nu memorarea pasivă",
+            "d": "evită dialogul și adaptarea la reacțiile clasei"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Nivel mediu: profesorul nu se mai vede doar transmițător — percepe rolul ca interactiv și urmărește dezvoltarea elevului, nu doar acumularea mecanică. Viziunea elevului ca recipient pasiv sau evitarea dialogului caracterizează nivelul scăzut.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10869,
+          "text": "Profesorul cu nivel conceptual înalt folosește metode adaptate nevoilor și nivelului copilului, este flexibil și eficient.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Nivelul înalt presupune metode adaptate nevoilor și nivelului fiecărui copil, flexibilitate (schimbi strategia când nu funcționează) și eficiență (atingi obiectivele cu resurse potrivite). Nu e rigiditate sau memorare pasivă ca țintă principală.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10870,
+          "text": "Care trei trăsături definesc nivelul conceptual înalt al profesorului?",
+          "options": {
+            "a": "metode adaptate nevoilor și nivelului copilului",
+            "b": "transmitere rigidă, identică pentru toți, fără adaptare",
+            "c": "eficiență în atingerea obiectivelor de învățare",
+            "d": "flexibilitate în alegerea strategiilor didactice"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Trei trăsături ale nivelului înalt: adaptare la nevoile elevilor, flexibilitate în strategii, eficiență în atingerea obiectivelor. Transmiterea rigidă identică pentru toți e specifică unui nivel conceptual scăzut sau mediu nedevelopat, nu înaltului.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10871,
+          "text": "Care două practici aparțin predării directe eficiente?",
+          "options": {
+            "a": "lăsarea elevilor fără orientare pentru a descoperi singuri tot",
+            "b": "structurarea clară a sarcinii și a pașilor de lucru",
+            "c": "renunțarea la verificarea înțelegerii în timpul lecției",
+            "d": "conducerea explicită a învățării cu explicații ordonate"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Predare directă eficientă: structurare clară (pași, materiale, criterii) și conducere explicită cu explicații ordonate. Lăsarea elevilor fără orientare sau renunțarea la verificarea înțelegerii subminează chiar predarea directă bună.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10872,
+          "text": "În predarea indirectă, rolul întrebărilor și al dialogului este:",
+          "options": {
+            "a": "inexistent — se evită pentru a economisi timp",
+            "b": "limitat la repetarea definițiilor din manual",
+            "c": "central — solicită gândirea, descoperirea și participarea activă",
+            "d": "secundar — profesorul explică, elevul ascultă pasiv"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "În predarea indirectă, întrebările și dialogul nu sunt ornament — sunt motorul gândirii active. Profesorul provoacă, clarifică, redirecționează. Dacă elevul doar ascultă pasiv, nu e indirectă autentică.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10873,
+          "text": "Care trei activități reflectă predarea indirectă?",
+          "options": {
+            "a": "proiecte sau situații-problemă cu descoperire parțială",
+            "b": "investigare ghidată sau rezolvare de probleme deschise",
+            "c": "discuție și argumentare pe baza materialului studiat",
+            "d": "copierea textului de pe tablă, fără procesare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Trei activități tipice indirecte: investigare ghidată, discuție și argumentare, proiecte sau situații-problemă cu descoperire. Copierea de pe tablă fără procesare e activitate pasivă, specifică unui stil direct slab sau a unei practici nepedagogice.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10874,
+          "text": "La nivel conceptual scăzut, elevul este văzut ca:",
+          "options": {
+            "a": "receptor pasiv care trebuie să memoreze informația transmisă",
+            "b": "co-facilitator al lecției alături de profesor",
+            "c": "partener activ în construirea cunoștințelor",
+            "d": "cercetător autonom care își stabilește singur obiectivele"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "La nivel conceptual scăzut, elevul e văzut ca receptor pasiv al informației transmise — trebuie să memoreze. Partener activ, cercetător autonom sau co-facilitator descriu viziuni de la nivel mediu sau înalt.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10875,
+          "text": "Care două diferențe între nivel conceptual mediu și cel scăzut sunt formulate corect?",
+          "options": {
+            "a": "mediu: exclude dialogul; scăzut: pune întrebări deschise",
+            "b": "mediu: rol interactiv; scăzut: transmitere și memorare pasivă",
+            "c": "scăzut: flexibilitate maximă; mediu: rigiditate procedurală",
+            "d": "mediu: urmărește dezvoltarea elevului; scăzut: accent pe acumulare mecanică"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Mediu vs scăzut: mediu = rol interactiv + urmărirea dezvoltării; scăzut = transmitere + memorare pasivă. Inversarea (scăzut flexibil, mediu rigid) sau excluderea dialogului la mediu sunt formulate greșit.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10876,
+          "text": "Care patru caracteristici aparțin predării directe?",
+          "options": {
+            "a": "control mai mare al procesului de către profesor",
+            "b": "explicații clare ale conținutului",
+            "c": "conducerea explicită a lecției",
+            "d": "structurarea sarcinii de învățare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru piloni ai predării directe din sinteza cursului: control al procesului, explicații clare, structurarea sarcinii, conducerea explicită. Toate patru subliniază rolul activ al profesorului în organizarea învățării.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10877,
+          "text": "Concluzia studiilor despre predarea indirectă, menționată în curs, este că aceasta poate produce învățare mai profundă atunci când:",
+          "options": {
+            "a": "profesorul renunță la structură și la obiective",
+            "b": "evaluarea se limitează la teste de memorare",
+            "c": "conținutul este eliminat în favoarea jocului liber",
+            "d": "elevii sunt implicați activ — gândesc, discută, investighează"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Studiile citate arată că indirectă poate produce învățare mai profundă când elevii sunt implicați activ — gândesc, discută, investighează. Renunțarea la structură sau la conținut, sau evaluarea doar prin memorare, nu definesc indirecta eficientă.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10878,
+          "text": "Nivelul conceptual înalt se distinge de cel mediu prin adaptarea fină la nevoile și nivelul fiecărui elev.",
+          "options": {
+            "a": "fals — mediul presupune adaptare identică cu nivelul înalt",
+            "b": "adevărat — înaltul personalizează metodele; mediul e interactiv, dar mai puțin fin adaptat",
+            "c": "fals — nivelul înalt respinge orice explicație directă",
+            "d": "adevărat — nivelul scăzut e cel mai flexibil în practică"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Adevărat. Nivelul înalt personalizează metodele la nevoile și nivelul fiecărui elev; nivelul mediu e interactiv și urmărește dezvoltarea, dar adaptarea e mai puțin fină. Ideea că mediul e identic cu înaltul sau că scăzutul e cel mai flexibil inversează ierarhia.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10879,
+          "text": "Predarea directă este întotdeauna superioară predării indirecte, indiferent de vârsta elevilor sau de tipul conținutului.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Nici directă, nici indirectă nu e superioară mereu — depinde de obiective, vârstă, conținut, timp disponibil. Directă e utilă la introducerea unor concepte noi; indirectă la consolidare prin aplicare și descoperire. Absolutizarea directei contrazice studiile menționate.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10880,
+          "text": "Care patru elemente definesc predarea indirectă în sinteza cursului?",
+          "options": {
+            "a": "întrebări și dialog",
+            "b": "contexte de descoperire",
+            "c": "investigare",
+            "d": "autonomie cognitivă ghidată"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru elemente ale predării indirecte: contexte de descoperire, întrebări și dialog, investigare, autonomie cognitivă ghidată. Împreună descriu un stil în care elevul construiește înțelegerea cu sprijinul profesorului.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10881,
+          "text": "Conducerea explicită a învățării, în predarea directă, înseamnă:",
+          "options": {
+            "a": "elevul decide singur integral ordinea și conținutul, fără ghidare",
+            "b": "profesorul orientează pașii, clarifică obiectivele și structurează parcursul",
+            "c": "lecția se desfășoară fără plan și fără încheiere",
+            "d": "profesorul evită explicațiile pentru a nu „încărca” elevii"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Conducerea explicită = profesorul orientează pașii, clarifică obiectivele, structurează parcursul. Nu înseamnă dictare fără plan sau evitarea explicațiilor — dimpotrivă, explicațiile sunt parte din conducere.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10882,
+          "text": "Care două avantaje potențiale ale predării indirecte sunt susținute de cercetări, când elevii participă activ?",
+          "options": {
+            "a": "dezvoltarea autonomiei și a gândirii critice",
+            "b": "memorare mecanică mai rapidă decât la predarea directă",
+            "c": "învățare mai profundă și retenție mai bună prin implicare cognitivă",
+            "d": "reducerea la zero a rolului profesorului în clasă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Avantaje potențiale ale indirectei (cu implicare activă): învățare mai profundă și retenție mai bună prin procesare cognitivă; dezvoltarea autonomiei și a gândirii critice. Memorarea mecanică mai rapidă sau eliminarea rolului profesorului nu sunt avantaje documentate.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10883,
+          "text": "Profesorul cu nivel conceptual scăzut consideră că metodele indirecte sunt inutile deoarece elevul trebuie să primească informația gata făcută.",
+          "options": {
+            "a": "fals — nivelul mediu presupune memorare fără interacțiune",
+            "b": "adevărat — la acest nivel, sarcina e văzută ca transmitere pasivă",
+            "c": "fals — nivelul scăzut presupune flexibilitate și investigare",
+            "d": "adevărat — nivelul înalt respinge orice explicație directă"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Adevărat. La nivel conceptual scăzut, profesorul vede elevul ca pe un receptor al informației gata făcute — de aceea metodele indirecte pot fi respinse ca „inutile”. La nivel înalt, indirecta e integrată ca instrument adaptat situației.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10884,
+          "text": "Care două idei descriu trecerea de la nivel conceptual scăzut la mediu?",
+          "options": {
+            "a": "de la transmitere pasivă la rol interactiv al profesorului",
+            "b": "de la flexibilitate maximă la rigiditate totală",
+            "c": "de la memorare la urmărirea dezvoltării elevului",
+            "d": "de la investigare la dictare mecanică"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Trecerea scăzut → mediu: de la transmitere pasivă la rol interactiv; de la memorare la urmărirea dezvoltării elevului. Inversarea spre rigiditate sau dictare la mediu descrie regresie, nu progres.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10885,
+          "text": "Nivelul conceptual al profesorului este fix de la formarea inițială și nu se poate dezvolta prin experiență și reflecție.",
+          "options": {
+            "a": "adevărat — stilul de predare preferat fixează nivelul conceptual pe viață",
+            "b": "adevărat — nivelul conceptual e determinat genetic",
+            "c": "fals — nivelul scăzut e superior celui înalt la examen",
+            "d": "fals — nivelul poate crește prin practică, formare și autoreflecție"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Fals. Nivelul conceptual nu e fix genetic — poate crește prin experiență didactică, formare continuă și autoreflecție. Profesorul poate trece de la viziunea „transmitere” la cea interactivă și adaptată.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10886,
+          "text": "Care trei niveluri ale conceptualizării profesorului sunt distinse în curs?",
+          "options": {
+            "a": "mediu — rol interactiv, dezvoltarea elevului",
+            "b": "înalt — metode adaptate, flexibilitate, eficiență",
+            "c": "scăzut — transmitere, memorare pasivă",
+            "d": "absent — profesorul fără reprezentări despre învățare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Trei niveluri din curs: scăzut (transmitere, memorare pasivă), mediu (rol interactiv, dezvoltarea elevului), înalt (metode adaptate, flexibilitate, eficiență). „Absent” nu e categorie din sinteză.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10887,
+          "text": "Care două situații favorizează folosirea predării indirecte?",
+          "options": {
+            "a": "clase în care elevii pot participa la dialog și gândire activă",
+            "b": "introducerea unui concept complet nou, fără niciun reper anterior",
+            "c": "timp zero pentru pregătirea activităților de explorare",
+            "d": "conținut care poate fi descoperit prin investigare sau problemă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Indirectă funcționează bine când conținutul poate fi descoperit prin investigare sau problemă și când elevii pot participa la dialog activ. Introducerea unui concept complet nou, fără reper, sau lipsa timpului pentru activități bine proiectate favorizează mai degrabă elemente directe.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10888,
+          "text": "Structurarea sarcinii, în predarea directă, presupune:",
+          "options": {
+            "a": "lăsarea elevilor fără orientare pentru a crește autonomia",
+            "b": "organizarea logică a activității pentru a facilita înțelegerea",
+            "c": "acoperirea manualului pagină cu pagină, fără obiective",
+            "d": "clarificarea pașilor, a materialelor și a criteriilor de reușită"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Structurarea sarcinii în predarea directă = clarificarea pașilor, materialelor și criteriilor de reușită, plus organizarea logică a activității. Lăsarea fără orientare sau parcurgerea mecanică a manualului fără obiective nu e structurare autentică.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10889,
+          "text": "Care două condiții sporesc eficiența predării indirecte, conform sintezei cursului?",
+          "options": {
+            "a": "implicare activă a elevilor — gândire, discuție, aplicare",
+            "b": "lecții fără obiective și fără feedback din partea profesorului",
+            "c": "memorare pasivă fără întrebări sau investigare",
+            "d": "contexte de descoperire bine proiectate de profesor"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Două condiții cheie pentru indirectă eficientă: implicare activă a elevilor și contexte de descoperire bine proiectate. Memorarea pasivă sau lecțiile fără obiective și feedback contrazic spiritul indirectei ghidate.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10890,
+          "text": "Pentru grilă, diferența rapidă între predarea directă și cea indirectă este:",
+          "options": {
+            "a": "predare fără profesor vs predare fără elevi",
+            "b": "nivel conceptual scăzut vs nivel conceptual înalt ca sinonime",
+            "c": "conducere explicită și explicații structurate vs descoperire, dialog și autonomie cognitivă ghidată",
+            "d": "memorare pasivă în ambele stiluri, fără diferențe"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Diferența rapidă pentru grilă: directă = conducere explicită, explicații structurate; indirectă = descoperire, dialog, autonomie cognitivă ghidată. Nu confunda stilurile de predare cu nivelul conceptual al profesorului — sunt dimensiuni distincte, deși se influențează.",
+          "domeniu": "Psihologia învățării II",
+          "tip": "unic",
+          "exam_item": true
         }
       ]
     }
   },
-  "total_questions": 2828,
+  "total_questions": 2928,
   "active_lots_only": true
 }

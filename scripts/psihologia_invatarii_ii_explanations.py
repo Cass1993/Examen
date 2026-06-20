@@ -1,4 +1,4 @@
-"""Explicații didactice — Psihologia învățării II (ID 10501–10790)."""
+"""Explicații didactice — Psihologia învățării II (ID 10501–10890)."""
 
 from __future__ import annotations
 
@@ -6,11 +6,20 @@ from typing import List
 
 from scripts.psihologia_invatarii_ii_bandura_explanations import BANDURA_EXPLANATIONS
 from scripts.psihologia_invatarii_ii_cognitive_explanations import COGNITIVE_EXPLANATIONS
+from scripts.psihologia_invatarii_ii_atitudini_profesor_explanations import (
+    ATITUDINI_PROFESOR_EXPLANATIONS,
+)
+from scripts.psihologia_invatarii_ii_predare_stiluri_explanations import (
+    PREDARE_STILURI_EXPLANATIONS,
+)
 from scripts.psihologia_invatarii_ii_diferente_grila_explanations import (
     DIFERENTE_GRILA_EXPLANATIONS,
 )
 from scripts.psihologia_invatarii_ii_educatie_invatare_explanations import (
     EDUCATIE_INVATARE_EXPLANATIONS,
+)
+from scripts.psihologia_invatarii_ii_profesor_eficient_explanations import (
+    PROFESOR_EFICIENT_EXPLANATIONS,
 )
 from scripts.psihologia_invatarii_ii_tipuri_forme_explanations import (
     TIPURI_FORME_EXPLANATIONS,
@@ -331,9 +340,9 @@ PSIHOLOGIA_INVATARII_II_EXPLANATIONS: List[str] = [
         "și motivația intrinsecă necesită și alte cadre (Tolman, cognitivism, "
         "constructivism)."
     ),
-] + BANDURA_EXPLANATIONS + COGNITIVE_EXPLANATIONS + UMANIST_EXPLANATIONS + EDUCATIE_INVATARE_EXPLANATIONS + TIPURI_FORME_EXPLANATIONS + VARK_EXPLANATIONS + DIFERENTE_GRILA_EXPLANATIONS
+] + BANDURA_EXPLANATIONS + COGNITIVE_EXPLANATIONS + UMANIST_EXPLANATIONS + EDUCATIE_INVATARE_EXPLANATIONS + TIPURI_FORME_EXPLANATIONS + VARK_EXPLANATIONS + DIFERENTE_GRILA_EXPLANATIONS + PROFESOR_EFICIENT_EXPLANATIONS + ATITUDINI_PROFESOR_EXPLANATIONS + PREDARE_STILURI_EXPLANATIONS
 
-assert len(PSIHOLOGIA_INVATARII_II_EXPLANATIONS) == 290
+assert len(PSIHOLOGIA_INVATARII_II_EXPLANATIONS) == 390
 
 
 def attach_explanations(items: list) -> list:
@@ -348,8 +357,8 @@ def attach_explanations(items: list) -> list:
 
 
 def explanation_for_exam_id(item_id: int) -> str:
-    """Explicație după id examen (10501–10790)."""
-    if 10501 <= int(item_id) <= 10790:
+    """Explicație după id examen (10501–10890)."""
+    if 10501 <= int(item_id) <= 10890:
         idx = int(item_id) - 10501
         if 0 <= idx < len(PSIHOLOGIA_INVATARII_II_EXPLANATIONS):
             return PSIHOLOGIA_INVATARII_II_EXPLANATIONS[idx]
