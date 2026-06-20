@@ -54,7 +54,7 @@ RECAP_RAPID_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Nota școlară (1–10) este discutată în curs, de regulă, ca exemplu de scară:"
+            "Nota școlară (1–10) este, de regulă, un exemplu de scară:"
         ),
         "options": [
             "ordinală",
@@ -148,7 +148,7 @@ RECAP_RAPID_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Un coeficient de variație cv ≈ 25% indică, în interpretarea din curs, o "
+            "Un coeficient de variație cv ≈ 25% indică, în interpretarea uzuală, o "
             "dispersie:"
         ),
         "options": [
@@ -231,7 +231,7 @@ RECAP_RAPID_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Regula practică din curs pentru „eșantion mare” în contextul TLC este, "
+            "Regula practică pentru „eșantion mare” în contextul TLC este, "
             "de obicei, N ≥ 30."
         ),
         "tf": True,
@@ -239,7 +239,7 @@ RECAP_RAPID_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "În care situații respingi H₀ la un test z (conform regulilor din curs)?"
+            "În care situații respingi H₀ la un test z?"
         ),
         "options": [
             "când p ≤ α",
@@ -318,7 +318,7 @@ RECAP_RAPID_ITEMS: List[Item] = [
         "options": [
             "s² = Σ(Xᵢ − m)² / (N − 1)",
             "s = √s²",
-            "s² = Σ(Xᵢ − m)² / N pentru eșantionul standard din curs",
+            "s² = Σ(Xᵢ − m)² / N pentru dispersia populației σ²",
             "s = Σ(Xᵢ − m) / (N − 1)",
         ],
         "correct": "abc",

@@ -55570,7 +55570,7 @@
         },
         {
           "id": 10964,
-          "text": "Care dintre următoarele etape aparțin logicii metodei științifice prezentate în curs?",
+          "text": "Care dintre următoarele etape aparțin logicii metodei științifice clasice?",
           "options": {
             "a": "observația fenomenului sau a unei regularități",
             "b": "tratarea ipotezei ca demonstrată înainte de analiza datelor",
@@ -55627,7 +55627,7 @@
         },
         {
           "id": 10967,
-          "text": "Variabilele latente, în sensul din curs, sunt:",
+          "text": "Variabilele latente sunt:",
           "options": {
             "a": "identice cu orice variabilă numerică din baza de date",
             "b": "constructe teoretice care nu se observă direct",
@@ -56917,7 +56917,7 @@
         },
         {
           "id": 11036,
-          "text": "În curs, eșantionul mare este indicat adesea prin regula orientativă:",
+          "text": "Eșantionul mare este indicat adesea, ca regulă orientativă, prin:",
           "options": {
             "a": "N ≥ 30",
             "b": "eșantion mic: N < 30",
@@ -58582,7 +58582,7 @@
         },
         {
           "id": 11125,
-          "text": "Un coeficient de variație cv > 30% sugerează, în interpretarea uzuală din curs, că:",
+          "text": "Un coeficient de variație cv > 30% sugerează, în interpretarea uzuală, că:",
           "options": {
             "a": "dispersia este mare și media aritmetică descrie mai slab „tipicul”",
             "b": "datele sunt foarte omogene în jurul mediei",
@@ -59445,7 +59445,7 @@
         },
         {
           "id": 11171,
-          "text": "Regula orientativă „eșantion mare” folosită frecvent în curs pentru aplicarea TLC este:",
+          "text": "Regula orientativă „eșantion mare” folosită frecvent pentru aplicarea TLC este:",
           "options": {
             "a": "N ≥ 30",
             "b": "N = 1",
@@ -59577,7 +59577,7 @@
         },
         {
           "id": 11178,
-          "text": "În exemplul șahiștilor din curs (IQ mediu șahiști vs populație), care formulări sunt corecte?",
+          "text": "În exemplul clasic cu șahiștii (IQ mediu șahiști vs populație), care formulări sunt corecte?",
           "options": {
             "a": "H₀: μșah = μpop (nu există diferență)",
             "b": "H₀: μșah > μpop",
@@ -59670,7 +59670,7 @@
         },
         {
           "id": 11183,
-          "text": "În exemplul rezolvat din curs (N = 30, m = 106, μ = 100, σ = 15), care pași intermediari sunt corecți?",
+          "text": "În exemplul rezolvat al testului z (N = 30, m = 106, μ = 100, σ = 15), care pași intermediari sunt corecți?",
           "options": {
             "a": "p = 0,014 < 0,05 → respingi H₀",
             "b": "z = (106 − 100) / 2,74 ≈ 2,18",
@@ -59800,7 +59800,7 @@
         },
         {
           "id": 11190,
-          "text": "Nota școlară (1–10) este discutată în curs, de regulă, ca exemplu de scară:",
+          "text": "Nota școlară (1–10) este, de regulă, un exemplu de scară:",
           "options": {
             "a": "de interval cu raporturi exacte între note",
             "b": "ordinală",
@@ -59946,7 +59946,7 @@
         },
         {
           "id": 11198,
-          "text": "Un coeficient de variație cv ≈ 25% indică, în interpretarea din curs, o dispersie:",
+          "text": "Un coeficient de variație cv ≈ 25% indică, în interpretarea uzuală, o dispersie:",
           "options": {
             "a": "foarte mare (peste 30%)",
             "b": "medie (moderată)",
@@ -60073,7 +60073,7 @@
         },
         {
           "id": 11205,
-          "text": "Regula practică din curs pentru „eșantion mare” în contextul TLC este, de obicei, N ≥ 30.",
+          "text": "Regula practică pentru „eșantion mare” în contextul TLC este, de obicei, N ≥ 30.",
           "options": {
             "a": "Adevărat",
             "b": "Fals"
@@ -60089,7 +60089,7 @@
         },
         {
           "id": 11206,
-          "text": "În care situații respingi H₀ la un test z (conform regulilor din curs)?",
+          "text": "În care situații respingi H₀ la un test z?",
           "options": {
             "a": "când α = 0,05 indiferent de p",
             "b": "când zcalculat atinge sau depășește zcritic (în testul unilateral potrivit)",
@@ -60204,7 +60204,7 @@
           "text": "Care formule și convenții pentru dispersie sunt corecte?",
           "options": {
             "a": "s² = Σ(Xᵢ − m)² / (N − 1)",
-            "b": "s² = Σ(Xᵢ − m)² / N pentru eșantionul standard din curs",
+            "b": "s² = Σ(Xᵢ − m)² / N pentru dispersia populației σ²",
             "c": "s = Σ(Xᵢ − m) / (N − 1)",
             "d": "s = √s²"
           },
@@ -60476,10 +60476,385 @@
           "domeniu": "Statistică II",
           "tip": "multi",
           "exam_item": true
+        },
+        {
+          "id": 11226,
+          "text": "În ANOVA unifactorială, ipoteza nulă (H₀) afirmă că mediile tuturor grupurilor comparate sunt egale în populație.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. H₀ în ANOVA unifactorială: toate mediile populației sunt egale (μ₁ = μ₂ = … = μₖ). Testul verifică dacă există suficientă varianță între grupuri față de variabilitatea din interiorul grupurilor pentru a respinge această ipoteză.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11227,
+          "text": "Analiza varianței (ANOVA) este folosită în principal pentru:",
+          "options": {
+            "a": "compararea a exact două medii independente (în locul testului t)",
+            "b": "estimarea coeficientului de corelație Pearson între două variabile continue",
+            "c": "compararea mediilor a trei sau mai multe grupuri sau condiții",
+            "d": "descrierea frecvențelor și procentelor pe categorii nominale"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "ANOVA compară mediile a trei sau mai multe grupuri/condiții. Pearson e corelație; frecvențele sunt descriptive; pentru exact două grupuri independente folosești de obicei testul t, nu ANOVA ca primă alegere (deși F = t²).",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11228,
+          "text": "Care formulări ale ipotezelor într-o ANOVA unifactorială cu k grupuri sunt corecte?",
+          "options": {
+            "a": "H₀: varianta dintre grupuri este zero și varianta în grupuri este infinită",
+            "b": "H₁: toate mediile sunt obligatoriu diferite între ele",
+            "c": "H₀: μ₁ = μ₂ = … = μₖ",
+            "d": "H₁: cel puțin o medie de grup diferă de celelalte"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "H₀: toate mediile egale. H₁: cel puțin una diferă — nu neapărat toate diferite între ele. Ultima variantă amestecă absurd varianțe zero/infinit în loc de formularea standard a ipotezelor.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11229,
+          "text": "Statistica F în ANOVA unifactorială este, în esență, raportul dintre:",
+          "options": {
+            "a": "coeficientul de corelație și valoarea p",
+            "b": "media generală și abaterea standard a eșantionului",
+            "c": "suma pătratelor totale și numărul de grupuri k",
+            "d": "varianța (sau media pătratelor) între grupuri și varianța în grupuri"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "F = MS₍între₎ / MS₍în₎ — cât de mult variază mediile grupurilor față de zgomotul din grupuri. Nu e media generală, nu e corelația și nu înlocuiește interpretarea p.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11230,
+          "text": "Care dintre următoarele presupuneri sunt verificate înainte de interpretarea ANOVA parametrice?",
+          "options": {
+            "a": "varianțele grupurilor sunt aproximativ egale (omogenitate)",
+            "b": "variabila dependentă este aproximativ normal distribuită în fiecare grup",
+            "c": "observațiile sunt independente",
+            "d": "fiecare grup trebuie să aibă exact aceeași medie înainte de test"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Trei presupuneri clasice: independența observațiilor, omogenitatea varianțelor (Levene), normalitatea aproximativă a VD în fiecare grup. Nu ceri medii egale înainte de test — tocmai asta testezi.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11231,
+          "text": "De ce nu se recomandă, de regulă, să aplici mai multe teste t independente pentru toate perechile de grupuri în loc de ANOVA?",
+          "options": {
+            "a": "testul t nu poate fi calculat niciodată când există peste două grupuri",
+            "b": "ANOVA elimină complet necesitatea oricărei verificări a presupunerilor",
+            "c": "reduce probabilitatea unei semnificări false la fiecare pereche testată",
+            "d": "crește riscul erorii de tip I (respingere falsă a lui H₀)"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Fiecare test t adaugă risc de eroare tip I; la multe perechi, șansa unei semnificări false crește. ANOVA face un test omnibus controlat la α. Testul t funcționează și la >2 grupuri tehnic, dar strategia multiplă e problematică; ANOVA nu elimină verificarea presupunerilor.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11232,
+          "text": "Dacă ANOVA unifactorială este semnificativă (p ≤ α), știi automat care pereche exactă de grupuri diferă cel mai mult, fără teste post-hoc.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. ANOVA semnificativă spune că nu toate mediile sunt egale, dar nu identifică perechea — pentru asta folosești teste post-hoc (Tukey, Bonferroni etc.) cu ajustare pentru comparații multiple.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11233,
+          "text": "Care relații despre descompunerea varianței în ANOVA unifactorială sunt corecte?",
+          "options": {
+            "a": "SS₍total₎ = SS₍între₎ + SS₍în₎",
+            "b": "variația totală se partitionează în componenta explicată de grup și componenta reziduală în grupuri",
+            "c": "SS₍în₎ reflectă variabilitatea dintre participanți din același grup",
+            "d": "SS₍între₎ măsoară exclusiv erorile de măsurare ale instrumentului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Varianța totală se împarte în între grupuri (explicată de VI) și în grupuri (reziduală/eroare). SS₍în₎ reflectă variabilitatea participanților din același grup, nu „doar” eroarea instrumentului.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11234,
+          "text": "După un rezultat semnificativ la ANOVA unifactorială, pasul următor uzual pentru a identifica diferențele între perechi de medii este:",
+          "options": {
+            "a": "calculul mediei generale și oprirea analizei",
+            "b": "repetarea ANOVA pe fiecare pereche fără ajustare",
+            "c": "acceptarea automată că toate grupurile diferă între ele",
+            "d": "teste post-hoc (ex. Tukey, Bonferroni)"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Post-hoc compară perechi de medii după F semnificativ, cu control al erorii. Repetarea t pe fiecare pereche fără ajustare reproduce problema comparațiilor multiple. Media generală nu răspunde la „care grupuri diferă”.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11235,
+          "text": "Care distincții între ANOVA unifactorială între subiecți și ANOVA cu măsurători repetate sunt corecte?",
+          "options": {
+            "a": "între subiecți: participanți diferiți în fiecare grup",
+            "b": "între subiecți: aceiași persoane apar în toate nivelurile factorului",
+            "c": "alegerea modelului depinde de modul în care sunt repartizați participanții",
+            "d": "măsurători repetate: aceiași participanți în toate condițiile"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Între subiecți: grupuri independente de participanți. Măsurători repetate: aceiași oameni în toate condițiile — model și presupuneri diferite. Alegerea depinde de design. Măsurătorile repetate țin cont de corelația intra-subiecți, nu o ignoră.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11236,
+          "text": "La ANOVA unifactorială cu k grupuri și N participanți în total, gradele de libertate uzual asociate sunt:",
+          "options": {
+            "a": "între grupuri: df = k − 1",
+            "b": "între grupuri: df = N − 1",
+            "c": "total: df = N + k",
+            "d": "în grupuri (eroare): df = N − k"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "df între = k−1 (k grupuri); df eroare = N−k. Totalul df pentru SS nu e N+k și df între nu e N−1 — confuzii frecvente cu formula t pe eșantion.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11237,
+          "text": "Eta pătrat (η²) într-o ANOVA unifactorială indică, în linii mari:",
+          "options": {
+            "a": "diferența exactă în puncte brute între media celui mai mare și cel mai mic grup",
+            "b": "probabilitatea ca H₀ să fie adevărată",
+            "c": "mărimea efectului — cât din variabilitate e asociată grupului",
+            "d": "proporția din varianța VD explicată de factorul independent"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "η² ≈ SS₍între₎/SS₍total₎ — proporția varianței VD asociată factorului. E mărime a efectului, nu probabilitatea lui H₀ și nu diferența brută între extreme.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11238,
+          "text": "În care condiții este adecvată ANOVA unifactorială parametrică?",
+          "options": {
+            "a": "VD nominală cu două categorii exclusive",
+            "b": "presupunerile de normalitate, independență și omogenitate a varianțelor sunt acceptabile",
+            "c": "VD pe scară de interval sau raport (măsură cantitativă)",
+            "d": "cel puțin trei grupuri sau condiții de comparat"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "ANOVA parametrică: VD cantitativă (interval/raport), ≥3 grupuri, presupunerile rezonabile. VD nominală cu 2 categorii → alte teste (χ² etc.), nu ANOVA pe medii în sensul clasic.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11239,
+          "text": "Un design între subiecți (between-subjects) în contextul ANOVA înseamnă că:",
+          "options": {
+            "a": "compararea mediilor se face pe grupuri independente de participanți",
+            "b": "aceiași participanți trec prin toate nivelurile manipulării",
+            "c": "nu există variabilitate în interiorul grupurilor",
+            "d": "fiecare participant este reprezentat într-un singur grup al VI"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Between-subjects: fiecare participant într-un singur grup; grupuri independente. Within-subjects/repetate e opusul — aceiași participanți în toate condițiile. Variația în grupuri există mereu.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11240,
+          "text": "Când există exact două grupuri independente, relația dintre F și t este:",
+          "options": {
+            "a": "F și t nu pot fi niciodată legate",
+            "b": "F = t² (pătratul valorii t)",
+            "c": "F = t / 2",
+            "d": "F = √t"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Pentru două grupuri independente, ANOVA unifactorială și testul t sunt legate: F = t². Nu F = t/2 sau √t — relația e prin pătrat.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11241,
+          "text": "Care dintre următoarele sinteze despre ANOVA unifactorială sunt corecte?",
+          "options": {
+            "a": "test omnibus: verifică dacă există diferențe între medii, nu care pereche",
+            "b": "η² estimează proporția varianței VD explicate de factorul independent",
+            "c": "F mare → varianță între grupuri mare relativ la varianța în grupuri",
+            "d": "H₀: toate mediile egale; H₁: cel puțin una diferă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru idei: test omnibus; ipoteze H₀/H₁; interpretarea F; η² pentru efect. Post-hoc rămâne necesar după F semnificativ — nu e înlocuit de η².",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11242,
+          "text": "Care limitări ale interpretării unui rezultat semnificativ la ANOVA sunt formulate corect?",
+          "options": {
+            "a": "nu spune singură care perechi de grupuri diferă",
+            "b": "mărimea efectului (ex. η²) ajută la evaluarea relevanței practicii",
+            "c": "semnificarea statistică nu echivalează automat cu un efect practic mare",
+            "d": "un F nonsignificativ demonstrează cu certitudine că mediile sunt egale"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "ANOVA nu localizează perechile; semnificarea ≠ efect clinic mare; η² ajută la evaluarea mărimii efectului. F nonsignificativ nu demonstrează egalitatea mediilor — doar lipsă de dovezi suficiente la puterea și α alese.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11243,
+          "text": "Un psiholog compară scorurile de anxietate la trei tipuri de terapie (A, B, C). Variabila independentă are:",
+          "options": {
+            "a": "0 niveluri, pentru că VD e cantitativă",
+            "b": "3 niveluri (tip terapie)",
+            "c": "2 niveluri obligatorii în orice ANOVA",
+            "d": "o singură categorie nominală fără grupuri"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "VI = tip terapie cu 3 niveluri (A, B, C); VD = anxietate (cantitativă). ANOVA nu impune 2 niveluri; VD cantitativă nu anulează nivelurile VI.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11244,
+          "text": "Dacă obții F = 4,82, p = 0,003 la α = 0,05 într-o ANOVA unifactorială, care interpretări sunt corecte?",
+          "options": {
+            "a": "p < α → rezultat semnificativ statistic",
+            "b": "poți concluziona direct că fiecare grup diferă de toate celelalte",
+            "c": "urmează adesea analiza post-hoc pentru perechi de grupuri",
+            "d": "respingi H₀ — există dovezi că nu toate mediile sunt egale"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "p = 0,003 < 0,05 → respingi H₀, semnificativ. Nu poți concluziona că fiecare grup diferă de toate — doar că nu sunt toate egale; post-hoc clarifică perechile.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11245,
+          "text": "Care dintre următoarele idei despre ANOVA unifactorială sunt formulate corect?",
+          "options": {
+            "a": "presupune independență, omogenitatea varianțelor și normalitate aproximativă",
+            "b": "după F semnificativ, testele post-hoc clarifică diferențele între perechi",
+            "c": "SS total = SS între + SS în; F = MS între / MS în",
+            "d": "compară 3+ medii; la 2 grupuri independente se poate folosi testul t"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Sinteză finală: scop (3+ medii), descompunere SS și F, presupuneri, post-hoc după semnificare. Nicio variantă nu susține că F alege automat „cea mai bună” intervenție clinic.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
         }
       ]
     }
   },
-  "total_questions": 3263,
+  "total_questions": 3283,
   "active_lots_only": true
 }

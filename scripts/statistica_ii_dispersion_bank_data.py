@@ -182,8 +182,7 @@ DISPERSION_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Un coeficient de variație cv > 30% sugerează, în interpretarea uzuală din "
-            "curs, că:"
+            "Un coeficient de variație cv > 30% sugerează, în interpretarea uzuală, că:"
         ),
         "options": [
             "dispersia este mare și media aritmetică descrie mai slab „tipicul”",

@@ -1,4 +1,4 @@
-"""Itemi — Statistică II (265 itemi, ID 10961–11225)."""
+"""Itemi — Statistică II (285 itemi, ID 10961–11245)."""
 
 from __future__ import annotations
 
@@ -15,6 +15,7 @@ from scripts.statistica_ii_hypothesis_z_test_bank_data import (
     HYPOTHESIS_Z_TEST_ITEMS,
 )
 from scripts.statistica_ii_recap_rapid_bank_data import RECAP_RAPID_ITEMS
+from scripts.statistica_ii_anova_bank_data import ANOVA_ITEMS
 from scripts.statistica_ii_standardized_scores_bank_data import STANDARDIZED_SCORES_ITEMS
 from scripts.statistica_ii_frequency_bank_data import FREQUENCY_ITEMS
 from scripts.statistica_ii_scales_sampling_bank_data import SCALES_SAMPLING_ITEMS
@@ -66,8 +67,7 @@ STATISTICA_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele etape aparțin logicii metodei științifice "
-            "prezentate în curs?"
+            "Care dintre următoarele etape aparțin logicii metodei științifice clasice?"
         ),
         "options": [
             "observația fenomenului sau a unei regularități",
@@ -104,7 +104,7 @@ STATISTICA_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Variabilele latente, în sensul din curs, sunt:"
+            "Variabilele latente sunt:"
         ),
         "options": [
             "constructe teoretice care nu se observă direct",
@@ -525,6 +525,6 @@ STATISTICA_II_ITEMS: List[Item] = [
         ],
         "correct": "ab",
     },
-] + SCALES_SAMPLING_ITEMS + FREQUENCY_ITEMS + CENTRAL_TENDENCY_ITEMS + BOXPLOT_ITEMS + DISPERSION_ITEMS + DISTRIBUTION_SHAPE_ITEMS + STANDARDIZED_SCORES_ITEMS + SAMPLING_DISTRIBUTION_ITEMS + HYPOTHESIS_Z_TEST_ITEMS + RECAP_RAPID_ITEMS
+] + SCALES_SAMPLING_ITEMS + FREQUENCY_ITEMS + CENTRAL_TENDENCY_ITEMS + BOXPLOT_ITEMS + DISPERSION_ITEMS + DISTRIBUTION_SHAPE_ITEMS + STANDARDIZED_SCORES_ITEMS + SAMPLING_DISTRIBUTION_ITEMS + HYPOTHESIS_Z_TEST_ITEMS + RECAP_RAPID_ITEMS + ANOVA_ITEMS
 
-assert len(STATISTICA_II_ITEMS) == 265
+assert len(STATISTICA_II_ITEMS) == 285

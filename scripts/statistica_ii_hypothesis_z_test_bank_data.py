@@ -29,7 +29,7 @@ HYPOTHESIS_Z_TEST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "În exemplul șahiștilor din curs (IQ mediu șahiști vs populație), care "
+            "În exemplul clasic cu șahiștii (IQ mediu șahiști vs populație), care "
             "formulări sunt corecte?"
         ),
         "options": [
@@ -93,7 +93,7 @@ HYPOTHESIS_Z_TEST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "În exemplul rezolvat din curs (N = 30, m = 106, μ = 100, σ = 15), care "
+            "În exemplul rezolvat al testului z (N = 30, m = 106, μ = 100, σ = 15), care "
             "pași intermediari sunt corecți?"
         ),
         "options": [

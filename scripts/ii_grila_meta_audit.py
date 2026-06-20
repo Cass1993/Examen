@@ -6,7 +6,7 @@ import re
 from dataclasses import dataclass
 from typing import Iterable, List
 
-# Nu flagăm „teste tip grilă” în opțiuni — doar enunțuri cu meta-referință la format.
+# Nu flagăm „teste tip grilă” în opțiuni — doar enunțuri cu meta-referință la format/curs.
 GRILA_META_STEM = re.compile(
     r"(?:"
     r"\b(?:pentru|în|la|din)\s+gril[ăa]\b"
@@ -17,6 +17,13 @@ GRILA_META_STEM = re.compile(
     r"|\bconfuzie\s+de\s+gril[ăa]\b"
     r"|\bdiferențiate\s+la\s+gril[ăa]\b"
     r"|\b(?:frecvente|corecte)\s+la\s+gril[ăa]\b"
+    r"|\b(?:prezentate|menționate|discutate|formulate|descrise|enumerate|evidențiate|"
+    r"prezentat|menționat|discutat|formulat|descris|evidențiat)\s+în\s+curs\b"
+    r"|\bîn\s+sensul\s+din\s+curs\b"
+    r"|\binterpretarea\s+(?:uzuală\s+)?din\s+curs\b"
+    r"|\bconform\s+regulilor\s+din\s+curs\b"
+    r"|\b(?:din|în)\s+curs\b"
+    r"|\bfolosită\s+frecvent\s+în\s+curs\b"
     r")",
     re.IGNORECASE,
 )
@@ -36,7 +43,7 @@ def audit_grila_meta_stem(stem: str) -> List[GrilaMetaIssue]:
         return [
             GrilaMetaIssue(
                 "grila_meta",
-                "enunțul menționează formatul de grilă/examen — elimină meta-referința",
+                "enunțul menționează formatul de grilă/examen sau meta-referința „din curs” — reformulează direct",
             )
         ]
     return []

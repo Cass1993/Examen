@@ -438,7 +438,7 @@ SCALES_SAMPLING_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "În curs, eșantionul mare este indicat adesea prin regula orientativă:"
+            "Eșantionul mare este indicat adesea, ca regulă orientativă, prin:"
         ),
         "options": [
             "N ≥ 30",

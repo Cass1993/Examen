@@ -133,7 +133,7 @@ SAMPLING_DISTRIBUTION_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Regula orientativă „eșantion mare” folosită frecvent în curs pentru aplicarea "
+            "Regula orientativă „eșantion mare” folosită frecvent pentru aplicarea "
             "TLC este:"
         ),
         "options": [
