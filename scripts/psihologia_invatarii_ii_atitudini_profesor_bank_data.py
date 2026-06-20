@@ -18,7 +18,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei orientări ale atitudinii profesorului sunt frecvent distinse "
+            "Care dintre următoarele orientări ale atitudinii profesorului sunt frecvent distinse "
             "în literatura didactică?"
         ),
         "options": [
@@ -31,7 +31,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două componente aparțin atitudinii față de predare?"
+            "Care dintre următoarele componente aparțin atitudinii față de predare?"
         ),
         "options": [
             "corectitudinea informațiilor transmise elevilor",
@@ -43,7 +43,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei efecte ale atitudinii profesorului față de elev sunt evocate "
+            "Care dintre următoarele efecte ale atitudinii profesorului față de elev sunt evocate "
             "în psihopedagogie?"
         ),
         "options": [
@@ -70,7 +70,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două canale nonverbale transmit atitudinea profesorului în clasă?"
+            "Care dintre următoarele canale nonverbale transmit atitudinea profesorului în clasă?"
         ),
         "options": [
             "mimica și expresia facială — plictiseală, interes, dezaprobare",
@@ -94,7 +94,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două observații despre profesorul centrat pe conținut sunt corecte?"
+            "Care dintre următoarele observații despre profesorul centrat pe conținut sunt corecte?"
         ),
         "options": [
             "valorizează rigoarea și claritatea transmiterii materiei",
@@ -127,7 +127,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     # —— 11–20: tipuri de profesor, inițiativă ——
     {
         "stem": (
-            "Care două practici reflectă orientarea profesorului centrat pe elev?"
+            "Care dintre următoarele practici reflectă orientarea profesorului centrat pe elev?"
         ),
         "options": [
             "întrebări deschise care solicită gândirea și descoperirea",
@@ -151,7 +151,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei trăsături descriu profesorul cu inițiativă ridicată?"
+            "Care dintre următoarele trăsături descriu profesorul cu inițiativă ridicată?"
         ),
         "options": [
             "organizează flexibil activitatea, în funcție de progresul clasei",
@@ -175,7 +175,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două diferențe între profesorul cu inițiativă ridicată și cel cu "
+            "Care dintre următoarele diferențe între profesorul cu inițiativă ridicată și cel cu "
             "inițiativă scăzută sunt corecte?"
         ),
         "options": [
@@ -188,7 +188,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru tipuri de profesor din clasificarea pentru grilă sunt "
+            "Care dintre următoarele tipuri de profesor din clasificarea pentru grilă sunt "
             "descrise corect?"
         ),
         "options": [
@@ -214,7 +214,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două atitudini nonverbale susțin climatul afectiv pozitiv?"
+            "Care dintre următoarele atitudini nonverbale susțin climatul afectiv pozitiv?"
         ),
         "options": [
             "contact vizual adecvat și postură deschisă",
@@ -234,7 +234,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei componente aparțin atitudinii față de predare?"
+            "Care dintre următoarele componente aparțin atitudinii față de predare?"
         ),
         "options": [
             "corectitudinea informațiilor",
@@ -260,7 +260,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două caracteristici definesc atitudinea orientată față de profesie?"
+            "Care dintre următoarele caracteristici definesc atitudinea orientată față de profesie?"
         ),
         "options": [
             "respectul pentru standardele și etica meseriei",
@@ -272,7 +272,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei mesaje nonverbale pot transmite respect și siguranță?"
+            "Care dintre următoarele mesaje nonverbale pot transmite respect și siguranță?"
         ),
         "options": [
             "ascultarea activă a întrebării elevului",
@@ -298,7 +298,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două diferențe între profesorul centrat pe conținut și cel centrat "
+            "Care dintre următoarele diferențe între profesorul centrat pe conținut și cel centrat "
             "pe elev sunt corecte?"
         ),
         "options": [
@@ -312,7 +312,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru efecte ale atitudinii profesorului față de elev sunt "
+            "Care dintre următoarele efecte ale atitudinii profesorului față de elev sunt "
             "enumerate în sinteza cursului?"
         ),
         "options": [
@@ -337,7 +337,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două practici reflectă profesorul centrat pe interacțiune?"
+            "Care dintre următoarele practici reflectă profesorul centrat pe interacțiune?"
         ),
         "options": [
             "activități în perechi sau grupuri cu roluri clare",
@@ -362,7 +362,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei orientări pot modela stilul didactic al profesorului?"
+            "Care dintre următoarele orientări pot modela stilul didactic al profesorului?"
         ),
         "options": [
             "atitudinea față de profesie",
@@ -387,7 +387,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două capcane trebuie evitate când interpretezi tipurile de profesor?"
+            "Care dintre următoarele capcane trebuie evitate când interpretezi tipurile de profesor?"
         ),
         "options": [
             "centrat pe conținut nu înseamnă automat lipsă de respect față de elevi",
@@ -399,7 +399,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru perechi tip de profesor–accent sunt potrivite pentru grilă?"
+            "Care dintre următoarele perechi tip de profesor–accent sunt potrivite pentru grilă?"
         ),
         "options": [
             "centrat pe conținut — informație esențială, structurată",
@@ -424,7 +424,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două trăsături ale profesorului cu inițiativă ridicată susțin "
+            "Care dintre următoarele trăsături ale profesorului cu inițiativă ridicată susțin "
             "autonomia elevilor?"
         ),
         "options": [
@@ -437,7 +437,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei semnale nonverbale pot reduce participarea elevilor?"
+            "Care dintre următoarele semnale nonverbale pot reduce participarea elevilor?"
         ),
         "options": [
             "pliciseală vizibilă — căscături, privire la ceas",
@@ -469,7 +469,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei idei sintetizează rolul atitudinilor profesorului în clasă?"
+            "Care dintre următoarele idei sintetizează rolul atitudinilor profesorului în clasă?"
         ),
         "options": [
             "atitudinile orientează stilul didactic (profesie, elev, sine)",
@@ -489,7 +489,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
             "rigid și control extern",
             "transmitere structurată a conținutului vs analiza nevoilor elevului",
             "relație și participare activă vs selectarea informației esențiale",
-            "empatie rogersiană vs condiționare operantă skinneriană",
+            "empatie în abordarea lui Carl Rogers vs condiționare operantă în paradigma lui Skinner",
         ],
         "correct": "a",
     },

@@ -30,7 +30,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două activități se potrivesc preferinței vizuale (V) în modelul VARK?"
+            "Care dintre următoarele activități se potrivesc preferinței vizuale (V) în modelul VARK?"
         ),
         "options": [
             "diagrame, scheme și organizatori grafici",
@@ -42,7 +42,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei recomandări sunt frecvente pentru cursanții cu preferință vizuală "
+            "Care dintre următoarele recomandări sunt frecvente pentru cursanții cu preferință vizuală "
             "pronunțată?"
         ),
         "options": [
@@ -67,7 +67,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două strategii susțin învățarea elevului cu preferință auditivă?"
+            "Care dintre următoarele strategii susțin învățarea elevului cu preferință auditivă?"
         ),
         "options": [
             "repetarea informației cu voce tare sau în șoaptă",
@@ -115,7 +115,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei forme de activitate favorizează cursantul cu preferință "
+            "Care dintre următoarele forme de activitate favorizează cursantul cu preferință "
             "kinestezică?"
         ),
         "options": [
@@ -137,7 +137,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două concluzii pedagogice privind stilurile VARK sunt corecte?"
+            "Care dintre următoarele concluzii pedagogice privind stilurile VARK sunt corecte?"
         ),
         "options": [
             "e util să cunoști preferințele, dar învățarea eficientă cere combinarea "
@@ -151,7 +151,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două confuzii frecvente despre VARK trebuie evitate?"
+            "Care dintre următoarele confuzii frecvente despre VARK trebuie evitate?"
         ),
         "options": [
             "preferința nu este o capacitate fixă — se poate dezvolta și combina",
@@ -163,7 +163,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru perechi preferință VARK–activitate recomandată sunt corecte?"
+            "Care dintre următoarele perechi preferință VARK–activitate recomandată sunt corecte?"
         ),
         "options": [
             "vizual — diagrame, hărți mentale, organizatori grafici",
@@ -188,7 +188,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două practici didactice reflectă concluzia că stilurile trebuie "
+            "Care dintre următoarele practici didactice reflectă concluzia că stilurile trebuie "
             "combinate, nu izolate?"
         ),
         "options": [
@@ -201,7 +201,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei afirmații despre interpretarea rezultatelor VARK sunt corecte?"
+            "Care dintre următoarele afirmații despre interpretarea rezultatelor VARK sunt corecte?"
         ),
         "options": [
             "chestionarul indică tendințe și preferințe, nu diagnostice rigide",
@@ -226,7 +226,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei explică de ce combinarea stilurilor sporește eficiența "
+            "Care dintre următoarele idei explică de ce combinarea stilurilor sporește eficiența "
             "învățării?"
         ),
         "options": [
@@ -239,7 +239,7 @@ VARK_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru recomandări generale pentru profesor derivă din modelul VARK "
+            "Care dintre următoarele recomandări generale pentru profesor derivă din modelul VARK "
             "și din concluzia pedagogică asociată?"
         ),
         "options": [

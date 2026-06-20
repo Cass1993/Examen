@@ -44,7 +44,7 @@ PSIHOLOGIA_INVATARII_II_EXPLANATIONS: List[str] = [
     ),
     # 10502
     (
-        "În condiționarea clasică pavloviană, la început stimulul neutru (ex. "
+        "În condiționarea clasică a lui Pavlov, la început stimulul neutru (ex. "
         "clopoțelul) nu produce salivare. Stimulul necondiționat (mâncarea) produce "
         "răspunsul necondiționat (salivarea). După asocieri repetate SN+SI, stimulul "
         "devine condiționat și produce singur răspunsul condiționat."
@@ -92,7 +92,7 @@ PSIHOLOGIA_INVATARII_II_EXPLANATIONS: List[str] = [
     # 10509
     (
         "Thorndike: încercare și eroare, întărirea conexiunilor utile, slăbirea celor "
-        "inutile. Nu e vorba de gramatică innată (Chomsky) sau de stadii piagetiene — "
+        "inutile. Nu e vorba de gramatică innată (Chomsky) sau de stadii descrise de Piaget — "
         "e învățare asociativă prin consecințe ale răspunsului."
     ),
     # 10510
@@ -130,7 +130,7 @@ PSIHOLOGIA_INVATARII_II_EXPLANATIONS: List[str] = [
     # 10515
     (
         "Operant: întărire pozitivă (adaugare stimul plăcut), negativă (eliminare "
-        "aversiv), pedeapsă (scădere frecvență). Asimilarea piagetiană descrie "
+        "aversiv), pedeapsă (scădere frecvență). Asimilarea în teoria lui Piaget descrie "
         "integrarea informației în scheme — alt cadru teoretic."
     ),
     # 10516
@@ -143,14 +143,14 @@ PSIHOLOGIA_INVATARII_II_EXPLANATIONS: List[str] = [
     (
         "Condiționarea instrumentală/operantă modifică frecvența comportamentului "
         "prin recompensă, omisiune, pedeapsă sau evitare — nu prin asocierea "
-        "unui clopoțel cu hrană în sens pavlovian pur."
+        "unui clopoțel cu hrană în paradigma clasică S–R."
     ),
     # 10518
     (
         "Cele patru consecințe operante: întărire pozitivă (+ stimul plăcut), "
         "negativă (− stimul aversiv), pedeapsă pozitivă (+ aversiv), pedeapsă "
         "negativă/omisiune (− stimul plăcut). Toate patru sunt categorii canonice "
-        "în analiza skinneriană."
+        "în analiza lui B. F. Skinner."
     ),
     # 10519
     (
@@ -243,7 +243,7 @@ PSIHOLOGIA_INVATARII_II_EXPLANATIONS: List[str] = [
     (
         "Behaviorismul explică bine modificarea comportamentului prin consecințe și "
         "formarea obiceiurilor. Nu explică complet conștiința, sensul existențial "
-        "sau reorganizarea cognitivă stadială piagetiană."
+        "sau reorganizarea cognitivă stadială în teoria lui Piaget."
     ),
     # 10534
     (
@@ -277,7 +277,7 @@ PSIHOLOGIA_INVATARII_II_EXPLANATIONS: List[str] = [
     # 10539
     (
         "Procese clasice: achiziție, extincție, generalizare, discriminare. "
-        "Toate patru sunt parte din vocabularul condiționării pavloviene și apar "
+        "Toate variantele corecte sunt parte din vocabularul condiționării clasice a lui Pavlov și apar "
         "frecvent la examen."
     ),
     # 10540
@@ -290,7 +290,7 @@ PSIHOLOGIA_INVATARII_II_EXPLANATIONS: List[str] = [
     (
         "Legea efectului: strategii care duc la reușită se repetă; cele care eșuează "
         "se abandonează. Harta cognitivă fără recompensă e Tolman; salivarea reflexă "
-        "e Pavlov fără încercare și eroare thorndikiană."
+        "e Pavlov fără încercare și eroare descrise de Thorndike."
     ),
     # 10542
     (
@@ -312,8 +312,9 @@ PSIHOLOGIA_INVATARII_II_EXPLANATIONS: List[str] = [
     ),
     # 10545
     (
-        "Thorndike — legea efectului; Hull — drive și habit; Pavlov — clasică; "
-        "Tolman — intențional și latent. Patru perechi canonice pentru sinteză."
+        "Thorndike — legea efectului; Hull — drive și habit; Pavlov — condiționare "
+        "clasică; Tolman — intențional și latent. Fiecare variantă corectă asociază "
+        "autorul cu contribuția sa principală."
     ),
     # 10546
     (

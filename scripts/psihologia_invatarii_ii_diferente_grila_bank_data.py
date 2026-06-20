@@ -30,7 +30,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între întărirea pozitivă și cea negativă sunt corecte?"
+            "Care dintre următoarele distincții între întărirea pozitivă și cea negativă sunt corecte?"
         ),
         "options": [
             "pozitivă: se adaugă un stimul plăcut (ex. laudă, puncte)",
@@ -42,7 +42,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Pedeapsa, în abordarea skinneriană, scade frecvența comportamentului prin:"
+            "Pedeapsa, în abordarea lui B. F. Skinner, scade frecvența comportamentului prin:"
         ),
         "options": [
             "aplicarea unei consecințe neplăcute după comportament",
@@ -54,7 +54,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două diferențe între pedeapsă și extincție sunt formulate corect?"
+            "Care dintre următoarele diferențe între pedeapsă și extincție sunt formulate corect?"
         ),
         "options": [
             "pedeapsa: consecință neplăcută activă care reduce comportamentul",
@@ -66,7 +66,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru perechi „concept–diferență esențială” sunt corecte pentru grilă?"
+            "Care dintre următoarele perechi „concept–diferență esențială” sunt corecte pentru grilă?"
         ),
         "options": [
             "întărire pozitivă vs negativă — ambele cresc comportamentul, dar una adaugă "
@@ -94,7 +94,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între stima de sine și autoeficacitate (Bandura) "
+            "Care dintre următoarele distincții între stima de sine și autoeficacitate (Bandura) "
             "sunt corecte?"
         ),
         "options": [
@@ -108,7 +108,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     {
         "stem": (
             "Învățarea socială (Bandura) se bazează pe observare și modelare, în timp ce "
-            "condiționarea operantă skinneriană pe consecințele propriului comportament."
+            "condiționarea operantă în paradigma lui B. F. Skinner pe consecințele propriului comportament."
         ),
         "tf": True,
         "correct_tf": True,
@@ -131,7 +131,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     # —— 11–20: formală/informală, cognitivism, behaviorism, umanism, Pavlov ——
     {
         "stem": (
-            "Care două distincții între învățarea formală și cea informală sunt corecte?"
+            "Care dintre următoarele distincții între învățarea formală și cea informală sunt corecte?"
         ),
         "options": [
             "formală: instituționalizată, cu curriculum și evaluare organizată",
@@ -155,7 +155,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două caracteristici definesc behaviorismul strict în psihologia "
+            "Care dintre următoarele caracteristici definesc behaviorismul strict în psihologia "
             "învățării?"
         ),
         "options": [
@@ -168,7 +168,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei diferențe între cognitivism și behaviorism sunt corecte?"
+            "Care dintre următoarele diferențe între cognitivism și behaviorism sunt corecte?"
         ),
         "options": [
             "cognitivism: procese interne; behaviorism strict: accent pe exterior observabil",
@@ -193,7 +193,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între umanism și cognitivism sunt formulate corect?"
+            "Care dintre următoarele distincții între umanism și cognitivism sunt formulate corect?"
         ),
         "options": [
             "umanism: sens, relație, valori, dezvoltare personală; cognitivism: procesare "
@@ -220,13 +220,13 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
             "stimul condiționat (SC) — produce răspuns condiționat (RC)",
             "stimul necondiționat (SN) — produce reflex natural",
             "stimul discriminativ care întărește comportamentul operant",
-            "reprezentarea mentală a labirintului tolmanian",
+            "reprezentarea mentală a labirintului în experimentele lui Tolman",
         ],
         "correct": "a",
     },
     {
         "stem": (
-            "Care două procese aparțin condiționării clasice pavloviene?"
+            "Care dintre următoarele procese aparțin condiționării clasice a lui Pavlov?"
         ),
         "options": [
             "generalizarea — reacție similară la stimuli asemănători cu SC",
@@ -258,13 +258,13 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
             "adevărat — învățarea reduce tensiunea drive-ului, spre obiective biologice",
             "fals — Hull a introdus hărțile cognitive și învățarea latentă",
             "adevărat — Hull a condus experimentul cu micul Albert",
-            "fals — Hull este autorul teoriei facilitării rogersiene",
+            "fals — Hull este autorul teoriei facilitării descrise de Carl Rogers",
         ],
         "correct": "a",
     },
     {
         "stem": (
-            "Care două concepte sunt central asociate cu B. F. Skinner?"
+            "Care dintre următoarele concepte sunt central asociate cu B. F. Skinner?"
         ),
         "options": [
             "condiționare operantă/instrumentală",
@@ -276,7 +276,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei programe de întărire parțială sunt asociate cu Skinner?"
+            "Care dintre următoarele programe de întărire parțială sunt asociate cu Skinner?"
         ),
         "options": [
             "întărire pe raport fix sau variabil",
@@ -308,12 +308,12 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două concepte sunt asociate cu Albert Bandura?"
+            "Care dintre următoarele concepte sunt asociate cu Albert Bandura?"
         ),
         "options": [
             "învățare prin observare, modelare și imitație",
             "determinism reciproc și autoeficacitate",
-            "stimul necondiționat și răspuns condiționat pavlovian",
+            "stimul necondiționat și răspuns condiționat în paradigma lui Pavlov",
             "blended learning și flipped classroom",
         ],
         "correct": "ab",
@@ -332,20 +332,20 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei cuvinte-cheie aparțin cognitivismului în psihologia învățării?"
+            "Care dintre următoarele cuvinte-cheie aparțin cognitivismului în psihologia învățării?"
         ),
         "options": [
             "procesare a informației și memorie",
             "scheme, modele mentale, organizare",
             "modelare cognitivă și învățare multimedia",
-            "autoactualizare și experiențe culminante maslowiene",
+            "autoactualizare și experiențe culminante în teoria lui Abraham Maslow",
         ],
         "correct": "abc",
     },
     {
         "stem": (
-            "Care patru perechi proces–autor sunt potrivite pentru condiționarea clasică "
-            "pavloviană?"
+            "Care dintre următoarele perechi proces–autor sunt potrivite pentru condiționarea "
+            "clasică a lui Pavlov?"
         ),
         "options": [
             "stimul necondiționat (SN) — declanșează răspuns necondiționat (RN)",
@@ -370,7 +370,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     # —— 31–40: Maslow, forme, VARK, sinteză autori ——
     {
         "stem": (
-            "Care trei concepte sunt asociate cu Abraham Maslow în educație?"
+            "Care dintre următoarele concepte sunt asociate cu Abraham Maslow în educație?"
         ),
         "options": [
             "ierarhia trebuințelor",
@@ -394,13 +394,13 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei forme de învățare apar în sinteza cursului?"
+            "Care dintre următoarele forme de învățare apar în sinteza cursului?"
         ),
         "options": [
             "activă — discuții, probleme, proiecte",
             "experiențială — ciclul Kolb, experiență și reflecție",
             "socială — norme și roluri prin interacțiune",
-            "reflexivă pavloviană — salivare la stimul neutru",
+            "reflexivă în paradigma lui Pavlov — salivare la stimul neutru",
         ],
         "correct": "abc",
     },
@@ -430,13 +430,13 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două forme de învățare din clasificarea modernă includ tehnologia "
+            "Care dintre următoarele forme de învățare din clasificarea modernă includ tehnologia "
             "și adaptarea parcursului?"
         ),
         "options": [
             "personalizată — ritm, conținut și strategii ajustate elevului",
             "autoreglată — elevul își monitorizează și ajustează parcursul",
-            "pavloviană clasică — asociere SN cu SC",
+            "clasică a lui Pavlov — asociere SN cu SC",
             "reflexivă senzorială — percepție fără procesare",
         ],
         "correct": "ab",
@@ -455,7 +455,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei perechi autor–contribuție sunt corecte?"
+            "Care dintre următoarele perechi autor–contribuție sunt corecte?"
         ),
         "options": [
             "Ivan P. Pavlov — condiționare clasică, reflexe condiționate",
@@ -467,7 +467,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru perechi autor–idee sunt potrivite pentru grilă?"
+            "Care dintre următoarele perechi autor–idee sunt potrivite pentru grilă?"
         ),
         "options": [
             "Edward C. Tolman — învățare latentă, hărți cognitive",

@@ -31,7 +31,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două competențe trebuie combinate de profesorul eficient?"
+            "Care dintre următoarele competențe trebuie combinate de profesorul eficient?"
         ),
         "options": [
             "competență de specialitate — stăpânirea disciplinei predate",
@@ -43,7 +43,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei elemente definesc predarea eficientă, pe lângă transmiterea "
+            "Care dintre următoarele elemente definesc predarea eficientă, pe lângă transmiterea "
             "conținutului?"
         ),
         "options": [
@@ -69,7 +69,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două componente aparțin competenței pedagogice a profesorului?"
+            "Care dintre următoarele componente aparțin competenței pedagogice a profesorului?"
         ),
         "options": [
             "cunoștințe, atitudini și modul de relaționare cu elevii",
@@ -93,7 +93,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între competența profesional-științifică și cea "
+            "Care dintre următoarele distincții între competența profesional-științifică și cea "
             "psihopedagogică sunt corecte?"
         ),
         "options": [
@@ -129,7 +129,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     # —— 11–20: comunicare, empatie, organizare, adaptare ——
     {
         "stem": (
-            "Care două calități ale profesorului eficient susțin relația educațională?"
+            "Care dintre următoarele calități ale profesorului eficient susțin relația educațională?"
         ),
         "options": [
             "comunicare clară — explicații inteligibile, feedback explicit",
@@ -153,7 +153,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei elemente intră în competența pedagogică, conform sintezei "
+            "Care dintre următoarele elemente intră în competența pedagogică, conform sintezei "
             "cursului?"
         ),
         "options": [
@@ -178,7 +178,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două forme de adaptare la elevi reflectă competența psihopedagogică?"
+            "Care dintre următoarele forme de adaptare la elevi reflectă competența psihopedagogică?"
         ),
         "options": [
             "ajustarea explicațiilor și a exemplelor la nivelul clasei",
@@ -190,7 +190,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru dimensiuni combină profesorul eficient în practică?"
+            "Care dintre următoarele dimensiuni combină profesorul eficient în practică?"
         ),
         "options": [
             "competență de specialitate și competență pedagogică",
@@ -215,7 +215,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două caracteristici definesc relațiile educative funcționale?"
+            "Care dintre următoarele caracteristici definesc relațiile educative funcționale?"
         ),
         "options": [
             "respect reciproc și comunicare deschisă",
@@ -248,7 +248,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     # —— 21–30: sinteză competențe, climat, statut ——
     {
         "stem": (
-            "Care trei componente ale competenței pedagogice includ dimensiunea "
+            "Care dintre următoarele componente ale competenței pedagogice includ dimensiunea "
             "afectiv-relațională?"
         ),
         "options": [
@@ -261,7 +261,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două elemente aparțin cadrelor formale ale activității didactice?"
+            "Care dintre următoarele elemente aparțin cadrelor formale ale activității didactice?"
         ),
         "options": [
             "planificarea lecției și respectarea structurii didactice",
@@ -285,7 +285,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două practici susțin un climat de clasă favorabil învățării?"
+            "Care dintre următoarele practici susțin un climat de clasă favorabil învățării?"
         ),
         "options": [
             "reguli clare, aplicate cu consecvență și explicare",
@@ -310,7 +310,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru componente ale predării eficiente sunt enumerate în sinteza "
+            "Care dintre următoarele componente ale predării eficiente sunt enumerate în sinteza "
             "profesorului eficient?"
         ),
         "options": [
@@ -323,7 +323,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două modalități prin care profesorul generează motive pentru "
+            "Care dintre următoarele modalități prin care profesorul generează motive pentru "
             "învățare sunt plauzibile pedagogic?"
         ),
         "options": [
@@ -349,7 +349,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei calități reflectă capacitatea de adaptare a profesorului eficient?"
+            "Care dintre următoarele calități reflectă capacitatea de adaptare a profesorului eficient?"
         ),
         "options": [
             "flexibilitate în strategii când observă că elevii nu înțeleg",
@@ -361,7 +361,7 @@ PROFESOR_EFICIENT_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru tipuri de competență ale profesorului apar în modelul "
+            "Care dintre următoarele tipuri de competență ale profesorului apar în modelul "
             "prezentat la curs?"
         ),
         "options": [

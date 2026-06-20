@@ -31,7 +31,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două funcții aparțin rolului informal de lider al profesorului?"
+            "Care dintre următoarele funcții aparțin rolului informal de lider al profesorului?"
         ),
         "options": [
             "motivarea elevilor și influențarea climatului clasei",
@@ -43,7 +43,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei dimensiuni ale leadershipului didactic sunt menționate în curs?"
+            "Care dintre următoarele dimensiuni ale leadershipului didactic sunt menționate în curs?"
         ),
         "options": [
             "coordonarea și organizarea activității",
@@ -67,7 +67,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două consecințe pot apărea la stilul autoritar excesiv?"
+            "Care dintre următoarele consecințe pot apărea la stilul autoritar excesiv?"
         ),
         "options": [
             "reducerea libertății și a implicării active a elevilor",
@@ -92,7 +92,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două trăsături definesc stilul democratic?"
+            "Care dintre următoarele trăsături definesc stilul democratic?"
         ),
         "options": [
             "participarea elevilor la decizii și la organizarea activității",
@@ -126,7 +126,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     # —— 11–20: eficiență, competențe, sinteză ——
     {
         "stem": (
-            "Care două riscuri sunt asociate stilului permisiv / laissez-faire?"
+            "Care dintre următoarele riscuri sunt asociate stilului permisiv / laissez-faire?"
         ),
         "options": [
             "dezorganizarea activității și lipsa unei direcții clare",
@@ -151,7 +151,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei componente apar în formula eficienței profesorului din "
+            "Care dintre următoarele componente apar în formula eficienței profesorului din "
             "sinteza pentru grilă?"
         ),
         "options": [
@@ -176,7 +176,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două elemente aparțin competenței pedagogice, pe lângă "
+            "Care dintre următoarele elemente aparțin competenței pedagogice, pe lângă "
             "cunoașterea conținutului?"
         ),
         "options": [
@@ -189,7 +189,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru componente definesc eficiența profesorului în sinteza "
+            "Care dintre următoarele componente definesc eficiența profesorului în sinteza "
             "pentru grilă?"
         ),
         "options": [
@@ -215,7 +215,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două roluri ale profesorului eficient sunt formulate corect?"
+            "Care dintre următoarele roluri ale profesorului eficient sunt formulate corect?"
         ),
         "options": [
             "specialist în domeniu și organizator al activității",
@@ -235,7 +235,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru afirmații din sinteza pentru grilă sunt corecte?"
+            "Care dintre următoarele afirmații din sinteza pentru grilă sunt corecte?"
         ),
         "options": [
             "predarea indirectă și nivelul conceptual înalt sunt asociate cu "
@@ -250,7 +250,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei tipuri de competență trebuie diferențiate la grilă?"
+            "Care dintre următoarele tipuri de competență trebuie diferențiate la grilă?"
         ),
         "options": [
             "competență profesională / științifică — conținut",
@@ -275,7 +275,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două diferențe între competența psihopedagogică și cea "
+            "Care dintre următoarele diferențe între competența psihopedagogică și cea "
             "psihosocială sunt corecte?"
         ),
         "options": [
@@ -301,7 +301,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru roluri definesc profesorul eficient în sinteza pentru grilă?"
+            "Care dintre următoarele roluri definesc profesorul eficient în sinteza pentru grilă?"
         ),
         "options": [
             "specialist în domeniu",
@@ -325,7 +325,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două beneficii sunt asociate stilului democratic de leadership?"
+            "Care dintre următoarele beneficii sunt asociate stilului democratic de leadership?"
         ),
         "options": [
             "participare mai bună a elevilor la activitate",
@@ -350,7 +350,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei funcții ale profesorului ca lider al clasei sunt enumerate "
+            "Care dintre următoarele funcții ale profesorului ca lider al clasei sunt enumerate "
             "în curs?"
         ),
         "options": [

@@ -32,7 +32,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două critici ale educației tradiționale sunt formulate frecvent "
+            "Care dintre următoarele critici ale educației tradiționale sunt formulate frecvent "
             "din perspectiva umanistă?"
         ),
         "options": [
@@ -58,7 +58,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei valori sunt centrale în viziunea umanistă asupra învățării?"
+            "Care dintre următoarele valori sunt centrale în viziunea umanistă asupra învățării?"
         ),
         "options": [
             "autonomie — capacitatea de a alege și de a-ți asuma direcția învățării",
@@ -95,8 +95,8 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două atitudini ale profesorului sunt asociate cu facilitarea "
-            "rogersiană?"
+            "Care dintre următoarele atitudini ale profesorului sunt asociate cu facilitarea "
+            "descrisă de Carl Rogers?"
         ),
         "options": [
             "empatie — înțelegerea perspectivei elevului fără judecată imediată",
@@ -122,8 +122,8 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două diferențe între profesorul transmițător și facilitatorul "
-            "rogersian sunt corecte?"
+            "Care dintre următoarele diferențe între profesorul transmițător și facilitatorul "
+            "în abordarea lui Carl Rogers sunt corecte?"
         ),
         "options": [
             "transmițătorul livrează conținut; facilitatorul organizează experiențe de învățare",
@@ -157,7 +157,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei idei sunt asociate cu contribuția lui Maslow la educație?"
+            "Care dintre următoarele idei sunt asociate cu contribuția lui Maslow la educație?"
         ),
         "options": [
             "ierarhia trebuințelor — nevoile inferioare trebuie parțial satisfăcute pentru creștere",
@@ -169,14 +169,15 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două legături între trebuințele maslowiene și climatul școlar "
+            "Care dintre următoarele legături între trebuințele din teoria lui Abraham Maslow "
+            "și climatul școlar "
             "sunt formulate corect?"
         ),
         "options": [
             "un mediu sigur și acceptat satisface trebuințe de apartenență și stimă",
             "foamea, frica sau umilirea constantă pot bloca concentrarea pe învățare",
             "trebuințele de autoactualizare pot fi ignorate până la absolvire",
-            "ierarhia maslowiană se aplică la animale, nu la relațiile din clasă",
+            "ierarhia lui Abraham Maslow se aplică la animale, nu la relațiile din clasă",
         ],
         "correct": "ab",
     },
@@ -194,7 +195,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei elemente descriu relația profesor–elev în stilul umanist?"
+            "Care dintre următoarele elemente descriu relația profesor–elev în stilul umanist?"
         ),
         "options": [
             "respect reciproc și comunicare deschisă",
@@ -206,7 +207,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două afirmații despre motivația în educația umanistă sunt corecte?"
+            "Care dintre următoarele afirmații despre motivația în educația umanistă sunt corecte?"
         ),
         "options": [
             "motivația intrinsecă — sens, curiozitate, autonomie — e preferată",
@@ -230,7 +231,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru cuvinte-cheie apar frecvent în literatura umanistă despre "
+            "Care dintre următoarele cuvinte-cheie apar frecvent în literatura umanistă despre "
             "educație?"
         ),
         "options": [
@@ -243,7 +244,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între Rogers și Maslow în educație sunt corecte?"
+            "Care dintre următoarele distincții între Rogers și Maslow în educație sunt corecte?"
         ),
         "options": [
             "Rogers: relația facilitatoare și învățarea semnificativă în clasă",
@@ -269,7 +270,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei limite ale aplicării umanismului în sisteme educaționale "
+            "Care dintre următoarele limite ale aplicării umanismului în sisteme educaționale "
             "standardizate sunt recunoscute?"
         ),
         "options": [
@@ -282,7 +283,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Un profesor rogersian ar reacționa cel mai probabil la un elev anxios "
+            "Un profesor în abordarea lui Carl Rogers ar reacționa cel mai probabil la un elev anxios "
             "înainte de prezentare astfel:"
         ),
         "options": [
@@ -310,14 +311,14 @@ UMANIST_ITEMS: List[Item] = [
             "umanismul valorizează parcursul individual; sistemele cer adesea "
             "comparabilitate și bareme comune",
             "autoactualizarea cere timp și relație; programa fixă presupune ritm uniform",
-            "standardele naționale au fost elaborate direct pe modelul facilitării rogersiene",
+            "standardele naționale au fost elaborate direct pe modelul facilitării lui Carl Rogers",
             "sistemele standardizate au fost create special pentru Rogers și Maslow",
         ],
         "correct": "a",
     },
     {
         "stem": (
-            "Care trei practici didactice sunt aliniate cu educația umanistă?"
+            "Care dintre următoarele practici didactice sunt aliniate cu educația umanistă?"
         ),
         "options": [
             "proiecte alese sau co-construite cu elevii, cu relevanță personală",
@@ -329,7 +330,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două confuzii frecvente la grilă despre Rogers trebuie evitate?"
+            "Care dintre următoarele confuzii frecvente la grilă despre Rogers trebuie evitate?"
         ),
         "options": [
             "Rogers nu înseamnă lipsă de structură — facilitatorul are obiective și cadru",
@@ -353,7 +354,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei despre autoactualizare în context școlar sunt corecte?"
+            "Care dintre următoarele idei despre autoactualizare în context școlar sunt corecte?"
         ),
         "options": [
             "nu e un lux, ci o direcție — elevul își descoperă și dezvoltă resursele",
@@ -365,7 +366,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru perechi autor–idee sunt potrivite pentru teoriile umaniste "
+            "Care dintre următoarele perechi autor–idee sunt potrivite pentru teoriile umaniste "
             "ale învățării?"
         ),
         "options": [
@@ -404,7 +405,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei întrebări reflectă spiritul umanist al planificării unei lecții?"
+            "Care dintre următoarele întrebări reflectă spiritul umanist al planificării unei lecții?"
         ),
         "options": [
             "ce înseamnă această temă pentru viața și interesele elevilor?",
@@ -430,7 +431,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două strategii pot adapta spiritul umanist într-o clasă cu programă fixă?"
+            "Care dintre următoarele strategii pot adapta spiritul umanist într-o clasă cu programă fixă?"
         ),
         "options": [
             "oferirea unor opțiuni de temă sau de prezentare în limitele obiectivelor",
@@ -456,7 +457,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două afirmații despre responsabilitate în educația umanistă sunt corecte?"
+            "Care dintre următoarele afirmații despre responsabilitate în educația umanistă sunt corecte?"
         ),
         "options": [
             "elevul își asumă progresul, nu e văzut ca recipient pasiv",
@@ -476,12 +477,12 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei capcane trebuie evitate când interpretezi educația umanistă?"
+            "Care dintre următoarele capcane trebuie evitate când interpretezi educația umanistă?"
         ),
         "options": [
             "confundarea facilitării cu permisivitatea totală fără limite",
             "credința că umanismul exclude conținutul disciplinar sau rigoarea intelectuală",
-            "atribuirea lui Maslow a conceptului de învățare semnificativă rogersiană",
+            "atribuirea lui Maslow a conceptului de învățare semnificativă în abordarea lui Carl Rogers",
             "ideea că empatia profesorului înlocuiește pregătirea la disciplină",
         ],
         "correct": "abc",

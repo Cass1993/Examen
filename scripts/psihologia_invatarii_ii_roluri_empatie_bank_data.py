@@ -30,7 +30,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două practici aparțin rolului de profesor „Socrate”?"
+            "Care dintre următoarele practici aparțin rolului de profesor „Socrate”?"
         ),
         "options": [
             "formularea de întrebări care provoacă gândirea",
@@ -54,7 +54,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două trăsături definesc rolul de organizator al minților?"
+            "Care dintre următoarele trăsături definesc rolul de organizator al minților?"
         ),
         "options": [
             "structurarea informației pentru claritate cognitivă",
@@ -66,7 +66,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei elemente definesc rolul de profesor expert?"
+            "Care dintre următoarele elemente definesc rolul de profesor expert?"
         ),
         "options": [
             "competență academică solidă în domeniu",
@@ -90,7 +90,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două componente aparțin rolului de „general”?"
+            "Care dintre următoarele componente aparțin rolului de „general”?"
         ),
         "options": [
             "stabilirea și menținerea regulilor clasei",
@@ -114,7 +114,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două trăsături definesc rolul de antrenor / coach?"
+            "Care dintre următoarele trăsături definesc rolul de antrenor / coach?"
         ),
         "options": [
             "sprijin și încurajare în procesul de învățare",
@@ -147,7 +147,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei practici aparțin rolului de „ghid de tură”?"
+            "Care dintre următoarele practici aparțin rolului de „ghid de tură”?"
         ),
         "options": [
             "propunerea de trasee sau parcursuri de explorare",
@@ -171,7 +171,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două comportamente reflectă orientarea helping autentică?"
+            "Care dintre următoarele comportamente reflectă orientarea helping autentică?"
         ),
         "options": [
             "ascultarea activă a elevului și a dificultăților sale",
@@ -183,7 +183,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru perechi rol–accent principal sunt corecte?"
+            "Care dintre următoarele perechi rol–accent principal sunt corecte?"
         ),
         "options": [
             "Socrate — dialog, întrebări, dezbatere",
@@ -241,7 +241,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     # —— 21–30: model optim, comparații ——
     {
         "stem": (
-            "Care două componente aparțin modelului optim al profesorului?"
+            "Care dintre următoarele componente aparțin modelului optim al profesorului?"
         ),
         "options": [
             "empatie și orientare helping autentică",
@@ -253,7 +253,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două diferențe între rolul „Socrate” și cel de „general” sunt "
+            "Care dintre următoarele diferențe între rolul „Socrate” și cel de „general” sunt "
             "formulate corect?"
         ),
         "options": [
@@ -266,7 +266,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei roluri profesionale și accentele lor sunt asociate corect?"
+            "Care dintre următoarele roluri profesionale și accentele lor sunt asociate corect?"
         ),
         "options": [
             "om de afaceri — eficiență, pragmatism, rezultate",
@@ -278,7 +278,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două diferențe între antrenor / coach și ghid de tură sunt corecte?"
+            "Care dintre următoarele diferențe între antrenor / coach și ghid de tură sunt corecte?"
         ),
         "options": [
             "coach: sprijin, exercițiu repetat, progres; ghid: explorare și trasee",
@@ -311,7 +311,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru trăsături definesc rolul de antrenor / coach?"
+            "Care dintre următoarele trăsături definesc rolul de antrenor / coach?"
         ),
         "options": [
             "sprijin și încurajare în învățare",
@@ -336,7 +336,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două obiective aparțin rolului de „om de afaceri”?"
+            "Care dintre următoarele obiective aparțin rolului de „om de afaceri”?"
         ),
         "options": [
             "eficiență și pragmatism în organizarea lecției",
@@ -348,7 +348,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei comportamente reflectă empatia și orientarea helping bune?"
+            "Care dintre următoarele comportamente reflectă empatia și orientarea helping bune?"
         ),
         "options": [
             "înțelegerea situației și a nevoilor elevului",
@@ -373,7 +373,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două practici aparțin explorării perspectivei în rolul „Socrate”?"
+            "Care dintre următoarele practici aparțin explorării perspectivei în rolul „Socrate”?"
         ),
         "options": [
             "dezbaterea în care se compară argumente diferite",
@@ -398,7 +398,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei componente definesc modelul optim al profesorului din curs?"
+            "Care dintre următoarele componente definesc modelul optim al profesorului din curs?"
         ),
         "options": [
             "empatie și orientare helping",
@@ -423,7 +423,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru trăsături definesc rolul de „om de afaceri” și al celui de "
+            "Care dintre următoarele trăsături definesc rolul de „om de afaceri” și al celui de "
             "„expert”, în sinteza pentru grilă?"
         ),
         "options": [
@@ -436,7 +436,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei diferențe între organizator al minților, expert și general sunt "
+            "Care dintre următoarele diferențe între organizator al minților, expert și general sunt "
             "corecte?"
         ),
         "options": [
@@ -461,7 +461,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două consecințe pot apărea când lipsește una dintre componentele "
+            "Care dintre următoarele consecințe pot apărea când lipsește una dintre componentele "
             "modelului optim?"
         ),
         "options": [

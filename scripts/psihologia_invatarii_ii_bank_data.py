@@ -41,13 +41,13 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
             "stimul neutru + stimul necondiționat → răspuns necondiționat",
             "stimul condiționat → răspuns condiționat, fără etapă necondiționată",
             "doar răspuns operant urmat de întărire, fără asociere de stimuli",
-            "reorganizare piagetiană a schemei cognitive ca mecanism principal",
+            "reorganizare a schemei în teoria lui Piaget ca mecanism principal",
         ],
         "correct": "a",
     },
     {
         "stem": (
-            "Care două procese descriu corect dinamica condiționării clasice pavloviene?"
+            "Care dintre următoarele procese descriu corect dinamica condiționării clasice a lui Pavlov?"
         ),
         "options": [
             "achiziția — formarea asocierii între SC și RC",
@@ -59,7 +59,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei perechi stimul–răspuns apar în condiționarea clasică după "
+            "Care dintre următoarele perechi stimul–răspuns apar în condiționarea clasică după "
             "formarea asocierii?"
         ),
         "options": [
@@ -92,7 +92,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei sunt asociate cu behaviorismul lui John B. Watson?"
+            "Care dintre următoarele idei sunt asociate cu behaviorismul lui John B. Watson?"
         ),
         "options": [
             "comportamentul poate fi modelat prin condiționare și mediu",
@@ -109,16 +109,16 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
             "Aceasta aparține:"
         ),
         "options": [
-            "conexionismului thorndikian și învățării prin încercare și eroare",
+            "conexionismului lui Thorndike și învățării prin încercare și eroare",
             "condiționării clasice pure fără consecințe ale răspunsului",
             "teoriei hărților cognitive tolmaniene",
-            "stadiilor operațiilor formale piagetiene",
+            "stadiilor operațiilor formale descrise de Piaget",
         ],
         "correct": "a",
     },
     {
         "stem": (
-            "Care trei elemente descriu învățarea thorndikiană?"
+            "Care dintre următoarele elemente descriu învățarea descrisă de Thorndike?"
         ),
         "options": [
             "încercare și eroare în situații problemă",
@@ -152,7 +152,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două concepte sunt centrale în teoria reducției impulsului (Hull)?"
+            "Care dintre următoarele concepte sunt centrale în teoria reducției impulsului (Hull)?"
         ),
         "options": [
             "drive/impuls — tensiune care motivează acțiunea",
@@ -178,25 +178,25 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
             "cresc probabilitatea ca un comportament operant să fie repetat",
             "adaugă mereu un stimul plăcut, indiferent de tip",
             "elimină complet nevoia de repetare a răspunsului",
-            "funcționează doar la condiționarea clasică pavloviană",
+            "funcționează doar la condiționarea clasică a lui Pavlov",
         ],
         "correct": "a",
     },
     {
         "stem": (
-            "Care trei consecințe pot modela un comportament operant skinnerian?"
+            "Care dintre următoarele consecințe pot modela un comportament operant în paradigma lui B. F. Skinner?"
         ),
         "options": [
             "întărire pozitivă — adăugarea unui stimul plăcut după răspuns",
             "întărire negativă — eliminarea unui stimul neplăcut după răspuns",
             "pedeapsa — consecință care scade probabilitatea răspunsului",
-            "asimilarea piagetiană ca singur mecanism de schimbare",
+            "asimilarea în teoria lui Piaget ca singur mecanism de schimbare",
         ],
         "correct": "abc",
     },
     {
         "stem": (
-            "Care două distincții între condiționarea clasică și cea operantă sunt corecte?"
+            "Care dintre următoarele distincții între condiționarea clasică și cea operantă sunt corecte?"
         ),
         "options": [
             "clasică: asociere stimul–stimul/răspuns reflex; operantă: consecințe ale răspunsului",
@@ -215,13 +215,13 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
             "modul în care consecințele modifică frecvența comportamentului",
             "doar salivarea la sunetul unui clopoțel fără hrană",
             "formarea atașamentului ca nevoie biologică bowlbyană",
-            "stadiul senzorio-motor piagetian ca explicație a întăririi",
+            "stadiul senzorio-motor din teoria lui Piaget ca explicație a întăririi",
         ],
         "correct": "a",
     },
     {
         "stem": (
-            "Care patru tipuri de consecințe operante sunt recunoscute în literatura "
+            "Care dintre următoarele tipuri de consecințe operante sunt recunoscute în literatura "
             "behavioristă (recompensă, omisiune, pedeapsă, evitare)?"
         ),
         "options": [
@@ -234,7 +234,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două afirmații despre întărirea continuă versus parțială sunt corecte?"
+            "Care dintre următoarele afirmații despre întărirea continuă versus parțială sunt corecte?"
         ),
         "options": [
             "întărirea continuă facilitează achiziția inițială a unui comportament nou",
@@ -252,7 +252,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
         "options": [
             "adevărat — recompensele imprevizibile mențin răspunsul mai persistent",
             "fals — întărirea continuă produce mereu cel mai rezistent comportament",
-            "adevărat — fenomenul apare la clasică pavloviană, nu la operantă",
+            "adevărat — fenomenul apare la condiționarea clasică a lui Pavlov, nu la operantă",
             "fals — programele variabile nu au legătură cu jocurile de noroc",
         ],
         "correct": "a",
@@ -273,7 +273,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei idei aparțin comportamentalismului intențional tolmanian?"
+            "Care dintre următoarele idei aparțin comportamentalismului intențional al lui Tolman?"
         ),
         "options": [
             "organismul acționează orientat spre scopuri, nu doar reactiv",
@@ -285,7 +285,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două contraste între Tolman și behaviorismul strict skinnerian sunt corecte?"
+            "Care dintre următoarele contraste între Tolman și behaviorismul strict al lui B. F. Skinner sunt corecte?"
         ),
         "options": [
             "Tolman: reprezentări și scopuri; Skinner strict: accent pe consecințe observabile",
@@ -311,7 +311,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între extincția clasică și cea operantă sunt corecte?"
+            "Care dintre următoarele distincții între extincția clasică și cea operantă sunt corecte?"
         ),
         "options": [
             "clasică: RC dispare când SC nu mai e urmat de SI",
@@ -323,7 +323,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între generalizare și discriminare în condiționarea "
+            "Care dintre următoarele distincții între generalizare și discriminare în condiționarea "
             "clasică sunt corecte?"
         ),
         "options": [
@@ -349,7 +349,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei programe de întărire parțială sunt descrise corect?"
+            "Care dintre următoarele programe de întărire parțială sunt descrise corect?"
         ),
         "options": [
             "raport fix — recompensă după un număr constant de răspunsuri",
@@ -361,7 +361,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două exemple ilustrează întărirea pe raport variabil?"
+            "Care dintre următoarele exemple ilustrează întărirea pe raport variabil?"
         ),
         "options": [
             "jocuri de noroc — câștig imprevizibil după un număr variabil de încercări",
@@ -373,7 +373,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru perechi autor–contribuție sunt potrivite pentru teoriile "
+            "Care dintre următoarele perechi autor–contribuție sunt potrivite pentru teoriile "
             "asociaționiste/behavioriste?"
         ),
         "options": [
@@ -400,7 +400,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei critici frecvente la adresa explicației behavioriste stricte "
+            "Care dintre următoarele critici frecvente la adresa explicației behavioriste stricte "
             "sunt formulate corect?"
         ),
         "options": [
@@ -413,7 +413,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două afirmații despre ce explică bine behaviorismul sunt corecte?"
+            "Care dintre următoarele afirmații despre ce explică bine behaviorismul sunt corecte?"
         ),
         "options": [
             "modificarea frecvenței comportamentelor prin consecințe",
@@ -425,7 +425,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei distincții între Hull și Skinner sunt formulate corect?"
+            "Care dintre următoarele distincții între Hull și Skinner sunt formulate corect?"
         ),
         "options": [
             "Hull: drive și reducerea impulsului biologic",
@@ -441,7 +441,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
             "arată condiționare operantă”. Corecția corectă este:"
         ),
         "options": [
-            "salivarea la clopoțel este exemplu clasic pavlovian (S–R reflex), nu operantă",
+            "salivarea la clopoțel este exemplu clasic din experimentele lui Pavlov (S–R reflex), nu operantă",
             "Pavlov a inventat programele de întărire pe raport variabil",
             "Skinner a descris condiționarea emoțională a lui Albert",
             "Thorndike a formulat legea efectului prin experimentul cu câinele lui Pavlov",
@@ -450,19 +450,19 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între Thorndike și Hull sunt formulate corect?"
+            "Care dintre următoarele distincții între Thorndike și Hull sunt formulate corect?"
         ),
         "options": [
             "Thorndike: legea efectului, încercare și eroare; Hull: drive și habit",
             "Hull: reducerea impulsului biologic; Thorndike: consecințe satisfăcătoare",
-            "Thorndike: învățare latentă în labirint; Hull: behaviorism watsonian strict",
+            "Thorndike: învățare latentă în labirint; Hull: behaviorism strict al lui Watson",
             "ambii resping ideea că întărirea influențează comportamentul",
         ],
         "correct": "ab",
     },
     {
         "stem": (
-            "Care trei mecanisme diferă clar între condiționarea clasică și cea operantă?"
+            "Care dintre următoarele mecanisme diferă clar între condiționarea clasică și cea operantă?"
         ),
         "options": [
             "clasică: reflex biologic legat de stimuli; operantă: probabilitatea răspunsului",
@@ -488,7 +488,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru procese apar în condiționarea clasică pavloviană?"
+            "Care dintre următoarele procese apar în condiționarea clasică a lui Pavlov?"
         ),
         "options": [
             "achiziția asocierii SC–RC",
@@ -506,7 +506,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
         "options": [
             "organismul acționează orientat spre scopuri, nu doar reactiv la stimuli",
             "învățarea latentă arată că performanța poate apărea fără recompensă la fiecare pas",
-            "toate comportamentele se reduc la reflexe salivare pavloviene",
+            "toate comportamentele se reduc la reflexe salivare în experimentele lui Pavlov",
             "Skinner a formulat conceptul de hartă cognitivă în labirint",
         ],
         "correct": "a",
@@ -514,7 +514,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     # —— 41–50: aplicații, sinteză finală ——
     {
         "stem": (
-            "Care două situații ilustrează legea efectului lui Thorndike?"
+            "Care dintre următoarele situații ilustrează legea efectului lui Thorndike?"
         ),
         "options": [
             "copilul repetă o strategie care a dus la reușită la teme",
@@ -538,7 +538,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei elemente din experimentul Little Albert sunt esențiale de reținut?"
+            "Care dintre următoarele elemente din experimentul Little Albert sunt esențiale de reținut?"
         ),
         "options": [
             "asocierea unui stimul neutru (ex. animal) cu un stimul care produce frică",
@@ -550,20 +550,20 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două afirmații despre omisiune și evitare în condiționarea operantă "
+            "Care dintre următoarele afirmații despre omisiune și evitare în condiționarea operantă "
             "sunt corecte?"
         ),
         "options": [
             "omisiunea: retragerea unei recompense după comportament nedorit",
             "evitarea: comportament care previne apariția unui stimul aversiv",
             "omisiunea: adăugarea unei pedepse corporale obligatorii",
-            "evitarea: identică cu extincția clasică pavloviană",
+            "evitarea: identică cu extincția în paradigma clasică a lui Pavlov",
         ],
         "correct": "ab",
     },
     {
         "stem": (
-            "Care patru autori sunt corect legați de ideea din dreapta?"
+            "Care dintre următoarele perechi autor–contribuție sunt corecte?"
         ),
         "options": [
             "Edward L. Thorndike — legea efectului, conexionism",
@@ -575,7 +575,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru limite ale explicației behavioriste stricte sunt recunoscute "
+            "Care dintre următoarele limite ale explicației behavioriste stricte sunt recunoscute "
             "în psihologia învățării?"
         ),
         "options": [
@@ -601,7 +601,7 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei rezumă contribuția lui Skinner la psihologia învățării?"
+            "Care dintre următoarele idei rezumă contribuția lui Skinner la psihologia învățării?"
         ),
         "options": [
             "comportamentul operant este controlat de consecințele care îl urmează",
@@ -613,13 +613,13 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei distincții ajută la grilă între Pavlov, Watson și Skinner?"
+            "Care dintre următoarele distincții ajută la grilă între Pavlov, Watson și Skinner?"
         ),
         "options": [
             "Pavlov — condiționare clasică, reflexe fiziologice",
             "Watson — behaviorism, mediu, condiționare emoțională (Albert)",
             "Skinner — operantă, întărire, programe de recompensă",
-            "toți trei — hărți cognitive și învățare latentă tolmaniană",
+            "toți trei — hărți cognitive și învățare latentă descrise de Tolman",
         ],
         "correct": "abc",
     },

@@ -32,7 +32,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două elemente aparțin predării directe?"
+            "Care dintre următoarele elemente aparțin predării directe?"
         ),
         "options": [
             "explicații clare și structurate ale conținutului",
@@ -44,7 +44,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei componente definesc predarea indirectă?"
+            "Care dintre următoarele componente definesc predarea indirectă?"
         ),
         "options": [
             "crearea de contexte de descoperire și explorare",
@@ -68,7 +68,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru afirmații despre stilurile de predare sunt corecte?"
+            "Care dintre următoarele afirmații despre stilurile de predare sunt corecte?"
         ),
         "options": [
             "predarea directă presupune structurarea explicită a sarcinii",
@@ -92,7 +92,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două trăsături descriu profesorul cu nivel conceptual mediu?"
+            "Care dintre următoarele trăsături descriu profesorul cu nivel conceptual mediu?"
         ),
         "options": [
             "percepe rolul ca interactiv — nu doar transmițător",
@@ -112,7 +112,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei trăsături definesc nivelul conceptual înalt al profesorului?"
+            "Care dintre următoarele trăsături definesc nivelul conceptual înalt al profesorului?"
         ),
         "options": [
             "metode adaptate nevoilor și nivelului copilului",
@@ -125,7 +125,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     # —— 11–20: aplicare, studii, nivele ——
     {
         "stem": (
-            "Care două practici aparțin predării directe eficiente?"
+            "Care dintre următoarele practici aparțin predării directe eficiente?"
         ),
         "options": [
             "structurarea clară a sarcinii și a pașilor de lucru",
@@ -149,7 +149,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei activități reflectă predarea indirectă?"
+            "Care dintre următoarele activități reflectă predarea indirectă?"
         ),
         "options": [
             "investigare ghidată sau rezolvare de probleme deschise",
@@ -173,7 +173,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două diferențe între nivel conceptual mediu și cel scăzut sunt "
+            "Care dintre următoarele diferențe între nivel conceptual mediu și cel scăzut sunt "
             "formulate corect?"
         ),
         "options": [
@@ -186,7 +186,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru caracteristici aparțin predării directe?"
+            "Care dintre următoarele caracteristici aparțin predării directe?"
         ),
         "options": [
             "control mai mare al procesului de către profesor",
@@ -233,7 +233,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru elemente definesc predarea indirectă în sinteza cursului?"
+            "Care dintre următoarele elemente definesc predarea indirectă în sinteza cursului?"
         ),
         "options": [
             "contexte de descoperire",
@@ -258,7 +258,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două avantaje potențiale ale predării indirecte sunt susținute de "
+            "Care dintre următoarele avantaje potențiale ale predării indirecte sunt susținute de "
             "cercetări, când elevii participă activ?"
         ),
         "options": [
@@ -284,7 +284,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei descriu trecerea de la nivel conceptual scăzut la mediu?"
+            "Care dintre următoarele idei descriu trecerea de la nivel conceptual scăzut la mediu?"
         ),
         "options": [
             "de la transmitere pasivă la rol interactiv al profesorului",
@@ -309,7 +309,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei niveluri ale conceptualizării profesorului sunt distinse în curs?"
+            "Care dintre următoarele niveluri ale conceptualizării profesorului sunt distinse în curs?"
         ),
         "options": [
             "scăzut — transmitere, memorare pasivă",
@@ -321,7 +321,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două situații favorizează folosirea predării indirecte?"
+            "Care dintre următoarele situații favorizează folosirea predării indirecte?"
         ),
         "options": [
             "conținut care poate fi descoperit prin investigare sau problemă",
@@ -345,7 +345,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două condiții sporesc eficiența predării indirecte, conform sintezei "
+            "Care dintre următoarele condiții sporesc eficiența predării indirecte, conform sintezei "
             "cursului?"
         ),
         "options": [

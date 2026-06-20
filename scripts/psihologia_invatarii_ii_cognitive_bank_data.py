@@ -32,7 +32,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei despre învățare sunt centrale în abordarea cognitivă?"
+            "Care dintre următoarele idei despre învățare sunt centrale în abordarea cognitivă?"
         ),
         "options": [
             "procese mentale interne: atenție, codificare, organizare, recuperare",
@@ -56,7 +56,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei caracteristici descriu învățarea din perspectiva cognitivă?"
+            "Care dintre următoarele caracteristici descriu învățarea din perspectiva cognitivă?"
         ),
         "options": [
             "prelucrare activă a informației, nu doar primire pasivă",
@@ -94,7 +94,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei idei aparțin perspectivei gestaltiste asupra percepției "
+            "Care dintre următoarele idei aparțin perspectivei gestaltiste asupra percepției "
             "și învățării?"
         ),
         "options": [
@@ -113,14 +113,14 @@ COGNITIVE_ITEMS: List[Item] = [
         "options": [
             "adevărat — învățarea este un proces mental activ",
             "fals — doar consecințele externe contează, ca la Skinner",
-            "adevărat — procesele interne apar la clasică pavloviană, nu la cognitivism",
+            "adevărat — procesele interne apar la condiționarea clasică a lui Pavlov, nu la cognitivism",
             "fals — Bruner respinge orice rol al reprezentărilor mentale",
         ],
         "correct": "a",
     },
     {
         "stem": (
-            "Care două idei sunt asociate cu teoria cognitivă tradițională?"
+            "Care dintre următoarele idei sunt asociate cu teoria cognitivă tradițională?"
         ),
         "options": [
             "cursantul este agent activ al propriei învățări, nu doar receptor pasiv",
@@ -153,20 +153,20 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei tipuri de memorie sunt distinse în modelul procesării "
+            "Care dintre următoarele tipuri de memorie sunt distinse în modelul procesării "
             "informației?"
         ),
         "options": [
             "memoria senzorială — reținere foarte scurtă pentru procesare inițială",
             "memoria de scurtă durată / de lucru — capacitate limitată, manipulare activă",
             "memoria de lungă durată — stocare relativ durabilă, organizată",
-            "memoria reflexă pavloviană — singurul tip relevant la oameni",
+            "memoria reflexă din paradigma clasică — singurul tip relevant la oameni",
         ],
         "correct": "abc",
     },
     {
         "stem": (
-            "Care două afirmații despre memoria senzorială sunt corecte?"
+            "Care dintre următoarele afirmații despre memoria senzorială sunt corecte?"
         ),
         "options": [
             "reține informația foarte scurt, suficient pentru procesarea inițială",
@@ -190,7 +190,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei funcții ale memoriei de lucru sunt esențiale în învățare?"
+            "Care dintre următoarele funcții ale memoriei de lucru sunt esențiale în învățare?"
         ),
         "options": [
             "menținerea temporară a informației active în conștient",
@@ -202,7 +202,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două afirmații despre memoria de lungă durată sunt corecte?"
+            "Care dintre următoarele afirmații despre memoria de lungă durată sunt corecte?"
         ),
         "options": [
             "recuperarea depinde de calitatea codificării și organizării informației",
@@ -227,7 +227,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru etape descriu modelul clasic al procesării informației "
+            "Care dintre următoarele etape descriu modelul clasic al procesării informației "
             "aplicat învățării?"
         ),
         "options": [
@@ -240,7 +240,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între procesarea informației și behaviorismul "
+            "Care dintre următoarele distincții între procesarea informației și behaviorismul "
             "strict sunt corecte?"
         ),
         "options": [
@@ -267,7 +267,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei componente sunt recunoscute în abordarea cognitiv-socială "
+            "Care dintre următoarele componente sunt recunoscute în abordarea cognitiv-socială "
             "a învățării?"
         ),
         "options": [
@@ -288,7 +288,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două consecințe ale evaluării cognitive asupra învățării sunt "
+            "Care dintre următoarele consecințe ale evaluării cognitive asupra învățării sunt "
             "formulate corect?"
         ),
         "options": [
@@ -313,7 +313,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei legături între emoție și învățare sunt centrale în teoria "
+            "Care dintre următoarele legături între emoție și învățare sunt centrale în teoria "
             "evaluării cognitive?"
         ),
         "options": [
@@ -352,7 +352,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei tipuri de prelucrare descriu modelul triarhic al învățării "
+            "Care dintre următoarele tipuri de prelucrare descriu modelul triarhic al învățării "
             "multimedia (Mayer)?"
         ),
         "options": [
@@ -365,7 +365,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între prelucrarea extrinsecă și cea generativă "
+            "Care dintre următoarele distincții între prelucrarea extrinsecă și cea generativă "
             "sunt corecte?"
         ),
         "options": [
@@ -393,7 +393,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru recomandări pentru profesor derivă din perspectiva cognitivă "
+            "Care dintre următoarele recomandări pentru profesor derivă din perspectiva cognitivă "
             "a învățării (procesare + multimedia)?"
         ),
         "options": [
@@ -420,7 +420,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei roluri ale profesorului sunt susținute de teoriile cognitive "
+            "Care dintre următoarele roluri ale profesorului sunt susținute de teoriile cognitive "
             "ale învățării?"
         ),
         "options": [
@@ -446,7 +446,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între memoria de lucru și memoria de lungă durată "
+            "Care dintre următoarele distincții între memoria de lucru și memoria de lungă durată "
             "sunt corecte?"
         ),
         "options": [
@@ -472,7 +472,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei explică de ce schemele și cunoștințele anterioare "
+            "Care dintre următoarele idei explică de ce schemele și cunoștințele anterioare "
             "facilitează învățarea?"
         ),
         "options": [
@@ -485,7 +485,7 @@ COGNITIVE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei despre legătura dintre cunoștințe anterioare și "
+            "Care dintre următoarele idei despre legătura dintre cunoștințe anterioare și "
             "codificare sunt corecte?"
         ),
         "options": [

@@ -85,7 +85,7 @@ DIFERENTE_GRILA_EXPLANATIONS: List[str] = [
     # 10763
     (
         "Behaviorism strict: măsurabil, observabil, mediu, consecințe. Nu prioritizează "
-        "scheme cognitive sau empatia rogersiană — acestea sunt alte orientări."
+        "scheme cognitive sau empatia în abordarea lui Carl Rogers — acestea sunt alte orientări."
     ),
     # 10764
     (
@@ -115,7 +115,7 @@ DIFERENTE_GRILA_EXPLANATIONS: List[str] = [
     # 10768
     (
         "Pavlov: SN→RN natural; după antrenare SN devine SC→RC. Stimulul discriminativ "
-        "e concept skinnerian (semnal că întărirea e posibilă). Labirintul e Tolman."
+        "e concept al lui B. F. Skinner (semnal că întărirea e posibilă). Labirintul e Tolman."
     ),
     # 10769
     (
@@ -144,7 +144,7 @@ DIFERENTE_GRILA_EXPLANATIONS: List[str] = [
     # 10773
     (
         "Programe Skinner: continuă (fiecare răspuns), raport fix/variabil, interval "
-        "fix/variabil. Întărirea vicariantă e banduriană (vezi ce primește modelul). "
+        "fix/variabil. Întărirea vicariantă apare în teoria lui Albert Bandura (vezi ce primește modelul). "
         "Raport variabil menține comportamentul rezistent la extincție."
     ),
     # 10774
@@ -163,7 +163,7 @@ DIFERENTE_GRILA_EXPLANATIONS: List[str] = [
     (
         "Bandura: modelare, observare, determinism reciproc (persoană↔mediu↔"
         "comportament), autoeficacitate. SN/SC sunt Pavlov. Blended e formă modernă "
-        "de organizare, nu autor bandurian."
+        "de organizare, nu Albert Bandura."
     ),
     # 10777
     (
@@ -203,7 +203,7 @@ DIFERENTE_GRILA_EXPLANATIONS: List[str] = [
     # 10783
     (
         "Forme moderne: activă (participare), experiențială (Kolb), socială (norme "
-        "în grup). Reflexul pavlovian e mecanism, nu „formă” de organizare a "
+        "în grup). Reflexul condiționat clasic e mecanism, nu „formă” de organizare a "
         "învățării școlare."
     ),
     # 10784

@@ -32,7 +32,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între Bandura și behaviorismul strict skinnerian "
+            "Care dintre următoarele distincții între Bandura și behaviorismul strict al lui B. F. Skinner "
             "sunt corecte?"
         ),
         "options": [
@@ -58,19 +58,19 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei componente intră în determinismul reciproc bandurian?"
+            "Care dintre următoarele componente intră în determinismul reciproc al lui Albert Bandura?"
         ),
         "options": [
             "comportamentul (acțiunile observabile ale persoanei)",
             "mediul (contextul social și fizic, inclusiv reacțiile altora)",
             "factorii personali (cogniții, așteptări, autoeficacitate, emoții)",
-            "doar impulsurile biologice și reflexele necondiționate pavloviene",
+            "doar impulsurile biologice și reflexele necondiționate studiate de Pavlov",
         ],
         "correct": "abc",
     },
     {
         "stem": (
-            "Care trei exemple ilustrează cum comportamentul influențează mediul "
+            "Care dintre următoarele exemple ilustrează cum comportamentul influențează mediul "
             "în cadrul determinismului reciproc?"
         ),
         "options": [
@@ -129,7 +129,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei tipuri de model pot produce învățare observațională, "
+            "Care dintre următoarele tipuri de model pot produce învățare observațională, "
             "conform cercetărilor lui Bandura?"
         ),
         "options": [
@@ -142,7 +142,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei despre modelarea prin media (film, înregistrare) sunt "
+            "Care dintre următoarele idei despre modelarea prin media (film, înregistrare) sunt "
             "susținute de teoria social-cognitivă?"
         ),
         "options": [
@@ -197,7 +197,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două factori influențează dacă modelul captează atenția observatorului?"
+            "Care dintre următoarele factori influențează dacă modelul captează atenția observatorului?"
         ),
         "options": [
             "caracteristicile modelului (status, similaritate, atractivitate)",
@@ -222,7 +222,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei modalități de reținere a comportamentului modelului sunt "
+            "Care dintre următoarele modalități de reținere a comportamentului modelului sunt "
             "menționate în teoria social-cognitivă?"
         ),
         "options": [
@@ -235,7 +235,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două condiții sunt necesare pentru procesul de reproducere "
+            "Care dintre următoarele condiții sunt necesare pentru procesul de reproducere "
             "(imitare) a comportamentului observat?"
         ),
         "options": [
@@ -261,8 +261,9 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru procese trebuie să aibă loc, în ordinea logică a modelării "
-            "banduriene, pentru ca învățarea observațională să se traducă în comportament?"
+            "Ce procese trebuie să aibă loc, în ordinea logică a modelării sociale "
+            "a lui Albert Bandura, pentru ca învățarea observațională să se traducă "
+            "în comportament?"
         ),
         "options": [
             "atenție — observarea caracteristicilor relevante ale modelului",
@@ -302,7 +303,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei consecințe pot apărea din expunerea la un model pedepsit pentru "
+            "Care dintre următoarele consecințe pot apărea din expunerea la un model pedepsit pentru "
             "un comportament?"
         ),
         "options": [
@@ -315,7 +316,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru efecte sau procese sunt centrale în teoria social-cognitivă "
+            "Care dintre următoarele efecte sau procese sunt centrale în teoria social-cognitivă "
             "a expunerii la model?"
         ),
         "options": [
@@ -402,7 +403,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între autoeficacitate și alte construcții sunt corecte?"
+            "Care dintre următoarele distincții între autoeficacitate și alte construcții sunt corecte?"
         ),
         "options": [
             "autoeficacitate = credință despre capacitatea de acțiune; stima de sine = "
@@ -415,7 +416,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei surse ale autoeficacității sunt formulate de Bandura?"
+            "Care dintre următoarele surse ale autoeficacității sunt formulate de Bandura?"
         ),
         "options": [
             "experiențe de performanță anterioară (mastery) — reușite directe",
@@ -427,7 +428,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două afirmații despre experiențele de performanță (mastery) ca sursă "
+            "Care dintre următoarele afirmații despre experiențele de performanță (mastery) ca sursă "
             "a autoeficacității sunt corecte?"
         ),
         "options": [
@@ -446,14 +447,14 @@ BANDURA_ITEMS: List[Item] = [
         "options": [
             "stări fiziologice și emoționale interpretate ca semnale despre capacitate",
             "analiza viselor și a refulării inconștiente",
-            "reflexele necondiționate pavloviene",
+            "reflexele necondiționate studiate de Pavlov",
             "moștenirea genetică ca singur factor determinant",
         ],
         "correct": "a",
     },
     {
         "stem": (
-            "Care două consecințe sunt asociate cu autoeficacitate ridicată?"
+            "Care dintre următoarele consecințe sunt asociate cu autoeficacitate ridicată?"
         ),
         "options": [
             "motivație mai mare și perseverență în fața dificultăților",
@@ -465,7 +466,7 @@ BANDURA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei consecințe sunt tipice pentru autoeficacitate scăzută?"
+            "Care dintre următoarele consecințe sunt tipice pentru autoeficacitate scăzută?"
         ),
         "options": [
             "evitarea sarcinilor și renunțare prematură",

@@ -55,7 +55,7 @@ BANDURA_EXPLANATIONS: List[str] = [
     ),
     # 10558
     (
-        "Spre deosebire de determinismul liniar (mediu → comportament), modelul bandurian "
+        "Spre deosebire de determinismul liniar (mediu → comportament), modelul lui Albert Bandura "
         "e bidirecțional: persoana și își modelează mediul, iar cogniția mediază legătura "
         "dintre cele două. Nu e libertate absolută, dar nici pasivitate totală."
     ),

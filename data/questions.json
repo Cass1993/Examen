@@ -46949,7 +46949,7 @@
           "id": 10502,
           "text": "La Pavlov, asocierea repetată a unui stimul neutru cu un stimul necondiționat duce în cele din urmă la un răspuns condiționat la stimulul neutru. Secvența inițială este:",
           "options": {
-            "a": "reorganizare piagetiană a schemei cognitive ca mecanism principal",
+            "a": "reorganizare a schemei în teoria lui Piaget ca mecanism principal",
             "b": "stimul neutru + stimul necondiționat → răspuns necondiționat",
             "c": "doar răspuns operant urmat de întărire, fără asociere de stimuli",
             "d": "stimul condiționat → răspuns condiționat, fără etapă necondiționată"
@@ -46958,14 +46958,14 @@
           "correct": [
             "b"
           ],
-          "explanation": "În condiționarea clasică pavloviană, la început stimulul neutru (ex. clopoțelul) nu produce salivare. Stimulul necondiționat (mâncarea) produce răspunsul necondiționat (salivarea). După asocieri repetate SN+SI, stimulul devine condiționat și produce singur răspunsul condiționat.",
+          "explanation": "În condiționarea clasică a lui Pavlov, la început stimulul neutru (ex. clopoțelul) nu produce salivare. Stimulul necondiționat (mâncarea) produce răspunsul necondiționat (salivarea). După asocieri repetate SN+SI, stimulul devine condiționat și produce singur răspunsul condiționat.",
           "domeniu": "Psihologia învățării II",
           "tip": "unic",
           "exam_item": true
         },
         {
           "id": 10503,
-          "text": "Care două procese descriu corect dinamica condiționării clasice pavloviene?",
+          "text": "Care dintre următoarele procese descriu corect dinamica condiționării clasice a lui Pavlov?",
           "options": {
             "a": "achiziția — formarea asocierii între SC și RC",
             "b": "generalizarea — reacție similară la stimuli asemănători cu SC",
@@ -46984,7 +46984,7 @@
         },
         {
           "id": 10504,
-          "text": "Care trei perechi stimul–răspuns apar în condiționarea clasică după formarea asocierii?",
+          "text": "Care dintre următoarele perechi stimul–răspuns apar în condiționarea clasică după formarea asocierii?",
           "options": {
             "a": "răspunsul operant modelează singur toate fazele fără stimuli",
             "b": "stimul condiționat (SC) → răspuns condiționat (RC)",
@@ -47038,7 +47038,7 @@
         },
         {
           "id": 10507,
-          "text": "Care două idei sunt asociate cu behaviorismul lui John B. Watson?",
+          "text": "Care dintre următoarele idei sunt asociate cu behaviorismul lui John B. Watson?",
           "options": {
             "a": "învățarea latentă și hărțile cognitive sunt concepte centrale",
             "b": "reducerea impulsului biologic explică toate comportamentele umane",
@@ -47061,8 +47061,8 @@
           "options": {
             "a": "condiționării clasice pure fără consecințe ale răspunsului",
             "b": "teoriei hărților cognitive tolmaniene",
-            "c": "conexionismului thorndikian și învățării prin încercare și eroare",
-            "d": "stadiilor operațiilor formale piagetiene"
+            "c": "conexionismului lui Thorndike și învățării prin încercare și eroare",
+            "d": "stadiilor operațiilor formale descrise de Piaget"
           },
           "kind": "single",
           "correct": [
@@ -47075,7 +47075,7 @@
         },
         {
           "id": 10509,
-          "text": "Care trei elemente descriu învățarea thorndikiană?",
+          "text": "Care dintre următoarele elemente descriu învățarea descrisă de Thorndike?",
           "options": {
             "a": "încercare și eroare în situații problemă",
             "b": "slăbirea conexiunilor urmate de disconfort sau eșec",
@@ -47088,7 +47088,7 @@
             "b",
             "d"
           ],
-          "explanation": "Thorndike: încercare și eroare, întărirea conexiunilor utile, slăbirea celor inutile. Nu e vorba de gramatică innată (Chomsky) sau de stadii piagetiene — e învățare asociativă prin consecințe ale răspunsului.",
+          "explanation": "Thorndike: încercare și eroare, întărirea conexiunilor utile, slăbirea celor inutile. Nu e vorba de gramatică innată (Chomsky) sau de stadii descrise de Piaget — e învățare asociativă prin consecințe ale răspunsului.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -47129,7 +47129,7 @@
         },
         {
           "id": 10512,
-          "text": "Care două concepte sunt centrale în teoria reducției impulsului (Hull)?",
+          "text": "Care dintre următoarele concepte sunt centrale în teoria reducției impulsului (Hull)?",
           "options": {
             "a": "latent learning fără întărire vizibilă",
             "b": "condiționare clasică a salivării la clopoțel",
@@ -47166,7 +47166,7 @@
           "id": 10514,
           "text": "La Skinner, întărirea pozitivă și cea negativă au în comun faptul că:",
           "options": {
-            "a": "funcționează doar la condiționarea clasică pavloviană",
+            "a": "funcționează doar la condiționarea clasică a lui Pavlov",
             "b": "cresc probabilitatea ca un comportament operant să fie repetat",
             "c": "adaugă mereu un stimul plăcut, indiferent de tip",
             "d": "elimină complet nevoia de repetare a răspunsului"
@@ -47182,12 +47182,12 @@
         },
         {
           "id": 10515,
-          "text": "Care trei consecințe pot modela un comportament operant skinnerian?",
+          "text": "Care dintre următoarele consecințe pot modela un comportament operant în paradigma lui B. F. Skinner?",
           "options": {
             "a": "pedeapsa — consecință care scade probabilitatea răspunsului",
             "b": "întărire negativă — eliminarea unui stimul neplăcut după răspuns",
             "c": "întărire pozitivă — adăugarea unui stimul plăcut după răspuns",
-            "d": "asimilarea piagetiană ca singur mecanism de schimbare"
+            "d": "asimilarea în teoria lui Piaget ca singur mecanism de schimbare"
           },
           "kind": "multi",
           "correct": [
@@ -47195,14 +47195,14 @@
             "b",
             "c"
           ],
-          "explanation": "Operant: întărire pozitivă (adaugare stimul plăcut), negativă (eliminare aversiv), pedeapsă (scădere frecvență). Asimilarea piagetiană descrie integrarea informației în scheme — alt cadru teoretic.",
+          "explanation": "Operant: întărire pozitivă (adaugare stimul plăcut), negativă (eliminare aversiv), pedeapsă (scădere frecvență). Asimilarea în teoria lui Piaget descrie integrarea informației în scheme — alt cadru teoretic.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
         },
         {
           "id": 10516,
-          "text": "Care două distincții între condiționarea clasică și cea operantă sunt corecte?",
+          "text": "Care dintre următoarele distincții între condiționarea clasică și cea operantă sunt corecte?",
           "options": {
             "a": "clasică: Pavlov; operantă: Skinner",
             "b": "operanta se aplică la animale de laborator, nu la comportamentul uman",
@@ -47225,21 +47225,21 @@
           "options": {
             "a": "formarea atașamentului ca nevoie biologică bowlbyană",
             "b": "doar salivarea la sunetul unui clopoțel fără hrană",
-            "c": "stadiul senzorio-motor piagetian ca explicație a întăririi",
+            "c": "stadiul senzorio-motor din teoria lui Piaget ca explicație a întăririi",
             "d": "modul în care consecințele modifică frecvența comportamentului"
           },
           "kind": "single",
           "correct": [
             "d"
           ],
-          "explanation": "Condiționarea instrumentală/operantă modifică frecvența comportamentului prin recompensă, omisiune, pedeapsă sau evitare — nu prin asocierea unui clopoțel cu hrană în sens pavlovian pur.",
+          "explanation": "Condiționarea instrumentală/operantă modifică frecvența comportamentului prin recompensă, omisiune, pedeapsă sau evitare — nu prin asocierea unui clopoțel cu hrană în paradigma clasică S–R.",
           "domeniu": "Psihologia învățării II",
           "tip": "unic",
           "exam_item": true
         },
         {
           "id": 10518,
-          "text": "Care patru tipuri de consecințe operante sunt recunoscute în literatura behavioristă (recompensă, omisiune, pedeapsă, evitare)?",
+          "text": "Care dintre următoarele tipuri de consecințe operante sunt recunoscute în literatura behavioristă (recompensă, omisiune, pedeapsă, evitare)?",
           "options": {
             "a": "omisiune/pedeapsă negativă — retragerea unui stimul plăcut",
             "b": "pedeapsă pozitivă — prezentare stimul aversiv după comportament",
@@ -47253,14 +47253,14 @@
             "c",
             "d"
           ],
-          "explanation": "Cele patru consecințe operante: întărire pozitivă (+ stimul plăcut), negativă (− stimul aversiv), pedeapsă pozitivă (+ aversiv), pedeapsă negativă/omisiune (− stimul plăcut). Toate patru sunt categorii canonice în analiza skinneriană.",
+          "explanation": "Cele patru consecințe operante: întărire pozitivă (+ stimul plăcut), negativă (− stimul aversiv), pedeapsă pozitivă (+ aversiv), pedeapsă negativă/omisiune (− stimul plăcut). Toate patru sunt categorii canonice în analiza lui B. F. Skinner.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
         },
         {
           "id": 10519,
-          "text": "Care două afirmații despre întărirea continuă versus parțială sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre întărirea continuă versus parțială sunt corecte?",
           "options": {
             "a": "programele parțiale (variabile) mențin comportamentul mai rezistent la extincție",
             "b": "întărirea continuă facilitează achiziția inițială a unui comportament nou",
@@ -47283,7 +47283,7 @@
           "options": {
             "a": "fals — întărirea continuă produce mereu cel mai rezistent comportament",
             "b": "fals — programele variabile nu au legătură cu jocurile de noroc",
-            "c": "adevărat — fenomenul apare la clasică pavloviană, nu la operantă",
+            "c": "adevărat — fenomenul apare la condiționarea clasică a lui Pavlov, nu la operantă",
             "d": "adevărat — recompensele imprevizibile mențin răspunsul mai persistent"
           },
           "kind": "single",
@@ -47315,7 +47315,7 @@
         },
         {
           "id": 10522,
-          "text": "Care trei idei aparțin comportamentalismului intențional tolmanian?",
+          "text": "Care dintre următoarele idei aparțin comportamentalismului intențional al lui Tolman?",
           "options": {
             "a": "există variabile intermediare: anticipări, cerințe, modele operatorii",
             "b": "învățarea latentă poate apărea fără recompensă imediată la fiecare încercare",
@@ -47335,7 +47335,7 @@
         },
         {
           "id": 10523,
-          "text": "Care două contraste între Tolman și behaviorismul strict skinnerian sunt corecte?",
+          "text": "Care dintre următoarele contraste între Tolman și behaviorismul strict al lui B. F. Skinner sunt corecte?",
           "options": {
             "a": "Tolman: doar condiționare clasică; Skinner: doar psihanaliză",
             "b": "Tolman: învățare latentă; behaviorism strict: respinge uneori procese interne",
@@ -47372,7 +47372,7 @@
         },
         {
           "id": 10525,
-          "text": "Care două distincții între extincția clasică și cea operantă sunt corecte?",
+          "text": "Care dintre următoarele distincții între extincția clasică și cea operantă sunt corecte?",
           "options": {
             "a": "extincția operantă crește probabilitatea comportamentului întărit",
             "b": "operantă: comportamentul scade când întărirea încetează",
@@ -47391,7 +47391,7 @@
         },
         {
           "id": 10526,
-          "text": "Care două distincții între generalizare și discriminare în condiționarea clasică sunt corecte?",
+          "text": "Care dintre următoarele distincții între generalizare și discriminare în condiționarea clasică sunt corecte?",
           "options": {
             "a": "generalizare: reacție similară la stimuli asemănători cu SC",
             "b": "discriminare: răspuns diferențiat doar la SC, nu la stimuli similari",
@@ -47428,7 +47428,7 @@
         },
         {
           "id": 10528,
-          "text": "Care trei programe de întărire parțială sunt descrise corect?",
+          "text": "Care dintre următoarele programe de întărire parțială sunt descrise corect?",
           "options": {
             "a": "raport variabil — recompensă după un număr mediu, imprevizibil de răspunsuri",
             "b": "interval variabil — recompensă după timp mediu imprevizibil",
@@ -47448,7 +47448,7 @@
         },
         {
           "id": 10529,
-          "text": "Care două exemple ilustrează întărirea pe raport variabil?",
+          "text": "Care dintre următoarele exemple ilustrează întărirea pe raport variabil?",
           "options": {
             "a": "salivarea la clopoțel fără hrană — extincție clasică",
             "b": "jocuri de noroc — câștig imprevizibil după un număr variabil de încercări",
@@ -47467,7 +47467,7 @@
         },
         {
           "id": 10530,
-          "text": "Care patru perechi autor–contribuție sunt potrivite pentru teoriile asociaționiste/behavioriste?",
+          "text": "Care dintre următoarele perechi autor–contribuție sunt potrivite pentru teoriile asociaționiste/behavioriste?",
           "options": {
             "a": "Edward C. Tolman — învățare latentă, hărți cognitive, scopuri",
             "b": "B. F. Skinner — condiționare operantă, programe de întărire",
@@ -47506,7 +47506,7 @@
         },
         {
           "id": 10532,
-          "text": "Care trei critici frecvente la adresa explicației behavioriste stricte sunt formulate corect?",
+          "text": "Care dintre următoarele critici frecvente la adresa explicației behavioriste stricte sunt formulate corect?",
           "options": {
             "a": "dificultatea de a explica creativitatea lingvistică doar prin întărire",
             "b": "negarea completă a oricărui rol al mediului în dezvoltare",
@@ -47526,7 +47526,7 @@
         },
         {
           "id": 10533,
-          "text": "Care două afirmații despre ce explică bine behaviorismul sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre ce explică bine behaviorismul sunt corecte?",
           "options": {
             "a": "dezvoltarea cognitivă formală ca reorganizare de stadii fixe",
             "b": "toate aspectele conștiinței și sensului existențial uman",
@@ -47538,14 +47538,14 @@
             "c",
             "d"
           ],
-          "explanation": "Behaviorismul explică bine modificarea comportamentului prin consecințe și formarea obiceiurilor. Nu explică complet conștiința, sensul existențial sau reorganizarea cognitivă stadială piagetiană.",
+          "explanation": "Behaviorismul explică bine modificarea comportamentului prin consecințe și formarea obiceiurilor. Nu explică complet conștiința, sensul existențial sau reorganizarea cognitivă stadială în teoria lui Piaget.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
         },
         {
           "id": 10534,
-          "text": "Care trei distincții între Hull și Skinner sunt formulate corect?",
+          "text": "Care dintre următoarele distincții între Hull și Skinner sunt formulate corect?",
           "options": {
             "a": "Hull: drive și reducerea impulsului biologic",
             "b": "Skinner: consecințe observabile și programe de întărire",
@@ -47568,7 +47568,7 @@
           "text": "Un student confundă Pavlov cu Skinner și spune că „salivarea la clopoțel arată condiționare operantă”. Corecția corectă este:",
           "options": {
             "a": "Pavlov a inventat programele de întărire pe raport variabil",
-            "b": "salivarea la clopoțel este exemplu clasic pavlovian (S–R reflex), nu operantă",
+            "b": "salivarea la clopoțel este exemplu clasic din experimentele lui Pavlov (S–R reflex), nu operantă",
             "c": "Skinner a descris condiționarea emoțională a lui Albert",
             "d": "Thorndike a formulat legea efectului prin experimentul cu câinele lui Pavlov"
           },
@@ -47583,10 +47583,10 @@
         },
         {
           "id": 10536,
-          "text": "Care două distincții între Thorndike și Hull sunt formulate corect?",
+          "text": "Care dintre următoarele distincții între Thorndike și Hull sunt formulate corect?",
           "options": {
             "a": "ambii resping ideea că întărirea influențează comportamentul",
-            "b": "Thorndike: învățare latentă în labirint; Hull: behaviorism watsonian strict",
+            "b": "Thorndike: învățare latentă în labirint; Hull: behaviorism strict al lui Watson",
             "c": "Hull: reducerea impulsului biologic; Thorndike: consecințe satisfăcătoare",
             "d": "Thorndike: legea efectului, încercare și eroare; Hull: drive și habit"
           },
@@ -47602,7 +47602,7 @@
         },
         {
           "id": 10537,
-          "text": "Care trei mecanisme diferă clar între condiționarea clasică și cea operantă?",
+          "text": "Care dintre următoarele mecanisme diferă clar între condiționarea clasică și cea operantă?",
           "options": {
             "a": "operantă: programe de întărire; clasică: generalizare și discriminare stimul",
             "b": "clasică: moralitate adultă; operantă: comportament la sugari",
@@ -47640,7 +47640,7 @@
         },
         {
           "id": 10539,
-          "text": "Care patru procese apar în condiționarea clasică pavloviană?",
+          "text": "Care dintre următoarele procese apar în condiționarea clasică a lui Pavlov?",
           "options": {
             "a": "extincția RC când SC nu mai e însoțit de SI",
             "b": "generalizarea la stimuli similari",
@@ -47654,7 +47654,7 @@
             "c",
             "d"
           ],
-          "explanation": "Procese clasice: achiziție, extincție, generalizare, discriminare. Toate patru sunt parte din vocabularul condiționării pavloviene și apar frecvent la examen.",
+          "explanation": "Procese clasice: achiziție, extincție, generalizare, discriminare. Toate variantele corecte sunt parte din vocabularul condiționării clasice a lui Pavlov și apar frecvent la examen.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -47663,7 +47663,7 @@
           "id": 10540,
           "text": "Tolman depășește behaviorismul strict prin scopuri, anticipări și reprezentări cognitive — idee centrală a comportamentalismului intențional.",
           "options": {
-            "a": "toate comportamentele se reduc la reflexe salivare pavloviene",
+            "a": "toate comportamentele se reduc la reflexe salivare în experimentele lui Pavlov",
             "b": "învățarea latentă arată că performanța poate apărea fără recompensă la fiecare pas",
             "c": "Skinner a formulat conceptul de hartă cognitivă în labirint",
             "d": "organismul acționează orientat spre scopuri, nu doar reactiv la stimuli"
@@ -47679,7 +47679,7 @@
         },
         {
           "id": 10541,
-          "text": "Care două situații ilustrează legea efectului lui Thorndike?",
+          "text": "Care dintre următoarele situații ilustrează legea efectului lui Thorndike?",
           "options": {
             "a": "abandonarea unei tactici care a produs eșec repetat",
             "b": "copilul repetă o strategie care a dus la reușită la teme",
@@ -47691,7 +47691,7 @@
             "a",
             "b"
           ],
-          "explanation": "Legea efectului: strategii care duc la reușită se repetă; cele care eșuează se abandonează. Harta cognitivă fără recompensă e Tolman; salivarea reflexă e Pavlov fără încercare și eroare thorndikiană.",
+          "explanation": "Legea efectului: strategii care duc la reușită se repetă; cele care eșuează se abandonează. Harta cognitivă fără recompensă e Tolman; salivarea reflexă e Pavlov fără încercare și eroare descrise de Thorndike.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -47716,7 +47716,7 @@
         },
         {
           "id": 10543,
-          "text": "Care trei elemente din experimentul Little Albert sunt esențiale de reținut?",
+          "text": "Care dintre următoarele elemente din experimentul Little Albert sunt esențiale de reținut?",
           "options": {
             "a": "asocierea unui stimul neutru (ex. animal) cu un stimul care produce frică",
             "b": "ideea că emoțiile pot fi condiționate, nu doar răspunsurile motorii",
@@ -47736,12 +47736,12 @@
         },
         {
           "id": 10544,
-          "text": "Care două afirmații despre omisiune și evitare în condiționarea operantă sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre omisiune și evitare în condiționarea operantă sunt corecte?",
           "options": {
             "a": "evitarea: comportament care previne apariția unui stimul aversiv",
             "b": "omisiunea: adăugarea unei pedepse corporale obligatorii",
             "c": "omisiunea: retragerea unei recompense după comportament nedorit",
-            "d": "evitarea: identică cu extincția clasică pavloviană"
+            "d": "evitarea: identică cu extincția în paradigma clasică a lui Pavlov"
           },
           "kind": "multi",
           "correct": [
@@ -47755,7 +47755,7 @@
         },
         {
           "id": 10545,
-          "text": "Care patru autori sunt corect legați de ideea din dreapta?",
+          "text": "Care dintre următoarele perechi autor–contribuție sunt corecte?",
           "options": {
             "a": "Edward L. Thorndike — legea efectului, conexionism",
             "b": "Clark L. Hull — reducerea impulsului, habit",
@@ -47769,14 +47769,14 @@
             "c",
             "d"
           ],
-          "explanation": "Thorndike — legea efectului; Hull — drive și habit; Pavlov — clasică; Tolman — intențional și latent. Patru perechi canonice pentru sinteză.",
+          "explanation": "Thorndike — legea efectului; Hull — drive și habit; Pavlov — condiționare clasică; Tolman — intențional și latent. Fiecare variantă corectă asociază autorul cu contribuția sa principală.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
         },
         {
           "id": 10546,
-          "text": "Care patru limite ale explicației behavioriste stricte sunt recunoscute în psihologia învățării?",
+          "text": "Care dintre următoarele limite ale explicației behavioriste stricte sunt recunoscute în psihologia învățării?",
           "options": {
             "a": "neglijează motivația intrinsecă și sensul personal",
             "b": "dificultate în explicarea sensului subiectiv și al scopurilor personale",
@@ -47815,7 +47815,7 @@
         },
         {
           "id": 10548,
-          "text": "Care două idei rezumă contribuția lui Skinner la psihologia învățării?",
+          "text": "Care dintre următoarele idei rezumă contribuția lui Skinner la psihologia învățării?",
           "options": {
             "a": "învățarea latentă în labirint fără recompensă imediată",
             "b": "comportamentul operant este controlat de consecințele care îl urmează",
@@ -47834,12 +47834,12 @@
         },
         {
           "id": 10549,
-          "text": "Care trei distincții ajută la grilă între Pavlov, Watson și Skinner?",
+          "text": "Care dintre următoarele distincții ajută la grilă între Pavlov, Watson și Skinner?",
           "options": {
             "a": "Watson — behaviorism, mediu, condiționare emoțională (Albert)",
             "b": "Pavlov — condiționare clasică, reflexe fiziologice",
             "c": "Skinner — operantă, întărire, programe de recompensă",
-            "d": "toți trei — hărți cognitive și învățare latentă tolmaniană"
+            "d": "toți trei — hărți cognitive și învățare latentă descrise de Tolman"
           },
           "kind": "multi",
           "correct": [
@@ -47904,7 +47904,7 @@
         },
         {
           "id": 10553,
-          "text": "Care două distincții între Bandura și behaviorismul strict skinnerian sunt corecte?",
+          "text": "Care dintre următoarele distincții între Bandura și behaviorismul strict al lui B. F. Skinner sunt corecte?",
           "options": {
             "a": "Skinner și Bandura: amândoi negă imitația ca mecanism de învățare",
             "b": "Bandura: minimizează influența mediului social asupra învățării",
@@ -47941,11 +47941,11 @@
         },
         {
           "id": 10555,
-          "text": "Care trei componente intră în determinismul reciproc bandurian?",
+          "text": "Care dintre următoarele componente intră în determinismul reciproc al lui Albert Bandura?",
           "options": {
             "a": "comportamentul (acțiunile observabile ale persoanei)",
             "b": "factorii personali (cogniții, așteptări, autoeficacitate, emoții)",
-            "c": "doar impulsurile biologice și reflexele necondiționate pavloviene",
+            "c": "doar impulsurile biologice și reflexele necondiționate studiate de Pavlov",
             "d": "mediul (contextul social și fizic, inclusiv reacțiile altora)"
           },
           "kind": "multi",
@@ -47961,7 +47961,7 @@
         },
         {
           "id": 10556,
-          "text": "Care trei exemple ilustrează cum comportamentul influențează mediul în cadrul determinismului reciproc?",
+          "text": "Care dintre următoarele exemple ilustrează cum comportamentul influențează mediul în cadrul determinismului reciproc?",
           "options": {
             "a": "mediul acționează întotdeauna înaintea comportamentului, fără feedback invers",
             "b": "un copil agresiv provoacă reacții de la colegi și adulți",
@@ -48011,7 +48011,7 @@
             "a",
             "c"
           ],
-          "explanation": "Spre deosebire de determinismul liniar (mediu → comportament), modelul bandurian e bidirecțional: persoana și își modelează mediul, iar cogniția mediază legătura dintre cele două. Nu e libertate absolută, dar nici pasivitate totală.",
+          "explanation": "Spre deosebire de determinismul liniar (mediu → comportament), modelul lui Albert Bandura e bidirecțional: persoana și își modelează mediul, iar cogniția mediază legătura dintre cele două. Nu e libertate absolută, dar nici pasivitate totală.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -48052,7 +48052,7 @@
         },
         {
           "id": 10561,
-          "text": "Care trei tipuri de model pot produce învățare observațională, conform cercetărilor lui Bandura?",
+          "text": "Care dintre următoarele tipuri de model pot produce învățare observațională, conform cercetărilor lui Bandura?",
           "options": {
             "a": "model simbolic (personaje, povești, figuri din media)",
             "b": "model filmat sau înregistrat (mediat)",
@@ -48072,7 +48072,7 @@
         },
         {
           "id": 10562,
-          "text": "Care două idei despre modelarea prin media (film, înregistrare) sunt susținute de teoria social-cognitivă?",
+          "text": "Care dintre următoarele idei despre modelarea prin media (film, înregistrare) sunt susținute de teoria social-cognitivă?",
           "options": {
             "a": "doar modelul fizic prezent produce imitație — media e complet inertă",
             "b": "comportamentele pot fi învățate și din modele mediate, nu doar live",
@@ -48145,7 +48145,7 @@
         },
         {
           "id": 10566,
-          "text": "Care două factori influențează dacă modelul captează atenția observatorului?",
+          "text": "Care dintre următoarele factori influențează dacă modelul captează atenția observatorului?",
           "options": {
             "a": "caracteristicile modelului (status, similaritate, atractivitate)",
             "b": "doar vârsta biologică — atenția e fixă genetic",
@@ -48182,7 +48182,7 @@
         },
         {
           "id": 10568,
-          "text": "Care trei modalități de reținere a comportamentului modelului sunt menționate în teoria social-cognitivă?",
+          "text": "Care dintre următoarele modalități de reținere a comportamentului modelului sunt menționate în teoria social-cognitivă?",
           "options": {
             "a": "doar condiționare clasică a reflexelor, fără reprezentare",
             "b": "simboluri și coduri cognitive",
@@ -48202,7 +48202,7 @@
         },
         {
           "id": 10569,
-          "text": "Care două condiții sunt necesare pentru procesul de reproducere (imitare) a comportamentului observat?",
+          "text": "Care dintre următoarele condiții sunt necesare pentru procesul de reproducere (imitare) a comportamentului observat?",
           "options": {
             "a": "prezența permanentă a modelului în același spațiu fizic",
             "b": "practică sau încercări repetate pentru rafinarea comportamentului",
@@ -48239,7 +48239,7 @@
         },
         {
           "id": 10571,
-          "text": "Care patru procese trebuie să aibă loc, în ordinea logică a modelării banduriene, pentru ca învățarea observațională să se traducă în comportament?",
+          "text": "Ce procese trebuie să aibă loc, în ordinea logică a modelării sociale a lui Albert Bandura, pentru ca învățarea observațională să se traducă în comportament?",
           "options": {
             "a": "retenție — păstrarea comportamentului în memorie (imagini, simboluri, verbal)",
             "b": "reproducere — capacitatea de a executa comportamentul imitat",
@@ -48297,7 +48297,7 @@
         },
         {
           "id": 10574,
-          "text": "Care trei consecințe pot apărea din expunerea la un model pedepsit pentru un comportament?",
+          "text": "Care dintre următoarele consecințe pot apărea din expunerea la un model pedepsit pentru un comportament?",
           "options": {
             "a": "copilul evită comportamentul după ce vede consecințe negative pentru model",
             "b": "modelarea produce inhibiție doar la comportamente motorii complet noi",
@@ -48317,7 +48317,7 @@
         },
         {
           "id": 10575,
-          "text": "Care patru efecte sau procese sunt centrale în teoria social-cognitivă a expunerii la model?",
+          "text": "Care dintre următoarele efecte sau procese sunt centrale în teoria social-cognitivă a expunerii la model?",
           "options": {
             "a": "achiziție/modelare — apar comportamente noi",
             "b": "inhibiție — scade frecvența unui comportament observat pedepsit la model",
@@ -48449,7 +48449,7 @@
         },
         {
           "id": 10582,
-          "text": "Care două distincții între autoeficacitate și alte construcții sunt corecte?",
+          "text": "Care dintre următoarele distincții între autoeficacitate și alte construcții sunt corecte?",
           "options": {
             "a": "autoeficacitate și stima de sine sunt mereu identice ca măsură",
             "b": "autoeficacitatea înseamnă doar rezultatul final, nu credința în propria acțiune",
@@ -48468,7 +48468,7 @@
         },
         {
           "id": 10583,
-          "text": "Care trei surse ale autoeficacității sunt formulate de Bandura?",
+          "text": "Care dintre următoarele surse ale autoeficacității sunt formulate de Bandura?",
           "options": {
             "a": "persuasiune verbală — încurajare credibilă din partea altora",
             "b": "experiențe vicariante — observarea altora care reușesc (modelare)",
@@ -48488,7 +48488,7 @@
         },
         {
           "id": 10584,
-          "text": "Care două afirmații despre experiențele de performanță (mastery) ca sursă a autoeficacității sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre experiențele de performanță (mastery) ca sursă a autoeficacității sunt corecte?",
           "options": {
             "a": "performanțele anterioare nu contează dacă există modelare vicariantă",
             "b": "reușitele proprii consolidate cresc credința în capacitatea de acțiune",
@@ -48512,7 +48512,7 @@
             "a": "stări fiziologice și emoționale interpretate ca semnale despre capacitate",
             "b": "analiza viselor și a refulării inconștiente",
             "c": "moștenirea genetică ca singur factor determinant",
-            "d": "reflexele necondiționate pavloviene"
+            "d": "reflexele necondiționate studiate de Pavlov"
           },
           "kind": "single",
           "correct": [
@@ -48525,7 +48525,7 @@
         },
         {
           "id": 10586,
-          "text": "Care două consecințe sunt asociate cu autoeficacitate ridicată?",
+          "text": "Care dintre următoarele consecințe sunt asociate cu autoeficacitate ridicată?",
           "options": {
             "a": "atribuirea eșecului mereu factorilor externi, fără încercare",
             "b": "motivație mai mare și perseverență în fața dificultăților",
@@ -48544,7 +48544,7 @@
         },
         {
           "id": 10587,
-          "text": "Care trei consecințe sunt tipice pentru autoeficacitate scăzută?",
+          "text": "Care dintre următoarele consecințe sunt tipice pentru autoeficacitate scăzută?",
           "options": {
             "a": "perseverență crescută și căutarea activă a provocărilor",
             "b": "evitarea sarcinilor și renunțare prematură",
@@ -48651,7 +48651,7 @@
         },
         {
           "id": 10593,
-          "text": "Care două idei despre învățare sunt centrale în abordarea cognitivă?",
+          "text": "Care dintre următoarele idei despre învățare sunt centrale în abordarea cognitivă?",
           "options": {
             "a": "procese mentale interne: atenție, codificare, organizare, recuperare",
             "b": "respingerea completă a oricărei influențe a experienței anterioare",
@@ -48688,7 +48688,7 @@
         },
         {
           "id": 10595,
-          "text": "Care trei caracteristici descriu învățarea din perspectiva cognitivă?",
+          "text": "Care dintre următoarele caracteristici descriu învățarea din perspectiva cognitivă?",
           "options": {
             "a": "utilizarea adaptivă a informației stocate în situații noi",
             "b": "reducerea completă a învățării la imitație fără gândire",
@@ -48745,7 +48745,7 @@
         },
         {
           "id": 10598,
-          "text": "Care trei idei aparțin perspectivei gestaltiste asupra percepției și învățării?",
+          "text": "Care dintre următoarele idei aparțin perspectivei gestaltiste asupra percepției și învățării?",
           "options": {
             "a": "percepția este mereu o copiere fidelă, fără filtrare cognitivă",
             "b": "selectivitate — atenția structurează ce devine figura vs. fundal",
@@ -48769,7 +48769,7 @@
           "options": {
             "a": "fals — doar consecințele externe contează, ca la Skinner",
             "b": "adevărat — învățarea este un proces mental activ",
-            "c": "adevărat — procesele interne apar la clasică pavloviană, nu la cognitivism",
+            "c": "adevărat — procesele interne apar la condiționarea clasică a lui Pavlov, nu la cognitivism",
             "d": "fals — Bruner respinge orice rol al reprezentărilor mentale"
           },
           "kind": "single",
@@ -48783,7 +48783,7 @@
         },
         {
           "id": 10600,
-          "text": "Care două idei sunt asociate cu teoria cognitivă tradițională?",
+          "text": "Care dintre următoarele idei sunt asociate cu teoria cognitivă tradițională?",
           "options": {
             "a": "profesorul controlează singur rezultatul, indiferent de implicarea elevului",
             "b": "responsabilitatea morală pentru efort și realizări revine în parte cursantului",
@@ -48836,9 +48836,9 @@
         },
         {
           "id": 10603,
-          "text": "Care trei tipuri de memorie sunt distinse în modelul procesării informației?",
+          "text": "Care dintre următoarele tipuri de memorie sunt distinse în modelul procesării informației?",
           "options": {
-            "a": "memoria reflexă pavloviană — singurul tip relevant la oameni",
+            "a": "memoria reflexă din paradigma clasică — singurul tip relevant la oameni",
             "b": "memoria senzorială — reținere foarte scurtă pentru procesare inițială",
             "c": "memoria de scurtă durată / de lucru — capacitate limitată, manipulare activă",
             "d": "memoria de lungă durată — stocare relativ durabilă, organizată"
@@ -48856,7 +48856,7 @@
         },
         {
           "id": 10604,
-          "text": "Care două afirmații despre memoria senzorială sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre memoria senzorială sunt corecte?",
           "options": {
             "a": "filtrează și păstrează temporar inputul din mediu înainte de codificare",
             "b": "reține informația foarte scurt, suficient pentru procesarea inițială",
@@ -48893,7 +48893,7 @@
         },
         {
           "id": 10606,
-          "text": "Care trei funcții ale memoriei de lucru sunt esențiale în învățare?",
+          "text": "Care dintre următoarele funcții ale memoriei de lucru sunt esențiale în învățare?",
           "options": {
             "a": "stocarea permanentă a tuturor experiențelor fără selecție",
             "b": "integrarea informației noi cu reprezentări existente",
@@ -48913,7 +48913,7 @@
         },
         {
           "id": 10607,
-          "text": "Care două afirmații despre memoria de lungă durată sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre memoria de lungă durată sunt corecte?",
           "options": {
             "a": "recuperarea depinde de calitatea codificării și organizării informației",
             "b": "nu poate fi influențată de strategii de învățare sau de sens",
@@ -48950,7 +48950,7 @@
         },
         {
           "id": 10609,
-          "text": "Care patru etape descriu modelul clasic al procesării informației aplicat învățării?",
+          "text": "Care dintre următoarele etape descriu modelul clasic al procesării informației aplicat învățării?",
           "options": {
             "a": "recepționarea informației din mediu (input)",
             "b": "codificarea — transformarea în reprezentări mentale",
@@ -48971,7 +48971,7 @@
         },
         {
           "id": 10610,
-          "text": "Care două distincții între procesarea informației și behaviorismul strict sunt corecte?",
+          "text": "Care dintre următoarele distincții între procesarea informației și behaviorismul strict sunt corecte?",
           "options": {
             "a": "PI: ignoră comportamentul observabil în analiza învățării",
             "b": "PI: memoria ca stocare organizată; behaviorism strict: subestimează reprezentările",
@@ -49008,7 +49008,7 @@
         },
         {
           "id": 10612,
-          "text": "Care trei componente sunt recunoscute în abordarea cognitiv-socială a învățării?",
+          "text": "Care dintre următoarele componente sunt recunoscute în abordarea cognitiv-socială a învățării?",
           "options": {
             "a": "doar condiționarea clasică a emoțiilor, fără cogniție",
             "b": "autoreglarea — planificare, monitorizare, ajustare a strategiilor",
@@ -49044,7 +49044,7 @@
         },
         {
           "id": 10614,
-          "text": "Care două consecințe ale evaluării cognitive asupra învățării sunt formulate corect?",
+          "text": "Care dintre următoarele consecințe ale evaluării cognitive asupra învățării sunt formulate corect?",
           "options": {
             "a": "evaluarea cognitivă ignoră dimensiunea afectivă a învățării",
             "b": "emoțiile pot facilita procesarea când situația e percepută ca provocare",
@@ -49081,7 +49081,7 @@
         },
         {
           "id": 10616,
-          "text": "Care trei legături între emoție și învățare sunt centrale în teoria evaluării cognitive?",
+          "text": "Care dintre următoarele legături între emoție și învățare sunt centrale în teoria evaluării cognitive?",
           "options": {
             "a": "interpretarea situației precede sau însoțește răspunsul emoțional",
             "b": "starea emoțională influențează motivația și persistența la sarcină",
@@ -49137,7 +49137,7 @@
         },
         {
           "id": 10619,
-          "text": "Care trei tipuri de prelucrare descriu modelul triarhic al învățării multimedia (Mayer)?",
+          "text": "Care dintre următoarele tipuri de prelucrare descriu modelul triarhic al învățării multimedia (Mayer)?",
           "options": {
             "a": "prelucrare intrinsecă — efort orientat spre înțelegerea esenței materialului",
             "b": "prelucrare extrinsecă — efort irosit pe elemente care nu ajută învățarea",
@@ -49157,7 +49157,7 @@
         },
         {
           "id": 10620,
-          "text": "Care două distincții între prelucrarea extrinsecă și cea generativă sunt corecte?",
+          "text": "Care dintre următoarele distincții între prelucrarea extrinsecă și cea generativă sunt corecte?",
           "options": {
             "a": "extrinsecă: încărcare inutilă (fonturi, animații distragătoare); generativă: construirea de legături și sens",
             "b": "generativă presupune memorare mecanică fără organizare",
@@ -49194,7 +49194,7 @@
         },
         {
           "id": 10622,
-          "text": "Care patru recomandări pentru profesor derivă din perspectiva cognitivă a învățării (procesare + multimedia)?",
+          "text": "Care dintre următoarele recomandări pentru profesor derivă din perspectiva cognitivă a învățării (procesare + multimedia)?",
           "options": {
             "a": "stimulează prelucrarea generativă (întrebări, integrare, aplicare)",
             "b": "reduce încărcarea extrinsecă (claritate, relevanță, fără distrageri)",
@@ -49233,7 +49233,7 @@
         },
         {
           "id": 10624,
-          "text": "Care trei roluri ale profesorului sunt susținute de teoriile cognitive ale învățării?",
+          "text": "Care dintre următoarele roluri ale profesorului sunt susținute de teoriile cognitive ale învățării?",
           "options": {
             "a": "sursă unică de adevăr — elevul receptează pasiv conținutul fără procesare",
             "b": "sprijin pentru autoreglare — încurajarea monitorizării și ajustării",
@@ -49271,7 +49271,7 @@
         },
         {
           "id": 10626,
-          "text": "Care două distincții între memoria de lucru și memoria de lungă durată sunt corecte?",
+          "text": "Care dintre următoarele distincții între memoria de lucru și memoria de lungă durată sunt corecte?",
           "options": {
             "a": "lucru: manipulare activă; lungă durată: depozit organizat pentru recuperare",
             "b": "lucru: stochează permanent toate cursurile; lungă durată: dispare în secunde",
@@ -49308,7 +49308,7 @@
         },
         {
           "id": 10628,
-          "text": "Care două idei explică de ce schemele și cunoștințele anterioare facilitează învățarea?",
+          "text": "Care dintre următoarele idei explică de ce schemele și cunoștințele anterioare facilitează învățarea?",
           "options": {
             "a": "funcționează doar la condiționarea clasică, nu la învățarea școlară",
             "b": "blochează permanent orice informație care nu e identică cu ce știm deja",
@@ -49327,7 +49327,7 @@
         },
         {
           "id": 10629,
-          "text": "Care două idei despre legătura dintre cunoștințe anterioare și codificare sunt corecte?",
+          "text": "Care dintre următoarele idei despre legătura dintre cunoștințe anterioare și codificare sunt corecte?",
           "options": {
             "a": "activarea cunoștințelor anterioare la începutul lecției pregătește codificarea",
             "b": "codificarea reușește independent de experiența anterioară a elevului",
@@ -49396,7 +49396,7 @@
         },
         {
           "id": 10633,
-          "text": "Care două critici ale educației tradiționale sunt formulate frecvent din perspectiva umanistă?",
+          "text": "Care dintre următoarele critici ale educației tradiționale sunt formulate frecvent din perspectiva umanistă?",
           "options": {
             "a": "centrarea excesivă pe curriculum și pe măsurători, în defavoarea sensului",
             "b": "rigiditate și autoritarism — elevul ca obiect, nu partener al procesului",
@@ -49433,7 +49433,7 @@
         },
         {
           "id": 10635,
-          "text": "Care trei valori sunt centrale în viziunea umanistă asupra învățării?",
+          "text": "Care dintre următoarele valori sunt centrale în viziunea umanistă asupra învățării?",
           "options": {
             "a": "conformism — adaptarea la așteptările externe ca scop principal",
             "b": "autonomie — capacitatea de a alege și de a-ți asuma direcția învățării",
@@ -49490,7 +49490,7 @@
         },
         {
           "id": 10638,
-          "text": "Care două atitudini ale profesorului sunt asociate cu facilitarea rogersiană?",
+          "text": "Care dintre următoarele atitudini ale profesorului sunt asociate cu facilitarea descrisă de Carl Rogers?",
           "options": {
             "a": "distanțare emoțională totală pentru obiectivitate maximă",
             "b": "control rigid al fiecărui răspuns pentru uniformitatea clasei",
@@ -49502,7 +49502,7 @@
             "c",
             "d"
           ],
-          "explanation": "Facilitarea rogersiană include empatie (înțelegerea perspectivei elevului fără judecată imediată) și acceptare (respect pentru persoană, cu puncte tari și slabe). Distanțarea emoțională totală sau controlul rigid al fiecărui răspuns aparțin stilului transmițător, nu facilitatorului.",
+          "explanation": "Facilitarea descrisă de Carl Rogers include empatie (înțelegerea perspectivei elevului fără judecată imediată) și acceptare (respect pentru persoană, cu puncte tari și slabe). Distanțarea emoțională totală sau controlul rigid al fiecărui răspuns aparțin stilului transmițător, nu facilitatorului.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -49527,7 +49527,7 @@
         },
         {
           "id": 10640,
-          "text": "Care două diferențe între profesorul transmițător și facilitatorul rogersian sunt corecte?",
+          "text": "Care dintre următoarele diferențe între profesorul transmițător și facilitatorul în abordarea lui Carl Rogers sunt corecte?",
           "options": {
             "a": "transmițătorul livrează conținut; facilitatorul organizează experiențe de învățare",
             "b": "transmițătorul este singura orientare compatibilă cu standardele naționale",
@@ -49580,7 +49580,7 @@
         },
         {
           "id": 10643,
-          "text": "Care trei idei sunt asociate cu contribuția lui Maslow la educație?",
+          "text": "Care dintre următoarele idei sunt asociate cu contribuția lui Maslow la educație?",
           "options": {
             "a": "experiențe culminante — momente de intensă trăire și sens",
             "b": "potențial uman — tendința spre dezvoltare și autoactualizare",
@@ -49593,26 +49593,26 @@
             "b",
             "c"
           ],
-          "explanation": "Maslow în educație: ierarhia trebuințelor (nevoile inferioare parțial satisfăcute pentru creștere superioară), potențialul uman spre autoactualizare și experiențele culminante (momente de intensă trăire și sens). Condiționarea operantă ca mecanism principal e skinneriană.",
+          "explanation": "Maslow în educație: ierarhia trebuințelor (nevoile inferioare parțial satisfăcute pentru creștere superioară), potențialul uman spre autoactualizare și experiențele culminante (momente de intensă trăire și sens). Condiționarea operantă ca mecanism principal e în paradigma lui B. F. Skinner.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
         },
         {
           "id": 10644,
-          "text": "Care două legături între trebuințele maslowiene și climatul școlar sunt formulate corect?",
+          "text": "Care dintre următoarele legături între trebuințele din teoria lui Abraham Maslow și climatul școlar sunt formulate corect?",
           "options": {
             "a": "foamea, frica sau umilirea constantă pot bloca concentrarea pe învățare",
             "b": "trebuințele de autoactualizare pot fi ignorate până la absolvire",
             "c": "un mediu sigur și acceptat satisface trebuințe de apartenență și stimă",
-            "d": "ierarhia maslowiană se aplică la animale, nu la relațiile din clasă"
+            "d": "ierarhia lui Abraham Maslow se aplică la animale, nu la relațiile din clasă"
           },
           "kind": "multi",
           "correct": [
             "a",
             "c"
           ],
-          "explanation": "Mediu sigur și acceptat satisface apartenență și stimă; foamea, frica sau umilirea constantă blochează concentrarea pe învățare. Ierarhia maslowiană se aplică la relațiile umane din clasă — nu e limitată la animale.",
+          "explanation": "Mediu sigur și acceptat satisface apartenență și stimă; foamea, frica sau umilirea constantă blochează concentrarea pe învățare. Ierarhia lui Abraham Maslow se aplică la relațiile umane din clasă — nu e limitată la animale.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -49637,7 +49637,7 @@
         },
         {
           "id": 10646,
-          "text": "Care trei elemente descriu relația profesor–elev în stilul umanist?",
+          "text": "Care dintre următoarele elemente descriu relația profesor–elev în stilul umanist?",
           "options": {
             "a": "respect reciproc și comunicare deschisă",
             "b": "autenticitate — profesorul e congruent, nu joacă un rol rigid",
@@ -49657,7 +49657,7 @@
         },
         {
           "id": 10647,
-          "text": "Care două afirmații despre motivația în educația umanistă sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre motivația în educația umanistă sunt corecte?",
           "options": {
             "a": "autocunoașterea și planul personal de creștere pot susține implicarea",
             "b": "motivația intrinsecă — sens, curiozitate, autonomie — e preferată",
@@ -49694,7 +49694,7 @@
         },
         {
           "id": 10649,
-          "text": "Care patru cuvinte-cheie apar frecvent în literatura umanistă despre educație?",
+          "text": "Care dintre următoarele cuvinte-cheie apar frecvent în literatura umanistă despre educație?",
           "options": {
             "a": "responsabilitate — asumarea propriului parcurs",
             "b": "dezvoltare personală — creștere integrată, nu doar informații",
@@ -49715,7 +49715,7 @@
         },
         {
           "id": 10650,
-          "text": "Care două distincții între Rogers și Maslow în educație sunt corecte?",
+          "text": "Care dintre următoarele distincții între Rogers și Maslow în educație sunt corecte?",
           "options": {
             "a": "Rogers: relația facilitatoare și învățarea semnificativă în clasă",
             "b": "Maslow: condițiile facilitatoare empatie–acceptare–autenticitate",
@@ -49727,7 +49727,7 @@
             "a",
             "c"
           ],
-          "explanation": "Rogers: relația facilitatoare, învățarea semnificativă, empatie–acceptare–autenticitate în clasă. Maslow: ierarhia trebuințelor, autoactualizarea, experiențele culminante. Nu confundați: ierarhia e maslowiană; condițiile facilitatoare sunt rogersiene.",
+          "explanation": "Rogers: relația facilitatoare, învățarea semnificativă, empatie–acceptare–autenticitate în clasă. Maslow: ierarhia trebuințelor, autoactualizarea, experiențele culminante. Nu confundați: ierarhia e a lui Abraham Maslow; condițiile facilitatoare sunt cele ale lui Carl Rogers.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -49753,7 +49753,7 @@
         },
         {
           "id": 10652,
-          "text": "Care trei limite ale aplicării umanismului în sisteme educaționale standardizate sunt recunoscute?",
+          "text": "Care dintre următoarele limite ale aplicării umanismului în sisteme educaționale standardizate sunt recunoscute?",
           "options": {
             "a": "curriculum rigid și timp limitat — greu de acordat autonomie maximă",
             "b": "grupe mari de elevi — dificil de oferit empatie și feedback personalizat",
@@ -49773,7 +49773,7 @@
         },
         {
           "id": 10653,
-          "text": "Un profesor rogersian ar reacționa cel mai probabil la un elev anxios înainte de prezentare astfel:",
+          "text": "Un profesor în abordarea lui Carl Rogers ar reacționa cel mai probabil la un elev anxios înainte de prezentare astfel:",
           "options": {
             "a": "îl compară public cu colegii care nu sunt anxioși",
             "b": "îi spune să ignore emoțiile și să memoreze textul mai bine",
@@ -49785,7 +49785,7 @@
             "c",
             "d"
           ],
-          "explanation": "Profesorul rogersian la un elev anxios: ascultă, validează emoția, explorează semnificația situației; oferă acceptare și sprijin pentru strategii de coping. Ignorarea emoțiilor sau compararea publică cu colegii contrazic facilitarea.",
+          "explanation": "Profesorul în abordarea lui Carl Rogers la un elev anxios: ascultă, validează emoția, explorează semnificația situației; oferă acceptare și sprijin pentru strategii de coping. Ignorarea emoțiilor sau compararea publică cu colegii contrazic facilitarea.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -49813,20 +49813,20 @@
             "a": "autoactualizarea cere timp și relație; programa fixă presupune ritm uniform",
             "b": "umanismul valorizează parcursul individual; sistemele cer adesea comparabilitate și bareme comune",
             "c": "sistemele standardizate au fost create special pentru Rogers și Maslow",
-            "d": "standardele naționale au fost elaborate direct pe modelul facilitării rogersiene"
+            "d": "standardele naționale au fost elaborate direct pe modelul facilitării lui Carl Rogers"
           },
           "kind": "single",
           "correct": [
             "b"
           ],
-          "explanation": "Tensiune reală: umanismul valorizează parcursul individual; sistemele standardizate cer comparabilitate și bareme comune. Autoactualizarea cere timp și relație; programa fixă presupune ritm uniform — dar standardele naționale nu au fost elaborate pe model rogersian.",
+          "explanation": "Tensiune reală: umanismul valorizează parcursul individual; sistemele standardizate cer comparabilitate și bareme comune. Autoactualizarea cere timp și relație; programa fixă presupune ritm uniform — dar standardele naționale nu au fost elaborate pe model descris de Carl Rogers.",
           "domeniu": "Psihologia învățării II",
           "tip": "unic",
           "exam_item": true
         },
         {
           "id": 10656,
-          "text": "Care trei practici didactice sunt aliniate cu educația umanistă?",
+          "text": "Care dintre următoarele practici didactice sunt aliniate cu educația umanistă?",
           "options": {
             "a": "lecție expozitivă neîntreruptă de la început până la sfârșit, fără interacțiune",
             "b": "proiecte alese sau co-construite cu elevii, cu relevanță personală",
@@ -49846,7 +49846,7 @@
         },
         {
           "id": 10657,
-          "text": "Care două confuzii frecvente la grilă despre Rogers trebuie evitate?",
+          "text": "Care dintre următoarele confuzii frecvente la grilă despre Rogers trebuie evitate?",
           "options": {
             "a": "Rogers a dezvoltat ierarhia celor cinci trebuințe fiziologice",
             "b": "empatia nu înseamnă aprobarea oricărui comportament dăunător",
@@ -49876,14 +49876,14 @@
           "correct": [
             "a"
           ],
-          "explanation": "Experiențele culminante (Maslow): momente de intensă trăire, sens și depășire de sine care marchează creșterea; stări de prezență și împlinire. Note la examen după memorare sau pedepse corporale nu au legătură cu conceptul maslowian.",
+          "explanation": "Experiențele culminante (Maslow): momente de intensă trăire, sens și depășire de sine care marchează creșterea; stări de prezență și împlinire. Note la examen după memorare sau pedepse corporale nu au legătură cu conceptul lui Abraham Maslow.",
           "domeniu": "Psihologia învățării II",
           "tip": "unic",
           "exam_item": true
         },
         {
           "id": 10659,
-          "text": "Care două idei despre autoactualizare în context școlar sunt corecte?",
+          "text": "Care dintre următoarele idei despre autoactualizare în context școlar sunt corecte?",
           "options": {
             "a": "nu e un lux, ci o direcție — elevul își descoperă și dezvoltă resursele",
             "b": "Maslow a considerat notele și examenele incompatibile cu autoactualizarea",
@@ -49902,7 +49902,7 @@
         },
         {
           "id": 10660,
-          "text": "Care patru perechi autor–idee sunt potrivite pentru teoriile umaniste ale învățării?",
+          "text": "Care dintre următoarele perechi autor–idee sunt potrivite pentru teoriile umaniste ale învățării?",
           "options": {
             "a": "Abraham Maslow — autoactualizare, trebuințe, potențial uman",
             "b": "Carl R. Rogers — empatie, acceptare, autenticitate în relația educațională",
@@ -49960,7 +49960,7 @@
         },
         {
           "id": 10663,
-          "text": "Care trei întrebări reflectă spiritul umanist al planificării unei lecții?",
+          "text": "Care dintre următoarele întrebări reflectă spiritul umanist al planificării unei lecții?",
           "options": {
             "a": "cum pot acoperi integral programa într-un singur exposé, prioritar față de dialog?",
             "b": "ce înseamnă această temă pentru viața și interesele elevilor?",
@@ -49998,7 +49998,7 @@
         },
         {
           "id": 10665,
-          "text": "Care două strategii pot adapta spiritul umanist într-o clasă cu programă fixă?",
+          "text": "Care dintre următoarele strategii pot adapta spiritul umanist într-o clasă cu programă fixă?",
           "options": {
             "a": "timp pentru reflecție și feedback personalizat, nu doar notă numerică",
             "b": "oferirea unor opțiuni de temă sau de prezentare în limitele obiectivelor",
@@ -50035,7 +50035,7 @@
         },
         {
           "id": 10667,
-          "text": "Care două afirmații despre responsabilitate în educația umanistă sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre responsabilitate în educația umanistă sunt corecte?",
           "options": {
             "a": "profesorul împărtășește responsabilitatea pentru climat și oportunități de învățare",
             "b": "elevul își asumă progresul, nu e văzut ca recipient pasiv",
@@ -50070,11 +50070,11 @@
         },
         {
           "id": 10669,
-          "text": "Care trei capcane trebuie evitate când interpretezi educația umanistă?",
+          "text": "Care dintre următoarele capcane trebuie evitate când interpretezi educația umanistă?",
           "options": {
             "a": "ideea că empatia profesorului înlocuiește pregătirea la disciplină",
             "b": "credința că umanismul exclude conținutul disciplinar sau rigoarea intelectuală",
-            "c": "atribuirea lui Maslow a conceptului de învățare semnificativă rogersiană",
+            "c": "atribuirea lui Maslow a conceptului de învățare semnificativă în abordarea lui Carl Rogers",
             "d": "confundarea facilitării cu permisivitatea totală fără limite"
           },
           "kind": "multi",
@@ -50083,7 +50083,7 @@
             "c",
             "d"
           ],
-          "explanation": "Capcane: confundarea facilitării cu permisivitatea totală; credința că umanismul exclude conținut disciplinar sau rigoarea intelectuală; atribuirea lui Maslow a învățării semnificative rogersiene. Empatia nu înlocuiește pregătirea la disciplină — le completează.",
+          "explanation": "Capcane: confundarea facilitării cu permisivitatea totală; credința că umanismul exclude conținut disciplinar sau rigoarea intelectuală; atribuirea lui Maslow a învățării semnificative în abordarea lui Carl Rogers. Empatia nu înlocuiește pregătirea la disciplină — le completează.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -50140,7 +50140,7 @@
         },
         {
           "id": 10673,
-          "text": "Care două elemente definesc educația ca proces formal și organizat?",
+          "text": "Care dintre următoarele elemente definesc educația ca proces formal și organizat?",
           "options": {
             "a": "valori și finalități sociale asumate instituțional",
             "b": "orice modificare accidentală de comportament din mediu",
@@ -50159,7 +50159,7 @@
         },
         {
           "id": 10674,
-          "text": "Care trei componente descriu succesul autentic în învățare, dincolo de memorarea mecanică?",
+          "text": "Care dintre următoarele componente descriu succesul autentic în învățare, dincolo de memorarea mecanică?",
           "options": {
             "a": "repetarea fidelă a textului fără reorganizare mentală",
             "b": "aplicarea cunoștințelor în situații noi — transfer",
@@ -50197,7 +50197,7 @@
         },
         {
           "id": 10676,
-          "text": "Care două distincții între învățare și educație sunt formulate corect?",
+          "text": "Care dintre următoarele distincții între învățare și educație sunt formulate corect?",
           "options": {
             "a": "învățarea poate avea loc în afara instituțiilor; educația presupune organizare intenționată",
             "b": "educația precede orice formă de învățare la sugar",
@@ -50216,7 +50216,7 @@
         },
         {
           "id": 10677,
-          "text": "Care trei activități din piramida învățării favorizează retenția mai mare decât lectura pasivă?",
+          "text": "Care dintre următoarele activități din piramida învățării favorizează retenția mai mare decât lectura pasivă?",
           "options": {
             "a": "ascultarea neinteractivă a unei prelegeri lungi, fără participare",
             "b": "aplicarea practică a cunoștințelor în exerciții și situații reale",
@@ -50291,7 +50291,7 @@
         },
         {
           "id": 10681,
-          "text": "Care patru formulări descriu corect rolul învățării ca activitate permanentă?",
+          "text": "Care dintre următoarele formulări descriu corect rolul învățării ca activitate permanentă?",
           "options": {
             "a": "creează și reorganizează cunoaștere, nu o stochează pasiv",
             "b": "începe din primele interacțiuni cu mediul, nu la intrarea în școală",
@@ -50365,7 +50365,7 @@
         },
         {
           "id": 10685,
-          "text": "Care trei caracteristici aparțin educației ca proces organizat?",
+          "text": "Care dintre următoarele caracteristici aparțin educației ca proces organizat?",
           "options": {
             "a": "transmitere de valori și finalități sociale",
             "b": "curriculum și evaluare aliniate la competențe",
@@ -50403,7 +50403,7 @@
         },
         {
           "id": 10687,
-          "text": "Care două idei leagă eficiența învățării școlare de succesul real al elevului?",
+          "text": "Care dintre următoarele idei leagă eficiența învățării școlare de succesul real al elevului?",
           "options": {
             "a": "înțelegere profundă, nu suprafața memorării",
             "b": "numărul de pagini parcurse fără reflecție",
@@ -50422,7 +50422,7 @@
         },
         {
           "id": 10688,
-          "text": "Care patru activități sunt plasate în zona superioară a piramidei retenției (procente ridicate de păstrare)?",
+          "text": "Care dintre următoarele activități sunt plasate în zona superioară a piramidei retenției (procente ridicate de păstrare)?",
           "options": {
             "a": "învățare prin implicare activă — ex. rezolvare de probleme",
             "b": "aplicare practică în exerciții și proiecte",
@@ -50513,7 +50513,7 @@
         },
         {
           "id": 10693,
-          "text": "Care trei formulări descriu corect învățarea după cadru?",
+          "text": "Care dintre următoarele formulări descriu corect învățarea după cadru?",
           "options": {
             "a": "formală — școală, universitate, programe cu obiective și evaluare certificate",
             "b": "nonformală — cursuri, cluburi, ateliere organizate, dar în afara sistemului formal strict",
@@ -50551,7 +50551,7 @@
         },
         {
           "id": 10695,
-          "text": "Care două tipuri de învățare după conținut sunt formulate corect?",
+          "text": "Care dintre următoarele tipuri de învățare după conținut sunt formulate corect?",
           "options": {
             "a": "verbală — limbaj, simboluri, comunicare",
             "b": "socială — norme, roluri, comportamente în relație cu alții",
@@ -50570,7 +50570,7 @@
         },
         {
           "id": 10696,
-          "text": "Condiționarea clasică (pavloviană) este un mecanism de învățare în care:",
+          "text": "Condiționarea clasică (a lui Pavlov) este un mecanism de învățare în care:",
           "options": {
             "a": "un stimul neutru, asociat repetat cu un stimul necondiționat, ajunge să declanșeze un răspuns condiționat",
             "b": "consecințele comportamentului modifică probabilitatea repetării acestuia",
@@ -50588,10 +50588,10 @@
         },
         {
           "id": 10697,
-          "text": "Care două mecanisme de învățare sunt asociate cu behaviorismul operant și cu modelarea socială?",
+          "text": "Care dintre următoarele mecanisme de învățare sunt asociate cu behaviorismul operant și cu modelarea socială?",
           "options": {
             "a": "condiționare clasică — asociere stimul–stimul reflex",
-            "b": "învățare latentă tolmaniană — hărți cognitive fără recompensă imediată",
+            "b": "învățare latentă descrisă de Tolman — hărți cognitive fără recompensă imediată",
             "c": "învățare prin imitație/observare — comportamente noi din modele",
             "d": "condiționare operantă/instrumentală — consecințele întăresc sau slăbesc comportamentul"
           },
@@ -50600,7 +50600,7 @@
             "c",
             "d"
           ],
-          "explanation": "Operantă/instrumentală (Skinner): comportamentul e modelat de recompense și pedepse. Imitarea/modelarea (Bandura): învățăm prin observare. Clasică și latentă tolmaniană sunt mecanisme diferite.",
+          "explanation": "Operantă/instrumentală (Skinner): comportamentul e modelat de recompense și pedepse. Imitarea/modelarea (Bandura): învățăm prin observare. Clasică și latentă descrisă de Tolman sunt mecanisme diferite.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -50625,7 +50625,7 @@
         },
         {
           "id": 10699,
-          "text": "Care două distincții între învățarea pasivă și cea activă sunt corecte?",
+          "text": "Care dintre următoarele distincții între învățarea pasivă și cea activă sunt corecte?",
           "options": {
             "a": "pasivă: receptare a informației fără procesare profundă; activă: implicare în rezolvare, discuție, aplicare",
             "b": "activă: se limitează la memorarea definițiilor din manual",
@@ -50644,7 +50644,7 @@
         },
         {
           "id": 10700,
-          "text": "Care două forme de implicare în învățare depășesc receptarea pasivă?",
+          "text": "Care dintre următoarele forme de implicare în învățare depășesc receptarea pasivă?",
           "options": {
             "a": "colaborativă — învățare în echipă, cu roluri și discuție comună",
             "b": "pasivă — ascultarea neinteractivă a unei prelegeri lungi",
@@ -50681,7 +50681,7 @@
         },
         {
           "id": 10702,
-          "text": "Care două avantaje ale învățării personalizate sunt frecvent menționate?",
+          "text": "Care dintre următoarele avantaje ale învățării personalizate sunt frecvent menționate?",
           "options": {
             "a": "respectă stilul și ritmul propriu al elevului, crescând implicarea",
             "b": "uniformizează toți elevii la același nivel de performanță",
@@ -50716,7 +50716,7 @@
         },
         {
           "id": 10704,
-          "text": "Care trei procese aparțin învățării autoreglate?",
+          "text": "Care dintre următoarele procese aparțin învățării autoreglate?",
           "options": {
             "a": "stabilirea obiectivelor de învățare",
             "b": "ajustarea strategiilor când apar dificultăți",
@@ -50754,7 +50754,7 @@
         },
         {
           "id": 10706,
-          "text": "Care patru etape descriu ciclul învățării autoreglate?",
+          "text": "Ce etape descriu ciclul învățării autoreglate?",
           "options": {
             "a": "monitorizarea progresului",
             "b": "evaluarea rezultatelor",
@@ -50775,7 +50775,7 @@
         },
         {
           "id": 10707,
-          "text": "Care două idei definesc blended learning (învățarea combinată)?",
+          "text": "Care dintre următoarele idei definesc blended learning (învățarea combinată)?",
           "options": {
             "a": "exclude resursele multimedia și platformele web",
             "b": "combină activități față în față cu activități online",
@@ -50812,7 +50812,7 @@
         },
         {
           "id": 10709,
-          "text": "Care două componente apar frecvent în modelul blended learning?",
+          "text": "Care dintre următoarele componente apar frecvent în modelul blended learning?",
           "options": {
             "a": "lectură pasivă, fără interacțiune digitală sau umană",
             "b": "resurse și activități online (platforme, materiale digitale)",
@@ -50867,7 +50867,7 @@
         },
         {
           "id": 10712,
-          "text": "Care două forme de învățare activă sunt enumerate corect?",
+          "text": "Care dintre următoarele forme de învățare activă sunt enumerate corect?",
           "options": {
             "a": "învățare prin proiecte — elaborarea unui produs sau rezolvarea unei probleme",
             "b": "studii de caz — analiza unor situații reale sau simulate",
@@ -50904,7 +50904,7 @@
         },
         {
           "id": 10714,
-          "text": "Care patru etape compun ciclul experiențial Kolb, în ordinea logică?",
+          "text": "Ce etape compun ciclul experiențial Kolb, în ordinea logică?",
           "options": {
             "a": "conceptualizare abstractă — generalizare, teorii",
             "b": "experiență concretă",
@@ -50925,7 +50925,7 @@
         },
         {
           "id": 10715,
-          "text": "Care două caracteristici definesc învățarea experiențială?",
+          "text": "Care dintre următoarele caracteristici definesc învățarea experiențială?",
           "options": {
             "a": "bază pe experiență directă și reflecție critică asupra ei",
             "b": "ieșirea din zona de confort și relații semnificative în proces",
@@ -50960,7 +50960,7 @@
         },
         {
           "id": 10717,
-          "text": "Care trei avantaje ale învățării experiențiale sunt frecvent evocate?",
+          "text": "Care dintre următoarele avantaje ale învățării experiențiale sunt frecvent evocate?",
           "options": {
             "a": "dezvoltarea autonomiei și a responsabilității în parcurs",
             "b": "uniformizarea răspunsurilor elevilor fără comunicare",
@@ -50998,7 +50998,7 @@
         },
         {
           "id": 10719,
-          "text": "Care două forme aparțin învățării computerizate (digitale)?",
+          "text": "Care dintre următoarele forme aparțin învățării computerizate (digitale)?",
           "options": {
             "a": "instruire prin videoclipuri, simulări și resurse interactive multimedia",
             "b": "lecție orală în clasă, fără suport digital",
@@ -51053,7 +51053,7 @@
         },
         {
           "id": 10722,
-          "text": "Care trei resurse sau formate sunt asociate învățării computerizate?",
+          "text": "Care dintre următoarele resurse sau formate sunt asociate învățării computerizate?",
           "options": {
             "a": "dictare orală neînregistrată, fără suport digital",
             "b": "videoclipuri educaționale și tutoriale digitale",
@@ -51091,7 +51091,7 @@
         },
         {
           "id": 10724,
-          "text": "Care două tipuri de învățare după conținut vizează percepția și mișcarea?",
+          "text": "Care dintre următoarele tipuri de învățare după conținut vizează percepția și mișcarea?",
           "options": {
             "a": "verbală — comunicare prin limbaj",
             "b": "conceptuală — categorii și relații abstracte",
@@ -51110,7 +51110,7 @@
         },
         {
           "id": 10725,
-          "text": "Care patru mecanisme de învățare apar în clasificarea după mecanism?",
+          "text": "Care dintre următoarele mecanisme de învățare apar în clasificarea după mecanism?",
           "options": {
             "a": "învățare prin imitație/modelare",
             "b": "condiționare operantă/instrumentală",
@@ -51149,7 +51149,7 @@
         },
         {
           "id": 10727,
-          "text": "Care două forme de învățare activă implică adaptarea conținutului la interesele elevilor?",
+          "text": "Care dintre următoarele forme de învățare activă implică adaptarea conținutului la interesele elevilor?",
           "options": {
             "a": "dictarea mecanică a definițiilor din manual",
             "b": "curriculum emergent — teme care se dezvoltă din întrebările grupului",
@@ -51168,7 +51168,7 @@
         },
         {
           "id": 10728,
-          "text": "Care trei avantaje ale blended learning sunt frecvent menționate?",
+          "text": "Care dintre următoarele avantaje ale blended learning sunt frecvent menționate?",
           "options": {
             "a": "colaborare online și feedback mai rapid prin platforme",
             "b": "predominanța activităților asincrone, fără întâlniri cu profesorul",
@@ -51204,7 +51204,7 @@
         },
         {
           "id": 10730,
-          "text": "Care trei elemente sunt ajustate în învățarea personalizată?",
+          "text": "Care dintre următoarele elemente sunt ajustate în învățarea personalizată?",
           "options": {
             "a": "absența obiectivelor — elevul învață fără direcție",
             "b": "ritmul parcursului",
@@ -51258,7 +51258,7 @@
         },
         {
           "id": 10733,
-          "text": "Care două activități se potrivesc preferinței vizuale (V) în modelul VARK?",
+          "text": "Care dintre următoarele activități se potrivesc preferinței vizuale (V) în modelul VARK?",
           "options": {
             "a": "imagini, culori și hărți conceptuale",
             "b": "ascultarea unei prelegeri fără suport grafic",
@@ -51277,7 +51277,7 @@
         },
         {
           "id": 10734,
-          "text": "Care trei recomandări sunt frecvente pentru cursanții cu preferință vizuală pronunțată?",
+          "text": "Care dintre următoarele recomandări sunt frecvente pentru cursanții cu preferință vizuală pronunțată?",
           "options": {
             "a": "codificarea informației prin culori și simboluri",
             "b": "dictarea orală lungă fără niciun suport vizual",
@@ -51315,7 +51315,7 @@
         },
         {
           "id": 10736,
-          "text": "Care două strategii susțin învățarea elevului cu preferință auditivă?",
+          "text": "Care dintre următoarele strategii susțin învățarea elevului cu preferință auditivă?",
           "options": {
             "a": "lucrul izolat cu diagrame fără explicație verbală",
             "b": "repetarea informației cu voce tare sau în șoaptă",
@@ -51388,7 +51388,7 @@
         },
         {
           "id": 10740,
-          "text": "Care trei forme de activitate favorizează cursantul cu preferință kinestezică?",
+          "text": "Care dintre următoarele forme de activitate favorizează cursantul cu preferință kinestezică?",
           "options": {
             "a": "jocuri de rol și scenarii practice",
             "b": "exemple concrete legate de situații reale",
@@ -51424,7 +51424,7 @@
         },
         {
           "id": 10742,
-          "text": "Care două concluzii pedagogice privind stilurile VARK sunt corecte?",
+          "text": "Care dintre următoarele concluzii pedagogice privind stilurile VARK sunt corecte?",
           "options": {
             "a": "elevul trebuie încadrat permanent într-un singur stil și evaluat după el",
             "b": "preferința VARK înlocuiește nevoia de explicație clară și de feedback",
@@ -51443,7 +51443,7 @@
         },
         {
           "id": 10743,
-          "text": "Care două confuzii frecvente despre VARK trebuie evitate?",
+          "text": "Care dintre următoarele confuzii frecvente despre VARK trebuie evitate?",
           "options": {
             "a": "scorul la chestionar nu închide accesul la alte modalități de învățare",
             "b": "stilul kinestezic presupune renunțarea la citire și la discuție",
@@ -51462,7 +51462,7 @@
         },
         {
           "id": 10744,
-          "text": "Care patru perechi preferință VARK–activitate recomandată sunt corecte?",
+          "text": "Care dintre următoarele perechi preferință VARK–activitate recomandată sunt corecte?",
           "options": {
             "a": "vizual — diagrame, hărți mentale, organizatori grafici",
             "b": "citit/scriere — notițe, liste, definiții, reformulări scrise",
@@ -51501,7 +51501,7 @@
         },
         {
           "id": 10746,
-          "text": "Care două practici didactice reflectă concluzia că stilurile trebuie combinate, nu izolate?",
+          "text": "Care dintre următoarele practici didactice reflectă concluzia că stilurile trebuie combinate, nu izolate?",
           "options": {
             "a": "predarea prin lectură silențioasă, indiferent de preferințele elevilor",
             "b": "o lecție cu diagramă, explicație orală, notițe scurte și exercițiu practic",
@@ -51520,7 +51520,7 @@
         },
         {
           "id": 10747,
-          "text": "Care trei afirmații despre interpretarea rezultatelor VARK sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre interpretarea rezultatelor VARK sunt corecte?",
           "options": {
             "a": "un elev poate avea scoruri ridicate pe mai multe dimensiuni",
             "b": "preferințele pot fi luate în calcul la planificare, fără a exclude alte canale",
@@ -51558,7 +51558,7 @@
         },
         {
           "id": 10749,
-          "text": "Care două idei explică de ce combinarea stilurilor sporește eficiența învățării?",
+          "text": "Care dintre următoarele idei explică de ce combinarea stilurilor sporește eficiența învățării?",
           "options": {
             "a": "preferința VARK înlocuiește repetiția și aplicarea practică",
             "b": "informația codificată pe mai multe canale se leagă mai bine în memorie",
@@ -51577,7 +51577,7 @@
         },
         {
           "id": 10750,
-          "text": "Care patru recomandări generale pentru profesor derivă din modelul VARK și din concluzia pedagogică asociată?",
+          "text": "Care dintre următoarele recomandări generale pentru profesor derivă din modelul VARK și din concluzia pedagogică asociată?",
           "options": {
             "a": "propune activități practice, simulări sau exemple concrete când e posibil",
             "b": "include explicații orale, discuții și posibilitatea de a asculta/repetă vocal",
@@ -51632,7 +51632,7 @@
         },
         {
           "id": 10753,
-          "text": "Care două distincții între întărirea pozitivă și cea negativă sunt corecte?",
+          "text": "Care dintre următoarele distincții între întărirea pozitivă și cea negativă sunt corecte?",
           "options": {
             "a": "negativă: înseamnă critică verbală severă aplicată de profesor",
             "b": "pozitivă: scade comportamentul; negativă: îl crește prin pedeapsă",
@@ -51651,7 +51651,7 @@
         },
         {
           "id": 10754,
-          "text": "Pedeapsa, în abordarea skinneriană, scade frecvența comportamentului prin:",
+          "text": "Pedeapsa, în abordarea lui B. F. Skinner, scade frecvența comportamentului prin:",
           "options": {
             "a": "aplicarea unei consecințe neplăcute după comportament",
             "b": "adăugarea unei recompense pentru a marca un răspuns corect",
@@ -51669,7 +51669,7 @@
         },
         {
           "id": 10755,
-          "text": "Care două diferențe între pedeapsă și extincție sunt formulate corect?",
+          "text": "Care dintre următoarele diferențe între pedeapsă și extincție sunt formulate corect?",
           "options": {
             "a": "extincția: dispariția comportamentului când întărirea nu mai urmează",
             "b": "pedeapsa: consecință neplăcută activă care reduce comportamentul",
@@ -51688,7 +51688,7 @@
         },
         {
           "id": 10756,
-          "text": "Care patru perechi „concept–diferență esențială” sunt corecte pentru grilă?",
+          "text": "Care dintre următoarele perechi „concept–diferență esențială” sunt corecte pentru grilă?",
           "options": {
             "a": "pedeapsă vs extincție — pedeapsa adaugă consecință neplăcută; extincția scade comportamentul prin lipsa întăririi",
             "b": "învățare socială vs operantă — socială prin observare/modelare; operantă prin consecințele propriului comportament",
@@ -51727,7 +51727,7 @@
         },
         {
           "id": 10758,
-          "text": "Care două distincții între stima de sine și autoeficacitate (Bandura) sunt corecte?",
+          "text": "Care dintre următoarele distincții între stima de sine și autoeficacitate (Bandura) sunt corecte?",
           "options": {
             "a": "autoeficacitatea: legată de o competență sau sarcină concretă",
             "b": "stima de sine: mai globală, afectiv-evaluativă",
@@ -51746,7 +51746,7 @@
         },
         {
           "id": 10759,
-          "text": "Învățarea socială (Bandura) se bazează pe observare și modelare, în timp ce condiționarea operantă skinneriană pe consecințele propriului comportament.",
+          "text": "Învățarea socială (Bandura) se bazează pe observare și modelare, în timp ce condiționarea operantă în paradigma lui B. F. Skinner pe consecințele propriului comportament.",
           "options": {
             "a": "Adevărat",
             "b": "Fals"
@@ -51780,7 +51780,7 @@
         },
         {
           "id": 10761,
-          "text": "Care două distincții între învățarea formală și cea informală sunt corecte?",
+          "text": "Care dintre următoarele distincții între învățarea formală și cea informală sunt corecte?",
           "options": {
             "a": "formală: apare fără intenție pedagogică în familie sau la joacă",
             "b": "informală: spontană, din experiențe cotidiene, fără programă școlară fixă",
@@ -51817,7 +51817,7 @@
         },
         {
           "id": 10763,
-          "text": "Care două caracteristici definesc behaviorismul strict în psihologia învățării?",
+          "text": "Care dintre următoarele caracteristici definesc behaviorismul strict în psihologia învățării?",
           "options": {
             "a": "centrare pe procesarea informației și pe modelele mentale",
             "b": "explicare prin stimuli externi, asocieri și consecințe",
@@ -51829,14 +51829,14 @@
             "b",
             "d"
           ],
-          "explanation": "Behaviorism strict: măsurabil, observabil, mediu, consecințe. Nu prioritizează scheme cognitive sau empatia rogersiană — acestea sunt alte orientări.",
+          "explanation": "Behaviorism strict: măsurabil, observabil, mediu, consecințe. Nu prioritizează scheme cognitive sau empatia în abordarea lui Carl Rogers — acestea sunt alte orientări.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
         },
         {
           "id": 10764,
-          "text": "Care trei diferențe între cognitivism și behaviorism sunt corecte?",
+          "text": "Care dintre următoarele diferențe între cognitivism și behaviorism sunt corecte?",
           "options": {
             "a": "cognitivism: respinge memoria; behaviorism: introduce scheme gestaltiste",
             "b": "cognitivism: reprezentări și strategii; behaviorism strict: S–R și întărire",
@@ -51874,7 +51874,7 @@
         },
         {
           "id": 10766,
-          "text": "Care două distincții între umanism și cognitivism sunt formulate corect?",
+          "text": "Care dintre următoarele distincții între umanism și cognitivism sunt formulate corect?",
           "options": {
             "a": "umanism: sens, relație, valori, dezvoltare personală; cognitivism: procesare și structuri mentale",
             "b": "umanism și cognitivism sunt identice ca orientare școlară",
@@ -51913,21 +51913,21 @@
           "options": {
             "a": "stimul condiționat (SC) — produce răspuns condiționat (RC)",
             "b": "stimul discriminativ care întărește comportamentul operant",
-            "c": "reprezentarea mentală a labirintului tolmanian",
+            "c": "reprezentarea mentală a labirintului în experimentele lui Tolman",
             "d": "stimul necondiționat (SN) — produce reflex natural"
           },
           "kind": "single",
           "correct": [
             "a"
           ],
-          "explanation": "Pavlov: SN→RN natural; după antrenare SN devine SC→RC. Stimulul discriminativ e concept skinnerian (semnal că întărirea e posibilă). Labirintul e Tolman.",
+          "explanation": "Pavlov: SN→RN natural; după antrenare SN devine SC→RC. Stimulul discriminativ e concept al lui B. F. Skinner (semnal că întărirea e posibilă). Labirintul e Tolman.",
           "domeniu": "Psihologia învățării II",
           "tip": "unic",
           "exam_item": true
         },
         {
           "id": 10769,
-          "text": "Care două procese aparțin condiționării clasice pavloviene?",
+          "text": "Care dintre următoarele procese aparțin condiționării clasice a lui Pavlov?",
           "options": {
             "a": "autoeficacitatea legată de o sarcină școlară anume",
             "b": "generalizarea — reacție similară la stimuli asemănători cu SC",
@@ -51967,7 +51967,7 @@
           "text": "Clark L. Hull pune accentul pe reducerea impulsului (drive) și pe mecanisme biologice în explicarea învățării.",
           "options": {
             "a": "adevărat — Hull a condus experimentul cu micul Albert",
-            "b": "fals — Hull este autorul teoriei facilitării rogersiene",
+            "b": "fals — Hull este autorul teoriei facilitării descrise de Carl Rogers",
             "c": "fals — Hull a introdus hărțile cognitive și învățarea latentă",
             "d": "adevărat — învățarea reduce tensiunea drive-ului, spre obiective biologice"
           },
@@ -51982,7 +51982,7 @@
         },
         {
           "id": 10772,
-          "text": "Care două concepte sunt central asociate cu B. F. Skinner?",
+          "text": "Care dintre următoarele concepte sunt central asociate cu B. F. Skinner?",
           "options": {
             "a": "condiționare operantă/instrumentală",
             "b": "empatie, acceptare și autenticitate în relația educațională",
@@ -52001,7 +52001,7 @@
         },
         {
           "id": 10773,
-          "text": "Care trei programe de întărire parțială sunt asociate cu Skinner?",
+          "text": "Care dintre următoarele programe de întărire parțială sunt asociate cu Skinner?",
           "options": {
             "a": "întărire pe raport fix sau variabil",
             "b": "întărire vicariantă prin observarea pedepsei modelului",
@@ -52014,7 +52014,7 @@
             "c",
             "d"
           ],
-          "explanation": "Programe Skinner: continuă (fiecare răspuns), raport fix/variabil, interval fix/variabil. Întărirea vicariantă e banduriană (vezi ce primește modelul). Raport variabil menține comportamentul rezistent la extincție.",
+          "explanation": "Programe Skinner: continuă (fiecare răspuns), raport fix/variabil, interval fix/variabil. Întărirea vicariantă apare în teoria lui Albert Bandura (vezi ce primește modelul). Raport variabil menține comportamentul rezistent la extincție.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -52055,11 +52055,11 @@
         },
         {
           "id": 10776,
-          "text": "Care două concepte sunt asociate cu Albert Bandura?",
+          "text": "Care dintre următoarele concepte sunt asociate cu Albert Bandura?",
           "options": {
             "a": "determinism reciproc și autoeficacitate",
             "b": "blended learning și flipped classroom",
-            "c": "stimul necondiționat și răspuns condiționat pavlovian",
+            "c": "stimul necondiționat și răspuns condiționat în paradigma lui Pavlov",
             "d": "învățare prin observare, modelare și imitație"
           },
           "kind": "multi",
@@ -52067,7 +52067,7 @@
             "a",
             "d"
           ],
-          "explanation": "Bandura: modelare, observare, determinism reciproc (persoană↔mediu↔comportament), autoeficacitate. SN/SC sunt Pavlov. Blended e formă modernă de organizare, nu autor bandurian.",
+          "explanation": "Bandura: modelare, observare, determinism reciproc (persoană↔mediu↔comportament), autoeficacitate. SN/SC sunt Pavlov. Blended e formă modernă de organizare, nu Albert Bandura.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -52092,9 +52092,9 @@
         },
         {
           "id": 10778,
-          "text": "Care trei cuvinte-cheie aparțin cognitivismului în psihologia învățării?",
+          "text": "Care dintre următoarele cuvinte-cheie aparțin cognitivismului în psihologia învățării?",
           "options": {
-            "a": "autoactualizare și experiențe culminante maslowiene",
+            "a": "autoactualizare și experiențe culminante în teoria lui Abraham Maslow",
             "b": "procesare a informației și memorie",
             "c": "scheme, modele mentale, organizare",
             "d": "modelare cognitivă și învățare multimedia"
@@ -52112,7 +52112,7 @@
         },
         {
           "id": 10779,
-          "text": "Care patru perechi proces–autor sunt potrivite pentru condiționarea clasică pavloviană?",
+          "text": "Care dintre următoarele perechi proces–autor sunt potrivite pentru condiționarea clasică a lui Pavlov?",
           "options": {
             "a": "stimul condiționat (SC) — după antrenare, produce răspuns condiționat (RC)",
             "b": "extincție — slăbirea RC când SC nu mai e urmat de recompensă naturală",
@@ -52151,7 +52151,7 @@
         },
         {
           "id": 10781,
-          "text": "Care trei concepte sunt asociate cu Abraham Maslow în educație?",
+          "text": "Care dintre următoarele concepte sunt asociate cu Abraham Maslow în educație?",
           "options": {
             "a": "autoactualizarea",
             "b": "ierarhia trebuințelor",
@@ -52189,12 +52189,12 @@
         },
         {
           "id": 10783,
-          "text": "Care trei forme de învățare apar în sinteza cursului?",
+          "text": "Care dintre următoarele forme de învățare apar în sinteza cursului?",
           "options": {
             "a": "activă — discuții, probleme, proiecte",
             "b": "socială — norme și roluri prin interacțiune",
             "c": "experiențială — ciclul Kolb, experiență și reflecție",
-            "d": "reflexivă pavloviană — salivare la stimul neutru"
+            "d": "reflexivă în paradigma lui Pavlov — salivare la stimul neutru"
           },
           "kind": "multi",
           "correct": [
@@ -52202,7 +52202,7 @@
             "b",
             "c"
           ],
-          "explanation": "Forme moderne: activă (participare), experiențială (Kolb), socială (norme în grup). Reflexul pavlovian e mecanism, nu „formă” de organizare a învățării școlare.",
+          "explanation": "Forme moderne: activă (participare), experiențială (Kolb), socială (norme în grup). Reflexul condiționat clasic e mecanism, nu „formă” de organizare a învățării școlare.",
           "domeniu": "Psihologia învățării II",
           "tip": "multi",
           "exam_item": true
@@ -52245,9 +52245,9 @@
         },
         {
           "id": 10786,
-          "text": "Care două forme de învățare din clasificarea modernă includ tehnologia și adaptarea parcursului?",
+          "text": "Care dintre următoarele forme de învățare din clasificarea modernă includ tehnologia și adaptarea parcursului?",
           "options": {
-            "a": "pavloviană clasică — asociere SN cu SC",
+            "a": "clasică a lui Pavlov — asociere SN cu SC",
             "b": "reflexivă senzorială — percepție fără procesare",
             "c": "personalizată — ritm, conținut și strategii ajustate elevului",
             "d": "autoreglată — elevul își monitorizează și ajustează parcursul"
@@ -52282,7 +52282,7 @@
         },
         {
           "id": 10788,
-          "text": "Care trei perechi autor–contribuție sunt corecte?",
+          "text": "Care dintre următoarele perechi autor–contribuție sunt corecte?",
           "options": {
             "a": "Abraham Maslow — legea efectului și puzzle-box",
             "b": "Ivan P. Pavlov — condiționare clasică, reflexe condiționate",
@@ -52302,7 +52302,7 @@
         },
         {
           "id": 10789,
-          "text": "Care patru perechi autor–idee sunt potrivite pentru grilă?",
+          "text": "Care dintre următoarele perechi autor–idee sunt potrivite pentru grilă?",
           "options": {
             "a": "Carl R. Rogers — facilitare, empatie, învățare semnificativă",
             "b": "Edward L. Thorndike — legea efectului, încercare-eroare",
@@ -52375,7 +52375,7 @@
         },
         {
           "id": 10793,
-          "text": "Care două competențe trebuie combinate de profesorul eficient?",
+          "text": "Care dintre următoarele competențe trebuie combinate de profesorul eficient?",
           "options": {
             "a": "competență administrativă birocratică, fără relație cu sala de clasă",
             "b": "competență limitată la memorarea definițiilor din programă",
@@ -52394,7 +52394,7 @@
         },
         {
           "id": 10794,
-          "text": "Care trei elemente definesc predarea eficientă, pe lângă transmiterea conținutului?",
+          "text": "Care dintre următoarele elemente definesc predarea eficientă, pe lângă transmiterea conținutului?",
           "options": {
             "a": "accentul pe copierea mecanică a textului, fără procesare",
             "b": "construirea unor relații educative funcționale",
@@ -52432,7 +52432,7 @@
         },
         {
           "id": 10796,
-          "text": "Care două componente aparțin competenței pedagogice a profesorului?",
+          "text": "Care dintre următoarele componente aparțin competenței pedagogice a profesorului?",
           "options": {
             "a": "cunoștințe, atitudini și modul de relaționare cu elevii",
             "b": "renunțarea la feedback și la evaluarea formativă",
@@ -52469,7 +52469,7 @@
         },
         {
           "id": 10798,
-          "text": "Care două distincții între competența profesional-științifică și cea psihopedagogică sunt corecte?",
+          "text": "Care dintre următoarele distincții între competența profesional-științifică și cea psihopedagogică sunt corecte?",
           "options": {
             "a": "științifică: gestionarea conflictelor din clasă; psihopedagogică: memorarea programului fără adaptare",
             "b": "ambele se reduc la același lucru — cunoștințe din manual",
@@ -52522,7 +52522,7 @@
         },
         {
           "id": 10801,
-          "text": "Care două calități ale profesorului eficient susțin relația educațională?",
+          "text": "Care dintre următoarele calități ale profesorului eficient susțin relația educațională?",
           "options": {
             "a": "distanțare emoțională totală pentru a părea autoritar",
             "b": "comunicare clară — explicații inteligibile, feedback explicit",
@@ -52559,7 +52559,7 @@
         },
         {
           "id": 10803,
-          "text": "Care trei elemente intră în competența pedagogică, conform sintezei cursului?",
+          "text": "Care dintre următoarele elemente intră în competența pedagogică, conform sintezei cursului?",
           "options": {
             "a": "cunoștințe și motive ale profesorului pentru activitatea didactică",
             "b": "cadrele formale ale activității didactice (planificare, desfășurare)",
@@ -52597,7 +52597,7 @@
         },
         {
           "id": 10805,
-          "text": "Care două forme de adaptare la elevi reflectă competența psihopedagogică?",
+          "text": "Care dintre următoarele forme de adaptare la elevi reflectă competența psihopedagogică?",
           "options": {
             "a": "ignorarea feedback-ului elevilor pentru a termina programa",
             "b": "ajustarea explicațiilor și a exemplelor la nivelul clasei",
@@ -52616,7 +52616,7 @@
         },
         {
           "id": 10806,
-          "text": "Care patru dimensiuni combină profesorul eficient în practică?",
+          "text": "Care dintre următoarele dimensiuni combină profesorul eficient în practică?",
           "options": {
             "a": "competență de specialitate și competență pedagogică",
             "b": "organizare didactică și autoritate flexibilă",
@@ -52655,7 +52655,7 @@
         },
         {
           "id": 10808,
-          "text": "Care două caracteristici definesc relațiile educative funcționale?",
+          "text": "Care dintre următoarele caracteristici definesc relațiile educative funcționale?",
           "options": {
             "a": "respect reciproc și comunicare deschisă",
             "b": "compararea publică constantă între elevi ca motivație principală",
@@ -52708,7 +52708,7 @@
         },
         {
           "id": 10811,
-          "text": "Care trei componente ale competenței pedagogice includ dimensiunea afectiv-relațională?",
+          "text": "Care dintre următoarele componente ale competenței pedagogice includ dimensiunea afectiv-relațională?",
           "options": {
             "a": "motivele profesorului pentru activitatea didactică",
             "b": "sentimentele și modul de relaționare în clasă",
@@ -52728,7 +52728,7 @@
         },
         {
           "id": 10812,
-          "text": "Care două elemente aparțin cadrelor formale ale activității didactice?",
+          "text": "Care dintre următoarele elemente aparțin cadrelor formale ale activității didactice?",
           "options": {
             "a": "lipsa regulilor de conduită în clasă",
             "b": "organizarea timpului, a materialelor și a evaluării",
@@ -52765,7 +52765,7 @@
         },
         {
           "id": 10814,
-          "text": "Care două practici susțin un climat de clasă favorabil învățării?",
+          "text": "Care dintre următoarele practici susțin un climat de clasă favorabil învățării?",
           "options": {
             "a": "pedeapsa colectivă pentru greșelile unui elev",
             "b": "feedback constructiv și evitarea umilirii publice",
@@ -52802,7 +52802,7 @@
         },
         {
           "id": 10816,
-          "text": "Care patru componente ale predării eficiente sunt enumerate în sinteza profesorului eficient?",
+          "text": "Care dintre următoarele componente ale predării eficiente sunt enumerate în sinteza profesorului eficient?",
           "options": {
             "a": "operații mentale ghidate",
             "b": "relații educative funcționale",
@@ -52823,7 +52823,7 @@
         },
         {
           "id": 10817,
-          "text": "Care două modalități prin care profesorul generează motive pentru învățare sunt plauzibile pedagogic?",
+          "text": "Care dintre următoarele modalități prin care profesorul generează motive pentru învățare sunt plauzibile pedagogic?",
           "options": {
             "a": "arată relevanța conținutului pentru viața și interesele elevilor",
             "b": "amenință cu note mici ca unică strategie de motivare",
@@ -52860,7 +52860,7 @@
         },
         {
           "id": 10819,
-          "text": "Care trei calități reflectă capacitatea de adaptare a profesorului eficient?",
+          "text": "Care dintre următoarele calități reflectă capacitatea de adaptare a profesorului eficient?",
           "options": {
             "a": "ajustarea ritmului și a exemplelor la nevoile clasei",
             "b": "autoritate flexibilă — limite clare, dar deschidere la dialog",
@@ -52880,7 +52880,7 @@
         },
         {
           "id": 10820,
-          "text": "Care patru tipuri de competență ale profesorului apar în modelul prezentat la curs?",
+          "text": "Care dintre următoarele tipuri de competență ale profesorului apar în modelul prezentat la curs?",
           "options": {
             "a": "competență pedagogică (generală)",
             "b": "competență psihopedagogică",
@@ -52917,7 +52917,7 @@
         },
         {
           "id": 10822,
-          "text": "Care trei orientări ale atitudinii profesorului sunt frecvent distinse în literatura didactică?",
+          "text": "Care dintre următoarele orientări ale atitudinii profesorului sunt frecvent distinse în literatura didactică?",
           "options": {
             "a": "față de notă — concentrare pe cifre, fără relație cu învățarea",
             "b": "față de sine — autoreflecție, dezvoltare personală, echilibru",
@@ -52937,7 +52937,7 @@
         },
         {
           "id": 10823,
-          "text": "Care două componente aparțin atitudinii față de predare?",
+          "text": "Care dintre următoarele componente aparțin atitudinii față de predare?",
           "options": {
             "a": "organizarea conținutului și claritatea instruirii",
             "b": "gestionarea disciplinei prin pedeapsă publică ca metodă principală",
@@ -52956,7 +52956,7 @@
         },
         {
           "id": 10824,
-          "text": "Care trei efecte ale atitudinii profesorului față de elev sunt evocate în psihopedagogie?",
+          "text": "Care dintre următoarele efecte ale atitudinii profesorului față de elev sunt evocate în psihopedagogie?",
           "options": {
             "a": "disponibilitatea de participare la activitate",
             "b": "încrederea elevilor și sentimentul de siguranță",
@@ -52994,7 +52994,7 @@
         },
         {
           "id": 10826,
-          "text": "Care două canale nonverbale transmit atitudinea profesorului în clasă?",
+          "text": "Care dintre următoarele canale nonverbale transmit atitudinea profesorului în clasă?",
           "options": {
             "a": "conținutul manualului scris, fără prezența fizică a profesorului",
             "b": "tonul vocii și postura — siguranță, descurajare, disponibilitate",
@@ -53031,7 +53031,7 @@
         },
         {
           "id": 10828,
-          "text": "Care două observații despre profesorul centrat pe conținut sunt corecte?",
+          "text": "Care dintre următoarele observații despre profesorul centrat pe conținut sunt corecte?",
           "options": {
             "a": "risc: poate neglija relația profesor–elev și climatul afectiv",
             "b": "ignoră în mod necesar corectitudinea informațiilor",
@@ -53084,7 +53084,7 @@
         },
         {
           "id": 10831,
-          "text": "Care două practici reflectă orientarea profesorului centrat pe elev?",
+          "text": "Care dintre următoarele practici reflectă orientarea profesorului centrat pe elev?",
           "options": {
             "a": "compararea publică constantă a elevilor slabi cu cei buni",
             "b": "adaptarea exemplelor și a sprijinului la nevoile elevilor",
@@ -53121,7 +53121,7 @@
         },
         {
           "id": 10833,
-          "text": "Care trei trăsături descriu profesorul cu inițiativă ridicată?",
+          "text": "Care dintre următoarele trăsături descriu profesorul cu inițiativă ridicată?",
           "options": {
             "a": "organizează flexibil activitatea, în funcție de progresul clasei",
             "b": "dezvoltă responsabilitatea și autonomia în învățare",
@@ -53159,7 +53159,7 @@
         },
         {
           "id": 10835,
-          "text": "Care două diferențe între profesorul cu inițiativă ridicată și cel cu inițiativă scăzută sunt corecte?",
+          "text": "Care dintre următoarele diferențe între profesorul cu inițiativă ridicată și cel cu inițiativă scăzută sunt corecte?",
           "options": {
             "a": "ridicată: evită orice planificare sau structură",
             "b": "scăzută: pune întrebări deschise și susține descoperirea",
@@ -53178,7 +53178,7 @@
         },
         {
           "id": 10836,
-          "text": "Care patru tipuri de profesor din clasificarea pentru grilă sunt descrise corect?",
+          "text": "Care dintre următoarele tipuri de profesor din clasificarea pentru grilă sunt descrise corect?",
           "options": {
             "a": "centrat pe elev — analizează nevoile, susține descoperirea",
             "b": "cu inițiativă ridicată — flexibilitate, alegere, responsabilitate",
@@ -53217,7 +53217,7 @@
         },
         {
           "id": 10838,
-          "text": "Care două atitudini nonverbale susțin climatul afectiv pozitiv?",
+          "text": "Care dintre următoarele atitudini nonverbale susțin climatul afectiv pozitiv?",
           "options": {
             "a": "brațele încrucișate și răspunsuri uscate la întrebări",
             "b": "suspin repetat și întoarcerea spre tablă, evitând privirea elevilor",
@@ -53252,7 +53252,7 @@
         },
         {
           "id": 10840,
-          "text": "Care trei componente aparțin atitudinii față de predare?",
+          "text": "Care dintre următoarele componente aparțin atitudinii față de predare?",
           "options": {
             "a": "corectitudinea informațiilor",
             "b": "claritatea instruirii",
@@ -53290,7 +53290,7 @@
         },
         {
           "id": 10842,
-          "text": "Care două caracteristici definesc atitudinea orientată față de profesie?",
+          "text": "Care dintre următoarele caracteristici definesc atitudinea orientată față de profesie?",
           "options": {
             "a": "respectul pentru standardele și etica meseriei",
             "b": "lipsa autoreflecției profesionale și a feedback-ului de la colegi",
@@ -53309,7 +53309,7 @@
         },
         {
           "id": 10843,
-          "text": "Care trei mesaje nonverbale pot transmite respect și siguranță?",
+          "text": "Care dintre următoarele mesaje nonverbale pot transmite respect și siguranță?",
           "options": {
             "a": "postură deschisă și prezență atentă în clasă",
             "b": "ton încurajator, fără umilire publică",
@@ -53347,7 +53347,7 @@
         },
         {
           "id": 10845,
-          "text": "Care două diferențe între profesorul centrat pe conținut și cel centrat pe elev sunt corecte?",
+          "text": "Care dintre următoarele diferențe între profesorul centrat pe conținut și cel centrat pe elev sunt corecte?",
           "options": {
             "a": "conținut: exclude corectitudinea informațiilor; elev: exclude întrebările",
             "b": "conținut: prioritate la structurarea materiei; elev: prioritate la nevoi și descoperire",
@@ -53366,7 +53366,7 @@
         },
         {
           "id": 10846,
-          "text": "Care patru efecte ale atitudinii profesorului față de elev sunt enumerate în sinteza cursului?",
+          "text": "Care dintre următoarele efecte ale atitudinii profesorului față de elev sunt enumerate în sinteza cursului?",
           "options": {
             "a": "încrederea elevilor",
             "b": "sentimentul de siguranță",
@@ -53405,7 +53405,7 @@
         },
         {
           "id": 10848,
-          "text": "Care două practici reflectă profesorul centrat pe interacțiune?",
+          "text": "Care dintre următoarele practici reflectă profesorul centrat pe interacțiune?",
           "options": {
             "a": "evaluare finală fără nicio discuție în timpul lecției",
             "b": "monolog de o oră, fără întrebări din partea clasei",
@@ -53442,7 +53442,7 @@
         },
         {
           "id": 10850,
-          "text": "Care trei orientări pot modela stilul didactic al profesorului?",
+          "text": "Care dintre următoarele orientări pot modela stilul didactic al profesorului?",
           "options": {
             "a": "atitudinea față de elev",
             "b": "atitudinea față de sine",
@@ -53480,7 +53480,7 @@
         },
         {
           "id": 10852,
-          "text": "Care două capcane trebuie evitate când interpretezi tipurile de profesor?",
+          "text": "Care dintre următoarele capcane trebuie evitate când interpretezi tipurile de profesor?",
           "options": {
             "a": "centrat pe elev nu înseamnă renunțarea la structură și la conținut",
             "b": "centrat pe conținut nu înseamnă automat lipsă de respect față de elevi",
@@ -53499,7 +53499,7 @@
         },
         {
           "id": 10853,
-          "text": "Care patru perechi tip de profesor–accent sunt potrivite pentru grilă?",
+          "text": "Care dintre următoarele perechi tip de profesor–accent sunt potrivite pentru grilă?",
           "options": {
             "a": "centrat pe elev — nevoi, întrebări, descoperire",
             "b": "centrat pe interacțiune — relație, participare activă",
@@ -53538,7 +53538,7 @@
         },
         {
           "id": 10855,
-          "text": "Care două trăsături ale profesorului cu inițiativă ridicată susțin autonomia elevilor?",
+          "text": "Care dintre următoarele trăsături ale profesorului cu inițiativă ridicată susțin autonomia elevilor?",
           "options": {
             "a": "stimularea responsabilității pentru propriul parcurs de învățare",
             "b": "controlul pas cu pas al fiecărui răspuns, fără alegere",
@@ -53557,7 +53557,7 @@
         },
         {
           "id": 10856,
-          "text": "Care trei semnale nonverbale pot reduce participarea elevilor?",
+          "text": "Care dintre următoarele semnale nonverbale pot reduce participarea elevilor?",
           "options": {
             "a": "ascultare atentă și încurajare prin gesturi pozitive",
             "b": "pliciseală vizibilă — căscături, privire la ceas",
@@ -53612,7 +53612,7 @@
         },
         {
           "id": 10859,
-          "text": "Care trei idei sintetizează rolul atitudinilor profesorului în clasă?",
+          "text": "Care dintre următoarele idei sintetizează rolul atitudinilor profesorului în clasă?",
           "options": {
             "a": "mesajele nonverbale transmit adesea mai mult decât cuvintele",
             "b": "atitudinile orientează stilul didactic (profesie, elev, sine)",
@@ -53635,7 +53635,7 @@
           "text": "Pentru grilă, diferența rapidă între profesorul cu inițiativă ridicată și cel cu inițiativă scăzută este:",
           "options": {
             "a": "transmitere structurată a conținutului vs analiza nevoilor elevului",
-            "b": "empatie rogersiană vs condiționare operantă skinneriană",
+            "b": "empatie în abordarea lui Carl Rogers vs condiționare operantă în paradigma lui Skinner",
             "c": "flexibilitate, stimularea alegerii și a responsabilității vs formalism rigid și control extern",
             "d": "relație și participare activă vs selectarea informației esențiale"
           },
@@ -53684,7 +53684,7 @@
         },
         {
           "id": 10863,
-          "text": "Care două elemente aparțin predării directe?",
+          "text": "Care dintre următoarele elemente aparțin predării directe?",
           "options": {
             "a": "dialog deschis în care elevul stabilește singur obiectivele lecției",
             "b": "investigarea autonomă fără întrebări din partea profesorului",
@@ -53703,7 +53703,7 @@
         },
         {
           "id": 10864,
-          "text": "Care trei componente definesc predarea indirectă?",
+          "text": "Care dintre următoarele componente definesc predarea indirectă?",
           "options": {
             "a": "întrebări și dialog care solicită gândirea elevului",
             "b": "investigare și autonomie cognitivă ghidată",
@@ -53741,7 +53741,7 @@
         },
         {
           "id": 10866,
-          "text": "Care patru afirmații despre stilurile de predare sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre stilurile de predare sunt corecte?",
           "options": {
             "a": "predarea indirectă valorifică întrebări, dialog și investigare",
             "b": "predarea directă include explicații clare ale conținutului",
@@ -53780,7 +53780,7 @@
         },
         {
           "id": 10868,
-          "text": "Care două trăsături descriu profesorul cu nivel conceptual mediu?",
+          "text": "Care dintre următoarele trăsături descriu profesorul cu nivel conceptual mediu?",
           "options": {
             "a": "percepe rolul ca interactiv — nu doar transmițător",
             "b": "vede elevul ca recipient pasiv al informației",
@@ -53815,7 +53815,7 @@
         },
         {
           "id": 10870,
-          "text": "Care trei trăsături definesc nivelul conceptual înalt al profesorului?",
+          "text": "Care dintre următoarele trăsături definesc nivelul conceptual înalt al profesorului?",
           "options": {
             "a": "metode adaptate nevoilor și nivelului copilului",
             "b": "transmitere rigidă, identică pentru toți, fără adaptare",
@@ -53835,7 +53835,7 @@
         },
         {
           "id": 10871,
-          "text": "Care două practici aparțin predării directe eficiente?",
+          "text": "Care dintre următoarele practici aparțin predării directe eficiente?",
           "options": {
             "a": "lăsarea elevilor fără orientare pentru a descoperi singuri tot",
             "b": "structurarea clară a sarcinii și a pașilor de lucru",
@@ -53872,7 +53872,7 @@
         },
         {
           "id": 10873,
-          "text": "Care trei activități reflectă predarea indirectă?",
+          "text": "Care dintre următoarele activități reflectă predarea indirectă?",
           "options": {
             "a": "proiecte sau situații-problemă cu descoperire parțială",
             "b": "investigare ghidată sau rezolvare de probleme deschise",
@@ -53910,7 +53910,7 @@
         },
         {
           "id": 10875,
-          "text": "Care două diferențe între nivel conceptual mediu și cel scăzut sunt formulate corect?",
+          "text": "Care dintre următoarele diferențe între nivel conceptual mediu și cel scăzut sunt formulate corect?",
           "options": {
             "a": "mediu: exclude dialogul; scăzut: pune întrebări deschise",
             "b": "mediu: rol interactiv; scăzut: transmitere și memorare pasivă",
@@ -53929,7 +53929,7 @@
         },
         {
           "id": 10876,
-          "text": "Care patru caracteristici aparțin predării directe?",
+          "text": "Care dintre următoarele caracteristici aparțin predării directe?",
           "options": {
             "a": "control mai mare al procesului de către profesor",
             "b": "explicații clare ale conținutului",
@@ -54002,7 +54002,7 @@
         },
         {
           "id": 10880,
-          "text": "Care patru elemente definesc predarea indirectă în sinteza cursului?",
+          "text": "Care dintre următoarele elemente definesc predarea indirectă în sinteza cursului?",
           "options": {
             "a": "întrebări și dialog",
             "b": "contexte de descoperire",
@@ -54041,7 +54041,7 @@
         },
         {
           "id": 10882,
-          "text": "Care două avantaje potențiale ale predării indirecte sunt susținute de cercetări, când elevii participă activ?",
+          "text": "Care dintre următoarele avantaje potențiale ale predării indirecte sunt susținute de cercetări, când elevii participă activ?",
           "options": {
             "a": "dezvoltarea autonomiei și a gândirii critice",
             "b": "memorare mecanică mai rapidă decât la predarea directă",
@@ -54078,7 +54078,7 @@
         },
         {
           "id": 10884,
-          "text": "Care două idei descriu trecerea de la nivel conceptual scăzut la mediu?",
+          "text": "Care dintre următoarele idei descriu trecerea de la nivel conceptual scăzut la mediu?",
           "options": {
             "a": "de la transmitere pasivă la rol interactiv al profesorului",
             "b": "de la flexibilitate maximă la rigiditate totală",
@@ -54115,7 +54115,7 @@
         },
         {
           "id": 10886,
-          "text": "Care trei niveluri ale conceptualizării profesorului sunt distinse în curs?",
+          "text": "Care dintre următoarele niveluri ale conceptualizării profesorului sunt distinse în curs?",
           "options": {
             "a": "mediu — rol interactiv, dezvoltarea elevului",
             "b": "înalt — metode adaptate, flexibilitate, eficiență",
@@ -54135,7 +54135,7 @@
         },
         {
           "id": 10887,
-          "text": "Care două situații favorizează folosirea predării indirecte?",
+          "text": "Care dintre următoarele situații favorizează folosirea predării indirecte?",
           "options": {
             "a": "clase în care elevii pot participa la dialog și gândire activă",
             "b": "introducerea unui concept complet nou, fără niciun reper anterior",
@@ -54172,7 +54172,7 @@
         },
         {
           "id": 10889,
-          "text": "Care două condiții sporesc eficiența predării indirecte, conform sintezei cursului?",
+          "text": "Care dintre următoarele condiții sporesc eficiența predării indirecte, conform sintezei cursului?",
           "options": {
             "a": "implicare activă a elevilor — gândire, discuție, aplicare",
             "b": "lecții fără obiective și fără feedback din partea profesorului",
@@ -54243,7 +54243,7 @@
         },
         {
           "id": 10893,
-          "text": "Care două practici aparțin rolului de profesor „Socrate”?",
+          "text": "Care dintre următoarele practici aparțin rolului de profesor „Socrate”?",
           "options": {
             "a": "dezbaterea și explorarea mai multor perspective",
             "b": "impunerea unui singur răspuns corect, fără argumentare",
@@ -54280,7 +54280,7 @@
         },
         {
           "id": 10895,
-          "text": "Care două trăsături definesc rolul de organizator al minților?",
+          "text": "Care dintre următoarele trăsături definesc rolul de organizator al minților?",
           "options": {
             "a": "ghidarea gândirii elevilor spre înțelegere ordonată",
             "b": "renunțarea la explicații în favoarea memorării brute",
@@ -54299,7 +54299,7 @@
         },
         {
           "id": 10896,
-          "text": "Care trei elemente definesc rolul de profesor expert?",
+          "text": "Care dintre următoarele elemente definesc rolul de profesor expert?",
           "options": {
             "a": "conducere militară a clasei, fără raționament sau demonstrație",
             "b": "competență academică solidă în domeniu",
@@ -54337,7 +54337,7 @@
         },
         {
           "id": 10898,
-          "text": "Care două componente aparțin rolului de „general”?",
+          "text": "Care dintre următoarele componente aparțin rolului de „general”?",
           "options": {
             "a": "concentrarea pe dezbatere liberă, cu limite procedurale minime",
             "b": "organizarea activității și a ordinii în grup",
@@ -54374,7 +54374,7 @@
         },
         {
           "id": 10900,
-          "text": "Care două trăsături definesc rolul de antrenor / coach?",
+          "text": "Care dintre următoarele trăsături definesc rolul de antrenor / coach?",
           "options": {
             "a": "impunerea unui ritm identic, fără feedback individual",
             "b": "exercițiu repetat, progres treptat și lucru în echipă",
@@ -54427,7 +54427,7 @@
         },
         {
           "id": 10903,
-          "text": "Care trei practici aparțin rolului de „ghid de tură”?",
+          "text": "Care dintre următoarele practici aparțin rolului de „ghid de tură”?",
           "options": {
             "a": "stimularea curiozității și a investigării",
             "b": "fixarea unui singur răspuns, fără posibilitate de explorare",
@@ -54465,7 +54465,7 @@
         },
         {
           "id": 10905,
-          "text": "Care două comportamente reflectă orientarea helping autentică?",
+          "text": "Care dintre următoarele comportamente reflectă orientarea helping autentică?",
           "options": {
             "a": "interacțiunea limitată la formulare tipizate, fără înțelegere",
             "b": "sprijinul orientat spre dezvoltarea și progresul elevului",
@@ -54484,7 +54484,7 @@
         },
         {
           "id": 10906,
-          "text": "Care patru perechi rol–accent principal sunt corecte?",
+          "text": "Care dintre următoarele perechi rol–accent principal sunt corecte?",
           "options": {
             "a": "organizator al minților — structurare, clarificare, ghidarea gândirii",
             "b": "Socrate — dialog, întrebări, dezbatere",
@@ -54575,7 +54575,7 @@
         },
         {
           "id": 10911,
-          "text": "Care două componente aparțin modelului optim al profesorului?",
+          "text": "Care dintre următoarele componente aparțin modelului optim al profesorului?",
           "options": {
             "a": "distanță relațională maximă pentru obiectivitate",
             "b": "empatie și orientare helping autentică",
@@ -54594,7 +54594,7 @@
         },
         {
           "id": 10912,
-          "text": "Care două diferențe între rolul „Socrate” și cel de „general” sunt formulate corect?",
+          "text": "Care dintre următoarele diferențe între rolul „Socrate” și cel de „general” sunt formulate corect?",
           "options": {
             "a": "Socrate: dialog și explorare; general: reguli și organizare fermă",
             "b": "Socrate: întrebări și perspective; general: disciplină și conducere",
@@ -54613,7 +54613,7 @@
         },
         {
           "id": 10913,
-          "text": "Care trei roluri profesionale și accentele lor sunt asociate corect?",
+          "text": "Care dintre următoarele roluri profesionale și accentele lor sunt asociate corect?",
           "options": {
             "a": "om de afaceri — eficiență, pragmatism, rezultate",
             "b": "antrenor / coach — sprijin, exercițiu, progres, echipă",
@@ -54633,7 +54633,7 @@
         },
         {
           "id": 10914,
-          "text": "Care două diferențe între antrenor / coach și ghid de tură sunt corecte?",
+          "text": "Care dintre următoarele diferențe între antrenor / coach și ghid de tură sunt corecte?",
           "options": {
             "a": "coach: dictare rigidă; ghid: reguli stricte de conduită",
             "b": "coach: fără feedback; ghid: fără orientare sau sugestii",
@@ -54686,7 +54686,7 @@
         },
         {
           "id": 10917,
-          "text": "Care patru trăsături definesc rolul de antrenor / coach?",
+          "text": "Care dintre următoarele trăsături definesc rolul de antrenor / coach?",
           "options": {
             "a": "sprijin și încurajare în învățare",
             "b": "exercițiu și antrenament pentru progres",
@@ -54725,7 +54725,7 @@
         },
         {
           "id": 10919,
-          "text": "Care două obiective aparțin rolului de „om de afaceri”?",
+          "text": "Care dintre următoarele obiective aparțin rolului de „om de afaceri”?",
           "options": {
             "a": "eficiență și pragmatism în organizarea lecției",
             "b": "dezbatere socratică extinsă, fără monitorizarea progresului",
@@ -54744,7 +54744,7 @@
         },
         {
           "id": 10920,
-          "text": "Care trei comportamente reflectă empatia și orientarea helping bune?",
+          "text": "Care dintre următoarele comportamente reflectă empatia și orientarea helping bune?",
           "options": {
             "a": "ajutorul orientat spre dezvoltarea elevului, nu spre control",
             "b": "ascultarea activă și susținerea în dificultate",
@@ -54782,7 +54782,7 @@
         },
         {
           "id": 10922,
-          "text": "Care două practici aparțin explorării perspectivei în rolul „Socrate”?",
+          "text": "Care dintre următoarele practici aparțin explorării perspectivei în rolul „Socrate”?",
           "options": {
             "a": "impunerea unui singur răspuns valid, fără discuție",
             "b": "întrebările care deschid mai multe puncte de vedere",
@@ -54819,7 +54819,7 @@
         },
         {
           "id": 10924,
-          "text": "Care trei componente definesc modelul optim al profesorului din curs?",
+          "text": "Care dintre următoarele componente definesc modelul optim al profesorului din curs?",
           "options": {
             "a": "empatie și orientare helping",
             "b": "proceduri didactice eficiente",
@@ -54857,7 +54857,7 @@
         },
         {
           "id": 10926,
-          "text": "Care patru trăsături definesc rolul de „om de afaceri” și al celui de „expert”, în sinteza pentru grilă?",
+          "text": "Care dintre următoarele trăsături definesc rolul de „om de afaceri” și al celui de „expert”, în sinteza pentru grilă?",
           "options": {
             "a": "om de afaceri: eficiență și pragmatism",
             "b": "om de afaceri: rezultate și stimularea performanței",
@@ -54878,7 +54878,7 @@
         },
         {
           "id": 10927,
-          "text": "Care trei diferențe între organizator al minților, expert și general sunt corecte?",
+          "text": "Care dintre următoarele diferențe între organizator al minților, expert și general sunt corecte?",
           "options": {
             "a": "general: explorare liberă fără structură sau conduită",
             "b": "organizator: ordine cognitivă și ghidarea gândirii",
@@ -54916,7 +54916,7 @@
         },
         {
           "id": 10929,
-          "text": "Care două consecințe pot apărea când lipsește una dintre componentele modelului optim?",
+          "text": "Care dintre următoarele consecințe pot apărea când lipsește una dintre componentele modelului optim?",
           "options": {
             "a": "proceduri eficiente fără empatie: climat mereu optim automat",
             "b": "empatie fără competență: sprijin afectiv insuficient pentru învățare",
@@ -54987,7 +54987,7 @@
         },
         {
           "id": 10933,
-          "text": "Care două funcții aparțin rolului informal de lider al profesorului?",
+          "text": "Care dintre următoarele funcții aparțin rolului informal de lider al profesorului?",
           "options": {
             "a": "reducerea feedbackului și a structurii activității de la începutul lecției",
             "b": "coordonarea activității și organizarea procesului de învățare",
@@ -55006,7 +55006,7 @@
         },
         {
           "id": 10934,
-          "text": "Care trei dimensiuni ale leadershipului didactic sunt menționate în curs?",
+          "text": "Care dintre următoarele dimensiuni ale leadershipului didactic sunt menționate în curs?",
           "options": {
             "a": "influențarea climatului clasei",
             "b": "coordonarea și organizarea activității",
@@ -55044,7 +55044,7 @@
         },
         {
           "id": 10936,
-          "text": "Care două consecințe pot apărea la stilul autoritar excesiv?",
+          "text": "Care dintre următoarele consecințe pot apărea la stilul autoritar excesiv?",
           "options": {
             "a": "climat tensionat, cu participare scăzută la decizii",
             "b": "comunicare deschisă și cooperare spontană în grup",
@@ -55081,7 +55081,7 @@
         },
         {
           "id": 10938,
-          "text": "Care două trăsături definesc stilul democratic?",
+          "text": "Care dintre următoarele trăsături definesc stilul democratic?",
           "options": {
             "a": "comunicare deschisă și stimularea responsabilității",
             "b": "libertate maximă fără ghidare sau obiective",
@@ -55134,7 +55134,7 @@
         },
         {
           "id": 10941,
-          "text": "Care două riscuri sunt asociate stilului permisiv / laissez-faire?",
+          "text": "Care dintre următoarele riscuri sunt asociate stilului permisiv / laissez-faire?",
           "options": {
             "a": "supra-controlul deciziilor de către profesor",
             "b": "participare forțată și responsabilitate impusă din exterior",
@@ -55171,7 +55171,7 @@
         },
         {
           "id": 10943,
-          "text": "Care trei componente apar în formula eficienței profesorului din sinteza pentru grilă?",
+          "text": "Care dintre următoarele componente apar în formula eficienței profesorului din sinteza pentru grilă?",
           "options": {
             "a": "memorare pasivă ca strategie centrală",
             "b": "conținut",
@@ -55209,7 +55209,7 @@
         },
         {
           "id": 10945,
-          "text": "Care două elemente aparțin competenței pedagogice, pe lângă cunoașterea conținutului?",
+          "text": "Care dintre următoarele elemente aparțin competenței pedagogice, pe lângă cunoașterea conținutului?",
           "options": {
             "a": "memorarea pasivă ca metodă principală",
             "b": "evitarea comunicării pentru a menține autoritatea",
@@ -55228,7 +55228,7 @@
         },
         {
           "id": 10946,
-          "text": "Care patru componente definesc eficiența profesorului în sinteza pentru grilă?",
+          "text": "Care dintre următoarele componente definesc eficiența profesorului în sinteza pentru grilă?",
           "options": {
             "a": "adaptare",
             "b": "relație",
@@ -55267,7 +55267,7 @@
         },
         {
           "id": 10948,
-          "text": "Care două roluri ale profesorului eficient sunt formulate corect?",
+          "text": "Care dintre următoarele roluri ale profesorului eficient sunt formulate corect?",
           "options": {
             "a": "evaluator sumativ, fără rol de motivare sau facilitare",
             "b": "receptor pasiv al feedbackului, fără adaptare",
@@ -55302,7 +55302,7 @@
         },
         {
           "id": 10950,
-          "text": "Care patru afirmații din sinteza pentru grilă sunt corecte?",
+          "text": "Care dintre următoarele afirmații din sinteza pentru grilă sunt corecte?",
           "options": {
             "a": "profesorul eficient este specialist, organizator, model și facilitator",
             "b": "competența pedagogică include relaționare, comunicare, climat, adaptare și evaluare",
@@ -55323,7 +55323,7 @@
         },
         {
           "id": 10951,
-          "text": "Care trei tipuri de competență trebuie diferențiate la grilă?",
+          "text": "Care dintre următoarele tipuri de competență trebuie diferențiate la grilă?",
           "options": {
             "a": "competență administrativă — birocrație școlară ca sinonim psihosocial",
             "b": "competență psihopedagogică — adaptare didactică",
@@ -55361,7 +55361,7 @@
         },
         {
           "id": 10953,
-          "text": "Care două diferențe între competența psihopedagogică și cea psihosocială sunt corecte?",
+          "text": "Care dintre următoarele diferențe între competența psihopedagogică și cea psihosocială sunt corecte?",
           "options": {
             "a": "psihopedagogică: adaptare didactică; psihosocială: relații și climat",
             "b": "psihopedagogică: birocrație; psihosocială: conținut academic",
@@ -55398,7 +55398,7 @@
         },
         {
           "id": 10955,
-          "text": "Care patru roluri definesc profesorul eficient în sinteza pentru grilă?",
+          "text": "Care dintre următoarele roluri definesc profesorul eficient în sinteza pentru grilă?",
           "options": {
             "a": "specialist în domeniu",
             "b": "facilitator al dezvoltării elevului",
@@ -55437,7 +55437,7 @@
         },
         {
           "id": 10957,
-          "text": "Care două beneficii sunt asociate stilului democratic de leadership?",
+          "text": "Care dintre următoarele beneficii sunt asociate stilului democratic de leadership?",
           "options": {
             "a": "participare mai bună a elevilor la activitate",
             "b": "control sever și decizii impuse unilateral",
@@ -55474,7 +55474,7 @@
         },
         {
           "id": 10959,
-          "text": "Care trei funcții ale profesorului ca lider al clasei sunt enumerate în curs?",
+          "text": "Care dintre următoarele funcții ale profesorului ca lider al clasei sunt enumerate în curs?",
           "options": {
             "a": "controlează și motivează grupul",
             "b": "renunță la statutul formal de cadru didactic",

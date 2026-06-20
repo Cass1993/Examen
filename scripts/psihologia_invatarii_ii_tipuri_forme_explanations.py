@@ -49,7 +49,7 @@ TIPURI_FORME_EXPLANATIONS: List[str] = [
     (
         "Operantă/instrumentală (Skinner): comportamentul e modelat de recompense și "
         "pedepse. Imitarea/modelarea (Bandura): învățăm prin observare. Clasică și "
-        "latentă tolmaniană sunt mecanisme diferite."
+        "latentă descrisă de Tolman sunt mecanisme diferite."
     ),
     # 10698
     (

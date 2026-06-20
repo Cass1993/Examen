@@ -55,7 +55,7 @@ UMANIST_EXPLANATIONS: List[str] = [
     ),
     # 10638
     (
-        "Facilitarea rogersiană include empatie (înțelegerea perspectivei elevului "
+        "Facilitarea descrisă de Carl Rogers include empatie (înțelegerea perspectivei elevului "
         "fără judecată imediată) și acceptare (respect pentru persoană, cu puncte "
         "tari și slabe). Distanțarea emoțională totală sau controlul rigid al "
         "fiecărui răspuns aparțin stilului transmițător, nu facilitatorului."
@@ -93,12 +93,12 @@ UMANIST_EXPLANATIONS: List[str] = [
         "Maslow în educație: ierarhia trebuințelor (nevoile inferioare parțial "
         "satisfăcute pentru creștere superioară), potențialul uman spre "
         "autoactualizare și experiențele culminante (momente de intensă trăire și "
-        "sens). Condiționarea operantă ca mecanism principal e skinneriană."
+        "sens). Condiționarea operantă ca mecanism principal e în paradigma lui B. F. Skinner."
     ),
     # 10644
     (
         "Mediu sigur și acceptat satisface apartenență și stimă; foamea, frica sau "
-        "umilirea constantă blochează concentrarea pe învățare. Ierarhia maslowiană "
+        "umilirea constantă blochează concentrarea pe învățare. Ierarhia lui Abraham Maslow "
         "se aplică la relațiile umane din clasă — nu e limitată la animale."
     ),
     # 10645
@@ -139,8 +139,8 @@ UMANIST_EXPLANATIONS: List[str] = [
     (
         "Rogers: relația facilitatoare, învățarea semnificativă, empatie–acceptare–"
         "autenticitate în clasă. Maslow: ierarhia trebuințelor, autoactualizarea, "
-        "experiențele culminante. Nu confundați: ierarhia e maslowiană; condițiile "
-        "facilitatoare sunt rogersiene."
+        "experiențele culminante. Nu confundați: ierarhia e a lui Abraham Maslow; condițiile "
+        "facilitatoare sunt cele ale lui Carl Rogers."
     ),
     # 10651
     (
@@ -159,7 +159,7 @@ UMANIST_EXPLANATIONS: List[str] = [
     ),
     # 10653
     (
-        "Profesorul rogersian la un elev anxios: ascultă, validează emoția, "
+        "Profesorul în abordarea lui Carl Rogers la un elev anxios: ascultă, validează emoția, "
         "explorează semnificația situației; oferă acceptare și sprijin pentru "
         "strategii de coping. Ignorarea emoțiilor sau compararea publică cu "
         "colegii contrazic facilitarea."
@@ -176,7 +176,7 @@ UMANIST_EXPLANATIONS: List[str] = [
         "Tensiune reală: umanismul valorizează parcursul individual; sistemele "
         "standardizate cer comparabilitate și bareme comune. Autoactualizarea cere "
         "timp și relație; programa fixă presupune ritm uniform — dar standardele "
-        "naționale nu au fost elaborate pe model rogersian."
+        "naționale nu au fost elaborate pe model descris de Carl Rogers."
     ),
     # 10656
     (
@@ -197,7 +197,7 @@ UMANIST_EXPLANATIONS: List[str] = [
         "Experiențele culminante (Maslow): momente de intensă trăire, sens și "
         "depășire de sine care marchează creșterea; stări de prezență și împlinire. "
         "Note la examen după memorare sau pedepse corporale nu au legătură cu "
-        "conceptul maslowian."
+        "conceptul lui Abraham Maslow."
     ),
     # 10659
     (
@@ -272,7 +272,7 @@ UMANIST_EXPLANATIONS: List[str] = [
     (
         "Capcane: confundarea facilitării cu permisivitatea totală; credința că "
         "umanismul exclude conținut disciplinar sau rigoarea intelectuală; "
-        "atribuirea lui Maslow a învățării semnificative rogersiene. Empatia nu "
+        "atribuirea lui Maslow a învățării semnificative în abordarea lui Carl Rogers. Empatia nu "
         "înlocuiește pregătirea la disciplină — le completează."
     ),
     # 10670

@@ -31,7 +31,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei formulări descriu corect învățarea după cadru?"
+            "Care dintre următoarele formulări descriu corect învățarea după cadru?"
         ),
         "options": [
             "formală — școală, universitate, programe cu obiective și evaluare certificate",
@@ -56,7 +56,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două tipuri de învățare după conținut sunt formulate corect?"
+            "Care dintre următoarele tipuri de învățare după conținut sunt formulate corect?"
         ),
         "options": [
             "verbală — limbaj, simboluri, comunicare",
@@ -68,7 +68,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Condiționarea clasică (pavloviană) este un mecanism de învățare în care:"
+            "Condiționarea clasică (a lui Pavlov) este un mecanism de învățare în care:"
         ),
         "options": [
             "un stimul neutru, asociat repetat cu un stimul necondiționat, ajunge să "
@@ -81,7 +81,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două mecanisme de învățare sunt asociate cu behaviorismul operant "
+            "Care dintre următoarele mecanisme de învățare sunt asociate cu behaviorismul operant "
             "și cu modelarea socială?"
         ),
         "options": [
@@ -89,7 +89,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
             "comportamentul",
             "învățare prin imitație/observare — comportamente noi din modele",
             "condiționare clasică — asociere stimul–stimul reflex",
-            "învățare latentă tolmaniană — hărți cognitive fără recompensă imediată",
+            "învățare latentă descrisă de Tolman — hărți cognitive fără recompensă imediată",
         ],
         "correct": "ab",
     },
@@ -107,7 +107,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două distincții între învățarea pasivă și cea activă sunt corecte?"
+            "Care dintre următoarele distincții între învățarea pasivă și cea activă sunt corecte?"
         ),
         "options": [
             "pasivă: receptare a informației fără procesare profundă; activă: implicare "
@@ -121,7 +121,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două forme de implicare în învățare depășesc receptarea pasivă?"
+            "Care dintre următoarele forme de implicare în învățare depășesc receptarea pasivă?"
         ),
         "options": [
             "autoreglată — elevul își monitorizează și ajustează parcursul",
@@ -147,7 +147,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două avantaje ale învățării personalizate sunt frecvent menționate?"
+            "Care dintre următoarele avantaje ale învățării personalizate sunt frecvent menționate?"
         ),
         "options": [
             "respectă stilul și ritmul propriu al elevului, crescând implicarea",
@@ -168,7 +168,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei procese aparțin învățării autoreglate?"
+            "Care dintre următoarele procese aparțin învățării autoreglate?"
         ),
         "options": [
             "stabilirea obiectivelor de învățare",
@@ -192,7 +192,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru etape descriu ciclul învățării autoreglate?"
+            "Ce etape descriu ciclul învățării autoreglate?"
         ),
         "options": [
             "stabilirea obiectivelor",
@@ -204,7 +204,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei definesc blended learning (învățarea combinată)?"
+            "Care dintre următoarele idei definesc blended learning (învățarea combinată)?"
         ),
         "options": [
             "combină activități față în față cu activități online",
@@ -229,7 +229,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două componente apar frecvent în modelul blended learning?"
+            "Care dintre următoarele componente apar frecvent în modelul blended learning?"
         ),
         "options": [
             "activități sincrone sau față în față în clasă",
@@ -267,7 +267,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două forme de învățare activă sunt enumerate corect?"
+            "Care dintre următoarele forme de învățare activă sunt enumerate corect?"
         ),
         "options": [
             "studii de caz — analiza unor situații reale sau simulate",
@@ -291,7 +291,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru etape compun ciclul experiențial Kolb, în ordinea logică?"
+            "Ce etape compun ciclul experiențial Kolb, în ordinea logică?"
         ),
         "options": [
             "experiență concretă",
@@ -303,7 +303,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două caracteristici definesc învățarea experiențială?"
+            "Care dintre următoarele caracteristici definesc învățarea experiențială?"
         ),
         "options": [
             "bază pe experiență directă și reflecție critică asupra ei",
@@ -323,7 +323,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei avantaje ale învățării experiențiale sunt frecvent evocate?"
+            "Care dintre următoarele avantaje ale învățării experiențiale sunt frecvent evocate?"
         ),
         "options": [
             "dezvoltarea autonomiei și a responsabilității în parcurs",
@@ -347,7 +347,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două forme aparțin învățării computerizate (digitale)?"
+            "Care dintre următoarele forme aparțin învățării computerizate (digitale)?"
         ),
         "options": [
             "e-learning pe platforme web sau aplicații educaționale",
@@ -384,7 +384,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei resurse sau formate sunt asociate învățării computerizate?"
+            "Care dintre următoarele resurse sau formate sunt asociate învățării computerizate?"
         ),
         "options": [
             "platforme web și cursuri online",
@@ -409,7 +409,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două tipuri de învățare după conținut vizează percepția și "
+            "Care dintre următoarele tipuri de învățare după conținut vizează percepția și "
             "mișcarea?"
         ),
         "options": [
@@ -422,7 +422,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru mecanisme de învățare apar în clasificarea după mecanism?"
+            "Care dintre următoarele mecanisme de învățare apar în clasificarea după mecanism?"
         ),
         "options": [
             "condiționare clasică",
@@ -446,7 +446,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două forme de învățare activă implică adaptarea conținutului "
+            "Care dintre următoarele forme de învățare activă implică adaptarea conținutului "
             "la interesele elevilor?"
         ),
         "options": [
@@ -459,7 +459,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei avantaje ale blended learning sunt frecvent menționate?"
+            "Care dintre următoarele avantaje ale blended learning sunt frecvent menționate?"
         ),
         "options": [
             "acces flexibil la resurse și ritm parțial adaptat",
@@ -479,7 +479,7 @@ TIPURI_FORME_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei elemente sunt ajustate în învățarea personalizată?"
+            "Care dintre următoarele elemente sunt ajustate în învățarea personalizată?"
         ),
         "options": [
             "ritmul parcursului",

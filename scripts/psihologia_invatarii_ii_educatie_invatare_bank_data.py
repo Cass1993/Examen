@@ -33,7 +33,7 @@ EDUCATIE_INVATARE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două elemente definesc educația ca proces formal și organizat?"
+            "Care dintre următoarele elemente definesc educația ca proces formal și organizat?"
         ),
         "options": [
             "obiective didactice stabilite și curriculum structurat",
@@ -45,7 +45,7 @@ EDUCATIE_INVATARE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei componente descriu succesul autentic în învățare, dincolo de "
+            "Care dintre următoarele componente descriu succesul autentic în învățare, dincolo de "
             "memorarea mecanică?"
         ),
         "options": [
@@ -72,7 +72,7 @@ EDUCATIE_INVATARE_ITEMS: List[Item] = [
     # —— 6–10: învățare continuă, transfer, educație ghidată ——
     {
         "stem": (
-            "Care două distincții între învățare și educație sunt formulate corect?"
+            "Care dintre următoarele distincții între învățare și educație sunt formulate corect?"
         ),
         "options": [
             "învățarea poate avea loc în afara instituțiilor; educația presupune "
@@ -86,7 +86,7 @@ EDUCATIE_INVATARE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei activități din piramida învățării favorizează retenția mai "
+            "Care dintre următoarele activități din piramida învățării favorizează retenția mai "
             "mare decât lectura pasivă?"
         ),
         "options": [
@@ -136,7 +136,7 @@ EDUCATIE_INVATARE_ITEMS: List[Item] = [
     # —— 11–15: rolul învățării, activ vs pasiv, educație organizată ——
     {
         "stem": (
-            "Care patru formulări descriu corect rolul învățării ca activitate "
+            "Care dintre următoarele formulări descriu corect rolul învățării ca activitate "
             "permanentă?"
         ),
         "options": [
@@ -181,7 +181,7 @@ EDUCATIE_INVATARE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care trei caracteristici aparțin educației ca proces organizat?"
+            "Care dintre următoarele caracteristici aparțin educației ca proces organizat?"
         ),
         "options": [
             "planificare didactică și obiective de învățare",
@@ -207,7 +207,7 @@ EDUCATIE_INVATARE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care două idei leagă eficiența învățării școlare de succesul real al "
+            "Care dintre următoarele idei leagă eficiența învățării școlare de succesul real al "
             "elevului?"
         ),
         "options": [
@@ -220,7 +220,7 @@ EDUCATIE_INVATARE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care patru activități sunt plasate în zona superioară a piramidei "
+            "Care dintre următoarele activități sunt plasate în zona superioară a piramidei "
             "retenției (procente ridicate de păstrare)?"
         ),
         "options": [
