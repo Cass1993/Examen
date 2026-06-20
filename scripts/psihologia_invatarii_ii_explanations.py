@@ -1,4 +1,4 @@
-"""Explicații didactice — Psihologia învățării II (ID 10501–10890)."""
+"""Explicații didactice — Psihologia învățării II (ID 10501–10960)."""
 
 from __future__ import annotations
 
@@ -11,6 +11,12 @@ from scripts.psihologia_invatarii_ii_atitudini_profesor_explanations import (
 )
 from scripts.psihologia_invatarii_ii_predare_stiluri_explanations import (
     PREDARE_STILURI_EXPLANATIONS,
+)
+from scripts.psihologia_invatarii_ii_roluri_empatie_explanations import (
+    ROLURI_EMPATIE_EXPLANATIONS,
+)
+from scripts.psihologia_invatarii_ii_lider_grila_explanations import (
+    LIDER_GRILA_EXPLANATIONS,
 )
 from scripts.psihologia_invatarii_ii_diferente_grila_explanations import (
     DIFERENTE_GRILA_EXPLANATIONS,
@@ -340,9 +346,9 @@ PSIHOLOGIA_INVATARII_II_EXPLANATIONS: List[str] = [
         "și motivația intrinsecă necesită și alte cadre (Tolman, cognitivism, "
         "constructivism)."
     ),
-] + BANDURA_EXPLANATIONS + COGNITIVE_EXPLANATIONS + UMANIST_EXPLANATIONS + EDUCATIE_INVATARE_EXPLANATIONS + TIPURI_FORME_EXPLANATIONS + VARK_EXPLANATIONS + DIFERENTE_GRILA_EXPLANATIONS + PROFESOR_EFICIENT_EXPLANATIONS + ATITUDINI_PROFESOR_EXPLANATIONS + PREDARE_STILURI_EXPLANATIONS
+] + BANDURA_EXPLANATIONS + COGNITIVE_EXPLANATIONS + UMANIST_EXPLANATIONS + EDUCATIE_INVATARE_EXPLANATIONS + TIPURI_FORME_EXPLANATIONS + VARK_EXPLANATIONS + DIFERENTE_GRILA_EXPLANATIONS + PROFESOR_EFICIENT_EXPLANATIONS + ATITUDINI_PROFESOR_EXPLANATIONS + PREDARE_STILURI_EXPLANATIONS + ROLURI_EMPATIE_EXPLANATIONS + LIDER_GRILA_EXPLANATIONS
 
-assert len(PSIHOLOGIA_INVATARII_II_EXPLANATIONS) == 390
+assert len(PSIHOLOGIA_INVATARII_II_EXPLANATIONS) == 460
 
 
 def attach_explanations(items: list) -> list:
@@ -357,8 +363,8 @@ def attach_explanations(items: list) -> list:
 
 
 def explanation_for_exam_id(item_id: int) -> str:
-    """Explicație după id examen (10501–10890)."""
-    if 10501 <= int(item_id) <= 10890:
+    """Explicație după id examen (10501–10960)."""
+    if 10501 <= int(item_id) <= 10960:
         idx = int(item_id) - 10501
         if 0 <= idx < len(PSIHOLOGIA_INVATARII_II_EXPLANATIONS):
             return PSIHOLOGIA_INVATARII_II_EXPLANATIONS[idx]

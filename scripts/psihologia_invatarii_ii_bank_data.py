@@ -1,4 +1,4 @@
-"""Itemi — Psihologia învățării II (390 itemi)."""
+"""Itemi — Psihologia învățării II (460 itemi)."""
 
 from __future__ import annotations
 
@@ -8,6 +8,8 @@ from scripts.psihologia_invatarii_ii_bandura_bank_data import BANDURA_ITEMS
 from scripts.psihologia_invatarii_ii_cognitive_bank_data import COGNITIVE_ITEMS
 from scripts.psihologia_invatarii_ii_atitudini_profesor_bank_data import ATITUDINI_PROFESOR_ITEMS
 from scripts.psihologia_invatarii_ii_predare_stiluri_bank_data import PREDARE_STILURI_ITEMS
+from scripts.psihologia_invatarii_ii_roluri_empatie_bank_data import ROLURI_EMPATIE_ITEMS
+from scripts.psihologia_invatarii_ii_lider_grila_bank_data import LIDER_GRILA_ITEMS
 from scripts.psihologia_invatarii_ii_diferente_grila_bank_data import DIFERENTE_GRILA_ITEMS
 from scripts.psihologia_invatarii_ii_educatie_invatare_bank_data import (
     EDUCATIE_INVATARE_ITEMS,
@@ -630,6 +632,6 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
         "tf": True,
         "correct_tf": True,
     },
-] + BANDURA_ITEMS + COGNITIVE_ITEMS + UMANIST_ITEMS + EDUCATIE_INVATARE_ITEMS + TIPURI_FORME_ITEMS + VARK_ITEMS + DIFERENTE_GRILA_ITEMS + PROFESOR_EFICIENT_ITEMS + ATITUDINI_PROFESOR_ITEMS + PREDARE_STILURI_ITEMS
+] + BANDURA_ITEMS + COGNITIVE_ITEMS + UMANIST_ITEMS + EDUCATIE_INVATARE_ITEMS + TIPURI_FORME_ITEMS + VARK_ITEMS + DIFERENTE_GRILA_ITEMS + PROFESOR_EFICIENT_ITEMS + ATITUDINI_PROFESOR_ITEMS + PREDARE_STILURI_ITEMS + ROLURI_EMPATIE_ITEMS + LIDER_GRILA_ITEMS
 
-assert len(PSIHOLOGIA_INVATARII_II_ITEMS) == 390
+assert len(PSIHOLOGIA_INVATARII_II_ITEMS) == 460
