@@ -125,7 +125,7 @@ def bank_path_fallback() -> Path:
     return BANK_MD_DEFAULT
 
 
-WORDING_VERSION = "164"  # Statistică II +20 ANOVA
+WORDING_VERSION = "168"  # Caracteristici psihometrice II +40 selecție profesională
 
 
 def _questions_cache_key() -> str:
@@ -250,6 +250,15 @@ def _questions_cache_key() -> str:
         APP_DIR / "scripts" / "statistica_ii_recap_rapid_explanations.py",
         APP_DIR / "scripts" / "statistica_ii_anova_bank_data.py",
         APP_DIR / "scripts" / "statistica_ii_anova_explanations.py",
+        APP_DIR / "scripts" / "caracteristici_psihometrice_ii_bank_data.py",
+        APP_DIR / "scripts" / "caracteristici_psihometrice_ii_explanations.py",
+        APP_DIR / "scripts" / "caracteristici_psihometrice_ii_exam_items.py",
+        APP_DIR / "scripts" / "caracteristici_psihometrice_ii_fidelitate_bank_data.py",
+        APP_DIR / "scripts" / "caracteristici_psihometrice_ii_fidelitate_explanations.py",
+        APP_DIR / "scripts" / "caracteristici_psihometrice_ii_validitate_bank_data.py",
+        APP_DIR / "scripts" / "caracteristici_psihometrice_ii_validitate_explanations.py",
+        APP_DIR / "scripts" / "caracteristici_psihometrice_ii_selecie_profesionala_bank_data.py",
+        APP_DIR / "scripts" / "caracteristici_psihometrice_ii_selecie_profesionala_explanations.py",
         APP_DIR / "scripts" / "perspectiva_psihometrica_bank_data.py",
         APP_DIR / "scripts" / "psihopatologie_ii_option_polish.py",
         APP_DIR / "scripts" / "psihoterapie_ii_option_polish.py",
@@ -563,6 +572,7 @@ def _is_exam_ii_explanation_id(qid: int) -> bool:
         or 10001 <= qid <= 10490
         or 10501 <= qid <= 10960
         or 10961 <= qid <= 11245
+        or 11246 <= qid <= 11445
     )
 
 

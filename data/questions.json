@@ -60853,8 +60853,3760 @@
           "exam_item": true
         }
       ]
+    },
+    "Caracteristici psihometrice II": {
+      "questions": [
+        {
+          "id": 11246,
+          "text": "Alfred Binet a construit un instrument psihologic ce urmărea măsurarea performanței intelectuale, nu o simplă riglă fizică.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Binet a subliniat că măsurarea inteligenței nu e ca urcatul pe un cântar: nu obții imediat o valoare „directă”, ci estimezi un construct printr-un set de sarcini și reguli de interpretare.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11247,
+          "text": "În psihometrie, un test este descris cel mai adecvat ca:",
+          "options": {
+            "a": "interviu clinic nestructurat",
+            "b": "metodă de observare fără cuantificare",
+            "c": "procedură liberă fără reguli de scorare",
+            "d": "instrument de măsurare a unui construct psihologic"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Testul psihologic e instrument de măsurare — procedură standardizată pentru un construct. Interviul nestructurat sau observarea fără scorare nu sunt teste în sens psihometric strict.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11248,
+          "text": "Ce diferențiază un test psihologic de o scală fizică simplă de tip centimetru?",
+          "options": {
+            "a": "măsoară constructe latente, nu lungimi direct observabile",
+            "b": "funcționează fără eroare de măsurare",
+            "c": "oferă aceeași precizie indiferent de contextul aplicării",
+            "d": "are nevoie de standardizare și norme de interpretare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Testul măsoară constructe latente (anxietate, aptitudine), nu dimensiuni fizice directe; necesită norme și standardizare. Nu e fără eroare și precizia depinde de calitatea itemilor și a condițiilor de administrare.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11249,
+          "text": "Un test credibil ca instrument de măsurare trebuie, în principal, să:",
+          "options": {
+            "a": "fie cât mai lung, indiferent de calitatea itemilor",
+            "b": "producă scoruri consistente",
+            "c": "permită interpretare pe baza unor indicatori cantitativi",
+            "d": "măsoare explicit un construct definit"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Credibilitatea cere construct clar, scoruri consistente și interpretare cantitativă. Lungimea fără calitate nu garantează calitate psihometrică.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11250,
+          "text": "Un instrument psihometric solid este caracterizat de:",
+          "options": {
+            "a": "scop clar al măsurării",
+            "b": "estimări numerice ale fidelității și validității",
+            "c": "proceduri standard de administrare",
+            "d": "interpretare raportată la criterii sau norme relevante"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru piloni ai unui instrument solid: scop, standardizare, indici numerici (fidelitate/validitate) și interpretare raportată la norme sau criterii — baza credibilității profesionale.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11251,
+          "text": "Dacă un test are coeficient de fidelitate aproximativ 0,50, evaluarea cea mai potrivită este:",
+          "options": {
+            "a": "instrument imun la eroarea de măsurare",
+            "b": "consistență excelentă, comparabilă cu 0,90",
+            "c": "instrument valid automat pentru orice criteriu",
+            "d": "consistență modestă, insuficientă pentru decizii cu miză mare"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "r ≈ 0,50 indică consistență modestă — jumătate din varianță poate fi zgomot. Insuficient pentru decizii cu miză mare (ex. selecție critică). Nu e excelent ca 0,90 și nu garantează validitate.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11252,
+          "text": "În practică, un coeficient de tip 0,80 sugerează de regulă:",
+          "options": {
+            "a": "că validitatea este garantată la același nivel numeric",
+            "b": "credibilitate mai mare decât în cazul unui coeficient 0,50",
+            "c": "absența completă a erorii de măsurare",
+            "d": "consistență bună pentru multe utilizări aplicative"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "0,80 e prag orientativ pentru consistență bună în multe contexte — mult peste 0,50. Nu elimină eroarea și nu echivalează automat validitate identică numeric.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11253,
+          "text": "Care afirmație descrie corect relația dintre valoarea numerică a unui coeficient și credibilitatea testului?",
+          "options": {
+            "a": "valoarea numerică elimină nevoia analizei contextului",
+            "b": "un coeficient mai mare indică, în general, măsurare mai stabilă",
+            "c": "orice coeficient peste zero are aceeași interpretare practică",
+            "d": "coeficienții nu pot fi comparați între forme ale aceluiași test"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Coeficienții mai mari indică, în general, măsurare mai stabilă — de aceea dau credibilitate numerică rezultatelor. Nu sunt interschimbabili mecanic și nu înlocuiesc analiza scopului testului.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11254,
+          "text": "Un instrument considerat credibil psihometric ar trebui să:",
+          "options": {
+            "a": "evite concluzii absolute bazate pe un singur coeficient",
+            "b": "folosească praguri interpretate în contextul scopului evaluării",
+            "c": "ignore complet semnificația erorii standard",
+            "d": "raporteze indici cantitativi ai calității măsurării"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Credibilitatea cere indici cantitativi interpretați contextual, nu concluzii absolute dintr-un singur număr. Eroarea standard rămâne relevantă pentru intervalul de încredere al scorului.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11255,
+          "text": "Scenariul «măsoară constructul și o face foarte bine» corespunde unui test valid și fidel.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Scenariul a din tabel: măsoară ce trebuie + calitate mare (fidelitate bună) = test sound — solid, credibil, precis.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11256,
+          "text": "Scenariul în care testul măsoară constructul vizat, dar cu mult zgomot de măsurare, este descris cel mai bine ca:",
+          "options": {
+            "a": "invaliditate totală, fără legătură cu constructul",
+            "b": "situație imposibilă teoretic",
+            "c": "validitate prezentă, fidelitate insuficientă",
+            "d": "fidelitate înaltă și validitate maximală"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Scenariul b: validitate țintă prezentă, dar mult zgomot — măsoară constructul prost (inconsistent). Nu e invalid total și nu e situație imposibilă — e test cu fidelitate insuficientă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11257,
+          "text": "Situația «invalid, dar aparent constant» implică tipic că:",
+          "options": {
+            "a": "validitatea este garantată de consistență",
+            "b": "testul poate produce scoruri stabile",
+            "c": "fidelitatea devine inutilă",
+            "d": "testul nu măsoară ce pretinde că măsoară"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Scenariul «invalid dar constant»: poate produce scoruri stabile (fidel formal) dar măsoară altceva decât pretinde — validitatea e problema, nu absența regularității.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11258,
+          "text": "În scenariul «nici nu măsoară constructul, nici nu măsoară bine», caracteristicile corecte sunt:",
+          "options": {
+            "a": "reprezentare clară a scorului real",
+            "b": "utilitate decizională redusă",
+            "c": "fidelitate scăzută",
+            "d": "validitate scăzută"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Scenariul d: nu măsoară constructul și măsoară prost — validitate scăzută, fidelitate scăzută, utilitate decizională minimă. Scorul observat nu reflectă clar SR.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11259,
+          "text": "Fidelitatea se referă în primul rând la:",
+          "options": {
+            "a": "valoarea socială percepută a testului",
+            "b": "popularitatea testului în rândul evaluatorilor",
+            "c": "consistența rezultatelor la măsurări comparabile",
+            "d": "gradul de dificultate al tuturor itemilor"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Fidelitatea = consistența măsurării — rezultate similare când condițiile sunt comparabile (retest, paralel, internă). Nu e popularitate sau dificultate itemilor.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11260,
+          "text": "Validitatea unui test se referă la faptul că:",
+          "options": {
+            "a": "numărul de itemi este întotdeauna mai mare de 100",
+            "b": "testul măsoară constructul intenționat",
+            "c": "interpretările scorurilor sunt susținute empiric",
+            "d": "coeficientul de fidelitate devine irelevant"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Validitatea = măsoară ce trebuie + interpretări susținute empiric pentru scopul ales. Numărul de itemi sau fidelitatea singură nu definesc validitatea.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11261,
+          "text": "În raportul dintre fidelitate și validitate, este corect că:",
+          "options": {
+            "a": "fidelitatea este condiție necesară, dar nu suficientă, pentru validitate",
+            "b": "un test invalid este întotdeauna imposibil statistic",
+            "c": "un test perfect fidel este automat valid pentru orice construct",
+            "d": "validitatea depinde de scopul și contextul interpretării"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Fidelitatea e necesară dar nu suficientă pentru validitate; validitatea depinde de scop. Test perfect fidel poate măsura constant constructul greșit — de aceea validitatea e esențială.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11262,
+          "text": "Coeficientul rtt este asociat în mod tipic cu fidelitatea, iar rxy cu validitatea raportată la un criteriu.",
+          "options": {
+            "a": "rtt și rxy sunt sinonime matematice",
+            "b": "rxy exprimă legătura scorurilor cu un criteriu relevant",
+            "c": "rxy este prin definiție egal cu 1",
+            "d": "rtt exprimă consistența măsurării"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "rtt indexează consistența (scor real vs observat); rxy leagă scorul de un criteriu extern. Nu sunt sinonime și rxy nu e mereu 1.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11263,
+          "text": "În mod obișnuit, relația dintre coeficienți este rxy < rtt.",
+          "options": {
+            "a": "validitatea criterială este limitată de fidelitatea măsurării",
+            "b": "validitatea poate depăși fidelitatea fără restricții",
+            "c": "o parte din varianța scorului reflectă eroare",
+            "d": "relația este invariabil inversă: rxy > rtt"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Teoretic, validitatea e limitată de fidelitate: rxy < rtt — partea din scor e eroare, deci legătura cu criteriul nu poate depăși consistența măsurării. rxy > rtt indică problemă de model sau calcul.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11264,
+          "text": "Dacă rxy ar depăși sistematic rtt în același set de date, concluzia ar fi că modelul măsurării a fost aplicat greșit.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Dacă rxy depășește sistematic rtt, ceva e incorect în estimări sau în definirea coeficienților — relația teoretică e rxy ≤ rtt.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11265,
+          "text": "În modelul clasic X = SR + E, simbolul X reprezintă:",
+          "options": {
+            "a": "eroarea totală acumulată",
+            "b": "coeficientul de validitate",
+            "c": "scorul observat",
+            "d": "scorul normativ standardizat"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "X = scor observat/brut — ce obții la administrare. Nu e eroarea totală, coeficientul de validitate sau scorul z standardizat.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11266,
+          "text": "În același model, SR și E semnifică:",
+          "options": {
+            "a": "E: eroare de măsurare care perturbă scorul observat",
+            "b": "E: nivelul de efort depus de participant",
+            "c": "SR: scorul real al persoanei pe construct",
+            "d": "SR: scorul raportat la percentila 50"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "SR = scorul real ( nivelul adevărat pe construct); E = eroarea care perturbă măsurarea. SR nu e simplu percentile 50; E nu e efortul participantului.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11267,
+          "text": "Ce strategie este cea mai potrivită pentru a apropia X de SR în evaluarea psihologică?",
+          "options": {
+            "a": "maximizarea variației contextuale de administrare",
+            "b": "creșterea arbitrară a scorurilor brute",
+            "c": "ignorarea condițiilor de testare",
+            "d": "reducerea surselor de eroare prin standardizare și itemi de calitate"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Scopul e minimizarea lui E ca X ≈ SR: itemi buni, standardizare, condiții controlate. Variabilitate arbitrară sau ignorarea condițiilor crește E.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11268,
+          "text": "Pentru minimizarea lui E sunt utile, în mod uzual, următoarele măsuri:",
+          "options": {
+            "a": "instrucțiuni clare și uniforme",
+            "b": "scorare standardizată",
+            "c": "alegerea aleatoare a cheii de corectare la fiecare administrare",
+            "d": "condiții de administrare controlate"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Instrucțiuni clare, condiții uniforme și scorare standardizată reduc E. Cheia de corectare aleatoare la fiecare administrare ar crește haosul, nu precizia.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11269,
+          "text": "Ce descriere se potrivește factorilor A, B, C, D și componentei aleatoare?",
+          "options": {
+            "a": "C: factor temporar general (de ex., stare de oboseală)",
+            "b": "D: factor temporar specific unei probe anume",
+            "c": "A: factor durabil general al persoanei",
+            "d": "B: factor durabil specific testului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru categorii din schemă: A durabil general (ex. abilitate de a înțelege instrucțiuni); B durabil specific testului; C temporar general (oboseală, motivație); D temporar specific (practică cu tipul de item, dispoziție față de test).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11270,
+          "text": "Factorul A, în această schemă, se referă în principal la:",
+          "options": {
+            "a": "variații exclusive unui singur item",
+            "b": "fluctuații momentane legate de contextul imediat",
+            "c": "trăsături relativ stabile ce influențează performanța în mai multe situații",
+            "d": "răspunsuri întâmplătoare de tip ghicire"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Factor A = trăsături/abilități relativ stabile, generale — influențează performanța în mai multe contexte, nu doar un item sau o zi.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11271,
+          "text": "Factorul B poate fi înțeles ca:",
+          "options": {
+            "a": "eroare pur aleatorie fără pattern",
+            "b": "componentă stabilă, dar specifică tipului de sarcină sau test",
+            "c": "stare tranzitorie identică pentru toți participanții",
+            "d": "sursă de diferențe relativ constante între persoane pe acel instrument"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Factor B = componentă stabilă dar legată de tipul de sarcină sau test (cunoștințe specifice, strategii învățate pentru acel format).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11272,
+          "text": "Factorii C și D diferă prin aceea că:",
+          "options": {
+            "a": "D are caracter temporar specific situației de testare",
+            "b": "C are caracter temporar general",
+            "c": "amândoi pot introduce variabilitate nerelevantă pentru SR",
+            "d": "sunt invariabil stabili pe termen lung"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "C = fluctuații temporare generale (oboseală, zgomot, examinator); D = specifice situației de testare. Ambele pot crește E fără a reflecta SR.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11273,
+          "text": "Componenta aleatoare (de exemplu, ghicirea) este asociată cu:",
+          "options": {
+            "a": "o sursă de eroare ce poate distorsiona estimarea scorului real",
+            "b": "creșterea certă a validității de construct",
+            "c": "variație impredictibilă în scoruri",
+            "d": "constanță temporală ridicată"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Ghicirea și erorile aleatoare adaugă varianță impredictibilă — distorsionează estimarea SR. Nu cresc validitatea și nu produc consistență reală a constructului.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11274,
+          "text": "În modelarea surselor de variație, ce concluzie este adecvată despre factorii temporari?",
+          "options": {
+            "a": "nu necesită control procedural în administrare",
+            "b": "nu influențează deloc consistența între aplicări",
+            "c": "pot afecta scorul observat fără a reflecta constructul țintă",
+            "d": "sunt irelevanți când itemii sunt dificili"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Factorii temporari pot schimba X fără a modifica SR — de aceea trebuie control procedural. Ignorarea lor afectează fidelitatea retestului.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11275,
+          "text": "Conform lui Claparède, care dintre calitățile unui test de aptitudini sunt enumerate corect?",
+          "options": {
+            "a": "aplicarea trebuie să fie obiectivă",
+            "b": "notarea poate fi exclusiv subiectivă, fără reguli",
+            "c": "instrucțiunile trebuie să fie clare",
+            "d": "itemii trebuie să fie interesanți"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Claparède (primele trei): itemi interesanți, aplicare obiectivă, instrucțiuni clare. Notarea exclusiv subiectivă fără reguli contrazice calitatea testului de aptitudini.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11276,
+          "text": "Alte două calități claparèdiene ale testelor de aptitudini sunt:",
+          "options": {
+            "a": "standardizarea este opțională și irelevantă pentru calitate",
+            "b": "excluderea hazardului și a ghicirii",
+            "c": "obiectivitate la notare",
+            "d": "notarea poate fi exclusiv subiectivă, fără reguli"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Două calități suplimentare: obiectivitate la notare și excluderea hazardului/ghicirea — itemii bine construiți reduc răspunsul la noroc.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11277,
+          "text": "Ce idee centrală transmite perspectiva lui Claparède privind testele de aptitudini?",
+          "options": {
+            "a": "orice item dificil este automat valid",
+            "b": "un test bun trebuie să fie util practic, nu doar elegant teoretic",
+            "c": "calitatea testului este independentă de scopul evaluării",
+            "d": "performanța se explică exclusiv prin noroc"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Claparède leagă calitatea testului de utilitate practică și rigoare la aplicare — nu de dificultate brută sau noroc. Testul trebuie să diferențieze aptitudinea reală.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11278,
+          "text": "Un instrument în spiritul celor cinci calități ar trebui să:",
+          "options": {
+            "a": "fie aplicabil în condiții comparabile",
+            "b": "permită interpretări susținute de date",
+            "c": "evite total verificările empirice ulterioare",
+            "d": "măsoare ținta psihologică declarată"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Instrument bun măsoară ținta, se aplică comparabil și susține interpretări cu date — verificările empirice rămân necesare.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11279,
+          "text": "Într-un exemplu cu QI inițial 100 și apoi 130 la retestare rapidă, fără schimbări reale plauzibile, interpretarea principală este de infidelitate.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. QI 100 apoi 130 în câteva zile, fără schimbare reală plauzibilă, sugerează test nefidel sau condiții necontrolate — exemplul clasic de instabilitate.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11280,
+          "text": "Ce sugerează, de regulă, o diferență foarte mare între două scoruri QI obținute la interval scurt?",
+          "options": {
+            "a": "validitate perfectă prin simpla repetare",
+            "b": "creștere intelectuală certă și masivă într-un timp minim",
+            "c": "anulare a tuturor indiciilor de eroare",
+            "d": "instabilitate a măsurării sau condiții necontrolate"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Salt mare QI la interval scurt → suspiciune de fidelitate slabă sau erori de administrare, nu creștere intelectuală masivă certă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11281,
+          "text": "În analiza cazului 100→130, explicații plauzibile pentru diferență pot fi:",
+          "options": {
+            "a": "variații de administrare/scorare",
+            "b": "efecte de practică sau familiarizare cu sarcina",
+            "c": "diferențe de motivație ori stare între administrări",
+            "d": "eliminarea completă a erorii la a doua testare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Explicații plauzibile: motivație/stare diferită, practică cu itemii, variații de scorare — toate cresc E. Eroarea nu dispare la retest.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11282,
+          "text": "Ce înseamnă practic că un test «măsoară, dar nu măsoară bine»?",
+          "options": {
+            "a": "validitatea este imposibilă logic",
+            "b": "deciziile individuale devin mai riscante din cauza erorii",
+            "c": "testul este neapărat inutil în orice situație",
+            "d": "există semnal de construct, dar multă variabilitate nerelevantă"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "«Măsoară, dar nu bine» = semnal de construct cu mult zgomot — validitate acceptabilă ca direcție, fidelitate insuficientă; deciziile devin riscante.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11283,
+          "text": "Pentru credibilitate psihometrică înaltă, evaluatorul ar trebui să urmărească simultan:",
+          "options": {
+            "a": "estimări bune de fidelitate",
+            "b": "transparență în interpretarea limitelor testului",
+            "c": "dovezi de validitate pentru scopul curent",
+            "d": "controlul erorilor de administrare și scorare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Credibilitate înaltă = fidelitate + validitate pentru scop + control erori + onestitate privind limitele — toate patru dimensiuni din sinteză.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11284,
+          "text": "Relația dintre fidelitate și validitate poate fi rezumată adecvat astfel:",
+          "options": {
+            "a": "un singur prag universal decide orice utilizare",
+            "b": "validitatea privește corectitudinea inferențelor",
+            "c": "coeficienții trebuie interpretați în raport cu scopul măsurării",
+            "d": "fidelitatea susține, dar nu substituie validitatea"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru idei: fidelitatea susține validitatea; validitatea e despre inferențe corecte; coeficienții se interpretează contextual; fidelitate fără validitate poate da scoruri stabile dar greșite — nu există prag universal unic.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11285,
+          "text": "În limbajul coeficienților, rtt descrie în principal:",
+          "options": {
+            "a": "proporția de variație stabilă asociată scorului real",
+            "b": "forța legăturii dintre două constructe diferite",
+            "c": "corelația directă cu un criteriu extern de performanță",
+            "d": "raportul dintre media și deviația standard"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "rtt reflectă proporția varianței datorată scorului real vs eroare — consistența măsurării. Nu e corelația cu criteriul extern (rxy).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11286,
+          "text": "În limbajul coeficienților, rxy indică în principal:",
+          "options": {
+            "a": "gradul în care scorul testului se asociază cu un criteriu relevant",
+            "b": "consistența internă a itemilor într-o singură administrare",
+            "c": "proporția de răspunsuri omise",
+            "d": "stabilitatea temporală exclusivă"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "rxy = legătura scor test–criteriu (validitate criterială). Nu e consistența internă sau stabilitatea temporală în sensul rtt.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11287,
+          "text": "În practică, limitarea validității prin fidelitate implică faptul că:",
+          "options": {
+            "a": "rxy nu depinde deloc de calitatea măsurării",
+            "b": "îmbunătățirea fidelității nu schimbă niciodată plafonul validității",
+            "c": "erorile întâmplătoare clarifică relațiile dintre variabile",
+            "d": "scorurile zgomotoase reduc corelația posibilă cu criteriul"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Zgomotul din scor (E) limitează cât de strâns poate corela testul cu criteriul — de aceea rxy < rtt. Îmbunătățirea fidelității poate ridica plafonul validității.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11288,
+          "text": "Despre modelul X = SR + E, ce enunțuri sunt corecte?",
+          "options": {
+            "a": "E poate include influențe tranzitorii și factori aleatori",
+            "b": "SR este componenta neafectată de eroare întâmplătoare",
+            "c": "dacă E scade, aproximația lui X față de SR se îmbunătățește",
+            "d": "X este ceea ce observăm efectiv în administrare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru componente model: X observat; SR nivel adevărat; E include temporari și aleatori; reducerea E apropie X de SR.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11289,
+          "text": "În proiectarea testelor, reducerea erorii E se obține adesea prin combinarea următoarelor practici:",
+          "options": {
+            "a": "monitorizarea condițiilor de aplicare",
+            "b": "specificarea clară a protocolului",
+            "c": "evitarea completă a pilotării itemilor",
+            "d": "antrenarea evaluatorilor pentru scorare consistentă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Reducerea E: evaluatori antrenați, protocol clar, monitorizare condiții. Pilotarea itemilor e utilă — evitarea ei complet nu îmbunătățește calitatea.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11290,
+          "text": "În schema A-B-C-D, componenta de ghicire poate crește aparent scorul, dar nu și scorul real corespunzător constructului.",
+          "options": {
+            "a": "crește inevitabil precizia inferențelor",
+            "b": "ghicirea adaugă varianță nerelevantă",
+            "c": "nu poate produce niciodată supraestimări punctuale ale performanței",
+            "d": "reflectă fidel aptitudinea măsurată"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Ghicirea poate umfla punctual X fără a reflecta SR — varianță aleatoare nerelevantă pentru construct.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11291,
+          "text": "Care combinație descrie cel mai bine un test de aptitudini de calitate în sens clasic?",
+          "options": {
+            "a": "aliniat la constructul țintă",
+            "b": "administrat fără standardizare, pentru flexibilitate maximă",
+            "c": "sensibil la diferențe reale între persoane",
+            "d": "suficient de stabil pentru decizii"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Test aptitudini bun: diferențiază persoanele, e suficient de stabil, măsoară constructul țintă. Standardizarea flexibilă „totală” slăbește comparabilitatea.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11292,
+          "text": "Dacă două administrări produc rezultate foarte diferite în lipsa unor schimbări reale, prima suspiciune ar trebui să fie:",
+          "options": {
+            "a": "salt autentic major al constructului în câteva zile",
+            "b": "creștere automată a validității prin repetiție",
+            "c": "irrelevanța totală a condițiilor de testare",
+            "d": "probleme de fidelitate și control al erorii"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Variații mari fără schimbări reale → verifică fidelitatea și controlul erorilor înainte de a interpreta salturi ca progres autentic.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11293,
+          "text": "În analiza scenariilor de calitate, ce indică varianta «măsoară bine ceva, dar nu ce trebuie»?",
+          "options": {
+            "a": "validitate de construct problematică",
+            "b": "fidelitate posibil ridicată",
+            "c": "potențial risc de decizii greșite",
+            "d": "compatibilitate automată cu scopul evaluării"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "«Măsoară bine ceva, dar nu ce trebuie»: poate fi fidel la constructul greșit — validitate de construct problematică, risc decizional mare.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11294,
+          "text": "În interpretarea pragurilor, ce abordare este cea mai defensabilă profesional?",
+          "options": {
+            "a": "echivalarea automată a tuturor coeficienților numerici",
+            "b": "utilizarea valorilor orientative (ex. 0,50; 0,80) împreună cu analiza scopului",
+            "c": "aplicarea unui prag unic rigid indiferent de consecințele deciziei",
+            "d": "ignorarea tipului de criteriu folosit pentru rxy"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Praguri 0,50 / 0,80 sunt orientative — se interpretează cu scopul deciziei și tipul de criteriu, nu ca reguli absolute.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11295,
+          "text": "Un test psihologic este doar o listă de itemi, iar calitatea lui nu depinde de fidelitate, validitate sau eroare.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals: calitatea unui test depinde direct de fidelitate, validitate și controlul erorii — nu e doar o listă de itemi fără standarde psihometrice.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11296,
+          "text": "Coeficientul Alpha Cronbach (α) este un indice al fidelității prin consistență internă.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. α (Alpha Cronbach) estimează consistența internă — itemii scalei „ merg împreună”. E indice de fidelitate, nu de validitate.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11297,
+          "text": "Metoda test-retest evaluează fidelitatea comparând scorurile obținute la:",
+          "options": {
+            "a": "jumătăți ale aceluiași test, într-o singură administrare",
+            "b": "aceeași formă a testului, la momente diferite",
+            "c": "două forme paralele, în aceeași zi",
+            "d": "acordul dintre doi examinatori independenți"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Test-retest: aceeași formă, timp diferit. Formele paralele imediate, half-split și inter-rater sunt alte metode cu surse de eroare diferite.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11298,
+          "text": "Care asocieri corecte descriu metoda test-retest?",
+          "options": {
+            "a": "sursa principală de eroare: diferențe între examinatori",
+            "b": "aceeași formă, interval de timp între administrări",
+            "c": "sursa principală de eroare: eșantionare temporală",
+            "d": "nu presupune readministrarea aceluiași instrument"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Test-retest → eșantionare temporală (stare, practică, maturare). Nu e despre examinatori sau jumătăți de test într-o sesiune.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11299,
+          "text": "Formele alternative administrate imediat (paralele) evaluează fidelitatea prin:",
+          "options": {
+            "a": "eșantionare temporală exclusivă, fără forme noi",
+            "b": "acord inter-rater al scorării",
+            "c": "compararea a două forme echivalente de conținut",
+            "d": "eșantionare de conținut (itemi diferiți, construct similar)"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Forme alternative imediate: două forme paralele, eroare de eșantionare de conținut (itemi diferiți). Nu e doar temporală și nu e inter-rater.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11300,
+          "text": "Formele alternative cu administrare întârziată implică:",
+          "options": {
+            "a": "interval de timp între administrări",
+            "b": "două forme paralele",
+            "c": "doar consistență internă într-o singură sesiune",
+            "d": "surse de eroare: timp și conținut combinate"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Forme alternative întârziate combină timp + conținut. Nu e consistență internă dintr-o singură administrare.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11301,
+          "text": "Metoda half-split (jumătăți) estimează fidelitatea pe baza:",
+          "options": {
+            "a": "acordului între examinatori diferiți",
+            "b": "retestării aceleiași forme după o lună",
+            "c": "eșantionării de conținut în cadrul unui singur test",
+            "d": "corelației dintre jumătățile aceluiași test"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Half-split: corelația rhh între jumătăți — eșantionare de conținut în cadrul aceluiași test. Nu e retest și nu e acord inter-rater.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11302,
+          "text": "KR-20 și Alpha Cronbach aparțin, de regulă, estimării:",
+          "options": {
+            "a": "acordului inter-rater exclusiv",
+            "b": "validității de criteriu extern",
+            "c": "stabilității temporale fără itemi",
+            "d": "fidelității prin consistență internă"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "KR-20 și α estimează consistența internă dintr-o administrare. Validitatea de criteriu și inter-rater sunt alte tipuri de fidelitate/ acord.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11303,
+          "text": "Metoda inter-rater evaluează fidelitatea prin:",
+          "options": {
+            "a": "corelația dintre jumătățile unui test",
+            "b": "compararea a două forme paralele imediate",
+            "c": "acordul dintre examinatori/scoreri",
+            "d": "sursa de eroare: diferențe între examinatori"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Inter-rater: acordul scorerilor — eroarea vine de la diferențe de examinator. Nu e half-split sau forme paralele.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11304,
+          "text": "Care perechi «metodă — sursă principală de eroare» sunt corecte?",
+          "options": {
+            "a": "test-retest — eșantionare temporală",
+            "b": "inter-rater — diferențe între examinatori",
+            "c": "half-split — eșantionare de conținut",
+            "d": "forme alternative — eșantionare de conținut"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru asocieri corecte din tabel: test-retest temporal; forme alternative conținut; half-split conținut; inter-rater diferențe examinator. Ultima nu e temporală pură.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11305,
+          "text": "Formula Spearman-Brown pentru half-split este:",
+          "options": {
+            "a": "rtt = 2·rhh / (1 + rhh)",
+            "b": "rtt = rhh + 0,50",
+            "c": "rtt = rhh / (2 − rhh)",
+            "d": "rtt = 1 − rhh²"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Spearman-Brown half-split: rtt = 2·rhh/(1+rhh). Celelalte formule inversează sau amestecă relația.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11306,
+          "text": "Dacă rhh = 0,50, valoarea rtt obținută cu Spearman-Brown este aproximativ:",
+          "options": {
+            "a": "0,33",
+            "b": "0,75",
+            "c": "0,50",
+            "d": "0,66"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "rhh = 0,50 → rtt = 2×0,50/(1+0,50) = 1/(1,5) ≈ 0,66. Nu rămâne 0,50 fără corecție.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11307,
+          "text": "Formula Spearman-Brown pentru modificarea lungimii testului are forma:",
+          "options": {
+            "a": "rnn = rtt / n",
+            "b": "rnn = n·rtt / [1 + (n−1)·rtt]",
+            "c": "rnn = rtt² · n",
+            "d": "rnn = n + rtt"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Formula lungimii: rnn = n·rtt/[1+(n−1)·rtt]. Nu rtt/n sau rtt²·n — Spearman-Brown extrapolează efectul numărului de itemi paraleli.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11308,
+          "text": "Un test cu 20 itemi are rtt = 0,87. Pentru a atinge aproximativ rtt = 0,95, Spearman-Brown sugerează:",
+          "options": {
+            "a": "o lungime de circa 56 itemi (raport n ≈ 2,82)",
+            "b": "păstrarea a 20 itemi, fără modificare",
+            "c": "reducerea la 10 itemi",
+            "d": "eliminarea jumătății itemilor pentru validitate"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Exemplu curs: 20 itemi, rtt=0,87 → n≈2,82 → ~56 itemi pentru rtt≈0,95. Presupune itemi paraleli de aceeași calitate.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11309,
+          "text": "KR-20 se aplică, de regulă, testelor cu itemi:",
+          "options": {
+            "a": "fără variabilitate între itemi",
+            "b": "cu scor pe Likert în 5 trepte",
+            "c": "dicotomici (corect/greșit)",
+            "d": "proiective nestandardizate"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "KR-20 pentru itemi dicotomici (corect/greșit). Likert și proiective folosesc de regulă Alpha, nu KR-20.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11310,
+          "text": "Alpha Cronbach este potrivită, de regulă, pentru:",
+          "options": {
+            "a": "estimarea consistenței interne a scalei",
+            "b": "necesită varianță între itemi pentru calcul",
+            "c": "acordul exclusiv între doi examinatori",
+            "d": "itemi cu mai multe opțiuni de răspuns (ex. Likert)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Alpha pentru itemi multi-punct și consistență internă. Necesită varianță între itemi. Nu măsoară validitate de criteriu sau inter-rater.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11311,
+          "text": "Alpha Cronbach măsoară validitatea de construct, nu fidelitatea.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Alpha e fidelitate (consistență internă), nu validitate. Validitatea cere dovezi că măsori constructul/criteriul țintă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11312,
+          "text": "Care elemente apar în formula KR-20 pentru itemi dicotomici?",
+          "options": {
+            "a": "varianța totală a scorurilor SDt²",
+            "b": "coeficientul de corelație cu criteriul extern rxy",
+            "c": "termenul Σpq pentru itemi",
+            "d": "numărul de itemi n"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "KR-20: n, SDt², Σpq pentru itemi dicotomici. rxy e validitate criterială, nu componentă KR-20.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11313,
+          "text": "Structura formulei Alpha Cronbach include:",
+          "options": {
+            "a": "corelația dintre jumătățile testului rhh",
+            "b": "raportul dintre suma varianțelor itemilor și varianța totală",
+            "c": "1 − Σ(SDi²) / SDt²",
+            "d": "factorul n/(n−1)"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Alpha: factor n/(n−1) și 1 − Σ(SDi²)/SDt². rhh e pentru half-split, nu Alpha direct.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11314,
+          "text": "În interpretare, α (Alpha) indică:",
+          "options": {
+            "a": "validitatea automată față de orice criteriu",
+            "b": "consistența internă — fidelitatea itemilor scalei",
+            "c": "acordul temporal garantat la retest",
+            "d": "mărimea efectului în populație"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "α indică consistența internă — fidelitatea itemilor scalei. Nu garantează validitate, retest temporal sau mărimea efectului.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11315,
+          "text": "Când rtt crește, eroarea standard a măsurării (SEM) tinde să scadă.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. SEM = SDt·√(1−rtt): când rtt crește, (1−rtt) scade → SEM scade. Legătură directă fidelitate–precizie.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11316,
+          "text": "Pentru decizii individuale cu miză mare, pragul orientativ al fidelității este:",
+          "options": {
+            "a": "≥ 0,90 – 0,95",
+            "b": "exact 1,00 obligatoriu în orice context",
+            "c": "0,70 – 0,80",
+            "d": "≤ 0,50"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Decizii individuale cu miză mare: rtt orientativ 0,90–0,95. 0,70–0,80 e pentru cercetare; 0,50 e prea mic; 1,00 e ideal teoretic, nu prag fix.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11317,
+          "text": "În cercetare, valori rtt de 0,70 – 0,80 sunt adesea considerate:",
+          "options": {
+            "a": "identice cu cerințele pentru decizii clinice individuale",
+            "b": "acceptabile, în funcție de scop și consecințe",
+            "c": "superioare obligatoriu valorii 0,95",
+            "d": "inutilizabile în orice situație"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "În cercetare exploratorie, 0,70–0,80 poate fi acceptabil contextual. Nu e același standard ca pentru decizii clinice individuale.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11318,
+          "text": "Care afirmații despre pragurile rtt sunt corecte?",
+          "options": {
+            "a": "un singur prag universal e suficient pentru orice domeniu",
+            "b": "depind de scopul utilizării testului",
+            "c": "deciziile individuale importante cer fidelitate mai mare",
+            "d": "0,70–0,80 poate fi acceptabil în cercetare exploratorie"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Pragurile depind de scop și consecințe; deciziile individuale cer fidelitate mai mare; 0,70–0,80 poate merge în cercetare. Nu există prag universal mecanic.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11319,
+          "text": "Eroarea standard a măsurării (SEM) se calculează astfel:",
+          "options": {
+            "a": "SEM = SDt / rtt",
+            "b": "SEM = SDt · √(1 − rtt)",
+            "c": "SEM = SDt · rtt",
+            "d": "SEM = √(SDt² + rtt)"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "SEM = SDt·√(1−rtt). Nu SDt·rtt sau SDt/rtt — formula leagă dispersia testului de fidelitate.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11320,
+          "text": "Dacă SDt = 10 și rtt = 0,80, SEM este aproximativ:",
+          "options": {
+            "a": "2",
+            "b": "5",
+            "c": "8",
+            "d": "10"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "SDt=10, rtt=0,80 → SEM = 10·√0,20 = 10·0,447 ≈ 4,47 → rotunjit ~5 în exemplul din curs.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11321,
+          "text": "Intervalul de încredere al scorului real se construiește, în linii mari, astfel:",
+          "options": {
+            "a": "SR ± rhh",
+            "b": "X ± rtt",
+            "c": "X ± (z · SEM)",
+            "d": "X ± SDt, indiferent de fidelitate"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Interval de încredere al scorului real: X ± z·SEM. Nu X±SDt fără fidelitate și nu X±rtt.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11322,
+          "text": "Care intervale orientative pentru scorul real sunt corecte?",
+          "options": {
+            "a": "95%: X ± 3·SEM",
+            "b": "95%: X ± 2·SEM",
+            "c": "99%: X ± 1·SEM",
+            "d": "99%: X ± 3·SEM"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Reguli orientative: 95% → ±2·SEM; 99% → ±3·SEM. Nu inversați multiplicatorii.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11323,
+          "text": "Un scor QI observat = 120, SEM = 5. Care intervale pentru scorul real sunt corecte?",
+          "options": {
+            "a": "99%: aproximativ 105 – 135",
+            "b": "95%: aproximativ 110 – 130",
+            "c": "95%: 115 – 125",
+            "d": "99%: 120 – 125"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "QI=120, SEM=5: 95% ≈ 120±10 → 110–130; 99% ≈ 120±15 → 105–135. Intervalele înguste (115–125) subestimează incertitudinea.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11324,
+          "text": "SEM este legată direct de fidelitatea testului (rtt).",
+          "options": {
+            "a": "SEM crește automat când rtt crește",
+            "b": "rtt mai mare → SEM mai mic",
+            "c": "SEM reflectă imprecizia scorului observat",
+            "d": "SEM = 0 indiferent de rtt"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "rtt mare → SEM mic; SEM reflectă imprecizia scorului. SEM nu crește cu rtt și nu e zero indiferent de fidelitate.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11325,
+          "text": "Corelația rhh obținută din half-split, fără Spearman-Brown, tinde să subestimeze rtt complet al testului.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. rhh din half-split subestimează rtt — de aceea se aplică Spearman-Brown pentru extrapolare la testul complet.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11326,
+          "text": "Metoda test-retest este preferabilă când:",
+          "options": {
+            "a": "itemii se schimbă complet între sesiuni",
+            "b": "se acceptă interval rezonabil între administrări",
+            "c": "constructul e relativ stabil în timp",
+            "d": "constructul fluctuează rapid zi de zi din definiție"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Test-retest când constructul e relativ stabil și poți aștepta între administrări. Nu când constructul sau itemii se schimbă rapid/definiție.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11327,
+          "text": "Formele alternative sunt utile când:",
+          "options": {
+            "a": "ai două seturi paralele de itemi echivalenți",
+            "b": "vrei să reduci efectul de practică/memorare a itemilor",
+            "c": "scorarea e pur subiectivă fără barem",
+            "d": "nu există variabilitate între itemi"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Forme alternative când ai forme paralele și vrei să reduci memorarea itemilor. Subiectivitatea fără barem nu le înlocuiește.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11328,
+          "text": "Care limitări ale test-retest sunt formulate corect?",
+          "options": {
+            "a": "elimină complet eroarea de conținut",
+            "b": "efect de practică sau oboseală între sesiuni",
+            "c": "nu e potrivit dacă constructul e instabil temporal",
+            "d": "schimbări reale ale trăsăturii măsurate în timp"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Limite test-retest: practică, oboseală, schimbări reale, construct instabil. Nu elimină eroarea de conținut — aceea e pentru alte metode.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11329,
+          "text": "Inter-rater este indicat în special când:",
+          "options": {
+            "a": "există risc de subiectivitate în notare",
+            "b": "toate itemii sunt cu răspuns unic computerizat",
+            "c": "testul are itemi dicotomici auto-corectați",
+            "d": "scorarea depinde de judecata examinatorului"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Inter-rater când scorarea depinde de judecata examinatorului. Itemii auto-corectați nu necesită acord inter-rater.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11330,
+          "text": "Consistența internă (KR-20, α) se estimează, de obicei, din:",
+          "options": {
+            "a": "o singură administrare a testului",
+            "b": "două forme paralele la interval de o lună",
+            "c": "acordul a trei examinatori pe probe video",
+            "d": "variația itemilor și variația totală"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Consistența internă (KR-20, α) se calculează dintr-o singură administrare, folosind variația itemilor vs total. Nu din retest sau inter-rater.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11331,
+          "text": "Erorile de eșantionare de conținut apar în special la:",
+          "options": {
+            "a": "KR-20 / Alpha",
+            "b": "half-split",
+            "c": "forme alternative",
+            "d": "test-retest cu aceeași formă identică"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Eșantionare de conținut: half-split, forme alternative, KR-20/α (itemi diferiți eșantionează constructul). Test-retest aceeași formă = temporală.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11332,
+          "text": "Eroarea de eșantionare temporală este centrală pentru:",
+          "options": {
+            "a": "test-retest",
+            "b": "Alpha într-o singură administrare",
+            "c": "forme alternative întârziate",
+            "d": "inter-rater imediat"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Eroare temporală: test-retest și forme alternative întârziate. Inter-rater și Alpha într-o sesiune au alte surse.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11333,
+          "text": "Care sinteze despre metodele de fidelitate sunt corecte?",
+          "options": {
+            "a": "inter-rater → diferențe între examinatori",
+            "b": "test-retest → eșantionare temporală",
+            "c": "forme alternative → eșantionare de conținut (± timp)",
+            "d": "half-split / KR-20 / α → conținut sau consistență internă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Sinteză tabel capitol 2: fiecare metodă cu sursa de eroare potrivită — temporală, conținut, examinator, consistență internă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11334,
+          "text": "Spearman-Brown pentru lungimea testului presupune că:",
+          "options": {
+            "a": "itemii adăugați sunt paraleli cu cei existenți",
+            "b": "orice item nou scade automat fidelitatea",
+            "c": "lungimea mai mare poate crește rtt",
+            "d": "rtt scade liniar cu numărul de itemi"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Spearman-Brown lungime: itemii adăugați trebuie paraleli; mai mulți itemi buni pot crește rtt. Nu scade automat cu n.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11335,
+          "text": "Când rtt crește, SEM devine obligatoriu mai mare decât SDt.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Când rtt crește, SEM scade — nu devine mai mare decât SDt obligatoriu; la rtt→1, SEM→0.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11336,
+          "text": "Ce indică practic un SEM mai mic?",
+          "options": {
+            "a": "validitate de construct garantată",
+            "b": "interval de încredere mai îngust",
+            "c": "scor observat mai precis în jurul scorului real",
+            "d": "eroarea de măsurare devine zero"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "SEM mic = scor mai precis, interval mai îngust. Nu garantează validitate și nu elimină complet eroarea.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11337,
+          "text": "Intervalul X ± z·SEM estimează:",
+          "options": {
+            "a": "diferența garantată față de media populației",
+            "b": "validitatea criteriului extern",
+            "c": "zona în care plutește probabil scorul real (SR)",
+            "d": "incertitudinea legată de fidelitatea testului"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "X±z·SEM estimează zona probabilă a scorului real, legată de fidelitate. Nu e validitate de criteriu sau diferență față de medie.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11338,
+          "text": "În half-split, rhh reprezintă:",
+          "options": {
+            "a": "coeficientul Alpha Cronbach",
+            "b": "corelația dintre scorurile celor două jumătăți",
+            "c": "acordul inter-rater",
+            "d": "validitatea de criteriu a testului"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "rhh = corelația dintre scorurile celor două jumătăți ale testului — baza half-split înainte de Spearman-Brown.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11339,
+          "text": "Când alegi între KR-20 și Alpha Cronbach:",
+          "options": {
+            "a": "Alpha — itemi cu mai multe opțiuni",
+            "b": "KR-20 — scale Likert cu 5 trepte",
+            "c": "KR-20 — itemi dicotomici",
+            "d": "Alpha — itemi cu varianță pe scale multi-punct"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "KR-20 pentru dicotomici; Alpha pentru multi-punct cu varianță item. Nu inversați — KR-20 pe Likert e nepotrivit.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11340,
+          "text": "Care formule și relații din capitolul fidelității sunt corecte?",
+          "options": {
+            "a": "rnn = n·rtt / [1 + (n−1)·rtt]",
+            "b": "SEM = SDt · √rtt",
+            "c": "SEM = SDt · √(1 − rtt)",
+            "d": "rtt = 2·rhh / (1 + rhh)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Trei formule corecte: Spearman-Brown half-split, Spearman-Brown lungime, SEM. SEM = SDt·√rtt e capcană — sub radical e (1−rtt).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11341,
+          "text": "Care dintre următoarele recapiturează corect pragurile și scopul lor?",
+          "options": {
+            "a": "pragurile se interpretează contextual, nu mecanic",
+            "b": "decizii individuale importante: rtt ≈ 0,90–0,95",
+            "c": "pragul depinde de consecințele deciziei",
+            "d": "cercetare: 0,70–0,80 poate fi acceptabil"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru idei praguri: clinic 0,90–0,95; cercetare 0,70–0,80; depind de scop; interpretare contextuală — nu mecanică.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11342,
+          "text": "Procedura half-split implică, de regulă:",
+          "options": {
+            "a": "extrapolarea rtt din rhh prin Spearman-Brown",
+            "b": "împărțirea testului în două părți egale",
+            "c": "corelația rhh între jumătăți",
+            "d": "correcție Spearman-Brown pentru rtt"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Half-split: împărțire test, rhh, corecție Spearman-Brown. Nu forme paralele independent create separat.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11343,
+          "text": "Care sinteze despre SEM și intervalul de încredere sunt corecte?",
+          "options": {
+            "a": "intervalul elimină complet eroarea de măsurare",
+            "b": "95%: X ± 2·SEM; 99%: X ± 3·SEM",
+            "c": "ex.: QI 120, SEM 5 → 95%: 110–130",
+            "d": "SEM scade când rtt crește"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "SEM scade cu rtt; intervale 95%/99%; exemplu QI. Intervalul nu elimină eroarea — o cuantifică.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11344,
+          "text": "Despre forme paralele, care afirmații sunt plauzibile?",
+          "options": {
+            "a": "garantează validitate de criteriu maximă automat",
+            "b": "echivalența perfectă e dificil de obținut",
+            "c": "administrarea imediată reduce efectul timpului",
+            "d": "itemii diferă, dar măsoară același construct"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Forme paralele: itemi diferiți, construct similar; echivalența perfectă e rare; imediat reduce efectul timpului. Nu garantează validitate maximă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11345,
+          "text": "Care idei despre fidelitatea testului sintetizează corect capitolul?",
+          "options": {
+            "a": "metode distincte → surse de eroare diferite",
+            "b": "Spearman-Brown corectează half-split și lungimea",
+            "c": "KR-20/α pentru consistență internă",
+            "d": "SEM + interval de încredere leagă rtt de precizia scorului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Sinteză capitol: metode–erori; Spearman-Brown; KR-20/α; SEM și interval de încredere leagă fidelitatea de precizia scorului observat.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11346,
+          "text": "Validitatea de conținut verifică dacă itemii acoperă reprezentativ domeniul de comportamente vizat.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Validitatea de conținut răspunde la întrebarea: itemii acoperă domeniul? Itemii trebuie să fie un eșantion reprezentativ al universului de comportamente/conținut vizat — nu doar să fie „buni” la o altă măsură.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11347,
+          "text": "Validitatea predictivă implică măsurarea predictorului după ce criteriul a fost deja observat.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Validitatea predictivă presupune predictor acum, criteriu ulterior (ex. test de admitere → succes la job peste un an). Dacă criteriul e măsurat înainte de predictor, logica temporală e inversată.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11348,
+          "text": "În analiza validității de construct, convergența ridicată între metode diferite pentru același construct susține validitatea.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. În MTMM, aceeași trăsătură măsurată prin metode diferite ar trebui să coreleze puternic (convergență). Asta susține că măsurăm constructul, nu doar metoda.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11349,
+          "text": "Dacă rxy depășește rtt, validitatea criterială este considerată imposibilă teoretic.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. rxy (validitate) nu poate depăși rtt (fidelitatea predictorului): un test instabil nu poate corela mai mult cu criteriul decât măsoară consistent pe sine. Dacă rxy > rtt, verifică datele sau măsurile.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11350,
+          "text": "Eroarea standard de estimare (SEE) crește când validitatea criterială rxy crește.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. SEE = SDy·√(1−rxy²). Când rxy crește, termenul (1−rxy²) scade, deci SEE scade. Validitate mai bună → predicție mai precisă, nu mai imprecisă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11351,
+          "text": "Contaminarea criteriului apare când scorul la predictor influențează direct măsura criteriului.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Contaminarea criteriului: evaluatorul criteriului știe scorul la test sau criteriul include informații din predictor → bias, rxy umflat artificial.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11352,
+          "text": "Ce descrie cel mai bine validitatea de conținut?",
+          "options": {
+            "a": "gradul în care itemii eșantionează reprezentativ universul domeniului",
+            "b": "stabilitatea scorurilor la retestare",
+            "c": "corelația testului cu un criteriu măsurat ulterior",
+            "d": "capacitatea itemilor de a discrimina extremitățile distribuției"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Conținut = acoperire domeniu (itemi reprezentativi). Criteriu = legătură cu indicator extern. Fidelitate = stabilitate/consistență. Discriminarea e alt concept (item analysis).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11353,
+          "text": "În validitatea de criteriu, „predictorul” este:",
+          "options": {
+            "a": "scorul corectat pentru ghicire la itemi obiectivi",
+            "b": "variabila externă folosită exclusiv pentru normare",
+            "c": "indicatorul intern de consistență între itemi",
+            "d": "testul folosit pentru anticiparea unui comportament relevant"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Predictor = scorul testului evaluat (instrumentul). Criteriu = performanță externă (note, job, diagnostic). Normarea și α sunt alte variabile.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11354,
+          "text": "Validitatea concurentă presupune, de regulă:",
+          "options": {
+            "a": "măsurarea criteriului exclusiv la distanță de câțiva ani",
+            "b": "măsurarea predictorului și criteriului aproximativ în același interval temporal",
+            "c": "eliminarea completă a erorii de criteriu prin randomizare",
+            "d": "estimarea validității doar pe baza consistenței interne"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Concurentă: predictor și criteriu aproximativ simultan (ex. test nou vs test deja validat). Predictivă = criteriu în viitor. Nu e doar consistență internă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11355,
+          "text": "În formula Lawshe pentru CVR, termenul Ne reprezintă:",
+          "options": {
+            "a": "numărul total de itemi ai scalei",
+            "b": "numărul respondenților care au răspuns corect",
+            "c": "numărul experților care consideră itemul esențial",
+            "d": "numărul itemilor eliminați după analiză factorială"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Lawshe CVR: Ne = experți care marchează itemul „esențial” pentru domeniu. N = total experți. Formula: CVR = (Ne − N/2) / (N/2). Nu e nr. itemi sau respondenți.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11356,
+          "text": "Un coeficient rxy este interpretat direct ca:",
+          "options": {
+            "a": "coeficient de fidelitate internă",
+            "b": "indice al dificultății medii a itemilor",
+            "c": "indicator al relației dintre predictor și criteriu",
+            "d": "măsură a reprezentativității eșantionului normativ"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "rxy = coeficient de validitate criterială (corelația predictor–criteriu). Nu e fidelitate (rtt), dificultate sau reprezentativitate normativă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11357,
+          "text": "Relația corectă dintre validitate și fidelitate este că, în practică:",
+          "options": {
+            "a": "fidelitatea este mereu mai mică decât validitatea",
+            "b": "validitatea este limitată superior de fidelitate",
+            "c": "validitatea înlocuiește analiza fidelității",
+            "d": "validitatea nu depinde deloc de fidelitate"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Validitatea e limitată de fidelitate: rxy ≤ √rxx·√ryy (logic, rxy nu depășește rtt al predictorului). Fără măsură stabilă, legătura cu criteriul e subestimată sau zgomotoasă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11358,
+          "text": "Care este formula de corecție a scorului pentru ghicire la itemi obiectivi?",
+          "options": {
+            "a": "X - W/(n-1)",
+            "b": "(X-W)/n",
+            "c": "X - W*n",
+            "d": "X + W/(n-1)"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Corecție ghicire grilă: Xcorectat = X − W/(n−1). W = greșeli, n = alternatives. Scade avantajul răspunsului aleator. Nu adună la scor.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11359,
+          "text": "În regulile Thorndike pentru itemi cu alegere multiplă, o recomandare centrală este:",
+          "options": {
+            "a": "folosirea frecventă a variantelor „toate sunt corecte”",
+            "b": "accentuarea răspunsului corect prin formulare mai lungă",
+            "c": "distractori plauzibili, apropiați semantic de răspunsul corect",
+            "d": "alternanță rigidă a poziției răspunsului corect la fiecare 4 itemi"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Thorndike: distractori plauzibili, apropiați de răspunsul corect — altfel itemul nu discriminează cunoștința reală. Evită „toate corecte”, indicii de lungime, alternanță rigidă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11360,
+          "text": "Validitatea de construct urmărește în principal:",
+          "options": {
+            "a": "mărimea eșantionului necesar pentru normare",
+            "b": "raportul dintre itemii ușori și dificili",
+            "c": "coerența rețelei teoretice și a dovezilor convergente/discriminante",
+            "d": "estimarea rapidă a timpului mediu de completare"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Construct = trăsătură teoretică (inteligență, extraversie). Validitatea de construct verifică rețeaua nomologică: ipoteze, convergență, discriminare — nu timp de completare sau normare.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11361,
+          "text": "În matricea MTMM, validitatea convergentă este susținută când:",
+          "options": {
+            "a": "corelațiile heterotrait-monomethod sunt cele mai mari",
+            "b": "corelațiile monotrait-monomethod lipsesc",
+            "c": "măsurile aceluiași construct prin metode diferite corelează ridicat",
+            "d": "toate corelațiile sunt apropiate de zero"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "MTMM convergență: monotrait-heteromethod (aceeași trăsătură, metode diferite) → corelații mari. Heterotrait-monomethod mari ar sugera confundare metodă–trăsătură.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11362,
+          "text": "În etapele propuse de Cronbach pentru validitatea de construct, un pas major este:",
+          "options": {
+            "a": "înlocuirea oricărui criteriu extern cu judecata intuitivă",
+            "b": "evitarea revizuirii itemilor după date empirice",
+            "c": "formularea rețelei nomologice și testarea predicțiilor derivate",
+            "d": "fixarea validității exclusiv prin CVR"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Cronbach (construct): 1) ipoteze despre construct; 2) predicții testabile; 3) cercetare empirică. Nu se oprește la CVR sau la intuiție fără date.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11363,
+          "text": "Ce exprimă SEE în contextul validității criteriale?",
+          "options": {
+            "a": "numărul minim de itemi necesar pentru fidelitate ridicată",
+            "b": "proporția de răspunsuri ghicite corect",
+            "c": "eroarea medie de predicție a criteriului din scorul la predictor",
+            "d": "diferența dintre două forme paralele"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "SEE = eroarea standard a estimării — marja când prezici scorul pe criteriu din predictor. Legată de validitate (rxy), nu de fidelitate (SEM e pentru fidelitate).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11364,
+          "text": "Dacă rxy este mic, predicția criteriului va fi de regulă:",
+          "options": {
+            "a": "mai precisă, cu SEE mai mică",
+            "b": "neinfluențată de dispersia criteriului",
+            "c": "mai imprecisă, cu SEE mai mare",
+            "d": "independentă de SEE"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "rxy mic → relație slabă predictor–criteriu → SEE mare → predicții împrăștiate. Analog: cu cât corelația e mai mică, cu atât banda de eroare e mai largă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11365,
+          "text": "Un criteriu „relevant” în validitatea de criteriu este acela care:",
+          "options": {
+            "a": "are distribuție normală perfectă",
+            "b": "este cel mai ușor de colectat logistic",
+            "c": "reflectă direct comportamentul sau performanța de interes",
+            "d": "nu se corelează cu predictorul"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Criteriu relevant = măsoară direct ce vrei să prezici (succes job, performanță clinică). Ușor de colectat sau normal distribuit nu înseamnă relevant.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11366,
+          "text": "Un criteriu „contaminat” este:",
+          "options": {
+            "a": "lipsit de varianță",
+            "b": "măsurat cu întârziere mare",
+            "c": "format exclusiv din indicatori obiectivi",
+            "d": "influențat de informații derivate din predictor"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Criteriu contaminat = influențat de predictor (evaluator știe scorul testului). Nu e despre întârziere, obiectivitate pură sau lipsă varianță.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11367,
+          "text": "În tipologia itemilor, un item obiectiv este caracterizat de:",
+          "options": {
+            "a": "scorare neambiguă, pe bază de cheie explicită",
+            "b": "interpretare simbolică dependentă de evaluator",
+            "c": "notare exclusiv holistică",
+            "d": "răspuns narativ fără barem"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Item obiectiv: scorare pe cheie (grilă, A/F, perechi). Semiobiectiv = răspuns scurt cu rubrică. Subiectiv = eseu, interpretare evaluator.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11368,
+          "text": "Itemii semiobiectivi se diferențiază prin faptul că:",
+          "options": {
+            "a": "nu permit deloc barem de notare",
+            "b": "elimină complet variabilitatea între evaluatori",
+            "c": "au un singur răspuns literal posibil, fără interpretare",
+            "d": "au criterii de scorare definite, dar cer uneori judecată în aplicare"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Semiobiectiv: criterii de scorare există, dar aplicarea poate necesita judecată (ex. răspuns scurt parțial corect). Nu e scorare 100% automată ca la grilă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11369,
+          "text": "Itemii subiectivi implică în mod tipic:",
+          "options": {
+            "a": "validitate de criteriu obligatoriu superioară",
+            "b": "pondere mai mare a interpretării evaluatorului",
+            "c": "lipsa unui protocol formal de evaluare",
+            "d": "scorare exclusiv automată"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Subiectiv: pondere mare a interpretării evaluatorului (eseu, problemă deschisă). Scorare automată exclusivă e tipic obiectiv, nu subiectiv.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11370,
+          "text": "În tabela de interpretare Smith pentru rxy, valorile mai mari indică de regulă:",
+          "options": {
+            "a": "eroare mai mare de predicție",
+            "b": "inevitabil contaminare de criteriu",
+            "c": "utilitate predictivă mai ridicată",
+            "d": "dovezi mai slabe de relație predictor-criteriu"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Smith (orientativ): rxy mai mare → utilitate predictivă mai bună. >0,50 excelent; 0,40–0,49 bun; 0,30–0,39 acceptabil; <0,30 slab. >0,70 excepțional — verifică!",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11371,
+          "text": "Care formulare respectă cel mai bine regula Thorndike privind claritatea itemului?",
+          "options": {
+            "a": "enunț lung cu două negații pentru a crește dificultatea",
+            "b": "introducerea de termeni ambigui pentru discriminare fină",
+            "c": "amestec de cerințe în aceeași întrebare pentru economie de spațiu",
+            "d": "enunț clar, o singură problemă cognitivă per item"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Thorndike: enunț clar, o singură problemă per item. Evită dublu negativ, amestec de cerințe, ambiguitate inutilă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11372,
+          "text": "Obligația principală a constructorului de test, în validitatea de conținut, este:",
+          "options": {
+            "a": "menținerea itemilor chiar dacă experții îi consideră periferici",
+            "b": "definirea domeniului și maparea explicită item-domeniu",
+            "c": "înlocuirea evaluării experților cu popularitatea itemilor",
+            "d": "maximizarea numărului de itemi indiferent de relevanță"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Constructorul: definește domeniul, matrice specificații–conținut, itemi reprezentativi. Obligația principală la validitate de conținut — nu maximizarea nr. itemi fără relevanță.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11373,
+          "text": "În evaluarea judecătorilor pentru validitate de conținut, criterii centrale sunt:",
+          "options": {
+            "a": "esențialitatea itemului pentru constructul țintă",
+            "b": "relevanța itemului pentru domeniul măsurat",
+            "c": "nivelul de dificultate dorit de autor",
+            "d": "poziția itemului în test"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Judecători conținut: esențialitate (item necesar domeniului?) și relevanță (se potrivește domeniului?). Poziția în test sau dificultatea dorită nu sunt criterii centrale de conținut.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11374,
+          "text": "Ce relație este corectă pentru validitatea criterială și SEE?",
+          "options": {
+            "a": "SEE depinde de validitate (rxy), nu de fidelitate (rtt)",
+            "b": "SEE nu folosește deviația standard a criteriului",
+            "c": "SEE este identică numeric cu rxy",
+            "d": "SEE reflectă în principal fidelitatea predictorului"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "SEE depinde de rxy și SDy — e despre validitate/predicție. SEM (fidelitate) folosește rtt. SEE ≠ rxy numeric.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11375,
+          "text": "Selectează perechile corecte dintre tipul de validitate și focalizarea lui principală.",
+          "options": {
+            "a": "validitate de conținut - estimarea fidelității test-retest",
+            "b": "validitate de criteriu - relația predictor-criteriu",
+            "c": "validitate de conținut - acoperirea reprezentativă a domeniului",
+            "d": "validitate de construct - estimarea exclusivă a stabilității temporale"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Perechi corecte: conținut → acoperire domeniu; criteriu → predictor–criteriu; construct → teorie + dovezi empirice. Stabilitate temporală e fidelitate test-retest, nu construct.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11376,
+          "text": "Care afirmații diferențiază adecvat validitatea predictivă de cea concurentă?",
+          "options": {
+            "a": "concurenta necesită întotdeauna urmărire longitudinală extinsă",
+            "b": "predictiva implică separare temporală între predictor și criteriu",
+            "c": "concurenta măsoară predictorul și criteriul aproximativ simultan",
+            "d": "predictiva exclude complet utilizarea criteriilor comportamentale"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Predictivă: timp între predictor și criteriu (viitor). Concurentă: aproximativ simultan (ex. compară cu test validat). Ambele pot folosi criterii comportamentale.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11377,
+          "text": "Ce condiții sunt dorite pentru un criteriu bun în validarea criterială?",
+          "options": {
+            "a": "contaminare deliberată pentru creșterea corelației",
+            "b": "disponibilitate practică rezonabilă",
+            "c": "fidelitate suficientă a măsurii criteriului",
+            "d": "relevanță pentru performanța de interes"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Criteriu bun: relevant, fidel suficient, disponibil practic. Contaminare deliberată distorsionează validitatea — nu e dorită.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11378,
+          "text": "În modelul Lawshe, care enunțuri sunt corecte?",
+          "options": {
+            "a": "CVR poate lua valori negative dacă puțini experți marchează „esențial”",
+            "b": "CVR se calculează din scorurile respondenților la test",
+            "c": "CVR = (Ne - N/2) / (N/2)",
+            "d": "valoarea minimă acceptabilă este aceeași indiferent de numărul de experți"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Lawshe: CVR = (Ne−N/2)/(N/2). Poate fi negativ dacă <50% experți consideră esențial. Pragul depinde de N (tabele Lawshe). CVR vine de la experți, nu de la respondenți.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11379,
+          "text": "Ce descrie corect contaminarea criteriului?",
+          "options": {
+            "a": "duce artificial la supraestimarea validității",
+            "b": "este de dorit când selecția trebuie accelerată",
+            "c": "poate apărea când evaluatorii cunosc scorurile la test",
+            "d": "criteriul include informații influențate de predictor"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Contaminare: criteriul include info din predictor; evaluator știe scorul testului → rxy artificial mare. Nu e dorită; reduce credibilitatea validității.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11380,
+          "text": "Despre relația rxy și rtt, care afirmații sunt corecte?",
+          "options": {
+            "a": "rxy > rtt confirmă automat validitate excepțională a testului",
+            "b": "în mod obișnuit rxy nu ar trebui să depășească rtt al predictorului",
+            "c": "fidelitatea scăzută limitează plafonul validității",
+            "d": "rxy și rtt sunt același coeficient raportat în scale diferite"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "rxy ≤ rtt (de regulă). Fidelitate scăzută plafonează validitatea observată. rxy > rtt nu confirmă automat calitate — e semnal de verificat.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11381,
+          "text": "Selectează formulările corecte despre SEE în validitatea de criteriu.",
+          "options": {
+            "a": "SEE = SDy * sqrt(1-rxy^2)",
+            "b": "rxy mai mare tinde să reducă SEE",
+            "c": "SEE exprimă direct consistența internă a predictorului",
+            "d": "SEE este formula standard pentru consistență internă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "SEE = SDy·√(1−rxy²). rxy ↑ → SEE ↓. SEE nu măsoară consistența internă (α, KR-20).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11382,
+          "text": "În matricea MTMM, ce pattern susține validitatea discriminantă?",
+          "options": {
+            "a": "constructele distincte nu trebuie să devină empiric indistincte",
+            "b": "orice corelație mare între constructe diferite este preferabilă",
+            "c": "corelațiile monotrait-heteromethod depășesc corelațiile heterotrait",
+            "d": "corelațiile heterotrait-heteromethod rămân relativ mai mici"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "MTMM discriminare: monotrait-heteromethod > heterotrait (constructe diferite nu trebuie să se confunde). Corelații mari între constructe distincte slăbesc discriminarea.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11383,
+          "text": "În etapele lui Cronbach privind constructul, ce practici sunt potrivite?",
+          "options": {
+            "a": "derivarea predicțiilor teoretice testabile",
+            "b": "blocarea permanentă a instrumentului după prima administrare",
+            "c": "menținerea neschimbată a itemilor chiar dacă datele contrazic teoria",
+            "d": "definirea explicită a constructului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Cronbach: definește constructul, derivă predicții, testează empiric. Revizuiește itemii dacă datele contrazic teoria — nu blochează permanent instrumentul.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11384,
+          "text": "Ce afirmații sunt adecvate pentru clasificarea itemilor după scorare?",
+          "options": {
+            "a": "itemii semiobiectivi pot necesita rubrici și judecată",
+            "b": "itemii subiectivi elimină aproape complet diferențele între evaluatori",
+            "c": "itemii obiectivi elimină complet eroarea de măsurare",
+            "d": "itemii obiectivi au cheie de răspuns clară"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Obiectivi = cheie clară. Semiobiectivi = rubrici + judecată. Subiectivi au variabilitate între evaluatori — nu o elimină.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11385,
+          "text": "Care recomandări sunt compatibile cu regulile Thorndike pentru alegere multiplă?",
+          "options": {
+            "a": "evitarea indiciilor gramaticale către cheia corectă",
+            "b": "distractori omogeni ca lungime și stil",
+            "c": "introducerea deliberată a dublului negativ pentru a crește dificultatea",
+            "d": "folosirea frecventă a opțiunii „niciuna” pentru a compensa itemii slabi"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Thorndike: fără indicii gramaticale, distractori omogeni ca lungime. Evită dublu negativ frecvent și „niciuna” ca paravan pentru itemi slabi.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11386,
+          "text": "Ce condiții definesc cel mai bine validitatea de conținut?",
+          "options": {
+            "a": "obținerea unui rxy ridicat cu un criteriu extern",
+            "b": "delimitarea universului domeniului",
+            "c": "evitarea evaluării de către judecători pentru a reduce variabilitatea",
+            "d": "eșantionare reprezentativă a conținutului prin itemi"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Conținut: delimitare domeniu + eșantionare reprezentativă + judecători. rxy ridicat e validitate de criteriu, nu de conținut.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11387,
+          "text": "În evaluarea judecătorilor pentru conținut, ce triadă de criterii este uzuală?",
+          "options": {
+            "a": "claritate",
+            "b": "esențialitate",
+            "c": "relevanță",
+            "d": "viteză de răspuns"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Triada judecători conținut: esențialitate, relevanță, claritate. Viteza de răspuns nu e criteriu clasic de validitate de conținut.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11388,
+          "text": "Selectează afirmațiile corecte despre validitatea predictivă.",
+          "options": {
+            "a": "este utilă când decizia vizează performanță viitoare",
+            "b": "elimină necesitatea unui criteriu bine definit",
+            "c": "folosește criteriu colectat la un moment ulterior predictorului",
+            "d": "poate fi afectată de schimbări contextuale între momentele măsurării"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Predictivă: criteriu ulterior; utilă pentru decizii viitoare; poate fi afectată de schimbări context (job, tratament). Tot necesită criteriu bine definit.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11389,
+          "text": "Selectează afirmațiile corecte despre validitatea concurentă.",
+          "options": {
+            "a": "este frecvent utilizată pentru comparație cu instrumente deja consacrate",
+            "b": "presupune obligatoriu design experimental randomizat",
+            "c": "nu garantează automat putere predictivă pe termen lung",
+            "d": "predictorul și criteriul sunt măsurate în același interval"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Concurentă: simultan; compară cu instrument consacrat; nu garantează predictiv pe termen lung; nu cere obligatoriu randomizare experimentală.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11390,
+          "text": "Care afirmații descriu adecvat interpretarea coeficientului rxy după tabele orientative (ex. Smith)?",
+          "options": {
+            "a": "valorile foarte mici indică utilitate practică redusă",
+            "b": "orice valoare pozitivă, indiferent cât de mică, e suficientă pentru decizii individuale cu miză mare",
+            "c": "valorile mai mari susțin predicții mai stabile",
+            "d": "valorile moderate pot fi utile în decizii de grup"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Smith orientativ: rxy mic → utilitate redusă; moderate → decizii de grup; mari → predicții stabile. rxy pozitiv mic nu e suficient pentru decizii individuale cu miză mare.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11391,
+          "text": "În rețeaua nomologică, ce dovezi sunt în acord cu validitatea de construct?",
+          "options": {
+            "a": "diferențiere față de constructe distincte",
+            "b": "corelații cu variabile teoretic apropiate",
+            "c": "lipsa relațiilor empirice așteptate teoretic",
+            "d": "pattern-uri de relații conforme predicțiilor anterioare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Rețea nomologică: corelații cu variabile apropiate teoretic, diferențiere de constructe distincte, pattern conform ipotezelor. Zero relații empirice nu susține constructul.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11392,
+          "text": "Care set de afirmații despre SEE este corect?",
+          "options": {
+            "a": "SEE scade când crește asocierea predictor-criteriu",
+            "b": "SEE mare semnalează predicții mai dispersate în jurul valorii reale",
+            "c": "SEE este exprimată în unitățile criteriului",
+            "d": "SEE este substitutul direct al coeficientului alfa"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "SEE în unități criteriu; scade cu rxy; mare = predicții dispersate. α măsoară consistența internă — alt construct decât SEE.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11393,
+          "text": "Ce enunțuri despre corecția pentru ghicire X-W/(n-1) sunt corecte?",
+          "options": {
+            "a": "formula crește scorul când numărul de erori crește",
+            "b": "n reprezintă numărul alternativelor de răspuns",
+            "c": "corecția reduce avantajul răspunsului aleator",
+            "d": "W reprezintă numărul răspunsurilor greșite"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "X−W/(n−1): W=greșeli, n=alternatives. Penalizează ghicirea. Când erorile cresc, scorul corectat scade, nu crește.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11394,
+          "text": "Ce propoziții sintetizează corect cele trei tipuri majore de validitate?",
+          "options": {
+            "a": "toate trei sunt complet interschimbabile metodologic",
+            "b": "criteriul evaluează legătura cu un indicator extern",
+            "c": "constructul testează coerența teoretică și empirică",
+            "d": "conținutul examinează acoperirea domeniului"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Trei tipuri: conținut (domeniu), criteriu (extern), construct (teoretic). Sunt complementare, nu interschimbabile — fiecare răspunde la o întrebare diferită despre calitatea testului.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11395,
+          "text": "Care combinație de afirmații despre validitatea de conținut este corectă?",
+          "options": {
+            "a": "judecătorii apreciază esențialitatea/relevanța/claritatea",
+            "b": "validitatea de conținut se reduce la o singură corelație externă",
+            "c": "itemii trebuie să reprezinte proporțional zonele domeniului",
+            "d": "constructorul definește clar domeniul și specificațiile"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Conținut: specificații, reprezentativitate, judecători. Nu se reduce la o singură corelație — evaluarea experților e centrală.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11396,
+          "text": "În evaluarea criterială, ce afirmații sunt corecte?",
+          "options": {
+            "a": "criteriul poate fi comportamental, academic sau profesional",
+            "b": "predictorul este scorul la testul evaluat",
+            "c": "contaminarea criteriului poate umfla artificial rxy",
+            "d": "rxy nu poate fi interpretat fără contextul fidelității și al scopului deciziei"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Criterial: predictor=test; criteriu=comportamental/academic/profesional; contaminare umflă rxy; interpretarea cere context (fidelitate, scop decizie, SEE).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11397,
+          "text": "Selectează setul corect privind validitatea de construct și MTMM.",
+          "options": {
+            "a": "convergența cere corelații ridicate pentru același construct prin metode diferite",
+            "b": "discriminarea cere corelații mai mici între constructe diferite",
+            "c": "pattern-ul corelațiilor se evaluează comparativ, nu pe o singură valoare izolată",
+            "d": "Campbell și Fiske au propus matricea multitrait-multimethod"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "MTMM (Campbell & Fiske): convergență = monotrait-heteromethod mare; discriminare = heterotrait relativ mic; pattern comparativ, nu o singură corelație izolată.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11398,
+          "text": "Care afirmații despre relația rxy, rtt și SEE sunt corecte?",
+          "options": {
+            "a": "dacă fidelitatea este mică, validitatea observată poate fi subestimată",
+            "b": "validitate mai mare este asociată, în general, cu SEE mai mică",
+            "c": "rxy tinde să fie plafonat de fidelitatea predictorului",
+            "d": "SEE depinde de rxy și de dispersia criteriului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "rxy plafonat de fidelitate; fidelitate mică → validitate subestimată; SEE = f(rxy, SDy); validitate ↑ → SEE ↓. Set complet de legături predictor–criteriu.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11399,
+          "text": "Ce recomandări sunt conforme regulilor Thorndike pentru itemi cu alegere multiplă?",
+          "options": {
+            "a": "să se minimizeze ambiguitatea lexicală inutilă",
+            "b": "enunțul să fie clar și focalizat pe o singură problemă",
+            "c": "să se evite indicii formale spre răspunsul corect",
+            "d": "distractorii să fie plauzibili și omogeni"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Thorndike (sinteză): enunț clar, distractori plauzibili omogeni, fără indicii formale, vocabular precis. Reguli pentru calitatea itemilor obiectivi.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11400,
+          "text": "Care afirmații despre tipurile de itemi după scorare sunt corecte?",
+          "options": {
+            "a": "alegerea tipului de item influențează calitatea datelor pentru validare",
+            "b": "itemii semiobiectivi folosesc rubrici, dar lasă loc judecății evaluatorului",
+            "c": "itemii obiectivi permit scorare standardizată cu cheie explicită",
+            "d": "itemii subiectivi necesită control sporit al acordului între evaluatori"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Obiectivi → cheie; semiobiectivi → rubrici; subiectivi → acord inter-evaluator important. Tipul de item influențează ce validări sunt fezabile.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11401,
+          "text": "Ce afirmații rezumă corect utilizarea tabelelor orientative de interpretare rxy (ex. Smith)?",
+          "options": {
+            "a": "magnitudinea lui rxy se interpretează în raport cu scopul deciziei",
+            "b": "pragurile orientative ghidează, dar nu înlocuiesc judecata profesională",
+            "c": "aceeași valoare poate avea utilitate diferită în contexte diferite",
+            "d": "interpretarea necesită și verificarea calității criteriului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Smith: rxy se interpretează după scop (selecție individuală vs grup), context, calitate criteriu. Pragurile ghidează — nu înlocuiesc judecata profesională.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11402,
+          "text": "În practica validării de conținut, ce acțiuni sunt recomandate înainte de pilotare?",
+          "options": {
+            "a": "construirea unei matrice specificații-conținut pentru itemi",
+            "b": "excluderea itemilor cu indici de dificultate ridicată",
+            "c": "revizuire de către experți independenți față de autori",
+            "d": "înlocuirea evaluării experților cu ordonarea aleatoare a itemilor"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Înainte de pilotare: matrice specificații–conținut, revizuire experți independenți. Eliminarea itemilor dificili sau ordonare aleatoare deteriorează validitatea de conținut.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11403,
+          "text": "Ce combinație descrie adecvat predictorul și criteriul într-un studiu de validitate?",
+          "options": {
+            "a": "predictorul este instrumentul evaluat pentru utilitate practică",
+            "b": "predictorul și criteriul trebuie să fie mereu aceeași măsură",
+            "c": "criteriul trebuie ales doar pentru că este cel mai ieftin de colectat",
+            "d": "criteriul este indicatorul extern relevant pentru decizie"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Predictor = instrumentul evaluat. Criteriu = indicator extern pentru decizie. Nu trebuie să fie aceeași măsură; criteriul nu se alege doar pentru cost mic.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11404,
+          "text": "Pentru reducerea riscului de contaminare a criteriului, ce măsuri sunt potrivite?",
+          "options": {
+            "a": "ajustarea criteriului după scorurile predictorului pentru consistență",
+            "b": "orbirea evaluatorilor criteriului la scorurile predictorului",
+            "c": "instruirea evaluatorilor pe cheia predictorului înainte de notare",
+            "d": "separarea surselor de date pentru predictor și criteriu"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Anti-contaminare: surse separate, evaluatori orbi la scorul predictorului. Instruirea pe cheia predictorului sau ajustarea criteriului după test introduce bias.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11405,
+          "text": "În interpretarea lui rxy după ghiduri orientative, ce este prudent metodologic?",
+          "options": {
+            "a": "corelarea magnitudinii cu consecințele deciziei",
+            "b": "ignorarea SEE când rxy depășește 0,20",
+            "c": "analiza împreună cu fidelitatea și calitatea criteriului",
+            "d": "acceptarea automată a oricărui rxy pozitiv în selecție individuală"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Prudent: rxy + consecințe decizie + fidelitate + criteriu + SEE. Nu accepta automat orice rxy pozitiv; nu ignora SEE doar pentru că rxy depășește 0,20.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11406,
+          "text": "În selecția profesională, relația rxy < rtt este considerată, de regulă, respectată teoretic.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Validitatea observată nu poate depăși, de regulă, fidelitatea predictorului: rxy ≤ rtt. În selecție, un test instabil limitează utilitatea predictivă reală.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11407,
+          "text": "Eroarea standard de măsurare (SEM) este legată direct de validitatea criterială rxy.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. SEM = SDt·√(1−rtt) — legată de fidelitate. SEE = SDy·√(1−rxy²) — legată de validitate. Nu le confunda la decizii de selecție.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11408,
+          "text": "Validitatea concurentă presupune, tipic, măsurarea criteriului aproximativ simultan cu predictorul.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Validitate concurentă: predictor și criteriu măsurați aproximativ simultan (ex. test nou vs test consacrat).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11409,
+          "text": "Dacă rtt crește, iar SDt rămâne constant, SEM tinde să crească.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. SEM = SDt·√(1−rtt). Când rtt crește, (1−rtt) scade → SEM scade. Fidelitate mai bună = bandă mai îngustă a scorului real.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11410,
+          "text": "Fidelitatea unui test se referă, în esență, la:",
+          "options": {
+            "a": "consistența rezultatelor în condiții comparabile",
+            "b": "gradul în care testul măsoară constructul intenționat",
+            "c": "acoperirea reprezentativă a domeniului prin itemi",
+            "d": "relația scorului cu un criteriu extern de performanță"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Fidelitate = consistență/stabilitate a măsurării. Validitate = măsoară ce trebuie. Criteriu și conținut sunt alte tipuri de validitate.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11411,
+          "text": "Validitatea, în sens psihometric, indică în principal că:",
+          "options": {
+            "a": "testul măsoară ceea ce pretinde că măsoară",
+            "b": "itemii au dificultate medie echilibrată",
+            "c": "distribuția scorurilor este normală",
+            "d": "scorurile rămân stabile la retestare"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Validitate = testul măsoară constructul intenționat și interpretările sunt susținute empiric. Stabilitatea la retest e fidelitate, nu validitate.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11412,
+          "text": "În modelul clasic X = SR + E, simbolul X reprezintă:",
+          "options": {
+            "a": "componenta de eroare aleatorie",
+            "b": "scorul real al persoanei pe construct",
+            "c": "scorul observat obținut la administrare",
+            "d": "scorul estimat pe criteriu extern"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "X = scor observat (brut). SR = scor real. E = eroare. Modelul X = SR + E explică de ce scorul punctual poate devia de la nivelul adevărat.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11413,
+          "text": "Metoda test-retest estimează fidelitatea prin:",
+          "options": {
+            "a": "eșantionare temporală a erorii",
+            "b": "acordul dintre evaluatori diferiți",
+            "c": "compararea a două forme paralele imediate",
+            "d": "eșantionare de conținut între jumătăți de test"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Test-retest: aceeași formă, timp diferit → eșantionare temporală a erorii (stare, practică, maturare).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11414,
+          "text": "Metoda half-split (jumătăți) abordează fidelitatea ca problemă de:",
+          "options": {
+            "a": "validitate de criteriu cu indicator extern",
+            "b": "eșantionare temporală între două sesiuni",
+            "c": "contaminare deliberată a criteriului",
+            "d": "eșantionare de conținut în cadrul aceluiași test"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Half-split: corelația între jumătăți → eșantionare de conținut în cadrul aceluiași test. Nu e temporală și nu e inter-rater.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11415,
+          "text": "Coeficientul Alpha Cronbach estimează, de regulă:",
+          "options": {
+            "a": "acordul inter-evaluator",
+            "b": "validitatea predictivă pe termen lung",
+            "c": "reprezentativitatea conținutului față de experți",
+            "d": "consistența internă a scalei"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Alpha Cronbach estimează consistența internă dintr-o administrare. Inter-rater și test-retest sunt alte metode de fidelitate.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11416,
+          "text": "Formula KR-20 se aplică, în mod tipic, la itemi:",
+          "options": {
+            "a": "subiectivi, fără cheie de scorare",
+            "b": "dicotomici (corect/greșit)",
+            "c": "cu scale Likert cu 7 trepte",
+            "d": "proiectivi, interpretați clinic"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "KR-20 = formula pentru itemi dicotomici (0/1). Likert folosește de regulă Alpha, nu KR-20.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11417,
+          "text": "Într-un studiu de validitate criterială, predictorul este:",
+          "options": {
+            "a": "nota medie de la un curs anterior",
+            "b": "numărul de itemi ai scalei",
+            "c": "coeficientul de consistență internă",
+            "d": "scorul obținut la testul evaluat"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Predictor = scorul la testul evaluat (instrumentul). Criteriu = performanță externă (job, note, diagnostic).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11418,
+          "text": "Contaminarea criteriului apare când:",
+          "options": {
+            "a": "eșantionul are varianță redusă",
+            "b": "criteriul este măsurat cu întârziere de un an",
+            "c": "evaluatorul criteriului cunoaște scorul la test",
+            "d": "predictorul are itemi dificili"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Contaminare: evaluatorul criteriului știe scorul la test → bias, rxy umflat artificial. Critical în selecție când interviul e influențat de test.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11419,
+          "text": "Validitatea de construct vizează, în principal:",
+          "options": {
+            "a": "acoperirea domeniului prin judecata experților",
+            "b": "raportul dintre scorul brut și numărul de itemi",
+            "c": "coerența empirică a unui construct teoretic",
+            "d": "stabilitatea scorului la două săptămâni distanță"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Validitate de construct: trăsătură teoretică (inteligență, personalitate) susținută de rețea nomologică, MTMM, analiză factorială.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11420,
+          "text": "Matricea multitrait-multimethod (MTMM) este asociată cu:",
+          "options": {
+            "a": "Binet (scale de inteligență)",
+            "b": "Campbell și Fiske (1959)",
+            "c": "Thorndike (reguli pentru itemi)",
+            "d": "Lawshe (CVR)"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "MTMM = Campbell & Fiske (1959) — convergență și discriminare între trăsături și metode. Lawshe = CVR; Thorndike = reguli itemi.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11421,
+          "text": "Un CVR negativ în formula Lawshe indică, de regulă, că:",
+          "options": {
+            "a": "validitatea criterială depășește 0,70",
+            "b": "toți experții consideră itemul esențial",
+            "c": "mai puțin de jumătate dintre experți consideră itemul esențial",
+            "d": "itemul a fost răspuns corect de majoritatea respondenților"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "CVR = (Ne−N/2)/(N/2). Negativ când Ne < N/2 — mai puțin de jumătate consideră itemul esențial.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11422,
+          "text": "Metafora lui Binet compară testul psihologic cu un cântar simplu pentru a arăta că:",
+          "options": {
+            "a": "testele psihologice nu necesită standardizare",
+            "b": "orice test este la fel de precis ca un instrument fizic",
+            "c": "inteligența se măsoară identic cu masa corporală",
+            "d": "măsurarea constructelor psihologice nu este directă ca măsurarea fizică"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Binet: măsurarea inteligenței nu e directă ca pe un cântar — necesită sarcini, standardizare și interpretare a constructului latent.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11423,
+          "text": "Formula de corecție a ghicirii la itemi cu alegere multiplă este:",
+          "options": {
+            "a": "X - W·n",
+            "b": "(X-W)/n",
+            "c": "X + W/(n-1)",
+            "d": "X - W/(n-1)"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Corecție ghicire: X − W/(n−1). W = greșeli, n = alternative. Penalizează răspunsul aleator la itemi obiectivi cu alegere multiplă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11424,
+          "text": "Pentru decizii individuale cu miză mare, orientarea uzuală privind fidelitatea este:",
+          "options": {
+            "a": "acceptarea oricărui rxy pozitiv, indiferent de magnitudine",
+            "b": "rtt orientativ în jurul valorilor 0,50–0,60",
+            "c": "rtt orientativ în jurul valorilor 0,90–0,95",
+            "d": "interpretarea scorului cu banda de eroare (SEM), nu doar valoarea punctuală"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Decizii individuale cu miză mare (ex. selecție critică): rtt orientativ 0,90–0,95 + interpretare cu SEM/interval, nu doar scor brut.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11425,
+          "text": "Intervalul aproximativ de 95% pentru scorul real poate fi estimat ca:",
+          "options": {
+            "a": "scor observat ± 3·SEE",
+            "b": "scor observat ± 2·SEM",
+            "c": "necesită estimarea SEM din rtt și SDt",
+            "d": "scor observat ± 2·SEE"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Interval ~95% pentru scor real: X ± 2·SEM (aprox.). Necesită SDt și rtt pentru calculul SEM. SEE e pentru predicția criteriului, nu scor test.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11426,
+          "text": "Validitatea de conținut se bazează, în mod central, pe:",
+          "options": {
+            "a": "delimitarea domeniului și a specificațiilor de conținut",
+            "b": "corelația imediată cu un criteriu extern",
+            "c": "consistența internă dintr-o singură administrare",
+            "d": "evaluarea experților privind relevanța itemilor"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Validitate conținut: experți evaluează relevanța/esențialitatea + constructorul definește domeniul și specificațiile. Nu e corelația rxy.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11427,
+          "text": "Validitatea predictivă implică, caracteristic:",
+          "options": {
+            "a": "comparare cu un test deja validat în același moment",
+            "b": "criteriu măsurat ulterior predictorului",
+            "c": "utilitate pentru anticiparea performanței viitoare",
+            "d": "măsurare simultană a predictorului și criteriului"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Predictivă: criteriu în viitor (succes job după test admitere). Concurentă e simultană; predictiva e pentru anticipare.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11428,
+          "text": "În tabelele orientative de tip Smith, un rxy de aproximativ 0,50 sugerează:",
+          "options": {
+            "a": "utilitate predictivă excelentă",
+            "b": "utilitate predictivă slabă",
+            "c": "utilitate superioară față de valori sub 0,30",
+            "d": "utilitate predictivă acceptabilă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Smith orientativ: rxy ≈ 0,50 = excelent; mult peste 0,30 (acceptabil) și 0,40 (bun). Utilitatea depinde și de scopul deciziei.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11429,
+          "text": "Scenariul «măsoară constructul corect și foarte bine» corespunde unui test:",
+          "options": {
+            "a": "valid",
+            "b": "invalid, dar constant",
+            "c": "fidel",
+            "d": "sound (solid, credibil)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Scenariul (a): măsoară corect + foarte bine = valid + fidel = test sound (solid, credibil). Nu e invalid constant.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11430,
+          "text": "Scenariul «nu măsoară ce trebuie» indică, de regulă:",
+          "options": {
+            "a": "validitate scăzută sau problematică",
+            "b": "risc de interpretări greșite ale scorului",
+            "c": "utilitate decizională redusă pentru scopul declarat",
+            "d": "fidelitate garantată automat"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Scenariul (c): nu măsoară ce trebuie → validitate problematică, risc decizional. Poate părea fidel la constructul greșit.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11431,
+          "text": "Metoda formelor alternative imediate presupune:",
+          "options": {
+            "a": "o singură formă administrată de două ori după un an",
+            "b": "două forme paralele administrate aproape simultan",
+            "c": "eșantionare de conținut prin itemi diferiți",
+            "d": "acordul dintre doi evaluatori diferiți"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Forme alternative imediate: două forme paralele, aproape simultan → eșantionare de conținut. Nu e test-retest anual.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11432,
+          "text": "Formula SEM = SDt·√(1−rtt) arată că:",
+          "options": {
+            "a": "SEM este legată de fidelitate (rtt)",
+            "b": "SEM este identică cu SEE",
+            "c": "SEM depinde de SDt",
+            "d": "rtt mai mare tinde să reducă SEM"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "SEM = SDt·√(1−rtt): legată de fidelitate; rtt ↑ → SEM ↓; depinde de SDt. Nu e identică cu SEE (validitate).",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11433,
+          "text": "Obligația principală a constructorului privind validitatea de conținut este:",
+          "options": {
+            "a": "definirea domeniului măsurat",
+            "b": "maparea itemilor la specificații de conținut",
+            "c": "revizuirea itemilor cu experți relevanți",
+            "d": "atingerea unui rxy > 0,70 înainte de pilotare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Constructor: definește domeniul + mapare item–specificații + revizuire experți. rxy > 0,70 nu e cerință pre-pilotare pentru conținut.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11434,
+          "text": "Metoda inter-rater (inter-evaluator) estimează fidelitatea din:",
+          "options": {
+            "a": "eșantionare temporală pură",
+            "b": "acordul la scorare a aceleiași probe",
+            "c": "diferențe între examinatori/scoreri",
+            "d": "corelația cu un criteriu extern"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Inter-rater: acordul/diferențele între scoreri pe aceeași probă. Sursa erorii = examinator, nu timp sau conținut.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11435,
+          "text": "În selecția profesională, SEE = SDy·√(1−rxy²) exprimă:",
+          "options": {
+            "a": "dependența erorii de validitatea criterială",
+            "b": "eroarea medie la predicția criteriului din scorul testului",
+            "c": "marja de incertitudine a estimării pe criteriu",
+            "d": "consistența internă a predictorului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "SEE = SDy·√(1−rxy²): eroare la predicția criteriului din scor test. Centrală în selecție: cât de precis estimezi succesul job din test.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11436,
+          "text": "Relația dintre validitate și eroarea de estimare (SEE) este, de regulă:",
+          "options": {
+            "a": "SEE este independentă de magnitudinea rxy",
+            "b": "rxy mai mic → predicții mai imprecise",
+            "c": "SEE crește odată cu rxy",
+            "d": "rxy mai mare → SEE mai mică"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "rxy mare → SEE mică → predicții criteriu mai precise. rxy mic → predicții împrăștiate — risc mai mare la decizii individuale.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11437,
+          "text": "Tabelele Taylor-Russell sunt utile pentru a evalua:",
+          "options": {
+            "a": "utilitatea practică a testului într-o decizie de selecție",
+            "b": "efectul ratei de bază și al proporției selectate",
+            "c": "consistența internă a itemilor dicotomici",
+            "d": "impactul validității asupra proporției de selecții corecte"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Taylor-Russell: evaluează utilitatea testului în selecție — cum validitatea, rata de bază (% succes în populație) și proporția selectată influențează % selecții corecte.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11438,
+          "text": "Selectează enunțurile corecte despre formulele Spearman-Brown și lungimea testului.",
+          "options": {
+            "a": "lungime: rnn = n·rtt / [1 + (n−1)·rtt]",
+            "b": "half-split: rtt = 2·rhh / (1 + rhh)",
+            "c": "rtt mai mare permite atingerea aceleiași fidelitate țintă cu mai puțini itemi",
+            "d": "presupune itemi paraleli de calitate comparabilă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru formule cheie: Spearman-Brown half-split; lungime test; rtt mare permite mai puțini itemi pentru aceeași fidelitate țintă; itemi paraleli de calitate comparabilă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11439,
+          "text": "Ce afirmații descriu corect KR-20 și Alpha?",
+          "options": {
+            "a": "ambele estimează consistența internă",
+            "b": "ambele măsoară validitatea criterială direct",
+            "c": "Alpha folosește varianța totală și varianțele itemilor",
+            "d": "KR-20 folosește varianța totală și varianța itemilor dicotomici"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "KR-20: itemi dicotomici, varianță totală și Σpq. Alpha: varianțe itemi generale. Ambele → consistență internă, nu validitate criterială directă.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11440,
+          "text": "În selecție profesională, SEE mic este important pentru că:",
+          "options": {
+            "a": "deciziile individuale devin mai puțin riscante",
+            "b": "face ca orice rxy pozitiv să fie suficient pentru decizii cu miză mare",
+            "c": "predicțiile criteriului sunt mai strânse în jurul valorii reale",
+            "d": "intervalul de eroare al estimării se îngustează"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "SEE mic → predicții criteriu strânse, decizii mai sigure, bandă mai îngustă. rxy pozitiv mic nu e automat suficient la miză mare.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11441,
+          "text": "Ce variabile influențează tipic rezultatele din tabelele Taylor-Russell?",
+          "options": {
+            "a": "numărul de itemi din half-split",
+            "b": "proporția persoanelor selectate",
+            "c": "magnitudinea validității testului",
+            "d": "rata de bază a succesului în populație"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Taylor-Russell depinde de: validitate (rxy), rata de bază, proporția selectată. Nu de numărul itemilor din half-split.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11442,
+          "text": "Care perechi de formule sunt asociate corect cu scopul lor?",
+          "options": {
+            "a": "X−W/(n−1) → corecția răspunsului ghicit",
+            "b": "CVR = (Ne−N/2)/(N/2) → acordul experților privind esențialitatea itemilor",
+            "c": "SEM = SDt·√(1−rtt) → eroare legată de fidelitate",
+            "d": "SEE = SDy·√(1−rxy²) → eroare la predicția criteriului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru asocieri: SEM↔fidelitate; SEE↔validitate/predicție; CVR↔experți conținut; X−W/(n−1)↔corecție ghicire.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11443,
+          "text": "Selectează afirmațiile corecte despre cele trei tipuri majore de validitate.",
+          "options": {
+            "a": "construct: coerență teoretică și empirică",
+            "b": "conținut: acoperire reprezentativă a domeniului",
+            "c": "criteriu: legătură cu indicator extern relevant",
+            "d": "toate trei se reduc la aceeași corelație rxy"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Trei validități: conținut (domeniu), criteriu (extern), construct (teoretic). Nu se reduc la același rxy — întrebări diferite.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11444,
+          "text": "Ce concluzii despre selecția profesională sunt susținute de analiza Taylor-Russell?",
+          "options": {
+            "a": "validitatea mai mare crește proporția selecțiilor corecte",
+            "b": "utilitatea depinde de combinația validitate–bază–proporție selectată",
+            "c": "proporția selectată modifică riscul decizional",
+            "d": "rata de bază influențează utilitatea practică a testului"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Taylor-Russell: validitate ↑ → mai multe selecții corecte; rata de bază și proporția selectată modifică utilitatea practică. Utilitatea e combinația celor trei factori.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11445,
+          "text": "Care set sintetizează corect relațiile esențiale din recapitularea psihometrică?",
+          "options": {
+            "a": "Alpha/KR-20 → consistență internă; MTMM → validitate de construct",
+            "b": "rxy < rtt; SEM legat de fidelitate; SEE legat de validitate",
+            "c": "test-retest → temporal; half-split → conținut; inter-rater → examinatori",
+            "d": "fidelitate = consistență; validitate = măsoară ce trebuie"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Recapitulare: fidelitate=consistență; validitate=măsoară ce trebuie; rxy<rtt; SEM↔fidelitate; SEE↔validitate; test-retest temporal; half-split conținut; inter-rater examinatori; Alpha/KR-20 consistență internă; MTMM construct.",
+          "domeniu": "Caracteristici psihometrice II",
+          "tip": "multi",
+          "exam_item": true
+        }
+      ]
     }
   },
-  "total_questions": 3283,
+  "total_questions": 3483,
   "active_lots_only": true
 }
