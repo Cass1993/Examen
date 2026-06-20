@@ -23,6 +23,7 @@ II_LOT_NAMES = frozenset(
         "Psihologia învățării II",
         "Statistică II",
         "Caracteristici psihometrice II",
+        "Inventare de personalitate II",
     }
 )
 
@@ -85,6 +86,16 @@ def _register() -> None:
         build_items as build_caracteristici_psihometrice_ii,
         merge_into_bank as merge_caracteristici_psihometrice_ii,
     )
+    from scripts.inventare_personalitate_ii_exam_items import (
+        LOT_NAME as INVENTARE_PERSONALITATE_II_LOT,
+        build_items as build_inventare_personalitate_ii,
+        merge_into_bank as merge_inventare_personalitate_ii,
+    )
+    from scripts.epigenetica_ii_baze_moleculare_exam_items import (
+        LOT_NAME as EPIGENETICA_II_BAZE_LOT,
+        build_items as build_epigenetica_ii_baze,
+        merge_into_bank as merge_epigenetica_ii_baze,
+    )
 
     REGISTERED_LOTS.extend(
         [
@@ -102,6 +113,16 @@ def _register() -> None:
                 CARACTERISTICI_PSIHOMETRICE_II_LOT,
                 build_caracteristici_psihometrice_ii,
                 merge_caracteristici_psihometrice_ii,
+            ),
+            (
+                INVENTARE_PERSONALITATE_II_LOT,
+                build_inventare_personalitate_ii,
+                merge_inventare_personalitate_ii,
+            ),
+            (
+                EPIGENETICA_II_BAZE_LOT,
+                build_epigenetica_ii_baze,
+                merge_epigenetica_ii_baze,
             ),
         ]
     )

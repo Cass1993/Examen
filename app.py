@@ -125,7 +125,7 @@ def bank_path_fallback() -> Path:
     return BANK_MD_DEFAULT
 
 
-WORDING_VERSION = "168"  # Caracteristici psihometrice II +40 selecție profesională
+WORDING_VERSION = "178"  # Epigenetica II: + legătură psihologie Partea E (210 itemi)
 
 
 def _questions_cache_key() -> str:
@@ -259,6 +259,28 @@ def _questions_cache_key() -> str:
         APP_DIR / "scripts" / "caracteristici_psihometrice_ii_validitate_explanations.py",
         APP_DIR / "scripts" / "caracteristici_psihometrice_ii_selecie_profesionala_bank_data.py",
         APP_DIR / "scripts" / "caracteristici_psihometrice_ii_selecie_profesionala_explanations.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_exam_items.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_cpi_bank_data.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_cpi_explanations.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_epq_bank_data.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_epq_explanations.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_fpi_bank_data.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_fpi_explanations.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_neo_bank_data.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_neo_explanations.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_comparatii_bank_data.py",
+        APP_DIR / "scripts" / "inventare_personalitate_ii_comparatii_explanations.py",
+        APP_DIR / "scripts" / "epigenetica_ii_baze_moleculare_exam_items.py",
+        APP_DIR / "scripts" / "epigenetica_ii_baze_moleculare_bank_data.py",
+        APP_DIR / "scripts" / "epigenetica_ii_baze_moleculare_explanations.py",
+        APP_DIR / "scripts" / "epigenetica_ii_patologii_genetice_bank_data.py",
+        APP_DIR / "scripts" / "epigenetica_ii_patologii_genetice_explanations.py",
+        APP_DIR / "scripts" / "epigenetica_ii_genetica_comportamentala_bank_data.py",
+        APP_DIR / "scripts" / "epigenetica_ii_genetica_comportamentala_explanations.py",
+        APP_DIR / "scripts" / "epigenetica_ii_epigenetica_bank_data.py",
+        APP_DIR / "scripts" / "epigenetica_ii_epigenetica_explanations.py",
+        APP_DIR / "scripts" / "epigenetica_ii_psihologie_legatura_bank_data.py",
+        APP_DIR / "scripts" / "epigenetica_ii_psihologie_legatura_explanations.py",
         APP_DIR / "scripts" / "perspectiva_psihometrica_bank_data.py",
         APP_DIR / "scripts" / "psihopatologie_ii_option_polish.py",
         APP_DIR / "scripts" / "psihoterapie_ii_option_polish.py",
@@ -573,6 +595,7 @@ def _is_exam_ii_explanation_id(qid: int) -> bool:
         or 10501 <= qid <= 10960
         or 10961 <= qid <= 11245
         or 11246 <= qid <= 11445
+        or 11446 <= qid <= 11935
     )
 
 
