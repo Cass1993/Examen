@@ -125,7 +125,7 @@ def bank_path_fallback() -> Path:
     return BANK_MD_DEFAULT
 
 
-WORDING_VERSION = "178"  # Epigenetica II: + legătură psihologie Partea E (210 itemi)
+WORDING_VERSION = "186"  # Psihologia personalității II: + comparativ/capcane (290 itemi)
 
 
 def _questions_cache_key() -> str:
@@ -281,6 +281,23 @@ def _questions_cache_key() -> str:
         APP_DIR / "scripts" / "epigenetica_ii_epigenetica_explanations.py",
         APP_DIR / "scripts" / "epigenetica_ii_psihologie_legatura_bank_data.py",
         APP_DIR / "scripts" / "epigenetica_ii_psihologie_legatura_explanations.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_exam_items.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_ce_este_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_ce_este_explanations.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_psihodinamica_freud_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_psihodinamica_freud_explanations.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_neo_psihanalitica_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_neo_psihanalitica_explanations.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_dispozitionala_trasaturi_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_dispozitionala_trasaturi_explanations.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_fenomenologica_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_fenomenologica_explanations.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_comportamentala_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_comportamentala_explanations.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_social_cognitiva_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_social_cognitiva_explanations.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_comparativ_capcane_bank_data.py",
+        APP_DIR / "scripts" / "psihologia_personalitatii_ii_comparativ_capcane_explanations.py",
         APP_DIR / "scripts" / "perspectiva_psihometrica_bank_data.py",
         APP_DIR / "scripts" / "psihopatologie_ii_option_polish.py",
         APP_DIR / "scripts" / "psihoterapie_ii_option_polish.py",
@@ -595,7 +612,7 @@ def _is_exam_ii_explanation_id(qid: int) -> bool:
         or 10501 <= qid <= 10960
         or 10961 <= qid <= 11245
         or 11246 <= qid <= 11445
-        or 11446 <= qid <= 11935
+        or 11446 <= qid <= 12225
     )
 
 
