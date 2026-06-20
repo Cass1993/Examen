@@ -1,9 +1,22 @@
-"""Itemi — Statistică II (90 itemi, ID 10961–11050)."""
+"""Itemi — Statistică II (265 itemi, ID 10961–11225)."""
 
 from __future__ import annotations
 
 from typing import Any, Dict, List
 
+from scripts.statistica_ii_boxplot_bank_data import BOXPLOT_ITEMS
+from scripts.statistica_ii_central_tendency_bank_data import CENTRAL_TENDENCY_ITEMS
+from scripts.statistica_ii_dispersion_bank_data import DISPERSION_ITEMS
+from scripts.statistica_ii_distribution_shape_bank_data import DISTRIBUTION_SHAPE_ITEMS
+from scripts.statistica_ii_sampling_distribution_bank_data import (
+    SAMPLING_DISTRIBUTION_ITEMS,
+)
+from scripts.statistica_ii_hypothesis_z_test_bank_data import (
+    HYPOTHESIS_Z_TEST_ITEMS,
+)
+from scripts.statistica_ii_recap_rapid_bank_data import RECAP_RAPID_ITEMS
+from scripts.statistica_ii_standardized_scores_bank_data import STANDARDIZED_SCORES_ITEMS
+from scripts.statistica_ii_frequency_bank_data import FREQUENCY_ITEMS
 from scripts.statistica_ii_scales_sampling_bank_data import SCALES_SAMPLING_ITEMS
 
 Item = Dict[str, Any]
@@ -512,6 +525,6 @@ STATISTICA_II_ITEMS: List[Item] = [
         ],
         "correct": "ab",
     },
-] + SCALES_SAMPLING_ITEMS
+] + SCALES_SAMPLING_ITEMS + FREQUENCY_ITEMS + CENTRAL_TENDENCY_ITEMS + BOXPLOT_ITEMS + DISPERSION_ITEMS + DISTRIBUTION_SHAPE_ITEMS + STANDARDIZED_SCORES_ITEMS + SAMPLING_DISTRIBUTION_ITEMS + HYPOTHESIS_Z_TEST_ITEMS + RECAP_RAPID_ITEMS
 
-assert len(STATISTICA_II_ITEMS) == 90
+assert len(STATISTICA_II_ITEMS) == 265

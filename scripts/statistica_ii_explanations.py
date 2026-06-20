@@ -1,9 +1,28 @@
-"""Explicații didactice — Statistică II (ID 10961–11050)."""
+"""Explicații didactice — Statistică II (ID 10961–11225)."""
 
 from __future__ import annotations
 
 from typing import List
 
+from scripts.statistica_ii_boxplot_explanations import BOXPLOT_EXPLANATIONS
+from scripts.statistica_ii_central_tendency_explanations import (
+    CENTRAL_TENDENCY_EXPLANATIONS,
+)
+from scripts.statistica_ii_dispersion_explanations import DISPERSION_EXPLANATIONS
+from scripts.statistica_ii_distribution_shape_explanations import (
+    DISTRIBUTION_SHAPE_EXPLANATIONS,
+)
+from scripts.statistica_ii_hypothesis_z_test_explanations import (
+    HYPOTHESIS_Z_TEST_EXPLANATIONS,
+)
+from scripts.statistica_ii_recap_rapid_explanations import RECAP_RAPID_EXPLANATIONS
+from scripts.statistica_ii_sampling_distribution_explanations import (
+    SAMPLING_DISTRIBUTION_EXPLANATIONS,
+)
+from scripts.statistica_ii_standardized_scores_explanations import (
+    STANDARDIZED_SCORES_EXPLANATIONS,
+)
+from scripts.statistica_ii_frequency_explanations import FREQUENCY_EXPLANATIONS
 from scripts.statistica_ii_scales_sampling_explanations import (
     SCALES_SAMPLING_EXPLANATIONS,
 )
@@ -276,7 +295,7 @@ STATISTICA_II_EXPLANATIONS: List[str] = [
         "impresia tehnică. Ipotezele rămân necesare — statistica le evaluează, "
         "nu le face redundante."
     ),
-] + SCALES_SAMPLING_EXPLANATIONS
+] + SCALES_SAMPLING_EXPLANATIONS + FREQUENCY_EXPLANATIONS + CENTRAL_TENDENCY_EXPLANATIONS + BOXPLOT_EXPLANATIONS + DISPERSION_EXPLANATIONS + DISTRIBUTION_SHAPE_EXPLANATIONS + STANDARDIZED_SCORES_EXPLANATIONS + SAMPLING_DISTRIBUTION_EXPLANATIONS + HYPOTHESIS_Z_TEST_EXPLANATIONS + RECAP_RAPID_EXPLANATIONS
 
 
 def attach_explanations(items: list) -> list:
@@ -289,4 +308,4 @@ def attach_explanations(items: list) -> list:
     return out
 
 
-assert len(STATISTICA_II_EXPLANATIONS) == 90
+assert len(STATISTICA_II_EXPLANATIONS) == 265

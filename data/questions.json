@@ -57198,10 +57198,3288 @@
           "domeniu": "Statistică II",
           "tip": "multi",
           "exam_item": true
+        },
+        {
+          "id": 11051,
+          "text": "Frecvența absolută (fa) a unei valori sau categorii indică de câte ori aceasta apare în setul de date analizat.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. fa numără aparițiile unei valori sau categorii — este cel mai elementar indicator din tabelele de frecvență. Nu exprimă proporție din total; pentru aceasta folosești frecvența relativă.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11052,
+          "text": "În analiza frecvențelor, frecvența absolută (fa) reprezintă:",
+          "options": {
+            "a": "numărul de cazuri în care apare o anumită valoare sau categorie",
+            "b": "proporția fa din totalul de observații (N)",
+            "c": "suma frecvențelor absolute până la o anumită valoare inclusiv",
+            "d": "procentul cazurilor a căror valoare este mai mică sau egală cu un scor dat"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "fa = număr de cazuri cu acea valoare. Proporția fa/N este frecvența relativă, nu fa. fc este suma cumulată. Rangul percentil se referă la poziția unui scor, nu la numărul său de apariții.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11053,
+          "text": "Care dintre următoarele formule sau relații despre frecvența relativă sunt corecte?",
+          "options": {
+            "a": "frecvența relativă procentuală = (fa / N) × 100",
+            "b": "frecvența relativă (ca proporție) = fa / N",
+            "c": "frecvența relativă = fa × N",
+            "d": "suma tuturor frecvențelor relative (ca proporții) pentru toate categoriile distincte este 1 (sau 100%, dacă e exprimată procentual)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Frecvența relativă ca proporție este fa/N; în procente, (fa/N)×100. Înmulțirea fa×N nu are sens. Suma proporțiilor tuturor categoriilor este 1, dar formulele de bază sunt cele două de mai sus.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11054,
+          "text": "Dacă într-un eșantion N = 80 apar 12 cazuri cu valoarea „2”, care afirmații despre această valoare sunt corecte?",
+          "options": {
+            "a": "frecvența relativă ca proporție este 12/80",
+            "b": "fa = 12",
+            "c": "frecvența relativă procentuală este 15%",
+            "d": "frecvența cumulată pentru „2” este 12, indiferent de celelalte valori din tabel"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "fa=12, fr=12/80=0,15, adică 15%. Frecvența cumulată depinde de ordinea și de valorile anterioare din tabel — nu este mereu egală cu fa pentru o valoare intermediară.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11055,
+          "text": "Frecvența cumulată (fc) a unei valori, într-un tabel ordonat crescător, reprezintă:",
+          "options": {
+            "a": "suma frecvențelor absolute de la prima categorie până la categoria respectivă inclusiv",
+            "b": "proporția cazurilor care au exact acea valoare",
+            "c": "diferența dintre frecvența absolută și frecvența relativă",
+            "d": "numărul de clase folosite la gruparea datelor continue"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "fc adună fa de la prima categorie până la cea curentă, în tabel ordonat. Proporția fa/N este fr, nu fc. Diferența fa−fr nu e un indicator standard. Numărul de clase ține de date grupate, nu de fc.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11056,
+          "text": "Într-un tabel de frecvențe cumulate ordonat, ultima frecvență cumulată este egală cu N (totalul cazurilor).",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Ultima linie a frecvenței cumulate include toate cazurile — deci fc final = N. Dacă nu ajunge la N, lipsește o categorie sau calculul cumulativ e greșit.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11057,
+          "text": "Rangul percentil al unui scor indică:",
+          "options": {
+            "a": "procentul de valori din eșantion care sunt mai mici sau egale cu acel scor",
+            "b": "diferența dintre scor și medie, exprimată în procente",
+            "c": "valoarea numerică care împarte datele la un anumit procent fix",
+            "d": "frecvența absolută a scorului respectiv"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Rangul percentil = % de valori ≤ scorul dat. Percentila este valoarea corespunzătoare unui procent (ex. P90). fa e un număr brut de apariții. Diferența față de medie nu definește rangul percentil.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11058,
+          "text": "Care dintre următoarele distincții între rang percentil și percentilă sunt corecte?",
+          "options": {
+            "a": "percentila 90 este scorul sub care se află aproximativ 90% din valori",
+            "b": "rangul percentil și percentila sunt același tip de măsură, cu alt nume",
+            "c": "percentila este valoarea care corespunde unui anumit rang percentil",
+            "d": "rangul percentil descrie poziția relativă a unui scor în distribuție"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Rang percentil = poziție relativă a scorului tău în distribuție. Percentila = scorul care marchează un prag (ex. 90% sub P90). Nu sunt același tip de măsură — una descrie unde ești, cealaltă care e pragul.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11059,
+          "text": "Despre primul și al doilea quartil (Q1 și Q2) al unei distribuții se poate afirma corect că:",
+          "options": {
+            "a": "Q2 coincide cu mediana distribuției",
+            "b": "Q1 corespunde aproximativ rangului percentil 25",
+            "c": "Q2 marchează mijlocul ordinal al datelor (50%)",
+            "d": "Q1 și Q2 sunt întotdeauna la distanță egală de medie în orice distribuție"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Q1 ≈ percentila 25, Q2 = mediana (percentila 50). Q1 și Q2 nu sunt la distanță fixă de medie în distribuții asimetrice. Q2 împarte datele la mijlocul ordinal.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11060,
+          "text": "Al treilea quartil (Q3) al unei distribuții corespunde, în mod obișnuit, aproximativ:",
+          "options": {
+            "a": "mediei aritmetice a tuturor valorilor",
+            "b": "rangului percentil 75",
+            "c": "primului quartil (Q1)",
+            "d": "frecvenței absolute a valorii maxime"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Q3 corespunde aproximativ percentila 75 — sfertul superior al datelor. Q1 e la 25%, nu Q3. Media și fa a maximului nu definesc quartilele.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11061,
+          "text": "La construirea unui tabel de frecvențe pentru date continue grupate, orientarea frecventă pentru numărul de clase este:",
+          "options": {
+            "a": "cel mult 3 clase, pentru a păstra tabelele foarte simple",
+            "b": "peste 25 de clase, chiar și la eșantioane mici",
+            "c": "exact câte clase câte observații unice, indiferent de N",
+            "d": "în jur de 5–15 clase, cu intervale de lățime egală"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Pentru histograme/tabel grupat, 5–15 clase cu lățime egală e orientarea clasică — suficient detaliu fără zgomot excesiv. Câte o clasă per observație sau zeci de clase la N mic fragmentează inutil datele.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11062,
+          "text": "Care dintre următoarele cerințe pentru intervalele de clasă la frecvențe grupate sunt corecte?",
+          "options": {
+            "a": "intervalele au, de regulă, aceeași lățime",
+            "b": "fiecare valoare se încadrează într-un singur interval",
+            "c": "nu trebuie să existe goluri sau suprapuneri între intervale",
+            "d": "limitele aparente și cele reale coincid mereu, fără ajustare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Clase egale, fără goluri sau suprapuneri, fiecare valoare într-o singură clasă — altfel frecvențele nu mai sumează corect la N. Limitele aparente afișate diferă de cele reale tocmai pentru a respecta aceste reguli.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11063,
+          "text": "Pentru intervalul aparent 125–129 dintr-un tabel de frecvențe grupate, care afirmații sunt corecte?",
+          "options": {
+            "a": "limitele reale coincid exact cu 125,0 și 129,0, fără corecție",
+            "b": "limitele reale sunt, de regulă, 124,5 și 129,5",
+            "c": "valoarea 129,5 aparține, de regulă, intervalului următor",
+            "d": "125 și 129 sunt limitele aparente afișate în tabel"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Aparent 125–129 → real 124,5–129,5 (regula ±0,5). 129,5 intră în clasa următoare. Fără această convenție, valorile de la capete ar fi ambigue la date continue.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11064,
+          "text": "Intervalul de clasă aparent „125–129” are, în convenția obișnuită cu jumătăți de unitate, limitele reale:",
+          "options": {
+            "a": "125,5 și 128,5",
+            "b": "125,0 și 129,0",
+            "c": "124,0 și 130,0",
+            "d": "124,5 și 129,5"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Convenția standard: limite reale cu jumătăți de unitate — 124,5 și 129,5. 125,0–129,0 ar exclude 129,5 sau ar crea suprapuneri. 124–130 sau 125,5–128,5 nu corespund intervalului aparent 125–129.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11065,
+          "text": "Care dintre următoarele motive justifică folosirea limitelor reale la frecvențele grupate?",
+          "options": {
+            "a": "face inutilă cunoașterea numărului total N de cazuri",
+            "b": "evită ambiguitatea la valorile de la capetele intervalelor",
+            "c": "permite încadrarea corectă a datelor continue în clase",
+            "d": "previne numărarea aceleiași valori în două clase diferite"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Limitele reale clarifică încadrarea la capete, evită dubla numărare și permit gruparea corectă a datelor continue. N rămâne necesar pentru fr = fa/N.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11066,
+          "text": "Dacă fa = 20 și N = 50, care dintre următoarele afirmații sunt corecte?",
+          "options": {
+            "a": "frecvența relativă ca proporție este 0,40",
+            "b": "frecvența absolută este 50",
+            "c": "frecvența relativă ca proporție este 2,5",
+            "d": "frecvența relativă procentuală este 40%"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "20/50 = 0,40 = 40%. 2,5 ar fi 20×50 (invers). fa rămâne 20, nu 50 — N este totalul, nu fa.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11067,
+          "text": "Care dintre următoarele perechi indicator–definiție sunt corecte?",
+          "options": {
+            "a": "fc — suma frecvențelor absolute până la o anumită valoare (în tabel ordonat)",
+            "b": "rang percentil — frecvența absolută a valorii maxime",
+            "c": "fr (proporție) — fa împărțit la N",
+            "d": "fa — de câte ori apare o valoare sau categorie"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Trei perechi corecte: fa, fr, fc. Rangul percentil nu este fa al maximului — e procentul de valori sub un scor.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11068,
+          "text": "În formula frecvenței relative fa / N, simbolul N reprezintă:",
+          "options": {
+            "a": "numărul total de observații (cazuri) din eșantionul analizat",
+            "b": "numărul de categorii distincte din tabel",
+            "c": "lățimea unui interval de clasă la date grupate",
+            "d": "frecvența celei mai frecvente valori"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "N = total observații — numitorul la fr. Numărul de categorii, modul sau lățimea clasei sunt alți parametri ai tabelului.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11069,
+          "text": "Care dintre următoarele capcane în analiza frecvențelor sunt frecvente?",
+          "options": {
+            "a": "calcularea frecvenței cumulate fără ordonarea valorilor",
+            "b": "confundarea frecvenței absolute cu cea relativă",
+            "c": "intervale de clasă cu goluri sau suprapuneri",
+            "d": "ignorarea regulii jumătăților de unitate la limitele reale"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru capcane frecvente: fa vs fr; fc fără ordine; intervale defecte; limite reale ignorate. Verificarea sumei proporțiilor (=1) și fc final (=N) ajută la control.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11070,
+          "text": "Care dintre următoarele sintezează corect analiza frecvențelor studiate?",
+          "options": {
+            "a": "fa, fr (proporție și procent), fc pentru distribuții ordonate",
+            "b": "quartile: Q1 ≈ 25%, Q2 = mediana, Q3 ≈ 75%",
+            "c": "rang percentil și percentilă — poziție relativă vs valoare-corespondentă",
+            "d": "date grupate: 5–15 clase egale, limite aparente vs reale (ex. 125–129)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Sinteză: indicatorii de frecvență, poziție relativă vs percentilă, quartile, reguli pentru date grupate. Acestea sunt baza descriptivă înainte de medie, dispersie și grafice.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11071,
+          "text": "Mediana este un indicator de tendință centrală robust la valorile extreme (outlieri), spre deosebire de media aritmetică.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Mediana depinde de poziția în distribuție, nu de magnitudinea fiecărei valori — outlierii o trag mult mai puțin decât pe medie. De aceea la venituri sau timpi de reacție cu valori rare foarte mari, mediana e adesea mai informativă.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11072,
+          "text": "Modul (Mo) al unei distribuții reprezintă:",
+          "options": {
+            "a": "suma tuturor valorilor împărțită la numărul de observații",
+            "b": "valoarea care împarte eșantionul în două părți egale ca număr de cazuri",
+            "c": "diferența dintre cea mai mare și cea mai mică valoare observată",
+            "d": "valoarea (sau categoria) care apare cel mai frecvent în setul de date"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Mo = valoarea cea mai frecventă. Mediana împarte la 50% ca număr de cazuri. Media = ΣX/N. Amplitudinea = max − min — indicator de dispersie, nu de centru.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11073,
+          "text": "Care dintre următoarele sunt avantaje ale modului ca indicator de tendință centrală?",
+          "options": {
+            "a": "are proprietăți matematice ideale pentru orice test inferențial parametric",
+            "b": "poate fi folosit și la date nominale sau ordinale, nu doar la scale interval/raport",
+            "c": "se calculează ușor, prin identificarea valorii celei mai frecvente",
+            "d": "este stabil la adăugarea unei valori extreme îndepărtate"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Modul se citește direct din frecvențe și funcționează la nominal (ex. categoria cea mai des întâlnită). Nu e stabil la extreme și nu e baza inferenței parametrice — rolul acela revine mediei.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11074,
+          "text": "Un dezavantaj important al modului este că:",
+          "options": {
+            "a": "nu este indicatorul uzual ales pentru inferența statistică parametrică",
+            "b": "nu poate fi determinat dintr-un tabel de frecvențe",
+            "c": "poate fi instabil — o singură schimbare poate modifica modul sau îl poate face indefinit (mai multe valori modale)",
+            "d": "este mereu egal cu mediana în distribuții asimetrice"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Modul poate sări de la o valoare la alta sau să devină bimodal. În inferență parametrică se lucrează cu medii, nu cu moduri. La nominal, modul rămâne util descriptiv.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11075,
+          "text": "Media aritmetică (m) a unui set de date se calculează ca suma valorilor împărțită la numărul de observații: m = ΣX / N.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. m = ΣX/N — definiția standard. Toate valorile intră în calcul cu ponderea lor, spre deosebire de mediană (poziție) sau mod (frecvență maximă).",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11076,
+          "text": "Mediana (Me) a unui set de date ordonate este:",
+          "options": {
+            "a": "valoarea cea mai frecventă din distribuție",
+            "b": "valoarea (sau media celor două valori centrale) care lasă 50% din cazuri sub ea și 50% deasupra, în sens ordinal",
+            "c": "media aritmetică a valorilor extreme",
+            "d": "diferența dintre al treilea și primul quartil"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Mediana = valoarea centrală ordonată (sau media celor două centrale la N par). 50% sub, 50% deasupra — în sensul numărului de cazuri. Nu e Mo și nu e media aritmetică.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11077,
+          "text": "Care dintre următoarele afirmații despre media aritmetică sunt corecte?",
+          "options": {
+            "a": "este sensibilă la valorile extreme (outlieri)",
+            "b": "este foarte folosită în practică și în inferența statistică parametrică",
+            "c": "este identică cu modul în orice distribuție, indiferent de formă",
+            "d": "are proprietăți matematice convenabile (ex. legături cu abaterile de la medie)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Media e omniprezentă în practică și în teste parametrice (t, ANOVA), are proprietăți algebrice utile, dar outlierii o distorsionează. Egalitatea cu modul apare doar aproximativ la simetrie.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11078,
+          "text": "Care dintre următoarele sunt avantaje ale medianei?",
+          "options": {
+            "a": "este întotdeauna egală cu media aritmetică în distribuții asimetrice",
+            "b": "reflectă poziția centrală a 50% din cazuri, nu media ponderată a tuturor valorilor",
+            "c": "poate fi estimată și când ultima clasă a unui tabel grupat este deschisă",
+            "d": "este robustă la valorile extreme"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Mediana rezistă la extreme și se poate estima cu ultima clasă deschisă (nu ai nevoie de capătul exact). Nu reflectă media ponderată — e un prag ordinal la 50%.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11079,
+          "text": "De ce media aritmetică poate fi înșelătoare ca „valoare tipică” într-o distribuție cu coadă lungă de valori mari?",
+          "options": {
+            "a": "pentru că câteva valori foarte mari trag media spre dreapta, departe de majoritatea cazurilor",
+            "b": "în astfel de cazuri mediana descrie adesea mai bine centrul distribuției",
+            "c": "pentru că modul devine automat mai mare decât mediana",
+            "d": "pentru că suma abaterilor față de medie nu mai poate fi zero"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Coada dreaptă cu valori mari rare ridică media peste „centrul” vizual al datelor. Mediana rămâne aproape de zona unde se află majoritatea cazurilor. Σ(X−m)=0 rămâne valabil oricum.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11080,
+          "text": "Dacă la toate valorile unui set adaugi o constantă k, media aritmetică:",
+          "options": {
+            "a": "se înmulțește cu k",
+            "b": "rămâne neschimbată",
+            "c": "devine egală cu mediana",
+            "d": "crește (sau scade) cu exact k"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Translația liniară: X+k → m+k. Aceasta e proprietatea 1 din listă. Nu se înmulțește cu k la adunare și nu devine automat mediana.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11081,
+          "text": "Care dintre următoarele proprietăți ale mediei aritmetice sunt corecte?",
+          "options": {
+            "a": "suma abaterilor la medie este maximă, nu minimă",
+            "b": "suma pătratelor abaterilor față de medie este minimă față de orice alt punct de referință",
+            "c": "suma abaterilor valorilor față de medie este zero: Σ(X − m) = 0",
+            "d": "dacă înmulțești (sau împarți) toate valorile cu aceeași constantă nenulă, media se înmulțește (sau se împarte) cu aceeași constantă"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Trei proprietăți clasice: scalarea (×c), suma abaterilor zero, minimul pătratelor abaterilor. Suma abaterilor simple nu e maximă la medie — e zero.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11082,
+          "text": "Proprietatea conform căreia suma pătratelor abaterilor Σ(X − m)² este minimă se referă la:",
+          "options": {
+            "a": "mediana — pentru că împarte distribuția la 50%",
+            "b": "amplitudinea — diferența dintre maxim și minim",
+            "c": "media aritmetică — niciun alt număr nu minimizează mai bine abaterile pătratice totale",
+            "d": "modul — pentru că este valoarea cea mai frecventă"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Minimul lui Σ(X−a)² se atinge la a = m. Mediana minimizează alt tip de abateri (suma valorilor absolute), nu pe cele pătratice.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11083,
+          "text": "Care dintre următoarele ordini între mod (Mo), mediană (Me) și medie (M) sunt corecte?",
+          "options": {
+            "a": "distribuție simetrică: Mo ≈ Me ≈ M",
+            "b": "asimetrie pozitivă (coadă dreapta): Mo < Me < M",
+            "c": "asimetrie pozitivă: M < Me < Mo",
+            "d": "asimetrie negativă (coadă stânga): M < Me < Mo"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Cele trei ordini din curs: simetric Mo≈Me≈M; pozitiv Mo<Me<M (coadă dreapta trage media); negativ M<Me<Mo. Ultima variantă inversează greșit asimetria pozitivă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11084,
+          "text": "Care dintre următoarele proprietăți liniare ale mediei aritmetice sunt corecte?",
+          "options": {
+            "a": "dacă înmulțești fiecare valoare cu o constantă nenulă c, media se înmulțește cu c",
+            "b": "înmulțirea valorilor cu c modifică doar modul, nu și media",
+            "c": "dacă adaugi k, mediana crește mereu cu mai mult decât media",
+            "d": "dacă adaugi o constantă k la fiecare valoare, mediei i se adaugă k"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Proprietăți liniare: translație ±k și scalare ×c se propagă identic la medie. Modul și mediana au reguli similare la translație, dar nu „doar modul” la înmulțire.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11085,
+          "text": "Într-o distribuție cu asimetrie pozitivă (coadă spre dreapta), ordinea tipică a indicatorilor este:",
+          "options": {
+            "a": "Mo = Me = M",
+            "b": "Me < Mo < M",
+            "c": "Mo < Me < M (mod < mediană < medie)",
+            "d": "M < Me < Mo"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Asimetrie pozitivă = coadă dreapta = valori mari rare → media e trasă la dreapta, peste mediană, peste mod. Ordinea Mo < Me < M e regula mnemotechnică din curs.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11086,
+          "text": "În distribuții asimetrice, mediana se situează, de regulă:",
+          "options": {
+            "a": "în afara intervalului dintre mod și medie",
+            "b": "peste mod și peste medie, în orice situație",
+            "c": "întotdeauna sub mod și sub medie, indiferent de tipul asimetriei",
+            "d": "între mod și medie"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Indiferent de direcția asimetriei, mediana stă între mod și medie — de exemplu la pozitiv Mo < Me < M, Me e la mijloc. Nu e mereu sub ambele sau peste ambele.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11087,
+          "text": "Care dintre următoarele afirmații despre alegerea indicatorului de tendință centrală sunt corecte?",
+          "options": {
+            "a": "modul este preferat pentru inferență parametrică în locul mediei",
+            "b": "la date nominale, modul este adesea singurul indicator fezabil",
+            "c": "media rămâne centrală în multe analize inferențiale parametrice",
+            "d": "la asimetrie marcată, mediana descrie mai bine „centrul” decât media"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Nominal → mod. Asimetrie → mediană. Inferență parametrică → medie (cu presupunerile îndeplinite). Modul nu înlocuiește media în testele clasice.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11088,
+          "text": "Când distribuția este marcat asimetrică, indicatorul cel mai reprezentativ pentru „valoarea tipică” este, de obicei:",
+          "options": {
+            "a": "media aritmetică, pentru că folosește toate valorile",
+            "b": "mediana",
+            "c": "modul, pentru că este cel mai frecvent",
+            "d": "amplitudinea, pentru că arată întinderea datelor"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "La asimetrie marcată, mediana descrie „tipicul” mai bine decât media trasă de coadă. Media folosește toate valorile — tocmai asta o face vulnerabilă. Modul poate fi departe de centru în distribuții continue.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11089,
+          "text": "Care dintre următoarele capcane privind tendința centrală sunt frecvente?",
+          "options": {
+            "a": "presupunerea că Mo = Me = M în orice distribuție",
+            "b": "calcularea mediei la date nominale fără justificare",
+            "c": "confundarea medianei cu modul",
+            "d": "folosirea mediei la distribuții puternic asimetrice cu outlieri"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru capcane: medie la asimetrie/outlieri; confuzie Me/Mo; simetrie presupusă peste tot; medie pe coduri nominale. Alegerea indicatorului urmează tipul scalei și forma distribuției.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11090,
+          "text": "Care dintre următoarele sintezează corect modul, mediana, media și asimetria?",
+          "options": {
+            "a": "proprietăți medie: ±k la valori → medie ±k; ×c → medie ×c; Σ(X−m)=0",
+            "b": "la asimetrie, mediana stă de regulă între mod și medie",
+            "c": "Mo = cea mai frecventă; Me = mijlocul ordinal (50%); m = ΣX / N",
+            "d": "simetric: Mo ≈ Me ≈ M; pozitiv: Mo < Me < M; negativ: M < Me < Mo"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Sinteză completă: definiții Mo/Me/m, proprietăți ale mediei, ordinea la simetrie și asimetrie, rolul medianei între mod și medie. Baza pentru compararea distribuțiilor și pentru alegerea statisticilor ulterioare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11091,
+          "text": "Într-un boxplot, „cutia” (box) se întinde de la primul quartil (Q1) la al treilea quartil (Q3) și cuprinde 50% central al datelor.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Cutia vizualizează intervalul interquartilic: de la Q1 la Q3 sunt 50% din cazuri (centrul distribuției). Nu include automat outlierii — aceștia apar separat.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11092,
+          "text": "În boxplot, linia trasată în interiorul cutiei reprezintă, de regulă:",
+          "options": {
+            "a": "mediana (a doua quartilă, Q2)",
+            "b": "primul quartil (Q1)",
+            "c": "valoarea maximă observată în eșantion",
+            "d": "media aritmetică a tuturor valorilor"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Linia din cutie = mediana (Q2), nu media. Media ar fi atrasă de outlieri; boxplot-ul standard evidențiază mediana. Q1 e marginea inferioară a cutiei.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11093,
+          "text": "Care dintre următoarele descrieri ale cutiei din boxplot sunt corecte?",
+          "options": {
+            "a": "conține 50% central al observațiilor (intervalul interquartilic vizual)",
+            "b": "delimitează intervalul dintre Q1 și Q3",
+            "c": "se întinde întotdeauna de la valoarea minimă la cea maximă",
+            "d": "are lățimea egală cu amplitudinea totale a datelor"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Cutia = Q1–Q3 = nucleul central. Whiskers și puncte externe se calculează separat — cutia nu merge de la min la max.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11094,
+          "text": "Intervalul interquartilic (IQR), notat uneori H în formula whiskerilor, se calculează ca:",
+          "options": {
+            "a": "H = maxim − minim",
+            "b": "H = Q3 − Q1",
+            "c": "H = Q2 − Q1",
+            "d": "H = medie − mediana"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "H sau IQR = Q3 − Q1 — lățimea cutiei. Nu e Q2−Q1, amplitudinea totală sau diferența medie–mediană. Din H derivă limitele whisker la 1,5×H.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11095,
+          "text": "În convenția tipică a boxplotului, lungimea whiskerilor se stabilește folosind multiplul 1,5 × H, unde H = Q3 − Q1.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Regula 1,5×H (convenție Tukey) definește unde se termină whiskers și ce depășiri sunt marcate ca outlieri. E criteriu descriptiv, nu test inferențial.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11096,
+          "text": "Valorile care depășesc capetele whiskerilor (în afara intervalului Q1 − 1,5H și Q3 + 1,5H) sunt marcate, de regulă, ca:",
+          "options": {
+            "a": "outlieri (valori extreme)",
+            "b": "mediana distribuției",
+            "c": "valorile centrale obligatorii ale cutiei",
+            "d": "limitele reale ale intervalului de clasă"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Punctele dincolo de whiskers = outlieri potrivit criteriului 1,5×H. Nu sunt automat erori — pot fi cazuri reale extreme. Nu confunda cu Q1 sau mediana.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11097,
+          "text": "Care dintre următoarele elemente ale unui boxplot sunt descrise corect?",
+          "options": {
+            "a": "linia din cutie: mediana",
+            "b": "whiskers: se extind până la ultima valoare non-outlier, în limitele 1,5×H față de quartile",
+            "c": "fiecare punct din afara cutiei este automat o eroare de măsurare",
+            "d": "cutia: de la Q1 la Q3"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Trei elemente corecte: cutie Q1–Q3, linie mediană, whiskers până la ultima valoare non-outlier în limitele 1,5×H. Punctul extern nu e automat eroare de măsurare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11098,
+          "text": "Care dintre următoarele afirmații despre whiskers și outlieri sunt corecte?",
+          "options": {
+            "a": "orice valoare sub Q1 este marcată automat ca outlier",
+            "b": "outlierii sunt întotdeauna erori de înregistrare care trebuie șterse",
+            "c": "whiskers nu ajung neapărat până la minimul sau maximul brut al datelor dacă există outlieri",
+            "d": "punctele afișate dincolo de whiskers sunt valori extreme potrivit criteriului 1,5×H"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Whiskers se opresc la valori non-outlier — de aceea nu ajung la min/max brut când există extreme. Punctele separate sunt outlieri. Sub Q1 nu e automat outlier — doar sub Q1−1,5H.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11099,
+          "text": "În interpretarea unui boxplot, o valoare marcată individual dincolo de whisker indică:",
+          "options": {
+            "a": "obligatoriu o greșeală de tastare care trebuie eliminată",
+            "b": "o observație atipică față de compactul central al distribuției",
+            "c": "limita inferioară a intervalului interquartilic",
+            "d": "media aritmetică a grupului"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Outlier = atipic față de compactul central, nu obligatoriu greșeală. Verifici sursa datelor înainte de eliminare. Nu e media și nu e Q1.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11100,
+          "text": "Care dintre următoarele relații între quartile și whiskers sunt corecte?",
+          "options": {
+            "a": "Q2 este egal cu Q3 − Q1",
+            "b": "H = Q3 − Q1 este baza pentru calculul limitelor whisker la 1,5×H",
+            "c": "limita superioară a whiskerului este, în convenția clasică, Q3 + 1,5H (sau ultima valoare non-outlier sub această limită)",
+            "d": "whiskers marchează întotdeauna exact minimul și maximul eșantionului"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "H = Q3−Q1 baza limitei Q3+1,5H și Q1−1,5H. Whiskerul superior folosește această regulă sau ultima valoare validă sub limită. Nu marchează mereu min/max brut; Q2 ≠ H.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11101,
+          "text": "Care dintre următoarele strategii de tratare a valorilor extreme sunt discutate în analiza descriptivă?",
+          "options": {
+            "a": "folosirea mediei trunchiate (ex. 5% la fiecare capăt)",
+            "b": "ignorarea automată a oricărei valori deasupra mediei",
+            "c": "eliminarea cazurilor extreme (cu justificare metodologică)",
+            "d": "corectarea valorilor suspecte după verificare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru strategii din curs: eliminare justificată, corectare după verificare, medie trunchiată, transformări. Nu elimini tot ce e peste medie — mediana e deja robustă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11102,
+          "text": "Mediana trunchiată sau medie trunchiată la 5% înseamnă, în linii mari, că:",
+          "options": {
+            "a": "se păstrează toate valorile, inclusiv outlierii, fără modificare",
+            "b": "se elimină o proporție mică din valorile extreme de la fiecare capăt înainte de calculul mediei",
+            "c": "se înlocuiesc toate valorile cu mediana",
+            "d": "se calculează media doar pe cele 5% centrale ale datelor"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Medie trunchiată 5%: tai ~5% din fiecare capăt, apoi calculezi media pe restul — compromis între robustețe și folosirea majorității datelor. Nu înseamnă media doar pe 5% centrale.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11103,
+          "text": "Care dintre următoarele transformări sunt folosite uneori pentru a reduce efectul valorilor extreme sau a asimetriei?",
+          "options": {
+            "a": "transformarea radical (ex. √x)",
+            "b": "transformarea logaritmică (log)",
+            "c": "înmulțirea tuturor valorilor cu zero",
+            "d": "rotunjirea tuturor valorilor la aceeași cifră"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "log și √ comprimă cozile lungi — utile la venituri, timpi de reacție skewed. Nu aplici pe nominal și nu „înmulțești cu zero” — distruge datele.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11104,
+          "text": "Care dintre următoarele precauții la tratarea outlierilor sunt corecte?",
+          "options": {
+            "a": "nu elimini automat — verifică dacă sunt erori sau cazuri reale",
+            "b": "prezența outlierilor face imposibilă orice analiză descriptivă",
+            "c": "documentează decizia (eliminare, corectare, transformare)",
+            "d": "outlierii pot purta informație relevantă pentru întrebarea de cercetare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Verifică, documentează, păstrează outlieri reali dacă sunt relevanți. Analiza descriptivă rămâne posibilă — chiar boxplotul îi evidențiază.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11105,
+          "text": "De ce eliminarea automată a tuturor valorilor marcate ca outlier pe boxplot poate fi problematică?",
+          "options": {
+            "a": "pentru că eliminarea lor garantează o distribuție perfect simetrică",
+            "b": "pentru că poate introduce bias și reduce reprezentativitatea eșantionului",
+            "c": "pentru că outlierii confirmă întotdeauna că datele sunt invalide",
+            "d": "pentru că unele valori extreme pot fi reale și semnificative, nu erori"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Eliminarea automată poate șterge cazuri reale (ex. performanță excepțională) și introduce bias. Nu garantează simetrie și nu confirmă invaliditatea datelor.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11106,
+          "text": "Când există outlieri, whiskers pe boxplot:",
+          "options": {
+            "a": "înlocuiesc mediana din interiorul cutiei",
+            "b": "nu se mai pot calcula, deoarece Q1 și Q3 devin egale",
+            "c": "ajung obligatoriu până la minimul și maximul brut, indiferent de outlieri",
+            "d": "se opresc adesea la ultima valoare non-outlier din fiecare direcție"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Whiskers = ultima valoare non-outlier pe fiecare direcție, nu min/max brut când există puncte externe. Q1 și Q3 rămân marginile cutiei; mediana rămâne în interior.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11107,
+          "text": "Care dintre următoarele situații justifică, cu prudență, o transformare (log sau √) a datelor?",
+          "options": {
+            "a": "dorința de a micșora efectul outlierilor pe variabile skewed",
+            "b": "date nominale codificate M/F",
+            "c": "valori strict pozitive pe o scară de raport (ex. timpi, venituri)",
+            "d": "distribuție puternic asimetrică cu coadă lungă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Transformări log/√ pentru asimetrie și valori pozitive pe scară de raport. Nu pentru nominal M/F. Pot reduce influența outlierilor pe scale skewed.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11108,
+          "text": "Care dintre următoarele capcane la citirea sau folosirea boxplotului sunt frecvente?",
+          "options": {
+            "a": "presupunerea că whiskers = minim și maxim brut",
+            "b": "tratarea automată a punctelor externe ca erori de măsurare",
+            "c": "confundarea liniei din cutie cu media",
+            "d": "ignorarea faptului că cutia acoperă doar 50% central"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru capcane frecvente la citire: linie ≠ medie; whiskers ≠ min/max; outlier ≠ automat eroare; cutia = doar 50% central, nu toată distribuția.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11109,
+          "text": "Care dintre următoarele sintezează corect boxplotul și valorile extreme?",
+          "options": {
+            "a": "tratare outlieri: eliminare/corectare/medie trunchiată/transformări",
+            "b": "outlierii se semnalează vizual; tratarea lor rămâne o decizie contextuală",
+            "c": "cutie Q1–Q3; linie = mediana; H = Q3 − Q1",
+            "d": "whiskers la ±1,5×H; dincolo → outlier"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru sinteze corecte: structură boxplot, regula 1,5×H, strategii de tratare, decizie contextuală. Boxplotul completează, nu înlocuiește analiza dispersiei.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11110,
+          "text": "Care dintre următoarele afirmații despre boxplot și outlieri sunt corecte?",
+          "options": {
+            "a": "criteriul 1,5×H este o convenție descriptivă, nu o regulă de eliminare obligatorie",
+            "b": "boxplot evidențiază compactul central și valorile atipice",
+            "c": "orice studiu cu outlieri trebuie să folosească doar modul ca indicator central",
+            "d": "mediana din cutie este robustă la outlieri în sensul că nu îi include în calculul ei direct"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Boxplotul arată centrul compact și extremele. 1,5×H e convenție vizuală. Mediana e robustă — nu e calculată cu outlierii, dar îi poți vedea separat. Modul nu devine obligatoriu la orice outlier.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11111,
+          "text": "Amplitudinea (R) a unui set de date se calculează ca diferența dintre valoarea maximă și valoarea minimă: R = Xmax − Xmin.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. R = Xmax − Xmin măsoară întinderea totală. E simplă, dar un singur outlier o poate umfla enorm — de aceea există și indicatori bazați pe quartile.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11112,
+          "text": "Amplitudinea relativă (V%) exprimă amplitudinea în raport cu media și se calculează, de regulă, astfel:",
+          "options": {
+            "a": "V% = (R / m) × 100",
+            "b": "V% = (m / R) × 100",
+            "c": "V% = R − m",
+            "d": "V% = (Q3 − Q1) / m × 100"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "V% = (R/m)×100 pune amplitudinea în raport cu nivelul mediei — util la comparări relative. Nu inversa m/R și nu confunda cu RQ/m.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11113,
+          "text": "Care dintre următoarele afirmații despre amplitudinea R și amplitudinea relativă sunt corecte?",
+          "options": {
+            "a": "R este robustă la outlieri la fel ca abaterea interquartilică",
+            "b": "R este sensibilă la valorile extreme",
+            "c": "V% compară întinderea datelor cu nivelul mediei",
+            "d": "R = Xmax − Xmin"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "R și sensibilitatea la extreme sunt corecte. V% e tot adevărat ca formulă, dar enunțul cere perechi despre R — nu include V% în răspuns. R nu e robustă ca RQ.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11114,
+          "text": "Abaterea interquartilică (RQ) se calculează ca:",
+          "options": {
+            "a": "RQ = Q3 − Q1",
+            "b": "RQ = (Q3 − Q1) / 2",
+            "c": "RQ = Xmax − Xmin",
+            "d": "RQ = Σ|Xi − m| / N"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "RQ = Q3 − Q1 = IQR — lățimea cutiei din boxplot. RSQ e jumătate. d folosește module, nu pătrate. R e max − min.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11115,
+          "text": "Abaterea semiinterquartilică (RSQ) este jumătatea intervalului interquartilic: RSQ = (Q3 − Q1) / 2.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. RSQ = (Q3−Q1)/2 — jumătatea distanței interquartilice. Nu e același lucru cu RQ, deși derivă din aceleași quartile.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11116,
+          "text": "Abaterea medie (d) măsoară dispersia folosind:",
+          "options": {
+            "a": "diferența dintre maxim și minim",
+            "b": "media valorilor absolute ale abaterilor față de medie: Σ|Xi − m| / N",
+            "c": "raportul dintre abaterea standard și medie",
+            "d": "suma pătratelor abaterilor împărțită la N − 1"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Abaterea medie d folosește valori absolute — mai puțin sensibilă la outlieri decât pătratele, dar mai puțin folosită decât s. s² folosește pătrate; cv = s/m.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11117,
+          "text": "Care dintre următoarele indicatori de dispersie sunt descriși ca mai robusti la valori extreme?",
+          "options": {
+            "a": "amplitudinea R = Xmax − Xmin",
+            "b": "abaterea interquartilică (RQ = Q3 − Q1)",
+            "c": "abaterea semiinterquartilică (RSQ)",
+            "d": "dispersia calculată cu pătratele abaterilor față de medie, fără modificare"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "RQ și RSQ se bazează pe quartile — outlierii extreme nu le modifică direct ca pe R. Amplitudinea și varianța brută sunt trase de extreme.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11118,
+          "text": "Pentru un eșantion, dispersia (varianța) s² se calculează, de regulă, cu numitorul:",
+          "options": {
+            "a": "Q3 − Q1",
+            "b": "N − 1 (grade de libertate ale eșantionului)",
+            "c": "N (numărul total de cazuri)",
+            "d": "N + 1"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "La eșantion, N−1 (grade de libertate) corectează estimarea varianței populației. Cu N la numitor subestimezi dispersia. Nu are legătură cu Q3−Q1.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11119,
+          "text": "Care dintre următoarele relații între dispersie și abatere standard sunt corecte?",
+          "options": {
+            "a": "s² este dispersia (varianța) eșantionului",
+            "b": "σ (sigma) desemnează, de regulă, abaterea standard a populației",
+            "c": "s și σ sunt întotdeauna identice, indiferent de eșantion sau populație",
+            "d": "abaterea standard a eșantionului s = √s²"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "s = √s²; σ = abatere standard populație, s = eșantion. s² este varianța eșantionului. σ și s coincid doar dacă ai întreaga populație.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11120,
+          "text": "Formula dispersiei eșantionului s² = Σ(Xi − m)² / (N − 1) folosește N − 1 pentru că:",
+          "options": {
+            "a": "media a consumat un grad de libertate în calculul abaterilor",
+            "b": "altfel abaterea standard ar fi mereu zero",
+            "c": "estimează mai bine dispersia populației din eșantion (corcție Bessel)",
+            "d": "N − 1 este mereu egal cu Q3 − Q1"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "N−1 corectează bias-ul estimatorului (Bessel) — media fixată consumă un grad de libertate. Nu face s zero și nu e legat de quartile.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11121,
+          "text": "Care dintre următoarele proprietăți ale abaterii standard sunt corecte?",
+          "options": {
+            "a": "abaterea standard reflectă răspândirea în aceleași unități ca și valorile originale",
+            "b": "dacă adaugi sau scazi aceeași constantă la toate valorile, s nu se schimbă",
+            "c": "dacă adaugi o constantă la toate valorile, s crește cu aceeași constantă",
+            "d": "dacă înmulțești toate valorile cu o constantă nenulă, s se înmulțește cu |constantă|"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Translația ±k nu schimbă distanțele între valori → s constant. Scalarea ×c scalează și s cu |c|. s are aceleași unități ca X — de aceea e interpretabilă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11122,
+          "text": "Dacă la fiecare valoare dintr-un set adaugi aceeași constantă k, abaterea standard s:",
+          "options": {
+            "a": "crește cu k",
+            "b": "rămâne neschimbată",
+            "c": "scade cu k",
+            "d": "se înmulțește cu k"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Adunarea unei constante mută toate valorile egal — dispersia relativă între ele nu se schimbă. Media crește cu k, dar s rămâne aceeași.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11123,
+          "text": "Coeficientul de variație (cv) se calculează ca:",
+          "options": {
+            "a": "cv = R × 100",
+            "b": "cv = (s / m) × 100",
+            "c": "cv = s² / m",
+            "d": "cv = (m / s) × 100"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "cv = (s/m)×100 — variabilitate relativă, util când compari grupuri cu medii diferite. Nu inversa și nu confunda cu V% (bazat pe R).",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11124,
+          "text": "Care dintre următoarele interpretări ale coeficientului de variație (cv) sunt corecte?",
+          "options": {
+            "a": "cv > 30% → dispersie mică, datele sunt foarte omogene",
+            "b": "cv între 15% și 30% → dispersie medie",
+            "c": "cv > 30% → dispersie mare, media este mai puțin reprezentativă",
+            "d": "cv < 15% → dispersie mică, media este foarte reprezentativă"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Praguri orientative din curs: sub 15% variabilitate mică; 15–30% medie; peste 30% mare — media descrie mai slab tipicul. Peste 30% nu înseamnă omogenitate.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11125,
+          "text": "Un coeficient de variație cv > 30% sugerează, în interpretarea uzuală din curs, că:",
+          "options": {
+            "a": "dispersia este mare și media aritmetică descrie mai slab „tipicul”",
+            "b": "datele sunt foarte omogene în jurul mediei",
+            "c": "amplitudinea R nu poate fi calculată",
+            "d": "abaterea interquartilică este mereu zero"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "cv > 30% = dispersie mare relativ la medie — interpreti media cu prudență. Nu înseamnă RQ=0 sau imposibilitatea calculului R.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11126,
+          "text": "Când există outlieri marcanți, care dintre următoarele afirmații justifică preferarea RQ față de R?",
+          "options": {
+            "a": "RQ este mereu egală cu abaterea standard s",
+            "b": "RQ = Q3 − Q1 se bazează pe quartile, mai puțin trase de extreme",
+            "c": "R devine imposibil de calculat în prezența outlierilor",
+            "d": "R = Xmax − Xmin include automat valorile extreme în calcul"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "RQ ignoră min/max brut; R îi include pe ambele. De aceea la outlieri RQ e preferată descriptiv. Nu egalează s și nu înlocuiește media.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11127,
+          "text": "Care dintre următoarele perechi indicator–formulă sunt corecte?",
+          "options": {
+            "a": "RSQ = (Q3 − Q1) / 2",
+            "b": "d = Σ(Xi − m)² / (N − 1)",
+            "c": "R = Xmax − Xmin",
+            "d": "RQ = Q3 − Q1"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Trei formule corecte: R, RQ, RSQ. d = Σ|Xi−m|/N, nu pătrate. Varianța folosește pătratele abaterilor.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11128,
+          "text": "Care dintre următoarele capcane privind indicatorii de dispersie sunt frecvente?",
+          "options": {
+            "a": "folosirea N în loc de N − 1 la varianța eșantionului",
+            "b": "interpretarea cv fără a ține cont de pragurile orientative (15%, 30%)",
+            "c": "presupunerea că adăugarea unei constante modifică abaterea standard",
+            "d": "confundarea R cu RQ"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru capcane: R vs RQ; N vs N−1; s la translație; cv fără praguri. Verifică unitățile și tipul indicatorului (absolut vs relativ).",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11129,
+          "text": "Care dintre următoarele sintezează corect dispersia studiată?",
+          "options": {
+            "a": "RQ și RSQ derivă din quartile, nu din min/max brut",
+            "b": "R, V%, RQ, RSQ, d, s², s — indicatori cu sensuri distincte",
+            "c": "s nu se schimbă la ± constantă; se scalează la ×/÷ constantă",
+            "d": "cv = (s/m)×100; praguri orientative 15% și 30%"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru sinteze: familia indicatorilor; proprietăți ale s; cv și praguri; originea quartilică a RQ/RSQ. σ populație ≠ s eșantion fără estimare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11130,
+          "text": "Care dintre următoarele afirmații despre dispersie și tendința centrală sunt corecte?",
+          "options": {
+            "a": "dispersia mare face inutilă orice descriere a datelor",
+            "b": "o medie reprezentativă are sens doar dacă știi cât de răspândite sunt datele",
+            "c": "indicatorii de dispersie completează măsurile de centru (medie, mediană)",
+            "d": "coeficientul de variație permite compararea variabilității la scale diferite"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Centru + dispersie merg împreună: media fără s sau cv spune puțin. cv ajută la compararea grupurilor. Dispersia mare nu anulează descrierea — o califică.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11131,
+          "text": "Un coeficient de asimetrie (skewness) egal cu 0 indică, în interpretarea standard, o distribuție simetrică.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Skewness = 0 indică simetrie (în sens statistic). Nu spune nimic despre kurtosis — o curbă poate fi simetrică și leptocurtică sau platicurtică.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11132,
+          "text": "În interpretarea uzuală a skewness-ului, valoarea 0 semnifică că distribuția este:",
+          "options": {
+            "a": "simetrică (fără înclinare marcată spre stânga sau dreapta)",
+            "b": "leptocurtică, cu vârf foarte înalt",
+            "c": "cu asimetrie negativă și coadă lungă spre stânga",
+            "d": "cu asimetrie pozitivă și coadă lungă spre dreapta"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Zero = simetric. Plus = coadă dreapta (asimetrie pozitivă). Minus = coadă stânga. Leptocurtic ține de kurtosis, nu de skewness.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11133,
+          "text": "Care dintre următoarele descriu asimetria pozitivă (skewness > 0)?",
+          "options": {
+            "a": "coadă mai lungă spre stânga, cu media sub mediană",
+            "b": "coadă mai lungă spre dreapta — valori mari rare care trag media",
+            "c": "ordinea tipică a indicatorilor centrali: Mo < Me < M",
+            "d": "skewness negativ, deoarece semnul plus indică deficitar la stânga"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Pozitiv: coadă dreapta, valori mari rare trag media → Mo < Me < M. Coada stângă și „skew negativ” la semn plus sunt erori — plus = pozitiv = dreapta.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11134,
+          "text": "Un skewness negativ (sub 0) sugerează, de regulă:",
+          "options": {
+            "a": "distribuție perfect simetrică",
+            "b": "ordinea frecventă Mo > Me > M (mod peste mediană, medie mai jos)",
+            "c": "asimetrie cu coadă mai lungă spre stânga",
+            "d": "aplatizare maximă, fără legătură cu înclinarea cozii"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Skewness negativ = coadă stânga, adesea M < Me < Mo. Nu e simetric și nu descrie aplatizarea (kurtosis).",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11135,
+          "text": "Distribuția leptocurtică se caracterizează printr-un vârf relativ înalt și valori concentrate în jurul centrului.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Leptocurtic = vârf înalt, valori concentrate. Opusul e platicurtic (aplatizat). Mezocurtic = referință normală.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11136,
+          "text": "O distribuție mezocurtică corespunde, în comparație cu modelul normal, unei curbe:",
+          "options": {
+            "a": "extrem de aplatizate, cu valori foarte dispersate",
+            "b": "cu vârf foarte ascuțit și cozi grele",
+            "c": "cu aplatizare „normală” (de referință mesocurtică)",
+            "d": "fără niciun vârf, complet uniformă pe interval"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Mezocurtică = curba „normală” de referință. Platicurtică = aplatizată, dispersată. Leptocurtică = vârf ascuțit — nu e mezocurtică.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11137,
+          "text": "Care dintre următoarele perechi tip de kurtosis–descriere sunt corecte?",
+          "options": {
+            "a": "leptocurtică — vârf înalt, valori concentrate",
+            "b": "mezocurtică — formă de referință (aproximativ normală)",
+            "c": "platicurtică — valori strânse în jurul mediei, vârf ascuțit",
+            "d": "platicurtică — curbă aplatizată, valori mai dispersate"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Trei tipuri: lepto (concentrat), mezo (normal), plati (aplatizat). Ultima variantă inversează platicurtic cu leptocurtic — capcană frecventă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11138,
+          "text": "Distribuția platicurtică se distinge prin:",
+          "options": {
+            "a": "vârf foarte înalt și concentrare puternică în centru",
+            "b": "curbă mai aplatizată, cu valori relativ mai dispersate",
+            "c": "skewness obligatoriu egal cu zero",
+            "d": "imposibilitatea calculului abaterii standard"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Platicurtică = aplatizare, valori mai împrăștiate. Nu are vârf înalt. Skewness poate fi oricare. s se calculează în continuare.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11139,
+          "text": "Pentru date pe scară nominală, indicatorul de tendință centrală fezabil în mod obișnuit este:",
+          "options": {
+            "a": "mediana",
+            "b": "abaterea standard",
+            "c": "media aritmetică",
+            "d": "modul"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "La nominal nu are sens medie sau mediană ca „centru” al codurilor — doar modul (categoria cea mai frecventă). SD pe coduri e lipsit de sens.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11140,
+          "text": "Când distribuția este marcat asimetrică, de ce se recomandă prudență cu media și abaterea standard?",
+          "options": {
+            "a": "sunt trase de valori extreme și descriu mai slab centrul tipic",
+            "b": "coeficientul de variație devine automat zero",
+            "c": "abaterea standard reflectă și distanța outlierilor, nu doar răspândirea „tipică”",
+            "d": "mediana și RQ devin interzise prin definiție"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Media și s sunt sensibile la extreme — la asimetrie descriu slab centrul. s include și distanța outlierilor. Mediana și RQ rămân valide, nu interzise.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11141,
+          "text": "Care dintre următoarele perechi de indicatori sunt potrivite la distribuții asimetrice cu outlieri?",
+          "options": {
+            "a": "media + abaterea standard, fără verificarea formei",
+            "b": "modul + amplitudinea R, indiferent de scară",
+            "c": "mediana pentru centru",
+            "d": "abaterea interquartilică (RQ) sau intervalul interquartilic pentru împrăștiere"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "La asimetrie/outlieri: mediana + RQ (sau IQR). Evită perechea medie + s ca descriere principală. Modul nu rezolvă singur problema scalei.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11142,
+          "text": "Perechea cea mai frecvent folosită în practică pentru descrierea simultană a centrului și a dispersiei, când datele permit, este:",
+          "options": {
+            "a": "modul + amplitudinea relativă V%",
+            "b": "abaterea medie d + coeficientul de asimetrie",
+            "c": "mediana + modul",
+            "d": "media aritmetică + abaterea standard"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Cea mai uzuală pereche descriptivă: media + abaterea standard — când scalele și forma distribuției o permit. Nu mod + V% sau doar skewness.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11143,
+          "text": "De ce media și abaterea standard sunt perechea uzuală la distribuții aproximativ simetrice?",
+          "options": {
+            "a": "ambele au proprietăți matematice care susțin multe analize ulterioare",
+            "b": "elimină nevoia de a inspecta forma distribuției",
+            "c": "media e centru algebric, s măsoară răspândirea în aceleași unități",
+            "d": "funcționează optim la orice scară nominală"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "La simetrie, media e centru algebric, s e dispersie în aceleași unități — baza inferenței parametrice. Nu funcționează pe nominal și nu elimină verificarea formei.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11144,
+          "text": "Care dintre următoarele reguli de alegere a indicatorilor după tipul datelor sau forma distribuției sunt corecte?",
+          "options": {
+            "a": "nominal → modul",
+            "b": "uzual la date simetrice interval/raport → media + abaterea standard",
+            "c": "ordinal → obligatoriu media + s, indiferent de skewness",
+            "d": "asimetrică marcată → evită media și SD ca descriere principală"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Trei reguli din curs: nominal → mod; asimetrie → prudență cu media și s; interval/raport simetric → media + s. Ordinal nu obligă media + s oricum.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11145,
+          "text": "Skewness pozitiv (+) și skewness negativ (−) se deosebesc prin direcția cozii mai lungi, nu prin:",
+          "options": {
+            "a": "înălțimea vârfului sau gradul de aplatizare (kurtosis)",
+            "b": "legătura cu ordinea Mo, Me, M la asimetrie pozitivă sau negativă",
+            "c": "poziția medianei față de mod și medie în asimetrie",
+            "d": "faptul că semnul skewness indică direcția cozii mai lungi"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Skewness ≠ kurtosis: semnul și ordinea Mo–Me–M țin de asimetrie; vârful aplatizat ține de kurtosis. Ambele pot coexista independent.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11146,
+          "text": "Care dintre următoarele distincții între asimetrie și kurtosis sunt corecte?",
+          "options": {
+            "a": "kurtosis descrie aplatizarea și concentrarea în jurul vârfului",
+            "b": "skewness și kurtosis sunt mereu identice ca semn și magnitudine",
+            "c": "asimetria (skewness) descrie înclinarea / coada distribuției",
+            "d": "o distribuție poate fi simetrică ca skewness și totuși leptocurtică"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Asimetria = înclinare/coadă; kurtosis = aplatizare/concentrare. Pot fi simetrică (skew 0) și totuși leptocurtică. Nu sunt mereu egale ca semn.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11147,
+          "text": "Care dintre următoarele capcane privind forma distribuției și alegerea indicatorilor sunt frecvente?",
+          "options": {
+            "a": "raportarea mediei + s fără a verifica asimetria",
+            "b": "calcularea mediei la date nominale",
+            "c": "confundarea leptocurtic cu asimetrie pozitivă",
+            "d": "ignorarea faptului că la nominal doar modul are sens central"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru capcane: medie + s fără verificare; medie pe nominal; confundare lepto cu skew pozitiv; ignorarea modului la nominal.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11148,
+          "text": "Care dintre următoarele sintezează corect forma distribuției studiate?",
+          "options": {
+            "a": "kurtosis înlocuiește complet analiza tendinței centrale",
+            "b": "skewness: 0 = simetric; + = pozitiv; − = negativ",
+            "c": "kurtosis: leptocurtică / mezocurtică / platicurtică",
+            "d": "nominal → mod; asimetric → prudență cu media și SD; uzual media + s"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Trei sinteze corecte din schemă. Kurtosis nu înlocuiește centrul și dispersia — le completează ca „formă”.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11149,
+          "text": "Care dintre următoarele afirmații despre indicatori și forma distribuției sunt corecte?",
+          "options": {
+            "a": "asimetria pozitivă justifică adesea mediana în locul mediei",
+            "b": "perechea media + s rămâne standard când distribuția e simetrică și scalele permit",
+            "c": "alegerea indicatorilor depinde de scară și formă, nu doar de skewness",
+            "d": "indicatorii centrali și de dispersie trebuie aleși în funcție de scară și formă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru afirmații: alegere contextuală; mediană la pozitiv; media + s la simetrie; scară + formă contează. Skewness 0 nu garantează singur reprezentativitatea — pot exista outlieri simetrici sau kurtosis extrem.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11150,
+          "text": "Într-o distribuție cu asimetrie negativă marcată, ordinea tipică a indicatorilor centrali este:",
+          "options": {
+            "a": "Mo < Me < M",
+            "b": "Mo = Me = M",
+            "c": "Me < Mo < M",
+            "d": "M < Me < Mo (medie < mediană < mod)"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Negativ: M < Me < Mo — coadă stânga trage media în jos. Pozitiv: Mo < Me < M. Simetric: Mo ≈ Me ≈ M.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11151,
+          "text": "După transformarea în scor z, distribuția rezultată are, în mod teoretic, media 0 și abaterea standard 1.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. z = (X−m)/s centrează la 0 și scalează la SD 1 — baza tuturor celorlalte scoruri liniare. Fără acest pas, T, QI și SAT nu sunt comparabile.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11152,
+          "text": "Formula scorului z (standardizat) este:",
+          "options": {
+            "a": "z = (X − m) / s",
+            "b": "z = m / s + X",
+            "c": "z = (X + m) / s",
+            "d": "z = (m − X) / s"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "z = (X−m)/s — câte abateri standard ești de la medie. Semnul arată direcția (sub/peste medie). Nu aduni m la X în numărător și nu inversezi m−X decât când variabila e codificată invers intenționat.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11153,
+          "text": "Care dintre următoarele afirmații despre scorul T sunt corecte?",
+          "options": {
+            "a": "T = 100 + 15z pentru orice test psihometric",
+            "b": "T se obține prin adunarea directă a lui X cu media eșantionului",
+            "c": "distribuția T are media 50 și abaterea standard 10 (când z are media 0 și s = 1)",
+            "d": "T = 50 + 10z"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "T = 50 + 10z: media 50, SD 10. E transformare liniară din z. Nu e QI Wechsler (100, 15) și nu se calculează din X fără standardizare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11154,
+          "text": "Scorul z exprimă poziția unui rezultat X față de media m și abaterea standard s, măsurată în:",
+          "options": {
+            "a": "procente din intervalul interquartilic",
+            "b": "număr de abateri standard (unități z)",
+            "c": "puncte brute identice cu X",
+            "d": "grade de libertate ale eșantionului"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "z măsoară distanța față de medie în unități de abatere standard — de aceea poți compara poziții relative pe teste diferite. Nu e procent IQR sau scor brut.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11155,
+          "text": "Care dintre următoarele perechi scor standardizat–parametri (medie, SD) sunt corecte?",
+          "options": {
+            "a": "QI Binet: medie 100, SD 16 → QI = 100 + 16z",
+            "b": "QI Wechsler: medie 100, SD 15 → QI = 100 + 15z",
+            "c": "SAT: medie 500, SD 100 → SAT = 500 + 100z",
+            "d": "QI Wechsler: medie 50, SD 10 → QI = 50 + 10z"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Trei perechi corecte: Binet 100/16, Wechsler 100/15. SAT are item separat — nu face parte din acest enunț cu două răspunsuri. Wechsler nu are media 50.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11156,
+          "text": "Formula scorului SAT în raport cu z este:",
+          "options": {
+            "a": "SAT = 500 + 100z",
+            "b": "SAT = 100 + 15z",
+            "c": "SAT = 500 − 100z pentru orice variabilă",
+            "d": "SAT = 50 + 14z"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "SAT = 500 + 100z — centru 500, pas de 100 per abatere standard z. Nu e formula QI și minusul la SAT nu e regula generală — excepția e timpul de reacție la T.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11157,
+          "text": "Care dintre următoarele transformări liniare din z sunt corecte?",
+          "options": {
+            "a": "T = 50 + 10z",
+            "b": "H (Hull) = 50 + 14z",
+            "c": "z = 50 + 10X, fără a folosi media și abaterea standard",
+            "d": "QI Wechsler = 100 + 15z"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Trei transformări liniare valide din z. z = 50 + 10X omit standardizarea cu m și s — greșeală de procedură.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11158,
+          "text": "Scorul H (Hull) se transformă din z prin formula H = 50 + 14z, ceea ce înseamnă că are media și abaterea standard:",
+          "options": {
+            "a": "media 50, SD 14",
+            "b": "media 0, SD 1",
+            "c": "media 50, SD 10",
+            "d": "media 100, SD 15"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Hull: H = 50 + 14z → medie 50, SD 14. Diferit de T (SD 10) și de QI (medie 100). z rămâne 0/1 înainte de transformare.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11159,
+          "text": "La variabile precum timpul de reacție, unde un scor mai mic este mai bun, transformarea în scor T folosește adesea:",
+          "options": {
+            "a": "mai întâi se calculează z = (X − m) / s, apoi se aplică transformarea T",
+            "b": "T = 50 − 10z (semn inversat față de variabilele „mai mare = mai bun”)",
+            "c": "QI = 100 + 16z",
+            "d": "T = 50 + 10z, identic cu toate celelalte scale"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Mai întâi z din X, apoi T = 50 − 10z pentru timp de reacție — astfel performanța mai rapidă (z mic sau negativ) dă T mai mare. Nu folosești QI sau T = 50 + 10z.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11160,
+          "text": "Care dintre următoarele sinteze despre scorurile standardizate derivate din z sunt corecte?",
+          "options": {
+            "a": "SAT = 500 + 100z",
+            "b": "T = 50 + 10z; H = 50 + 14z; QI Binet = 100 + 16z; QI Wechsler = 100 + 15z",
+            "c": "la timp de reacție: T = 50 − 10z, deoarece valori mai mici sunt mai bune",
+            "d": "z = (X−m)/s; media 0, SD 1"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru sinteze din tabel: z de bază; familiile T/H/QI; SAT; excepția timpului de reacție. Toate sunt transformări liniare din z, cu medie și SD fixate.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11161,
+          "text": "În distribuția de eșantionare a mediilor, media teoretică a mediilor eșantioanelor (μm) este egală cu media populației (μ).",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Indiferent cum variază mediile eșantioanelor individuale, centrul distribuției lor teoretice rămâne μ — de aceea media eșantionului estimează corect media populației în medie.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11162,
+          "text": "Distribuția de eșantionare a mediilor reprezintă:",
+          "options": {
+            "a": "aceeași curbă ca distribuția populației, indiferent de mărimea N",
+            "b": "histograma frecvențelor dintr-un tabel nominal",
+            "c": "distribuția valorilor mediei pentru toate eșantioanele posibile de mărime N, extrase din populație",
+            "d": "distribuția valorilor individuale X dintr-un singur eșantion"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Nu e distribuția unui singur eșantion, ci a tuturor mediilor posibile la mărime N. E fundamentul inferenței despre μ. Nu e histogramă nominală.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11163,
+          "text": "Care dintre următoarele afirmații despre distribuția de eșantionare a mediilor sunt corecte?",
+          "options": {
+            "a": "dispersia mediilor eșantioanelor este mereu egală cu σ²",
+            "b": "μm = μ (media distribuției de eșantionare este media populației)",
+            "c": "media eșantionului unui singur extras este mereu egală cu μ",
+            "d": "dispersia mediilor eșantioanelor este mai mică decât dispersia populației"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "μm = μ și variabilitatea mediilor eșantioanelor e mai mică decât σ² populației (pentru medii). Un singur eșantion poate avea m ≠ μ — asta e normal, nu contrazice TLC.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11164,
+          "text": "Eroarea standard a mediei (sm), când σ populației este cunoscută, se calculează:",
+          "options": {
+            "a": "sm = σ × √N",
+            "b": "sm = σ / N",
+            "c": "sm = σ² / N",
+            "d": "sm = σ / √N"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "sm = σ/√N — eroarea standard a mediei, nu σ întreg. √N la numitor: N mai mare, sm mai mic. Nu σ×√N și nu σ/N.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11165,
+          "text": "Teorema limită centrală se referă, în principal, la distribuția:",
+          "options": {
+            "a": "modului populației",
+            "b": "valorilor individuale X dintr-un singur caz",
+            "c": "erorii standard a fiecărui scor în parte",
+            "d": "mediilor eșantioanelor de mărime N"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "TLC descrie comportamentul mediilor eșantioanelor la N mare — nu al unui scor individual, nu al modului sau al sm per observație. De aceea z pentru medie folosește sm, nu σ pe un singur X.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11166,
+          "text": "Când abaterea standard a populației (σ) este necunoscută, eroarea standard a mediei se estimează cu:",
+          "options": {
+            "a": "sm = s × √N",
+            "b": "sm = s² / (N − 1)",
+            "c": "sm = σ / N",
+            "d": "sm = s / √N (abaterea standard a eșantionului)"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "În practică σ e necunoscut → folosești s din eșantion: sm = s/√N. s²/(N−1) e varianța eșantionului, nu eroarea standard a mediei.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11167,
+          "text": "Care dintre următoarele relații între mărimea eșantionului (N) și eroarea standard a mediei (sm) sunt corecte?",
+          "options": {
+            "a": "un sm mai mic înseamnă o estimare mai precisă a mediei populației",
+            "b": "când N crește, sm scade",
+            "c": "sm nu depinde de N dacă populația este normală",
+            "d": "când N crește, sm crește proporțional cu N"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "sm scade cu √N — dublarea preciziei cere de ~4 ori mai mulți participanți. sm mic = interval de încredere mai îngust. σ nu dispare la N mare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11168,
+          "text": "Care dintre următoarele condiții sunt importante pentru aplicarea teoremei limite centrale?",
+          "options": {
+            "a": "aceeași mărime a eșantionului N (în planul de eșantionare)",
+            "b": "observații independente între ele",
+            "c": "eșantionare aleatoare",
+            "d": "populația trebuie să fie obligatoriu distribuită normal"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Aleator, independent, N constant în plan — condiții pentru TLC și inferență. Normalitatea populației nu e obligatorie la N mare — tocmai asta e puterea TLC.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11169,
+          "text": "Scorul z pentru media unui eșantion, în raport cu media populației, se calculează:",
+          "options": {
+            "a": "z = (X − μ) / sm",
+            "b": "z = m / sm − μ",
+            "c": "z = (m − μ) / sm",
+            "d": "z = (m − μ) / σ"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "z pentru medie: (m−μ)/sm — câte erori standard e media eșantionului de la μ. Nu folosești σ în loc de sm și nu un singur X.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11170,
+          "text": "Care dintre următoarele enunțuri despre teorema limită centrală sunt corecte?",
+          "options": {
+            "a": "cu cât extragi mai multe eșantioane, media mediilor tinde spre μ",
+            "b": "TLC garantează că fiecare eșantion are media exact egală cu μ",
+            "c": "populația trebuie neapărat normală pentru orice N mic",
+            "d": "distribuția mediilor eșantioanelor devine aproximativ normală la N mare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Două idei TLC: media mediilor → μ; forma distribuției mediilor → normal la N mare. Un eșantion nu are m=μ exact; populația nu trebuie normală la N mare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11171,
+          "text": "Regula orientativă „eșantion mare” folosită frecvent în curs pentru aplicarea TLC este:",
+          "options": {
+            "a": "N ≥ 30",
+            "b": "N = 1",
+            "c": "N < 5",
+            "d": "N ≥ σ²"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "N ≥ 30 e regulă practică pentru „eșantion mare” și aplicarea aproximării normale a mediilor — nu teoremă rigidă, dar orientare din curs.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11172,
+          "text": "Care dintre următoarele afirmații despre TLC și forma populației sunt corecte?",
+          "options": {
+            "a": "la N suficient de mare, forma populației poate fi non-normală",
+            "b": "dacă populația nu e normală, TLC nu se aplică niciodată",
+            "c": "TLC se referă la distribuția mediilor eșantioanelor, nu la valorile individuale",
+            "d": "curba normală a mediilor apare pentru că N este mare, nu pentru că X e normal"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "TLC ține de distribuția mediilor, nu a valorilor individuale. Populația poate fi skewed; normalitatea apare la nivelul mediilor. Nu „niciodată” fără populație normală.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11173,
+          "text": "De ce creșterea lui N face estimarea mediei populației mai precisă?",
+          "options": {
+            "a": "pentru că σ populației devine zero",
+            "b": "pentru că sm = σ/√N (sau s/√N) devine mai mic",
+            "c": "pentru că variabilitatea mediilor eșantioanelor scade",
+            "d": "pentru că μ se schimbă odată cu N"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "N mare → sm mic → estimare mai precisă. σ rămâne același; μ nu se schimbă cu N — se estimează mai bine.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11174,
+          "text": "Care dintre următoarele sinteze despre distribuția de eșantionare și TLC sunt corecte?",
+          "options": {
+            "a": "TLC: mediile → normal la N mare; condiții: aleator, independent, același N",
+            "b": "z pentru media eșantionului: z = (m − μ) / sm",
+            "c": "sm = σ/√N sau s/√N; N ↑ → sm ↓",
+            "d": "distribuția mediilor: μm = μ; dispersia mediilor < dispersia populației"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru piloni: distribuția mediilor; sm și N; TLC + condiții; z pentru medie. Leagă descriptivul de inferența despre μ.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11175,
+          "text": "Care dintre următoarele capcane privind distribuția de eșantionare și TLC sunt frecvente?",
+          "options": {
+            "a": "presupunerea că un singur eșantion mic are mereu media = μ",
+            "b": "confundarea σ cu sm în formula z",
+            "c": "ignorarea faptului că N mare reduce sm, nu σ",
+            "d": "folosirea TLC pentru valori individuale X în loc de medii"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Trei capcane: σ vs sm; TLC pe X individual; un eșantion ≠ μ. σ nu scade cu N — scade sm. Verifică mereu dacă lucrezi cu medii sau cu scoruri individuale.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11176,
+          "text": "Ipoteza nulă (H₀) afirmă, în mod obișnuit, că nu există diferență sau efect în populație (ex. μ₁ = μ₂ sau μ = o valoare de referință).",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. H₀ este ipoteza „nulă”: presupunerea de lucru că nu există efect sau diferență în populație — de exemplu μ₁ = μ₂ sau μ egal cu o valoare de referință. Testul statistic caută dovezi împotriva lui H₀; dacă nu apar suficient de puternice, nu o respingi.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11177,
+          "text": "Ipoteza de cercetare (H₁) reprezintă:",
+          "options": {
+            "a": "eroarea standard a mediei sm",
+            "b": "ipoteza care susține existența unei diferențe sau a unui efect",
+            "c": "nivelul de semnificație α al testului",
+            "d": "ipoteza care afirmă că nu există nicio diferență"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "H₁ (ipoteza de cercetare) este cea pe care o susții dacă datele o confirmă: există diferență, efect sau direcție (ex. μșah > μpop). H₀ spune inversul — lipsa diferenței. α e pragul de decizie, nu o ipoteză; sm e eroarea standard a mediei, nu H₁.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11178,
+          "text": "În exemplul șahiștilor din curs (IQ mediu șahiști vs populație), care formulări sunt corecte?",
+          "options": {
+            "a": "H₀: μșah = μpop (nu există diferență)",
+            "b": "H₀: μșah > μpop",
+            "c": "H₁: μșah = μpop",
+            "d": "H₁: μșah > μpop (șahiștii au IQ mediu mai mare)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "La șahiști: H₀ — IQ mediu al șahiștilor = IQ mediu populație (fără avantaj); H₁ — μșah > μpop (șahiștii au medie mai mare). H₁ = μșah = μpop ar anula ipoteza de cercetare; H₀ > μpop ar presupune deja efectul pe care vrei să-l testezi — rolurile sunt inversate.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11179,
+          "text": "În testul z pentru un eșantion, primul pas după stabilirea ipotezelor este calculul erorii standard a mediei:",
+          "options": {
+            "a": "z = (m − μ) / sm",
+            "b": "sm = σ / √N",
+            "c": "sm = σ × √N",
+            "d": "sm = (m − μ) / z"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Eroarea standard a mediei măsoară cât de mult „oscilează” mediile eșantioanelor în jurul lui μ: sm = σ/√N. Cu N mai mare, sm scade. z = (m−μ)/sm vine după sm; σ×√N sau sm = (m−μ)/z inversează formula.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11180,
+          "text": "Statistica z calculată pentru testul unui eșantion este:",
+          "options": {
+            "a": "zcalculat = sm / (m − μ)",
+            "b": "zcalculat = m / sm + μ",
+            "c": "zcalculat = (μ − m) / σ",
+            "d": "zcalculat = (m − μ) / sm"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "zcalculat spune cu câte erori standard (sm) se abate media eșantionului m de la valoarea din H₀ (μ). Formula corectă: (m−μ)/sm. (μ−m)/σ amestecă semnul și folosește σ în loc de sm; celelalte variante nu sunt transformări standard valide.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11181,
+          "text": "Care dintre următoarele reguli de decizie la testarea ipotezelor sunt corecte?",
+          "options": {
+            "a": "dacă p > α, respingi H₀ pentru a limita riscul unei concluzii părtinitoare",
+            "b": "dacă p ≤ α, respingi H₀",
+            "c": "poți compara zcalculat cu zcritic (în funcție de tipul testului)",
+            "d": "respingi H₀ automat ori de câte ori m ≠ μ în eșantion"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Două căi echivalente de decizie: compară zcalculat cu zcritic (unilateral sau bilateral, după H₁) sau compară p cu α. p ≤ α → respingi H₀. Că m ≠ μ în eșantion e normal — fără test nu știi dacă diferența depășește variabilitatea așteptată din eșantionare. La p > α nu respingi H₀ — varianta care sugerează respingerea „pentru a limita riscul” inversează regula.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11182,
+          "text": "La α = 0,05 pentru un test unilateral dreapta, valoarea critică uzuală este zcritic = 1,65. Dacă zcalculat = 2,18, decizia este:",
+          "options": {
+            "a": "respingi H₀ — rezultat semnificativ",
+            "b": "accepți H₀ pentru că m este aproape de μ",
+            "c": "zcalculat ≥ zcritic, deci depășești pragul unilateral",
+            "d": "nu respingi H₀ deoarece N = 30 este prea mic"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Unilateral dreapta, α = 0,05: zcritic ≈ 1,65. zcalculat = 2,18 > 1,65 → rezultat în zona de respingere → respingi H₀, semnificativ statistic. „m aproape de μ” sau „N prea mic” nu înlocuiesc regula — ai deja z și pragul stabilit.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11183,
+          "text": "În exemplul rezolvat din curs (N = 30, m = 106, μ = 100, σ = 15), care pași intermediari sunt corecți?",
+          "options": {
+            "a": "p = 0,014 < 0,05 → respingi H₀",
+            "b": "z = (106 − 100) / 2,74 ≈ 2,18",
+            "c": "sm = 15 / √30 ≈ 2,74",
+            "d": "sm = 15 × √30 → z = 0,5 → accepți H₀"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Pașii din exemplu: sm = 15/√30 ≈ 2,74; z = (106−100)/2,74 ≈ 2,18; pentru acest z, p ≈ 0,014 < 0,05 → respingi H₀. Varianta cu sm = 15×√30 și z = 0,5 folosește greșit formula sm și duce la o concluzie opusă — de aceea e capcană plauzibilă dacă confunzi σ/√N cu σ×√N.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11184,
+          "text": "Când p > α și zcalculat nu depășește pragul critic (în testul ales), concluzia uzuală este:",
+          "options": {
+            "a": "nu respingi H₀ — diferența nu e semnificativă la nivelul α",
+            "b": "respingi H₀ pentru că eșantionul e prea mic",
+            "c": "demonstrezi că μ = m în populație",
+            "d": "accepți H₀ ca demonstrație că H₁ e falsă cu certitudine"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "p > α sau z sub prag → nu respingi H₀: datele nu oferă suficientă dovadă contra ipotezei nule la nivelul ales (nonsignificativ). Nu „demonstrăm” că H₀ e adevărată cu certitudine și nici că μ = m în populație — doar că efectul nu depășește pragul la α.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11185,
+          "text": "Care dintre următoarele sinteze despre ipoteze și testul z sunt corecte?",
+          "options": {
+            "a": "α = 0,05 unilateral → zcritic ≈ 1,65; p ≤ α → respingi H₀",
+            "b": "sm = σ/√N; zcalculat = (m−μ)/sm; compară cu zcritic sau p cu α",
+            "c": "dacă p > α, nu respingi H₀ (rezultat nonsignificativ)",
+            "d": "H₀: fără diferență; H₁: există diferență/efect"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru idei de sinteză: rolul H₀/H₁; sm și z; prag unilateral 1,65 și p ≤ α; când nu respingi H₀. Toate sunt nucleul testului z pe un eșantion din curs — fără a confunda observația (m ≠ μ) cu decizia formală.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11186,
+          "text": "Eroarea aleatorie, în medie pe repetări, nu deplasează media reală a grupului — produce fluctuații în jurul valorii adevărate.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Eroarea aleatorie produce deviații aleatorii în jurul valorii reale — unele măsurători sunt peste, altele sub, dar nu împing sistematic media într-o direcție. Spre deosebire de bias (eroare sistematică), nu schimbă centrul adevărat al distribuției.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11187,
+          "text": "Variabila „gen codificat M/F” este, de regulă, măsurată pe scară:",
+          "options": {
+            "a": "nominală",
+            "b": "de interval",
+            "c": "ordinală",
+            "d": "de raport"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "M/F sunt categorii fără ordine naturală și fără magnitudine — scară nominală. Ordinală presupune ordine; interval și raport permit operații suplimentare pe care genul nu le justifică.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11188,
+          "text": "Pentru gen (M/F) și pentru timpul de reacție (secunde cu zero absolut), care asocieri scară–tip de test sunt uzual corecte?",
+          "options": {
+            "a": "timp de reacție → nominală pentru că se numără trialuri",
+            "b": "timp de reacție → de raport → teste parametrice posibile",
+            "c": "gen → de raport pentru că are două categorii",
+            "d": "gen → nominală → teste neparametrice frecvente"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Genul e nominal → frecvent teste neparametrice (χ², Mann-Whitney pe ranguri etc.). Timpul de reacție are zero absolut și raporturi sensibile → scară de raport → teste parametrice pot fi adecvate dacă presupunerile sunt îndeplinite. Genul nu devine raport doar pentru că e codat numeric; timpul nu e nominal.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11189,
+          "text": "Timpul de reacție (ex. 0,32 s vs 0,64 s) se încadrează, de obicei, pe scară:",
+          "options": {
+            "a": "nominală (categorii fără ordine)",
+            "b": "ordinală (note calitative)",
+            "c": "de raport (zero absolut, raporturi interpretabile)",
+            "d": "nominală binară indiferent de unitate"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Timpul de reacție se măsoară în unități cu zero absolut (0 s = absența timpului) și raporturi interpretabile (0,64 s e de două ori 0,32 s). Asta îl plasează pe scară de raport, nu nominală sau pur ordinală.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11190,
+          "text": "Nota școlară (1–10) este discutată în curs, de regulă, ca exemplu de scară:",
+          "options": {
+            "a": "de interval cu raporturi exacte între note",
+            "b": "ordinală",
+            "c": "de raport cu zero absolut",
+            "d": "nominală pură"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Notele școlare ordonează elevii, dar distanțele între note nu sunt garantat egale — de aceea sunt discutate ca ordinal, nu ca interval sau raport pur. Nu e nominală (există ordine) și nu are zero absolut „lipsă totală de performanță”.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11191,
+          "text": "„Număr de răspunsuri corecte” la un test este, de obicei, o variabilă:",
+          "options": {
+            "a": "nominală, pentru că e un scor",
+            "b": "discretă, pe scară de raport sau numărătoare",
+            "c": "ordinală fără sens de magnitudine",
+            "d": "latentă, nevăzută direct"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Numărul de răspunsuri corecte e o numărătoare (0, 1, 2…) — variabilă discretă. Se apropie de scară de raport/numărătoare, nu de nominală (categorii fără ordine) și nu e latentă (se vede direct în scor).",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11192,
+          "text": "Un studiu corelațional demonstrează direct cauza dintre două variabile măsurate, fără alte condiții de design.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Corelația arată asociere statistică, nu mecanism cauzal. Fără manipulare experimentală, controlul confuzilor sau design longitudinal adecvat, nu poți concluziona că X o determină pe Y.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11193,
+          "text": "Care dintre următoarele diferențe între eroarea aleatorie și cea sistematică sunt corecte?",
+          "options": {
+            "a": "sistematică: deplasează media estimată (bias)",
+            "b": "aleatorie: schimbă mereu media grupului într-o direcție fixă",
+            "c": "aleatorie: fluctuații în jurul mediei, fără bias constant",
+            "d": "sistematică: dispare automat la N mare, fără corecție"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Aleatorie = zgomot în jurul mediei; sistematică = bias care deplasează estimarea. Biasul nu dispare doar mărind N — trebuie corectat la sursă. Aleatoria nu împinge media mereu într-o direcție fixă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11194,
+          "text": "Pentru un set de date, suma abaterilor față de medie Σ(Xᵢ − m) este:",
+          "options": {
+            "a": "0",
+            "b": "egala cu dispersia s²",
+            "c": "N − 1",
+            "d": "1"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Definiția mediei ca „balanță” implică Σ(Xᵢ − m) = 0: suma abaterilor pozitive anulează suma negative. Nu e N−1 (împărțitor la dispersie), nu 1 și nu s².",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11195,
+          "text": "Dacă adaugi +5 la toate valorile unui set de date, ce se întâmplă cu indicatorii de tendință centrală și dispersie?",
+          "options": {
+            "a": "abaterea standard s rămâne neschimbată",
+            "b": "media crește cu 5",
+            "c": "mediana crește cu 5",
+            "d": "coeficientul de variație cv crește obligatoriu cu 5 puncte"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Adunarea unei constante translatează toți indicatorii de locație (M, Me, Mo) cu +5, dar nu schimbă distanțele relative → s rămâne aceeași. cv poate varia ușor pentru că m se schimbă, dar nu „obligatoriu +5 puncte” — formularea aceea e capcană.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11196,
+          "text": "Dacă înmulțești toate valorile cu 2, care transformări sunt corecte?",
+          "options": {
+            "a": "media rămâne aceeași, doar unitatea se schimbă",
+            "b": "dispersia s² rămâne identică",
+            "c": "media se înmulțește cu 2",
+            "d": "abaterea standard s se înmulțește cu 2"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Înmulțirea cu 2 scalează media și abaterea standard (și s² cu k²). Unitatea se schimbă, dar nu rămâne doar media — dispersia crește. „Doar media se schimbă” și „s² identică” sunt false.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11197,
+          "text": "La calculul dispersiei eșantionului s², împărțitorul uzual este:",
+          "options": {
+            "a": "N",
+            "b": "N + 1",
+            "c": "N − 1",
+            "d": "N − 2"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Pentru eșantion, s² folosește N−1 (estimare fără bias al varianței populației). N e pentru dispersia populației σ² când ai tot setul. N+1 sau N−2 nu sunt convențiile standard din curs.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11198,
+          "text": "Un coeficient de variație cv ≈ 25% indică, în interpretarea din curs, o dispersie:",
+          "options": {
+            "a": "foarte mare (peste 30%)",
+            "b": "medie (moderată)",
+            "c": "nulă, echivalentă cu s = 0",
+            "d": "foarte mică (sub 15%)"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Pragurile din curs: cv < 15% dispersie mică; ~25% moderată; > 30% mare. 25% e în zona medie, nu minimă și nu extremă. cv = 0 ar însemna s = 0.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11199,
+          "text": "Într-o distribuție simetrică, modul, mediana și media verifică relația Mo = Me = M.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Simetria plasează modul, mediana și media în același punct — relația Mo = Me = M. La asimetrie pozitivă ordinea se schimbă (Mo < Me < M).",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11200,
+          "text": "În asimetrie pozitivă (înclinată spre dreapta), ordinea uzuală a celor trei indicatori este:",
+          "options": {
+            "a": "Mo < Me < M",
+            "b": "Mo = Me = M",
+            "c": "Me < Mo < M",
+            "d": "M < Me < Mo"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Coada lungă la dreapta trage media în sus peste mediană, iar modul rămâne cel mai jos. De aceea Mo < Me < M. Celelalte ordini corespund asimetriei negative sau simetriei.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11201,
+          "text": "După transformarea în scoruri z, care proprietăți sunt corecte?",
+          "options": {
+            "a": "abaterea standard a lui z este 1",
+            "b": "media distribuției z este 0",
+            "c": "forma relativă a distribuției se păstrează",
+            "d": "media devine 1, iar abaterea standard devine 0"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Standardizarea z: M = 0, s = 1, forma distribuției (asimetrie, relativ) se păstrează — doar scalează pe axă. Nu inversează media și SD (1 și 0).",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11202,
+          "text": "În distribuția normală, aproximativ 68% din cazuri se află între:",
+          "options": {
+            "a": "±1σ față de medie",
+            "b": "mediana și modul exclusiv",
+            "c": "±2σ față de medie",
+            "d": "±3σ față de medie"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Regula empirică 68–95–99,7: ~68% între ±1σ, ~95% între ±2σ, ~99,7% între ±3σ. Intervalul ±1σ e primul prag, nu ±2σ sau ±3σ.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11203,
+          "text": "În distribuția de eșantionare a mediilor, care afirmații sunt corecte?",
+          "options": {
+            "a": "μₘ este mereu egal cu m din ultimul eșantion observat",
+            "b": "un singur eșantion poate avea m ≠ μ fără a contrazice TLC",
+            "c": "centrul teoretic μₘ este egal cu μ",
+            "d": "μₘ = σ / √N"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "μₘ = μ: distribuția teoretică a mediilor eșantioanelor e centrată pe media populației. Un eșantion concret poate avea m ≠ μ — asta nu contrazice TLC. μₘ nu e m observat și nu e σ/√N (ăla e sm).",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11204,
+          "text": "Când mărimea eșantionului N crește (σ populație constantă), eroarea standard a mediei sm:",
+          "options": {
+            "a": "rămâne egală cu σ",
+            "b": "scade (sm = σ / √N)",
+            "c": "crește proporțional cu N",
+            "d": "devine σ × √N"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "sm = σ/√N: mai mulți participanți → precizie mai mare a estimării mediei. sm nu crește cu N și nu devine σ×√N — confuzia σ/√N vs σ×√N e capcană frecventă.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11205,
+          "text": "Regula practică din curs pentru „eșantion mare” în contextul TLC este, de obicei, N ≥ 30.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. N ≥ 30 e regulă practică pentru „eșantion mare” și aplicarea aproximării normale a mediilor — orientare din curs, nu teoremă rigidă pentru orice populație.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11206,
+          "text": "În care situații respingi H₀ la un test z (conform regulilor din curs)?",
+          "options": {
+            "a": "când α = 0,05 indiferent de p",
+            "b": "când zcalculat atinge sau depășește zcritic (în testul unilateral potrivit)",
+            "c": "când p ≤ α",
+            "d": "când m = μ exact în eșantion"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Respingi H₀ când p ≤ α sau când z depășește pragul critic (conform tipului de test). m = μ în eșantion nu e suficient — contează semnificația statistică. α singur, fără p sau z, nu decide.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11207,
+          "text": "La α = 0,05 pentru un test unilateral, valoarea critică uzuală din tabel este zcritic =",
+          "options": {
+            "a": "2,58",
+            "b": "1,96",
+            "c": "0,05",
+            "d": "1,65"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Unilateral α = 0,05 → zcritic ≈ 1,65. 1,96 e bilateral 5%; 2,58 e pentru α = 0,01 bilateral; 0,05 e nivelul α, nu valoarea critică z.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11208,
+          "text": "Care distincții între histogramă și diagramă cu bare sunt corecte?",
+          "options": {
+            "a": "diagrama cu bare: categorii discrete separate",
+            "b": "diagrama cu bare: intervale contigue fără spații",
+            "c": "histograma: categorii nominale fără ordine pe axă",
+            "d": "histograma: variabile continue (intervale pe axă)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Histograma: bare contigue pe intervale pentru variabile continue. Diagrama cu bare: categorii discrete separate, cu spații. Nu inversați — histograma nu e pentru nominal fără ordine pe axă continuă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11209,
+          "text": "Care indicatori sunt, de regulă, mai robusti la valori extreme (outliers)?",
+          "options": {
+            "a": "suma pătratelor abaterilor",
+            "b": "media aritmetică neponderată",
+            "c": "intervalul interquartilic (RQ = Q₃ − Q₁)",
+            "d": "mediana"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Mediana și RQ (IQR) se bazează pe ranguri/percentile — nu sunt trase de extreme ca media. Media și suma pătratelor abaterilor sunt sensibile la outliers.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11210,
+          "text": "Indicatorul statistic permis în mod fundamental pe scară nominală este:",
+          "options": {
+            "a": "abaterea standard",
+            "b": "modul (frecvența maximă)",
+            "c": "media aritmetică",
+            "d": "mediana"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Pe nominală permiți numărarea și modul (categoria cea mai frecventă). Mediana și media presupun ordine sau magnitudine — nejustificate strict pe nominală.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11211,
+          "text": "Care formule pentru medie sunt corecte?",
+          "options": {
+            "a": "m = Σ(Xᵢ − m) / N",
+            "b": "m = √s²",
+            "c": "m = ΣX / N",
+            "d": "m = Σ(X·f) / Σf (date grupate)"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Medie simplă: ΣX/N. Medie grupată: Σ(X·f)/Σf. Σ(Xᵢ−m)/N nu e medie; √s² e abaterea standard, nu media.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11212,
+          "text": "Care formule și convenții pentru dispersie sunt corecte?",
+          "options": {
+            "a": "s² = Σ(Xᵢ − m)² / (N − 1)",
+            "b": "s² = Σ(Xᵢ − m)² / N pentru eșantionul standard din curs",
+            "c": "s = Σ(Xᵢ − m) / (N − 1)",
+            "d": "s = √s²"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "s² cu N−1 e convenția eșantionului din curs; s = √s². Varianta cu N la numitor e pentru populație sau alte contexte — capcană plauzibilă. s nu e suma abaterilor împărțită la N−1.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11213,
+          "text": "Despre coeficientul de variație (cv), care afirmații sunt corecte?",
+          "options": {
+            "a": "cv = (s / m) × 100",
+            "b": "cv = s + m, indiferent de unitate",
+            "c": "cv < 15% sugerează dispersie mică",
+            "d": "cv > 30% sugerează dispersie mare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "cv = (s/m)×100 compară dispersia relativ la medie. Praguri: <15% mică, ~25% medie, >30% mare. cv nu e s+m — unitățile nu se adună așa.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11214,
+          "text": "Formula scorului z standardizat este:",
+          "options": {
+            "a": "z = (m − X) / s",
+            "b": "z = X / m + s",
+            "c": "z = (X − μ) / sm",
+            "d": "z = (X − m) / s"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "z = (X−m)/s pentru un scor individual în eșantion. (m−X)/s inversează semnul; (X−μ)/sm e z pentru media eșantionului față de populație, nu pentru fiecare X.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11215,
+          "text": "Care relații între scor z, transformare inversă și test pe eșantion sunt corecte?",
+          "options": {
+            "a": "z eșantion = (m − μ) / sm",
+            "b": "sm = σ / √N",
+            "c": "z eșantion = (X − m) / s pentru fiecare participant",
+            "d": "X = m + z·s (revenire la scor brut)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Transformare inversă X = m + z·s. sm = σ/√N pentru eroarea mediei. z eșantion = (m−μ)/sm testează ipoteza despre μ. z = (X−m)/s e per participant, nu același lucru.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11216,
+          "text": "Care formule pentru amplitudine și interval interquartilic sunt corecte?",
+          "options": {
+            "a": "RQ = Xₘₐₓ − Xₘᵢₙ",
+            "b": "RQ = Q₃ − Q₁",
+            "c": "R = Xₘₐₓ − Xₘᵢₙ",
+            "d": "R = Q₃ + Q₁"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Amplitudinea R = max − min; RQ = Q₃ − Q₁ (spreadul central 50%). R ≠ Q₃+Q₁; RQ nu e tot R — R e mai sensibil la extreme.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11217,
+          "text": "Care dintre următoarele sinteze despre scale și tipuri de teste sunt corecte?",
+          "options": {
+            "a": "nominală < ordinală < interval < raport (ierarhie Stevens)",
+            "b": "note școlare → uzual ordinal",
+            "c": "gen → nominală; timp reacție → raport",
+            "d": "alegerea testului parametric/neparametric ține cont de scară și distribuție"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru idei: ierarhia Stevens; exemple gen/raport/ordinal; teste parametrice vs neparametrice depind de scară și distribuție. Toate patru variantele sunt corecte — nu confunda cod numeric cu scară de raport.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11218,
+          "text": "Care distincții între variabile independente, dependente, observate și latente sunt corecte?",
+          "options": {
+            "a": "observate: măsurate direct; latente: constructe inferate (ex. anxietate)",
+            "b": "o variabilă observată nu poate fi măsurată niciodată direct în teste",
+            "c": "latenta = mereu sinonimă cu variabila dependentă",
+            "d": "VI: manipulată sau folosită pentru predicție; VD: rezultat măsurat"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "VI = predictor/manipulare; VD = rezultat. Observate = măsurate direct; latente = inferate (anxietate, g). Latenta nu e sinonim VD; observatele se măsoară direct — afirmația contrară e falsă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11219,
+          "text": "Când este preferabil modul, mediana sau media?",
+          "options": {
+            "a": "mediana: asimetrie sau outliers",
+            "b": "media: date simetrice, interval/raport, fără extreme puternice",
+            "c": "media: obligatoriu pe orice scară nominală",
+            "d": "modul: date nominale"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Mod pe nominală; mediană când asimetrie/outliers; medie pe date simetrice interval/raport. Media pe nominală e nejustificată teoretic — variantă capcană frecventă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11220,
+          "text": "Dacă p ≤ α (ex. p = 0,03 la α = 0,05), decizia uzuală este:",
+          "options": {
+            "a": "respingi H₀ indiferent de zcalculat, chiar dacă p > α",
+            "b": "demonstrezi automat un efect clinic mare",
+            "c": "accepți H₁ ca demonstrație certă în populație",
+            "d": "respingi H₀ — rezultat semnificativ statistic"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "p ≤ α → respingi H₀ (semnificativ). Nu demonstrezi automat efect mare sau H₁ cu certitudine — doar că dovada contra H₀ depășește pragul. Respingerea indiferent de p e incorectă.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11221,
+          "text": "Care proprietăți la transformări liniare sunt corecte?",
+          "options": {
+            "a": "înmulțești cu k → dispersia s² se înmulțește cu k²",
+            "b": "adaugi +k → mediana crește cu k",
+            "c": "adaugi +k → media crește cu k, s rămâne neschimbată",
+            "d": "înmulțești cu k → media și s se înmulțesc cu |k|"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru proprietăți de reținut la ±k și ×k: locația (M, Me) se translatează; s nu se schimbă la adunare; s și M scalează la înmulțire; s² scalează cu k². Esential pentru itemi de transformare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11222,
+          "text": "Care idei despre sm, TLC și testul z pe eșantion sunt corecte?",
+          "options": {
+            "a": "TLC garantează m = μ în orice eșantion mic",
+            "b": "TLC: la N mare, distribuția mediilor → aproximativ normală",
+            "c": "μₘ = μ (centrul distribuției mediilor)",
+            "d": "sm = σ / √N; N mare → sm mic"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "sm scade cu N; μₘ = μ; TLC: forma normală a mediilor la N mare. TLC nu garantează m = μ în fiecare eșantion mic — asta ar confunda teorema cu observația unică.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11223,
+          "text": "Care perechi despre H₀, H₁ și decizia statistică sunt corecte?",
+          "options": {
+            "a": "p > α înseamnă că H₀ e demonstrată cu certitudine în populație",
+            "b": "H₀: fără diferență/efect; H₁: există diferență sau efect",
+            "c": "α = 0,05 unilateral → zcritic ≈ 1,65",
+            "d": "respingi H₀ când p ≤ α sau zcalculat ≥ zcritic (unilateral dreapta)"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "H₀ vs H₁; respingere la p ≤ α sau z ≥ zcritic; zcritic 1,65 unilateral. p > α nu demonstrează H₀ cu certitudine — doar lipsă de dovezi suficiente contra H₀ la α ales.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11224,
+          "text": "Care dintre următoarele formule „de reținut” sunt corecte?",
+          "options": {
+            "a": "m = ΣX/N; s² = Σ(Xᵢ−m)²/(N−1); s = √s²",
+            "b": "sm = σ/√N; z = (m−μ)/sm; R = Xₘₐₓ−Xₘᵢₙ; RQ = Q₃−Q₁",
+            "c": "cv = (s/m)×100; z = (X−m)/s; X = m + z·s",
+            "d": "Σ(Xᵢ−m) = 0; medie grupată m = Σ(X·f)/Σf"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru blocuri de formule must-know din curs: tendință centrală și dispersie; cv și z; inferență (sm, z eșantion) și amplitudini; identități Σ(X−m)=0 și medie grupată. Ultima variantă greșită amesteca N−1 cu suma abaterilor.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11225,
+          "text": "Care teme din „ultima zi” de recapitulare Statistică II sunt formulate corect?",
+          "options": {
+            "a": "asimetrie pozitivă Mo < Me < M; proprietăți ± și × la medie și s",
+            "b": "cele 4 scale + parametric vs neparametric",
+            "c": "erori aleatorii vs sistematice; mod/medie/mediana",
+            "d": "sm, TLC, H₀/H₁ și testul z pe eșantion"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Recapitulare finală: scale și tipuri de teste; erori și indicatori centrali; asimetrie și transformări; inferență (sm, TLC, ipoteze, z). Cauzalitatea din corelație nu face parte — e capcană de eliminat din checklist.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
         }
       ]
     }
   },
-  "total_questions": 3088,
+  "total_questions": 3263,
   "active_lots_only": true
 }

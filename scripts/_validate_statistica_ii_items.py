@@ -1,4 +1,4 @@
-"""Verifică consistența itemilor Statistică II (10961–11050)."""
+"""Verifică consistența itemilor Statistică II (10961–11225)."""
 
 from __future__ import annotations
 
@@ -14,7 +14,7 @@ from scripts.ii_grila_meta_audit import audit_grila_meta_stem  # noqa: E402
 from scripts.statistica_ii_exam_items import build_items  # noqa: E402
 from scripts.statistica_ii_explanations import STATISTICA_II_EXPLANATIONS  # noqa: E402
 from scripts.statistica_ii_bank_data import STATISTICA_II_ITEMS  # noqa: E402
-from scripts.statistica_ii_scales_sampling_bank_data import SCALES_SAMPLING_ITEMS  # noqa: E402
+from scripts.statistica_ii_recap_rapid_bank_data import RECAP_RAPID_ITEMS  # noqa: E402
 
 LETTER_MARKERS = re.compile(
     r"✅|❌|Varianta [abcd]|varianta [abcd]|Corect:\s*[abcd]|Greșit",
@@ -25,6 +25,8 @@ OBVIOUS_WRONG = re.compile(
     r"în grilă|pentru grilă|la grilă)\b",
     re.IGNORECASE,
 )
+
+SEG_DIST_40 = {"1": 14, "2": 10, "3": 8, "4": 4, "TF": 4}
 
 
 def _count_dist(rows: list) -> dict[str, int]:
@@ -44,31 +46,29 @@ def main() -> int:
     built = build_items()
     issues: list[str] = []
 
-    if len(built) != 90:
-        issues.append(f"număr itemi: {len(built)}, așteptat 90")
+    if len(built) != 265:
+        issues.append(f"număr itemi: {len(built)}, așteptat 265")
 
-    if len(STATISTICA_II_ITEMS) != 90:
-        issues.append(f"STATISTICA_II_ITEMS: {len(STATISTICA_II_ITEMS)}, așteptat 90")
+    if len(STATISTICA_II_ITEMS) != 265:
+        issues.append(f"STATISTICA_II_ITEMS: {len(STATISTICA_II_ITEMS)}, așteptat 265")
 
-    if len(STATISTICA_II_EXPLANATIONS) != 90:
+    if len(STATISTICA_II_EXPLANATIONS) != 265:
         issues.append(
-            f"STATISTICA_II_EXPLANATIONS: {len(STATISTICA_II_EXPLANATIONS)}, așteptat 90"
+            f"STATISTICA_II_EXPLANATIONS: {len(STATISTICA_II_EXPLANATIONS)}, așteptat 265"
         )
 
     counts = _count_dist(STATISTICA_II_ITEMS)
-    seg2 = _count_dist(SCALES_SAMPLING_ITEMS)
+    seg11 = _count_dist(RECAP_RAPID_ITEMS)
 
-    if counts["TF"] != 9:
-        issues.append(f"TF total: {counts['TF']} (așteptat 9 ≈10%)")
-    if seg2["TF"] != 5:
-        issues.append(f"TF segment 2: {seg2['TF']} (așteptat 5)")
-    if not (seg2["1"] > seg2["2"] > seg2["3"] > seg2["4"]):
-        issues.append(f"distribuție segment 2: {seg2}")
+    if counts["TF"] != 26:
+        issues.append(f"TF total: {counts['TF']} (așteptat 26 ≈10%)")
+    if seg11 != SEG_DIST_40:
+        issues.append(f"distribuție segment 11 (recapitulare): {seg11}, așteptat {SEG_DIST_40}")
 
     for q in built:
         qid = int(q["id"])
-        if not (10961 <= qid <= 11050):
-            issues.append(f"{qid}: ID în afara intervalului 10961–11050")
+        if not (10961 <= qid <= 11225):
+            issues.append(f"{qid}: ID în afara intervalului 10961–11225")
         stem = str(q.get("text") or "").strip()
         if not stem:
             issues.append(f"{qid}: enunț gol")
@@ -83,9 +83,7 @@ def main() -> int:
         for letter, text in opts.items():
             if OBVIOUS_WRONG.search(str(text)):
                 issues.append(f"{qid}: variantă suspectă ({letter}): {str(text)[:60]}")
-        if len(opts) == 4 and q.get("kind") != "single":
-            pass
-        elif opts and len(opts) not in (2, 4):
+        if opts and len(opts) not in (2, 4):
             issues.append(f"{qid}: număr opțiuni neobișnuit: {len(opts)}")
 
     if issues:
@@ -93,9 +91,9 @@ def main() -> int:
         for i in issues:
             print(i)
         return 1
-    print("OK: 90 itemi Statistică II.")
+    print("OK: 265 itemi Statistică II.")
     print(f"Distribuție totală: {counts}")
-    print(f"Distribuție segment 2 (11001–11050): {seg2}")
+    print(f"Segment 11 (11186–11225): {seg11}")
     return 0
 
 

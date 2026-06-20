@@ -31,7 +31,7 @@ def main() -> int:
     print(f"Înainte: {old_n} → acum: {len(built)} (cu explicație: {with_expl})")
     print(f"10961: {str(built[0].get('text', ''))[:70]}...")
     print(f"11000: {str(built[39].get('text', ''))[:70]}...")
-    print(f"11050: {str(built[-1].get('text', ''))[:70]}...")
+    print(f"11225: {str(built[-1].get('text', ''))[:70]}...")
     return 0
 
 
