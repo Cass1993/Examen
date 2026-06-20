@@ -151,8 +151,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele componente apar în formula eficienței profesorului din "
-            "sinteza pentru grilă?"
+            "Care dintre următoarele componente apar în formula eficienței profesorului?"
         ),
         "options": [
             "conținut",
@@ -189,8 +188,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele componente definesc eficiența profesorului în sinteza "
-            "pentru grilă?"
+            "Care dintre următoarele componente definesc eficiența profesorului?"
         ),
         "options": [
             "conținut",
@@ -235,7 +233,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele afirmații din sinteza pentru grilă sunt corecte?"
+            "Care dintre următoarele afirmații despre profesorul eficient sunt corecte?"
         ),
         "options": [
             "predarea indirectă și nivelul conceptual înalt sunt asociate cu "
@@ -250,7 +248,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele tipuri de competență trebuie diferențiate la grilă?"
+            "Care dintre următoarele tipuri de competență trebuie diferențiate?"
         ),
         "options": [
             "competență profesională / științifică — conținut",
@@ -301,7 +299,7 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele roluri definesc profesorul eficient în sinteza pentru grilă?"
+            "Care dintre următoarele roluri definesc profesorul eficient?"
         ),
         "options": [
             "specialist în domeniu",
@@ -363,8 +361,8 @@ LIDER_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Pentru grilă, diferența rapidă între competența profesională și cea "
-            "psihopedagogică este:"
+            "Care este diferența esențială între competența profesională și cea "
+            "psihopedagogică?"
         ),
         "options": [
             "profesională = conținut; psihopedagogică = adaptare didactică",

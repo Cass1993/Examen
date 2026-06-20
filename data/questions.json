@@ -37039,7 +37039,7 @@
         },
         {
           "id": 9932,
-          "text": "Care confuzii din grila de examen sunt perechi corecte legate de performanță la muncă?",
+          "text": "Care confuzii frecvente formează perechi corecte legate de performanță la muncă?",
           "options": {
             "a": "Evaluarea performanței (appraisal) = screening la angajare",
             "b": "Performanță la sarcină (task) vs performanță contextuală",
@@ -37212,7 +37212,7 @@
         },
         {
           "id": 9941,
-          "text": "Un HR amestecă în același fișier „operează soft X” cu „are diplomă în Y”. Ce confuzie de grilă ilustrează?",
+          "text": "Un HR amestecă în același fișier „operează soft X” cu „are diplomă în Y”. Ce confuzie frecventă ilustrează?",
           "options": {
             "a": "Amestecă knowledge cu ability fără a le distinge",
             "b": "Descrie turnover în loc de intenție de plecare",
@@ -37305,7 +37305,7 @@
         },
         {
           "id": 9946,
-          "text": "Care distincții din grila de selecție și măsurare sunt corecte?",
+          "text": "Care distincții din selecția și măsurarea personalului sunt corecte?",
           "options": {
             "a": "Sensibilitate = prinde buni; specificitate = elimină răi",
             "b": "Screening elimină; comprehensive selectează dintre supraviețuitori",
@@ -37613,12 +37613,12 @@
         },
         {
           "id": 9962,
-          "text": "Care perechi eroare / efect din grila EPP sunt inversate greșit?",
+          "text": "Care perechi eroare / efect din evaluarea performanței sunt inversate greșit?",
           "options": {
-            "a": "Leniency = note prea mari; severity = note prea mici, în procesul terapeutic",
+            "a": "Leniency = note prea mari; severity = note prea mici, în raport cu criteriul de validitate",
             "b": "Halo (Halo) = note mici peste tot; horns (Horns) = note mari peste tot — invers corect",
             "c": "Halo (Halo) = impresie pozitivă globală ridică scorurile; horns (Horns / coarne) = impresie negativă globală le coboară",
-            "d": "Primacy = începutul; recency = sfârșitul, în procesul terapeutic"
+            "d": "Primacy = începutul; recency = sfârșitul, în interpretarea rezultatelor standardizate"
           },
           "kind": "single",
           "correct": [
@@ -37746,7 +37746,7 @@
         },
         {
           "id": 9969,
-          "text": "Care distincții din grila de capcane (toate capitolele PM II) sunt corecte?",
+          "text": "Care dintre următoarele distincții frecvent confundate sunt corecte?",
           "options": {
             "a": "Description/specification; knowledge/ability; screening/comprehensive",
             "b": "OCB/CWB; spill-over/cross-over; turnover/intenție plecare",
@@ -39629,7 +39629,7 @@
         },
         {
           "id": 10100,
-          "text": "Care două distincții metodologice din grila de examen sunt corecte?",
+          "text": "Care dintre următoarele distincții metodologice sunt corecte?",
           "options": {
             "a": "interviu / observație naturală: raportat vs. comportament direct",
             "b": "dispariția completă a atașamentului și a intimității",
@@ -47834,7 +47834,7 @@
         },
         {
           "id": 10549,
-          "text": "Care dintre următoarele distincții ajută la grilă între Pavlov, Watson și Skinner?",
+          "text": "Care dintre următoarele distincții diferențiază corect contribuțiile lui Pavlov, Watson și Skinner?",
           "options": {
             "a": "Watson — behaviorism, mediu, condiționare emoțională (Albert)",
             "b": "Pavlov — condiționare clasică, reflexe fiziologice",
@@ -49846,7 +49846,7 @@
         },
         {
           "id": 10657,
-          "text": "Care dintre următoarele confuzii frecvente la grilă despre Rogers trebuie evitate?",
+          "text": "Care dintre următoarele confuzii frecvente despre Rogers trebuie evitate?",
           "options": {
             "a": "Rogers a dezvoltat ierarhia celor cinci trebuințe fiziologice",
             "b": "empatia nu înseamnă aprobarea oricărui comportament dăunător",
@@ -51688,7 +51688,7 @@
         },
         {
           "id": 10756,
-          "text": "Care dintre următoarele perechi „concept–diferență esențială” sunt corecte pentru grilă?",
+          "text": "Care dintre următoarele perechi „concept–diferență esențială” sunt corecte?",
           "options": {
             "a": "pedeapsă vs extincție — pedeapsa adaugă consecință neplăcută; extincția scade comportamentul prin lipsa întăririi",
             "b": "învățare socială vs operantă — socială prin observare/modelare; operantă prin consecințele propriului comportament",
@@ -52302,7 +52302,7 @@
         },
         {
           "id": 10789,
-          "text": "Care dintre următoarele perechi autor–idee sunt potrivite pentru grilă?",
+          "text": "Care dintre următoarele perechi autor–idee sunt corecte?",
           "options": {
             "a": "Carl R. Rogers — facilitare, empatie, învățare semnificativă",
             "b": "Edward L. Thorndike — legea efectului, încercare-eroare",
@@ -52323,7 +52323,7 @@
         },
         {
           "id": 10790,
-          "text": "Pentru grilă, diferența rapidă cognitivism–behaviorism se rezumă la:",
+          "text": "Care este diferența esențială între cognitivism și behaviorism?",
           "options": {
             "a": "procese interne și organizare mentală vs comportament observabil și consecințe externe",
             "b": "VARK vs blended learning",
@@ -53178,7 +53178,7 @@
         },
         {
           "id": 10836,
-          "text": "Care dintre următoarele tipuri de profesor din clasificarea pentru grilă sunt descrise corect?",
+          "text": "Care dintre următoarele tipuri de profesor sunt descrise corect?",
           "options": {
             "a": "centrat pe elev — analizează nevoile, susține descoperirea",
             "b": "cu inițiativă ridicată — flexibilitate, alegere, responsabilitate",
@@ -53499,7 +53499,7 @@
         },
         {
           "id": 10853,
-          "text": "Care dintre următoarele perechi tip de profesor–accent sunt potrivite pentru grilă?",
+          "text": "Care dintre următoarele perechi tip de profesor–accent sunt corecte?",
           "options": {
             "a": "centrat pe elev — nevoi, întrebări, descoperire",
             "b": "centrat pe interacțiune — relație, participare activă",
@@ -53632,7 +53632,7 @@
         },
         {
           "id": 10860,
-          "text": "Pentru grilă, diferența rapidă între profesorul cu inițiativă ridicată și cel cu inițiativă scăzută este:",
+          "text": "Care este diferența esențială între profesorul cu inițiativă ridicată și cel cu inițiativă scăzută?",
           "options": {
             "a": "transmitere structurată a conținutului vs analiza nevoilor elevului",
             "b": "empatie în abordarea lui Carl Rogers vs condiționare operantă în paradigma lui Skinner",
@@ -54191,7 +54191,7 @@
         },
         {
           "id": 10890,
-          "text": "Pentru grilă, diferența rapidă între predarea directă și cea indirectă este:",
+          "text": "Care este diferența esențială între predarea directă și cea indirectă?",
           "options": {
             "a": "predare fără profesor vs predare fără elevi",
             "b": "nivel conceptual scăzut vs nivel conceptual înalt ca sinonime",
@@ -54857,7 +54857,7 @@
         },
         {
           "id": 10926,
-          "text": "Care dintre următoarele trăsături definesc rolul de „om de afaceri” și al celui de „expert”, în sinteza pentru grilă?",
+          "text": "Care dintre următoarele trăsături definesc rolul de „om de afaceri” și al celui de „expert”?",
           "options": {
             "a": "om de afaceri: eficiență și pragmatism",
             "b": "om de afaceri: rezultate și stimularea performanței",
@@ -54935,7 +54935,7 @@
         },
         {
           "id": 10930,
-          "text": "Pentru grilă, diferența rapidă între rolul „Socrate” și cel de „organizator al minților” este:",
+          "text": "Care este diferența esențială între rolul „Socrate” și cel de „organizator al minților”?",
           "options": {
             "a": "Socrate: dialog, întrebări, dezbatere; organizator: structurare, clarificare, ordine cognitivă",
             "b": "Socrate: eficiență pragmatică; organizator: stimularea performanței",
@@ -55171,7 +55171,7 @@
         },
         {
           "id": 10943,
-          "text": "Care dintre următoarele componente apar în formula eficienței profesorului din sinteza pentru grilă?",
+          "text": "Care dintre următoarele componente apar în formula eficienței profesorului?",
           "options": {
             "a": "memorare pasivă ca strategie centrală",
             "b": "conținut",
@@ -55228,7 +55228,7 @@
         },
         {
           "id": 10946,
-          "text": "Care dintre următoarele componente definesc eficiența profesorului în sinteza pentru grilă?",
+          "text": "Care dintre următoarele componente definesc eficiența profesorului?",
           "options": {
             "a": "adaptare",
             "b": "relație",
@@ -55302,7 +55302,7 @@
         },
         {
           "id": 10950,
-          "text": "Care dintre următoarele afirmații din sinteza pentru grilă sunt corecte?",
+          "text": "Care dintre următoarele afirmații despre profesorul eficient sunt corecte?",
           "options": {
             "a": "profesorul eficient este specialist, organizator, model și facilitator",
             "b": "competența pedagogică include relaționare, comunicare, climat, adaptare și evaluare",
@@ -55323,7 +55323,7 @@
         },
         {
           "id": 10951,
-          "text": "Care dintre următoarele tipuri de competență trebuie diferențiate la grilă?",
+          "text": "Care dintre următoarele tipuri de competență trebuie diferențiate?",
           "options": {
             "a": "competență administrativă — birocrație școlară ca sinonim psihosocial",
             "b": "competență psihopedagogică — adaptare didactică",
@@ -55398,7 +55398,7 @@
         },
         {
           "id": 10955,
-          "text": "Care dintre următoarele roluri definesc profesorul eficient în sinteza pentru grilă?",
+          "text": "Care dintre următoarele roluri definesc profesorul eficient?",
           "options": {
             "a": "specialist în domeniu",
             "b": "facilitator al dezvoltării elevului",
@@ -55494,7 +55494,7 @@
         },
         {
           "id": 10960,
-          "text": "Pentru grilă, diferența rapidă între competența profesională și cea psihopedagogică este:",
+          "text": "Care este diferența esențială între competența profesională și cea psihopedagogică?",
           "options": {
             "a": "profesională = motivație; psihopedagogică = memorare pasivă",
             "b": "profesională = conținut; psihopedagogică = adaptare didactică",
@@ -55511,8 +55511,1697 @@
           "exam_item": true
         }
       ]
+    },
+    "Statistică II": {
+      "questions": [
+        {
+          "id": 10961,
+          "text": "Statistica este un instrument al metodei științifice, nu o metodă de cunoaștere în sine.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Statistica nu este o „metodă de cunoaștere” în același sens în care sunt observația sistematică sau experimentul: ea oferă reguli și proceduri pentru a organiza datele, a le descrie și a evalua ipoteze. Cercetarea psihologică rămâne ancorată în întrebări teoretice și în colectarea de date empirice; statistica le ajută să fie analizate riguros.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10962,
+          "text": "Ce înseamnă, în psihologie, că statistica este un instrument al metodei științifice?",
+          "options": {
+            "a": "oferă proceduri pentru a organiza datele empirice și a trage concluzii justificate, în cadrul unei investigații mai largi",
+            "b": "înlocuiește observația și formularea ipotezelor, devenind singura cale de cunoaștere validă",
+            "c": "se aplică numai după ce teoria este deja demonstrată, fără rol în planificarea cercetării",
+            "d": "reprezintă o metodă filozofică alternativă la empirism, independentă de datele colectate"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Ca instrument, statistica susține întregul demers: planificare (ce și câți participanți), descriere (medie, dispersie), inferență (teste, intervale). Nu înlocuiește observația sau ipoteza și nu este o filozofie paralelă empirismului — se folosește pe baza unor date reale, cu presupunerile fiecărei metode înțelese.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10963,
+          "text": "Care dintre următoarele descriu dificultăți reale în raportarea la statistică în psihologie?",
+          "options": {
+            "a": "statisticofobia: teamă sau evitare a procedurilor cantitative",
+            "b": "naivitate statistică: folosirea testelor fără înțelegerea presupunerilor și a limitelor lor",
+            "c": "epatantul statistic: preferința pentru metode sofisticate, chiar când problema nu le cere",
+            "d": "calculul mediei aritmetice ca singură formă acceptată de prezentare a datelor în orice raport"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Cele trei dificultăți din curs: statisticofobia (evitarea numerelor și a testelor), naivitatea statistică (rulezi analize fără să înțelegi ce presupun și ce pot spune), epatantul statistic (metode sofisticate de fațadă, nepotrivite problemei). Calculul mediei ca obligație universală nu este o categorie didactică — e un exemplu de procedură simplă, nu o capcană conceptuală în sine.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10964,
+          "text": "Care dintre următoarele etape aparțin logicii metodei științifice prezentate în curs?",
+          "options": {
+            "a": "observația fenomenului sau a unei regularități",
+            "b": "tratarea ipotezei ca demonstrată înainte de analiza datelor",
+            "c": "colectarea de date empirice relevante pentru ipoteză",
+            "d": "formularea unei ipoteze explicative sau predictivă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Metoda științifică, în varianta prezentată: observi un fenomen, formulezi o ipoteză, aduni date empirice relevante, apoi tragi concluzii proporționale cu dovezi. A trata ipoteza ca deja demonstrată înainte de date inversează logica cercetării și produce certitudine falsă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10965,
+          "text": "Variabilele observate se caracterizează prin faptul că:",
+          "options": {
+            "a": "reprezintă întotdeauna constructe teoretice abstracte",
+            "b": "nu pot fi cuantificate în nicio formă numerică",
+            "c": "pot fi înregistrate sau măsurate direct în studiu",
+            "d": "sunt inferate indirect din mai mulți indicatori"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Variabilele observate sunt cele pe care le poți înregistra direct în studiu: un timp măsurat, un răspuns bifat, o reacție înregistrată de aparat. Nu sunt inferate din teorie fără indicator concret — deși un scor poate estima un construct, înregistrarea itemului rămâne observație.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10966,
+          "text": "Care dintre următoarele sunt exemple de variabile observate într-un experiment psihologic?",
+          "options": {
+            "a": "răspunsul bifat la un item din chestionar",
+            "b": "timpul de reacție la un stimul prezentat pe ecran",
+            "c": "inteligența ca aptitudine generală, definită teoretic fără test",
+            "d": "inteligența ca scor la test — indicator al unui construct latent"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Timpul de reacție și răspunsul la item sunt observate direct. Scorul la test de inteligență este un indicator observat al unui construct latent — de aceea nu e exemplu simplu de variabilă observată „brută”. Definiția teoretică fără măsură nu este variabilă observată în studiu.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10967,
+          "text": "Variabilele latente, în sensul din curs, sunt:",
+          "options": {
+            "a": "identice cu orice variabilă numerică din baza de date",
+            "b": "constructe teoretice care nu se observă direct",
+            "c": "estimate prin indicatori observabili (itemi, reacții, comportamente)",
+            "d": "măsurabile direct, fără operaționalizare"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Latent = construct teoretic (anxietate, inteligență, sociabilitate) pe care îl estimezi prin indicatori observabili. Nu îl vezi direct; îl reconstruiești din itemi, reacții, comportamente. Nu orice coloană numerică din fișier înseamnă automat construct latent valid.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10968,
+          "text": "Variabila independentă (VI) este, în general:",
+          "options": {
+            "a": "factorul manipulat sau presupus cauză în studiu",
+            "b": "o variabilă care se modifică doar ca urmare a rezultatului obținut",
+            "c": "un sinonim pentru variabila dependentă în designul experimental",
+            "d": "efectul pe care cercetătorul îl măsoară"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Variabila independentă este factorul pe care îl manipulezi sau îl alegi pentru a vedea dacă produce schimbare: tip de exercițiu, oboseală indusă, grup de vârstă comparat. Variabila dependentă este ce măsori ca efect — nu invers.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10969,
+          "text": "Care dintre următoarele pot funcționa ca variabile independente într-un studiu?",
+          "options": {
+            "a": "scorul la testul de performanță obținut la final",
+            "b": "tipul de exercițiu sau de instrucțiune aplicat",
+            "c": "gradul de oboseală indus experimental",
+            "d": "vârsta participanților, dacă este comparată între grupuri"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Vârsta (ca grup comparat), oboseala indusă și tipul de exercițiu pot fi VI. Performanța la test măsurată la final este VD — este rezultatul, nu factorul manipulat. Confuzia VI/VD este una dintre cele mai frecvente erori la interpretarea designurilor experimentale.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10970,
+          "text": "Care dintre următoarele descriu corect variabila dependentă (VD)?",
+          "options": {
+            "a": "este efectul sau rezultatul pe care îl măsori",
+            "b": "poate fi conformismul într-o situație socială",
+            "c": "este factorul pe care îl manipulezi pentru a produce schimbare",
+            "d": "poate fi măsurată doar dacă este latentă; variabilele observate nu pot fi VD"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Variabila dependentă este efectul: conformismul, timpul de reacție, performanța. O măsori după ce ai stabilit sau manipulat VI. VD poate fi și observată (un scor), chiar dacă estimează un construct; regula este rolul în design (efect), nu eticheta latent/observat.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10971,
+          "text": "Naivitatea statistică înseamnă refuzul total de a folosi orice procedură cantitativă în cercetare.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Naivitatea statistică înseamnă tocmai folosirea procedurilor fără înțelegere — nu refuzul total al cantificării. Refuzul total se apropie mai mult de statisticofobie. Distincția ajută la diagnostic: teamă vs competență aparentă fără fond.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10972,
+          "text": "Într-un experiment, variabila dependentă este:",
+          "options": {
+            "a": "întotdeauna o variabilă latentă, niciodată observată direct",
+            "b": "ceea ce măsori pentru a vedea dacă s-a produs efectul așteptat",
+            "c": "același lucru cu variabila de control din orice design",
+            "d": "factorul a cărui influență vrei să o testezi"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "În experiment, VD = ceea ce măsori ca rezultat (performanță, conformism, timp de reacție). VI = ce variezi sau compari pentru a produce efectul. Variabila de control ține alți factori constanți; nu este sinonim cu VD.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10973,
+          "text": "Care dintre următoarele perechi variabilă–rol sunt corecte într-un experiment clasic?",
+          "options": {
+            "a": "performanță finală (VI) → tip de feedback primit (VD)",
+            "b": "oboseală indusă (VI) → timp de reacție (VD)",
+            "c": "conformism măsurat (VD) → vârstă manipulată (VI)",
+            "d": "tip exercițiu (VI) → performanță la test (VD)"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Perechi corecte: manipulezi exercițiul → măsori performanța; induci oboseală → măsori timpul de reacție. Ultimele variante inversează rolurile (VD ca „cauză”) — capcană clasică când etichetele par plauzibile.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10974,
+          "text": "Care dintre următoarele variabile sunt continue?",
+          "options": {
+            "a": "timpul de reacție în secunde",
+            "b": "înălțimea",
+            "c": "numărul de răspunsuri corecte la un test (doar valori întregi)",
+            "d": "greutatea corporală"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Timpul, greutatea și înălțimea pot lua teoretic valori fine în interval (continuu). Numărul de răspunsuri corecte este discret (întreg, numărabil). Amestecul continu/discret apare des în itemi — verifică dacă valorile pot fi fracționate teoretic sau sunt numărate.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10975,
+          "text": "Conform lui Stevens (1946), măsurarea presupune:",
+          "options": {
+            "a": "demonstrarea adevărului unei teorii fără colectare de date",
+            "b": "înlocuirea observației cu interpretarea subiectivă a cercetătorului",
+            "c": "atribuirea de valori numerice sau simbolice obiectelor sau fenomenelor",
+            "d": "respectarea unor reguli de corespondență între obiect și număr/simbol"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Stevens (1946): măsurarea = atribuire de numere sau simboluri conform regulilor, nu etichetare aleatorie. Regulile stabilesc ce înseamnă o unitate de diferență între valori. Fără reguli explicite, un scor nu poate fi interpretat științific.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10976,
+          "text": "Care dintre următoarele diferențe între variabile continue și discrete sunt corecte?",
+          "options": {
+            "a": "discrete: au un număr finit sau numărabil de valori posibile",
+            "b": "discrete: pot lua orice valoare reală, ca greutatea sau timpul",
+            "c": "continue: se limitează la răspunsuri da/nu sau la categorii nominale",
+            "d": "continue: teoretic pot lua o infinitate de valori într-un interval"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Continue: infinitate teoretică de valori între două puncte (ex. 1,3 s vs 1,31 s). Discrete: valori separate, număr finit sau numărabil (ex. 2 sau 3 copii). Nu confunda unități de măsură (kg) cu discret — greutatea rămâne continuă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10977,
+          "text": "Care dintre următoarele exemple ilustrează variabile discrete?",
+          "options": {
+            "a": "scorul pe o scară de interval cu zeci posibile între valori",
+            "b": "timpul de reacție măsurat în milisecunde",
+            "c": "numărul de răspunsuri corecte la un test",
+            "d": "numărul de persoane din familie"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Număr persoane în familie și număr răspunsuri corecte sunt discrete (întregi, numărabile). Timpul de reacție este continuu; o scară cu zeci posibile poate fi tot interval, nu discretă în sensul cursului.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10978,
+          "text": "Sociabilitatea, în cercetarea psihologică, este de obicei tratată ca:",
+          "options": {
+            "a": "construct teoretic care necesită operaționalizare",
+            "b": "variabilă observată direct, fără itemi sau scale",
+            "c": "variabilă latentă, estimată prin indicatori observabili",
+            "d": "sinonim pentru timpul de reacție la stimul social"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Sociabilitatea este construct latent: o estimezi prin scale, observații codificate, raportări — nu o „vezi” direct ca pe o lungime. Operaționalizarea transformă constructul în indicatori măsurabili.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10979,
+          "text": "Care dintre următoarele distincții între variabile observate și latente sunt corecte?",
+          "options": {
+            "a": "inteligența măsurată prin itemi de test este o operaționalizare a unui construct latent",
+            "b": "anxietatea măsurată prin scale validată rămâne latentă, deși are scor numeric",
+            "c": "latentele se văd direct în laborator, observatele doar în chestionare",
+            "d": "observate: înregistrate direct; latente: inferate din indicatori"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Observate = înregistrate direct; latente = inferate din indicatori. Inteligența prin itemi de test este operaționalizare: itemii sunt observați, constructul rămâne latent. Anxietatea cu scor validat rămâne latentă ca fenomen, deși scorul este observat — nu confunda înregistrarea indicatorului cu accesul direct la construct.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10980,
+          "text": "Care dintre următoarele asocieri exemplu–tip de variabilă sunt corecte?",
+          "options": {
+            "a": "anxietate (construct) → latentă",
+            "b": "timp de reacție → observată, continuă",
+            "c": "tip exercițiu manipulat → independentă (în design experimental)",
+            "d": "răspuns la item → observată"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Timp de reacție: observată, continuă. Răspuns la item: observată. Anxietate (construct): latentă. Tipul de exercițiu manipulat este variabilă independentă, nu dependentă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10981,
+          "text": "Într-un design experimental, variabila independentă este manipulată sau selectată, iar variabila dependentă este măsurată.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. În design experimental standard: manipulezi sau selectezi VI, apoi măsori VD. Ex.: induci oboseală (VI) și măsori performanța (VD). Fără această distincție, interpretarea cauzalității devine ambiguă.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10982,
+          "text": "Statisticofobia se referă, în principal, la:",
+          "options": {
+            "a": "teamă, respingere sau evitare a gândirii și procedurilor statistice",
+            "b": "preferința pentru analize complexe indiferent de întrebarea de cercetare",
+            "c": "utilizarea corectă a testelor după înțelegerea presupunerilor lor",
+            "d": "capacitatea de a interpreta rezultatele fără anxietate față de numere"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Statisticofobia = teamă, respingere sau evitare a gândirii cantitative. Nu este competență nici chiar folosirea reflexă a software-ului. Epatantul și naivitatea implică de obicei contact cu statistica, dar într-un mod distorsionat.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10983,
+          "text": "Care dintre următoarele descriu epatantul statistic?",
+          "options": {
+            "a": "înțelegerea limitelor testului înainte de aplicare",
+            "b": "raportarea unor analize inadecvate sau inutile în contextul dat",
+            "c": "alegerea unor metode complicate pentru impresie, nu pentru nevoia problemei",
+            "d": "refuzul oricărei proceduri cantitative din teamă de erori"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Epatantul statistic: analize inutile sau prea complexe pentru impresie sau din obișnuință, nu din întrebarea de cercetare. Refuzul total ține de fobie; înțelegerea presupunerilor este opusul naivității, nu epatantului.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10984,
+          "text": "Care dintre următoarele elemente apar, în ordine logică, în metoda științifică?",
+          "options": {
+            "a": "observație",
+            "b": "ipoteză",
+            "c": "date empirice",
+            "d": "concluzii fondate pe analiza datelor colectate"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Ordinea logică: observație → ipoteză → date empirice → concluzii. Toate patru etape sunt parte din metoda științifică; concluziile vin după analiza datelor, nu înaintea lor.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10985,
+          "text": "Regulile de măsurare la care se referă Stevens (1946) stabilesc cum se leagă numerele sau simbolurile de:",
+          "options": {
+            "a": "ipotezele formulate înainte de observație",
+            "b": "concluziile finale, după ce analiza este terminată",
+            "c": "obiecte, evenimente sau trăsături ale fenomenelor studiate",
+            "d": "preferințele personale ale cercetătorului, fără corespondență fixă"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Regulile de Stevens leagă simbolurile de proprietăți ale fenomenelor — ex. diferența între 2 și 3 pe o scară trebuie să aibă sens definit. Nu sunt preferințe personale ale cercetătorului și nu înlocuiesc definirea constructului teoretic.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10986,
+          "text": "Care dintre următoarele confuzii frecvente trebuie evitate?",
+          "options": {
+            "a": "a folosi statistica ca substitut al întrebării de cercetare și al calității datelor",
+            "b": "a operaționaliza un construct prin itemi sau reacții observabile",
+            "c": "a confunda variabila manipulată cu cea măsurată",
+            "d": "a trata un construct latent ca și cum ar fi observat direct, fără indicatori"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Confuzii de evitat: amestec VI/VD; latent tratat ca observat direct; statistica folosită fără întrebare clară sau date bune. Operaționalizarea corectă prin itemi nu este o confuzie — este soluția pentru măsurarea constructelor latente.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10987,
+          "text": "Care dintre următoarele afirmații despre dificultățile în folosirea statisticii sunt corecte?",
+          "options": {
+            "a": "epatantul statistic poate complica inutil raportarea rezultatelor",
+            "b": "naivitatea statistică poate produce concluzii greșite chiar cu software modern",
+            "c": "statisticofobia împiedică folosirea utilă a instrumentelor cantitative",
+            "d": "orice utilizare a mediei arată automat competență metodologică"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Statisticofobia blochează folosirea utilă; naivitatea produce erori cu software modern; epatantul complică inutil. A folosi media nu garantează înțelegere — uneori nici măcar nu e statistica potrivită pentru tipul de date.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10988,
+          "text": "Numărul de copii dintr-o familie este, de regulă, un exemplu de variabilă:",
+          "options": {
+            "a": "cu valori ce pot fi numărate pe unități indivizibile (ex. număr copii)",
+            "b": "latentă, deoarece nu se vede direct",
+            "c": "continuă, pentru că poate crește gradual în timp",
+            "d": "discretă"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Numărul de copii este discret: valori întregi, numărabile (nu poți avea 2,5 copii în sensul categoriei). „Crește în timp” nu îl face continuu — tipul variabilei se referă la valorile posibile ale măsurii, nu la dinamica în timp.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10989,
+          "text": "Care dintre următoarele perechi variabilă–tip sunt corecte?",
+          "options": {
+            "a": "greutate → discretă, pentru că se exprimă în unități fixe",
+            "b": "număr răspunsuri corecte → discretă",
+            "c": "timp de reacție → continuă",
+            "d": "cod nominal pentru gen → continuă cu origine absolută"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Timp de reacție și număr de răspunsuri corecte ilustrează bine continuă vs discretă. Codul nominal pentru gen nu este continuu cu origine absolută — e nominal. Greutatea rămâne continuă, chiar dacă folosești unități standard.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10990,
+          "text": "Care dintre următoarele descrieri despre variabile și măsurare sunt corecte?",
+          "options": {
+            "a": "măsurarea (Stevens): atribuire de valori după reguli, nu simplă etichetare arbitrară",
+            "b": "continue: valori teoretic infinite într-un interval; discrete: niveluri finite sau întregi",
+            "c": "VI: cauză sau factor manipulat; VD: efect măsurat",
+            "d": "observate: măsurabile direct; latente: inferate din indicatori"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Sinteză: VI vs VD; observate vs latente; continue vs discrete; măsurare Stevens = atribuire după reguli. Toate patru descrieri sunt nucleul primului modul de statistică aplicată în psihologie.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10991,
+          "text": "Statistica înlocuiește nevoia de ipoteză și de colectare a datelor empirice în cercetarea psihologică.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Statistica nu elimină nevoia de ipoteză și de date empirice — le structurează analiza. Fără întrebare clară și fără date de calitate, orice test rămâne gol de sens, indiferent de p-value.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10992,
+          "text": "Anxietatea măsurată printr-un chestionar validat este, din perspectiva tipului de variabilă:",
+          "options": {
+            "a": "o variabilă observată (scorul la itemi), care estimează un construct",
+            "b": "un indicator al unui construct latent, nu măsurarea directă a „anxietății pure”",
+            "c": "o variabilă nominală fără ordine între valori",
+            "d": "o variabilă independentă în orice studiu, indiferent de design"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Chestionarul validat oferă scoruri observate (răspunsuri la itemi) care estimează anxietatea ca construct latent. Nu „măsori direct” anxietatea pură — măsori indicatori agreați ca relevanți pentru construct.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10993,
+          "text": "Inteligența, în cercetarea psihometrică, este tratată frecvent ca construct latent pentru că:",
+          "options": {
+            "a": "orice scor numeric este automat o măsură directă a capacității cognitive",
+            "b": "nu o observi direct, ci prin performanță la itemi sau sarcini",
+            "c": "scorul la test este un indicator operațional, nu constructul în sine",
+            "d": "nu necesită reguli de măsurare sau teorie pentru interpretare"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Inteligența nu se observă direct: o inferezi din performanța la sarcini standardizate. Scorul este operaționalizare, nu constructul în sine. Validitatea și teoria rămân necesare pentru interpretare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10994,
+          "text": "Care dintre următoarele afirmații integrează corect rolul statisticii în metoda științifică?",
+          "options": {
+            "a": "pornești de la observație și formulezi ipoteze",
+            "b": "folosești statistica ca instrument de analiză, nu ca înlocuitor al gândirii teoretice",
+            "c": "tragi concluzii fără a colecta date, dacă modelul statistic e complex",
+            "d": "colectezi date empirice relevante"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Integrare: observație și ipoteză deschid investigația; datele empirice o ancorează; statistica organizează analiza fără a înlocui gândirea teoretică; concluziile respectă limitele designului și ale măsurării. Toate patru sunt coerente cu rolul instrumentului statistic.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10995,
+          "text": "Oboseala indusă înainte de sarcină poate fi, în experiment, o variabilă:",
+          "options": {
+            "a": "independentă",
+            "b": "dependentă, pentru că se măsoară la finalul testului",
+            "c": "manipulată pentru a vedea efectul asupra performanței",
+            "d": "latentă, deoarece nu poate fi cuantificată"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Oboseala indusă înainte de sarcină este VI: o variezi/controlați pentru a vedea efectul asupra performanței. Nu este VD — aceea ar fi performanța măsurată după inducere.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10996,
+          "text": "Conformismul într-o situație de grup este un exemplu clasic de variabilă:",
+          "options": {
+            "a": "nominală fără posibilitate de ordonare sau frecvență",
+            "b": "dependentă, dacă o măsori ca efect al presiunii sociale",
+            "c": "independentă, dacă o manipulezi pentru a schimba atitudinea",
+            "d": "observată, prin comportamentul manifest sau răspunsuri la sarcină"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Conformismul măsurat după presiune socială este VD (efect). Poate fi observat prin comportament sau răspunsuri. Dacă l-ai manipula activ ca factor de intrare, ar deveni VI — în exemplul clasic din curs e rezultat.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10997,
+          "text": "Înălțimea corporală este un exemplu de variabilă:",
+          "options": {
+            "a": "măsurabilă direct cu instrumente standardizate",
+            "b": "latentă inferată doar din autocunoștință verbală, fără indicatori",
+            "c": "continuă",
+            "d": "discretă cu două niveluri da/nu"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Înălțimea este variabilă continuă (valori reale în interval) și observată direct prin măsurare. Nu este discretă da/nu și nu e latentă doar prin autoraport verbal fără indicatori agreați.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 10998,
+          "text": "Care dintre următoarele caracterizează corect măsurarea în sensul lui Stevens?",
+          "options": {
+            "a": "implică reguli de atribuire a valorilor",
+            "b": "leagă proprietăți ale fenomenelor de reprezentări cantitative sau codificate",
+            "c": "poate folosi numere sau simboluri",
+            "d": "elimină necesitatea definirii constructului studiat"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Măsurarea Stevens: reguli explicite, numere sau simboluri, legătură controlată între proprietate și reprezentare. Nu elimină definirea constructului — o completează cu proceduri de atribuire a valorilor.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 10999,
+          "text": "Datele empirice, în lanțul metodei științifice, servesc în principal pentru a:",
+          "options": {
+            "a": "verifica sau infirma ipoteze prin informații observate sistematic",
+            "b": "înlocui complet etapa de observație inițială",
+            "c": "susține concluzii după analiză adecvată",
+            "d": "justifica orice concluzie, indiferent de calitatea designului"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Datele empirice verifică sau infirma ipoteze în mod sistematic. Ele susțin concluzii după analiză, nu înlocuiesc observația inițială și nu justifică orice concluzie indiferent de design.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11000,
+          "text": "Care dintre următoarele perechi descriu corect relația dintre statistici și înțelegerea cercetării?",
+          "options": {
+            "a": "alegerea metodei trebuie să urmeze întrebarea de cercetare, nu impresia tehnică",
+            "b": "înțelegerea presupunerilor testelor reduce naivitatea statistică",
+            "c": "statistica ajută la organizarea datelor, nu le înlocuiește pe cele slabe",
+            "d": "procedurile cantitative fac inutilă formularea ipotezelor"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "Statistica organizează datele, nu le repară pe cele slabe; înțelegerea testelor reduce naivitatea; metoda trebuie să urmeze întrebarea, nu impresia tehnică. Ipotezele rămân necesare — statistica le evaluează, nu le face redundante.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11001,
+          "text": "În ierarhia scalelor de măsurare Stevens, ordinea corectă este: nominală < ordinală < de interval < de raport.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Stevens ordonează scalele după proprietăți cumulative: nominală (categorii), ordinală (+ ordine), interval (+ distanțe egale), raport (+ zero absolut). Fiecare nivel adaugă posibilități statistice, dar și restricții de interpretare.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11002,
+          "text": "La scara nominală, operația statistică permisă în mod fundamental este:",
+          "options": {
+            "a": "numărarea frecvențelor categoriilor",
+            "b": "calculul mediei aritmetice a codurilor atribuite categoriilor",
+            "c": "calculul diferenței exacte între două categorii fără ordine",
+            "d": "raportarea valorilor ca „de două ori mai mult” fără altă justificare"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "La nominală numeri câte cazuri apar în fiecare categorie (frecvențe, procente). Media codurilor arbitrare (M=1, F=2) sau raporturi „de două ori” nu au sens teoretic. Tabelul de contingență și frecvențele sunt operațiile de bază.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11003,
+          "text": "Care dintre următoarele exemple sunt, de regulă, măsurători pe scară nominală?",
+          "options": {
+            "a": "genul codificat M/F",
+            "b": "temperatura în grade Celsius comparată ca intensitate dublă",
+            "c": "religia raportată ca apartenență la o categorie",
+            "d": "tipul de temperament încadrat în categorii distincte"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Genul, temperamentul încadrat tipologic și religia ca apartenență sunt exemple clasice nominal-e. Celsius nu este nominal — are ordine și intervale. Trei exemple corecte ilustrează categorii fără ordine obligatorie sau fără distanțe egale.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11004,
+          "text": "Care dintre următoarele afirmații despre scara ordinală sunt corecte?",
+          "options": {
+            "a": "nu garantează distanțe egale între treptele scalei",
+            "b": "permite ordonarea cazurilor după magnitudine",
+            "c": "permite afirmația automată că 4 note este de două ori mai mult decât 2 note",
+            "d": "notele școlare sunt discutate frecvent ca exemplu ordinal"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Ordinală = poți ordona (1 < 2 < 3 pe Likert), dar distanța 2→3 nu e garantat egală cu 1→2. Notele școlare sunt discutate ca ordinal. Nu poți deduce automat că patru puncte e dublu față de două puncte.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11005,
+          "text": "Scara ordinală se deosebește de cea nominală prin faptul că:",
+          "options": {
+            "a": "permite orice operație algebrică ca la scara de raport",
+            "b": "elimină nevoia de a defini categoriile studiate",
+            "c": "permite compararea „mai mult / mai puțin” în sensul ordinii",
+            "d": "introduce o relație de ordine între valori"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Ordinala adaugă ordinea față de nominală: „mai mare / mai mic” în sensul rânduirii. Nu înseamnă automat raport sau zero absolut — acelea apar la niveluri superioare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11006,
+          "text": "Care dintre următoarele exemple sunt frecvent discutate ca scale ordinale?",
+          "options": {
+            "a": "note școlare (A, B, C sau 1–10, în funcție de sistem)",
+            "b": "timpul de reacție în secunde cu zecimale",
+            "c": "numărul de răspunsuri corecte la un test",
+            "d": "temperatura Kelvin ca scară de raport"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Notele școlare sunt exemplul didactic clasic de ordinală: ordine clară, distanțe între note nu sunt neapărat egale. Timpul de reacție și numărul de răspunsuri corecte sunt de regulă raport, nu ordinal.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11007,
+          "text": "Care dintre următoarele caracterizează scara de interval?",
+          "options": {
+            "a": "distanțe egale între unități pe scară",
+            "b": "posibilitatea de a spune că 20°C este dublu față de 10°C",
+            "c": "scorurile unui test standardizat sau QI tratate frecvent ca interval",
+            "d": "lipsa unui zero absolut cu sens fizic sau natural"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Interval: unități egale, dar fără zero absolut (0°C nu înseamnă lipsa căldurii). Scorurile de test și QI sunt adesea tratate ca interval, cu precauție. Raportul „dublu” la Celsius este capcana tipică.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11008,
+          "text": "Temperatura în grade Celsius este un exemplu clasic de scară de interval pentru că:",
+          "options": {
+            "a": "intervalele au sens egal, dar 0°C nu marchează absența totală a căldurii",
+            "b": "este identică cu scara Kelvin la raportare proporțională",
+            "c": "poți ordona valorile și calcula diferențe, dar raportul 20/10 nu are sens fizic de „dublu”",
+            "d": "este o scară nominală, pentru că folosește numere"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Celsius permite diferențe și ordine, dar 0°C nu e absența energiei termice — de aceea 20°C nu e „de două ori mai cald” decât 10°C. Kelvin are zero absolut și raporturi fizice valide.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11009,
+          "text": "Care dintre următoarele proprietăți aparțin scalei de raport?",
+          "options": {
+            "a": "zero absolut cu sens (absența cantității măsurate)",
+            "b": "posibilitatea raporturilor (ex. de două ori mai mult)",
+            "c": "distanțe egale între unități",
+            "d": "ordine fără distanțe egale, ca la preferințe Likert"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Raport = zero absolut + raporturi (de două ori) + distanțe egale între unități. Kelvin, timpul și numărul de răspunsuri corecte sunt exemple. Likert ordinal nu are zero absolut al intensității.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11010,
+          "text": "Care dintre următoarele perechi scară–exemplu sunt corecte?",
+          "options": {
+            "a": "nominală — gen M/F",
+            "b": "ordinală — preferință Likert 1–5",
+            "c": "interval — scor la un test psihologic standardizat",
+            "d": "raport — temperatura Kelvin sau timpul de reacție"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru perechi corecte: nominal-gen, ordinal-Likert, interval-scor test, raport-Kelvin/timp. Această mapare este nucleul itemilor de scale Stevens în psihologie.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11011,
+          "text": "Un item Likert 1–5 este, în mod obișnuit în interpretarea prudentă, o scară de interval cu zero absolut.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Likert 1–5 este de obicei tratat ordinal: ordinea e clară, dar distanțele între trepte nu sunt demonstrate ca egale. A-l folosi ca interval fără argument teoretic sau analitic este o capcană frecventă.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11012,
+          "text": "De ce afirmația „20°C este de două ori mai cald decât 10°C” este o capcană?",
+          "options": {
+            "a": "pentru că Celsius este scară de interval, nu de raport — raportul nu are sens fizic",
+            "b": "pentru că temperatura este întotdeauna nominală",
+            "c": "pentru că zero Celsius nu este absența totală a energiei termice",
+            "d": "pentru că orice diferență de 10 grade ar fi mereu proporțională la Kelvin fără conversie"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Celsius e interval, nu raport: intervalele au sens, raportul 20/10 nu descrie o dublare fizică a căldurii. Zero Celsius e arbitrar. Kelvin rezolvă problema zero-ului absolut.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11013,
+          "text": "Care dintre următoarele capcane legate de scale sunt frecvente?",
+          "options": {
+            "a": "tratarea Likert 1–5 ca interval fără discuție despre distanțe egale",
+            "b": "considerarea notelor școlare ca interval doar pentru că sunt numere",
+            "c": "gruparea unui scor continuu (ex. QI 85–89 → categoria „1”) și tratarea ca ordinală/categorială",
+            "d": "recunoașterea că genul codificat M/F este nominal"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Capcane: Likert ca interval fără discuție; note ca interval doar pentru că sunt cifre; gruparea QI continu în categorii ordinal/categorial. Genul M/F ca nominal este corect, nu capcană.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11014,
+          "text": "Dacă grupezi scoruri continue de QI în intervale și le codifici 1, 2, 3…, variabila rezultată devine, de regulă:",
+          "options": {
+            "a": "interval cu zero absolut, pentru că intervalele sunt numerotate",
+            "b": "aceeași scară de raport ca scorul brut nemodificat",
+            "c": "ordinală sau categorială, nu continuă de raport",
+            "d": "nominală fără ordine, ca genul M/F"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Gruparea unui scor continuu (QI pe intervale) îl transformă în categorii ordonate sau nominale — pierzi finețea valorilor originale. Nu rămâne scară de raport continuă.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11015,
+          "text": "Variabilele categorice bine definite trebuie să fie, în mod ideal:",
+          "options": {
+            "a": "mutual exclusive — un caz într-o singură categorie",
+            "b": "suprapuse — același caz în mai multe categorii simultan",
+            "c": "exhaustive — acoperă toate posibilitățile relevante",
+            "d": "incomplete — lasă cazuri neîncadrate fără categorie reziduală"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Categorii bine definite: mutual exclusive (un caz, o categorie) și exhaustive (acoperă toate cazurile relevante, eventual cu „altul/necunoscut”). Suprapunerea sau golurile distorsionează analiza.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11016,
+          "text": "Care dintre următoarele perechi scară–tip de statistică sunt, de regulă, asociate corect?",
+          "options": {
+            "a": "nominală / ordinală — statistici neparametrice",
+            "b": "nominală — media aritmetică ca indicator central obligatoriu",
+            "c": "interval / raport — statistici parametrice (cu presupunerile îndeplinite)",
+            "d": "ordinală — raporturi de tip „de două ori mai mult” fără precizare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Nominal și ordinal → frecvent neparametric (Mann-Whitney, chi-pătrat etc.). Interval și raport → parametric (t, ANOVA, Pearson), dacă presupunerile sunt îndeplinite. Nu aplica medie pe orice cod numeric.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11017,
+          "text": "Statistica parametrică presupune, în general, că datele provin din scale cu proprietăți mai puternice. Care afirmații sunt corecte?",
+          "options": {
+            "a": "parametric înseamnă „cu medie” indiferent de tipul scalei",
+            "b": "nominala și ordinala conduc frecvent spre alternative neparametrice",
+            "c": "neparametric înseamnă „date lipsite de ordine” în orice situație",
+            "d": "intervalul și raportul permit multe proceduri parametrice"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "d"
+          ],
+          "explanation": "Parametric nu înseamnă „orice medie”, ci proceduri cu presupuneri (adesea distribuție, varianță). Neparametric nu înseamnă lipsă de ordine — Mann-Whitney folosește ranguri ordinale.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11018,
+          "text": "Notele școlare sunt, din perspectiva strictă a scalelor Stevens, discutate mai ales ca:",
+          "options": {
+            "a": "nominală — fără ordine între note",
+            "b": "ordinale — ordine fără distanțe garantat egale",
+            "c": "raport — pentru că folosesc cifre",
+            "d": "interval cu zero absolut, ca timpul de reacție"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Notele sunt ordinal în interpretarea strictă Stevens. În practică uneori sunt tratate ca interval — risc de supra-interpretare. Nu sunt raport sau nominal pur.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11019,
+          "text": "Care dintre următoarele operații sunt nepotrivite pentru o scară pur nominală?",
+          "options": {
+            "a": "realizarea de tabele de contingență",
+            "b": "numărarea frecvențelor și procentelor",
+            "c": "calculul mediei codurilor numeric atribuite genului M=1, F=2",
+            "d": "raportarea „de două ori mai mult” între categorii"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Pe nominal pur nu calculezi medii de coduri sau raporturi între categorii. Frecvențele și tabelele de contingență sunt potrivite. Media pe coduri M/F este statistic lipsită de sens.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11020,
+          "text": "Care dintre următoarele descrieri despre scale și utilizarea statisticilor sunt corecte?",
+          "options": {
+            "a": "Likert: de obicei ordinal, nu automat interval",
+            "b": "QI grupat pe intervale devine categorial/ordinal",
+            "c": "ierarhia nominal < ordinal < interval < raport reflectă proprietăți cumulative",
+            "d": "Celsius: interval; Kelvin: raport"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Sinteză scale: ierarhie Stevens; Celsius interval vs Kelvin raport; Likert ordinal prudent; QI grupat devine categorial. Patru afirmații coerente cu cursul.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11021,
+          "text": "În modelul clasic al erorii de măsurare, scorul observat se descompune în scor adevărat plus eroare: X = T + E.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Modelul clasic: X (observat) = T (adevărat) + E (eroare). Orice măsură psihologică include zgomot; scopul este să înțelegi cât din X reflectă constructul și cât este eroare.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11022,
+          "text": "În formula X = T + E, simbolul X reprezintă:",
+          "options": {
+            "a": "scorul observat obținut la măsurare",
+            "b": "eroarea de măsurare",
+            "c": "media populației la variabila studiată",
+            "d": "scorul adevărat al trăsăturii măsurate"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "X este scorul înregistrat la test sau chestionar. T este nivelul „real” al trăsăturii — latent, estimat. E este componenta de eroare. Nu confunda X cu media populației.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11023,
+          "text": "Trăsătura centrală a erorii aleatorii de măsurare este că produce:",
+          "options": {
+            "a": "tendința de a se compensa parțial la nivel de grup mare",
+            "b": "modificarea sistematică a mediei în aceeași direcție",
+            "c": "variație în ambele direcții în jurul valorii reale",
+            "d": "zgomot de măsurare care nu produce bias constant"
+          },
+          "kind": "single",
+          "correct": [
+            "c"
+          ],
+          "explanation": "Eroarea aleatorie se definește prin fluctuația în ambele direcții în jurul valorii reale — zgomot fără direcție fixă. Compensarea pe grupuri mari și lipsa biasului constant sunt consecințe, nu definiția centrală.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11024,
+          "text": "Eroarea sistematică de măsurare se caracterizează prin:",
+          "options": {
+            "a": "anulare perfectă garantată la orice mărime de eșantion",
+            "b": "modificarea mediei observate față de valoarea adevărată",
+            "c": "aceeași direcție de abatere pentru toate măsurătorile afectate",
+            "d": "echivalentul conceptului de bias"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Eroarea sistematică tinde în aceeași direcție (ex. întrebări formulate tendențios), modifică media și echivalează cu bias. Nu se anulează automat prin mărirea eșantionului.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11025,
+          "text": "Sinonimul frecvent folosit pentru eroarea sistematică este:",
+          "options": {
+            "a": "bias (înclinație / distorsiune sistematică)",
+            "b": "variație legitimă a constructului măsurat",
+            "c": "fiabilitate perfectă a instrumentului",
+            "d": "zgomot aleator care se anulează mereu după 30 de cazuri"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Bias = înclinație sistematică. Eroarea sistematică trage scorurile în mod constant spre supra- sau subestimare. Nu este zgomot aleator care se anulează la N=30.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11026,
+          "text": "Diferența esențială între eroarea aleatorie și cea sistematică este că:",
+          "options": {
+            "a": "aleatoria este mereu bias, iar cea sistematică este mereu zgomot",
+            "b": "aleatoria variază ± în jurul valorii reale, iar cea sistematică tinde în aceeași direcție",
+            "c": "aleatoria se atenuează la agregare pe grupuri mari, iar cea sistematică alterează media",
+            "d": "eroarea sistematică nu afectează concluziile la nivel de medie"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Diferența esențială: aleatoria variază ± în jurul valorii reale, iar sistematica tinde constant într-o direcție. Atenuarea la agregare și alterarea mediei sunt consecințe secundare ale acestei distincții.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11027,
+          "text": "Relația var(X) = var(T) + var(E) este legată de interpretarea:",
+          "options": {
+            "a": "identității dintre scor observat și scor adevărat",
+            "b": "fiabilității măsurării — cât din variația observată reflectă trăsătura adevărată",
+            "c": "faptului că o parte din variație provine din eroare",
+            "d": "imposibilității oricărei erori în măsurarea psihologică"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "var(X) = var(T) + var(E) arată că variabilitatea observată include și eroarea. Cu cât var(E) e mai mică față de var(T), cu atât măsura e mai fiabilă — scorurile reflectă mai fidel trăsătura.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11028,
+          "text": "Statistica descriptivă are ca scop principal:",
+          "options": {
+            "a": "sintetizarea informației prin indicatori (medie, dispersie etc.)",
+            "b": "demonstrarea cauzalității fără design experimental",
+            "c": "generalizarea automată la populație fără inferență",
+            "d": "organizarea și descrierea datelor colectate"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Descriptiv organizează datele din eșantionul tău: tabele, grafice, medii. Nu testează ipoteze despre populație și nu demonstrează cauzalitate. Este primul pas înainte de inferență.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11029,
+          "text": "Care dintre următoarele distincții între statistica descriptivă și cea inferențială sunt corecte?",
+          "options": {
+            "a": "descriptivă: media vârstei din eșantion; inferențială: testarea semnificației unei diferențe",
+            "b": "inferențială: estimează parametri ai populației pe baza eșantionului",
+            "c": "descriptivă: „care sunt datele?”; inferențială: „ce putem concluziona dincolo de eșantion?”",
+            "d": "descriptivă: testează ipoteze despre populație fără model"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Descriptiv răspunde „ce arată datele?” (ex. media vârstei în eșantion). Inferențial răspunde „putem generaliza / e semnificativ?” — testează ipoteze și estimează parametri ai populației. Nu înlocuiesc unul pe altul și descriptivul nu testează ipoteze despre populație fără model.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11030,
+          "text": "Care dintre următoarele exemple ilustrează corect descriptiv vs inferențial?",
+          "options": {
+            "a": "inferențial: „diferența între grupuri este semnificativă statistic?”",
+            "b": "descriptiv: „respingem H0 pentru populație cu certitudine absolută”",
+            "c": "inferențial: „frecvența genului în tabelul dat”",
+            "d": "descriptiv: „media vârstei = 24,5 ani în eșantion”"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Patru exemple corecte: medie descriptivă; test de semnificație inferențial; respingerea automată a H0 nu e descriptiv; frecvența în tabelul dat e descriptiv, nu inferențială despre populație.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11031,
+          "text": "Un studiu corelațional bine condus demonstrează, în sine, cauzalitatea dintre variabile.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Fals. Corelația arată asociere, nu cauză definitivă — pot interveni variabile confuze. Cauzalitatea necesită design experimental sau alte strategii puternice, nu doar corelație observată.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11032,
+          "text": "Studiul experimental permite inferențe cauzale mai puternice atunci când:",
+          "options": {
+            "a": "variabila independentă este manipulată sau controlată",
+            "b": "se observă doar asocierea între variabile fără manipulare",
+            "c": "confuzorii relevanți sunt controlați",
+            "d": "eșantionul este ales prin conveniență fără plan"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Experimentul manipulează VI și controlează confuzorii — permite inferențe cauzale mai credibile. Observarea pasivă a asocierilor fără manipulare nu înlocuiește controlul experimental.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11033,
+          "text": "Care dintre următoarele descriu studiul corelațional / observațional?",
+          "options": {
+            "a": "examinează relații între variabile măsurate, fără manipulare experimentală",
+            "b": "manipulează sistematic VI pentru a observa efectul asupra VD",
+            "c": "exclude măsurarea simultană a mai multor variabile",
+            "d": "nu demonstrează definitiv cauzalitatea, deși poate sugera ipoteze"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "d"
+          ],
+          "explanation": "Corelațional/observațional măsoară variabile cum sunt, fără manipulare sistematică. Poate genera ipoteze cauzale, dar nu le demonstrează definitiv. Manipularea VI este specifică experimentalului.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11034,
+          "text": "Care dintre următoarele afirmații despre populație și eșantion sunt corecte?",
+          "options": {
+            "a": "eșantionul este mereu identic cu populația",
+            "b": "populația se referă întotdeauna la toți oamenii de pe planetă",
+            "c": "populația = totalitatea unităților de interes pentru întrebarea de cercetare",
+            "d": "eșantionul = subset selectat din populație pentru studiu"
+          },
+          "kind": "multi",
+          "correct": [
+            "c",
+            "d"
+          ],
+          "explanation": "Populația = toate unitățile relevante (ex. toți studenții unei facultăți). Eșantionul = subset studiat. Nu sunt mereu identice și populația nu înseamnă automat „toată planeta”.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11035,
+          "text": "Reprezentativitatea unui eșantion înseamnă că:",
+          "options": {
+            "a": "eșantionul este mereu mai mare decât populația",
+            "b": "eșantionul reflectă în bună măsură caracteristicile populației țintă",
+            "c": "orice eșantion convenabil este automat reprezentativ",
+            "d": "generalizarea la populație devine mai justificabilă"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Reprezentativ = structura eșantionului oglindește populația țintă, ceea ce susține generalizarea. Conveniența nu garantează reprezentativitate; N mare fără selecție bună nu rezolvă biasul de selecție.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11036,
+          "text": "În curs, eșantionul mare este indicat adesea prin regula orientativă:",
+          "options": {
+            "a": "N ≥ 30",
+            "b": "eșantion mic: N < 30",
+            "c": "N < 30 face imposibilă orice analiză descriptivă",
+            "d": "N ≥ 30 garantează reprezentativitate perfectă"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Regulă orientativă din curs: N ≥ 30 eșantion „mare”, N < 30 „mic” — util pentru alegeri de teste (ex. t). Nu garantează reprezentativitate și nu interzice analiza descriptivă la N mic.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11037,
+          "text": "Care dintre următoarele metode de eșantionare sunt aleatoare (probabilistice)?",
+          "options": {
+            "a": "eșantionare aleatoare globală (simplă aleatoare)",
+            "b": "eșantionare prin clasificare unistadială (cluster unistadial)",
+            "c": "eșantionare stratificată multistadială",
+            "d": "eșantionare prin conveniență (subiecți disponibili)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c"
+          ],
+          "explanation": "Aleatoare: simplă aleatoare, stratificată multistadială, cluster unistadial — fiecare unitate sau cluster are șansă cunoscută în plan. Conveniența nu e probabilistică.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11038,
+          "text": "Eșantionarea prin conveniență este, de regulă, mai puțin reprezentativă pentru că:",
+          "options": {
+            "a": "selectează cazuri ușor accesibile, nu prin procedură aleatoare",
+            "b": "elimină biasul de selecție prin definiție",
+            "c": "poate supra-reprezenta anumite subgrupuri",
+            "d": "asigură distribuție egală a tuturor straturilor populației"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c"
+          ],
+          "explanation": "Conveniența alege cazuri ușor de accesat (studenți din preajmă) — risc de bias și sub-reprezentare. Nu distribuie egal straturile populației și nu elimină eroarea de selecție.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11039,
+          "text": "Care dintre următoarele perechi tip de studiu–inferență cauzală sunt corecte?",
+          "options": {
+            "a": "experimental bine controlat — da, cu rezerve metodologice",
+            "b": "corelațional / observațional — nu definitiv pentru cauzalitate",
+            "c": "observațional — demonstrează automat manipularea VI",
+            "d": "experimental — exclude măsurarea VD"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Experimental controlat → cauzalitate mai plauzibilă. Observațional → relații, nu cauză definitivă. Manipularea VI nu aparține designului pur observațional.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11040,
+          "text": "Care dintre următoarele descrieri despre eșantionare sunt corecte?",
+          "options": {
+            "a": "clasificare unistadială: grupuri/clustere selectate într-o etapă",
+            "b": "conveniență: preferată când vrei generalizare largă fără limitări",
+            "c": "aleatoare globală: fiecare unitate are șansă cunoscută de includere",
+            "d": "stratificată multistadială: straturi, apoi etape succesive de selecție"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "c",
+            "d"
+          ],
+          "explanation": "Stratificată multistadială: straturi apoi etape; cluster unistadial: grupe selectate într-o etapă; aleatoare simplă: șansă egală; conveniența nu e metodă pentru generalizare largă.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11041,
+          "text": "Un eșantion reprezentativ reflectă, în principiu, structura populației din care provine.",
+          "options": {
+            "a": "Adevărat",
+            "b": "Fals"
+          },
+          "kind": "single",
+          "correct": [
+            "a"
+          ],
+          "explanation": "Adevărat. Reprezentativitatea înseamnă că eșantionul reflectă populația — prerequisite pentru generalizare inferențială validă, deși nu o garantează singură.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11042,
+          "text": "Statistica inferențială se folosește, în principal, pentru a:",
+          "options": {
+            "a": "evalua dacă o diferență observată poate fi datorată hazardului",
+            "b": "înlocui complet descrierea datelor din eșantion",
+            "c": "garanta adevărul unei teorii fără date",
+            "d": "testa ipoteze și estima parametri ai populației pe baza eșantionului"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Inferențial testează ipoteze despre populație pe baza eșantionului: semnificație, intervale de încredere. Nu înlocuiește descriptivul și nu dovedește teorii fără date.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11043,
+          "text": "Care dintre următoarele exemple respectă tipul scalei indicat?",
+          "options": {
+            "a": "Likert 1–5 — automat raport cu zero absolut",
+            "b": "timp de reacție — raport",
+            "c": "Kelvin — raport (zero absolut)",
+            "d": "religie — nominală"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Kelvin și timpul = raport; religie = nominal; Likert nu e automat raport. Trei perechi corecte — a patra capcană tratează Likert ca interval/raport.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11044,
+          "text": "Care dintre următoarele legături directe între tipul erorii și efectul său asupra măsurării sunt corecte?",
+          "options": {
+            "a": "erori aleatorii contribuie la var(E)",
+            "b": "erori sistematice produc bias",
+            "c": "bias aleator se anulează prin definire la orice N",
+            "d": "variația observată include și componenta de eroare"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b"
+          ],
+          "explanation": "Legături directe: erorile aleatorii umplu var(E); cele sistematice se manifestă ca bias. Faptul că variația observată include eroarea derivă din var(X) = var(T) + var(E), dar nu e sinonim cu perechea aleator–sistematic.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11045,
+          "text": "Temperatura Kelvin este exemplu de scară de raport pentru că:",
+          "options": {
+            "a": "raporturile între valori au sens fizic",
+            "b": "zero Kelvin marchează absența mișcării termice moleculare",
+            "c": "nu permite compararea intervalelor egale",
+            "d": "este ordinală, deoarece poate fi ordonată"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Kelvin are zero absolut (0 K = oprire moleculară termică) — raporturi fizice valide. Ordinală insuficientă pentru „dublu”; interval fără zero absolut insuficient pentru raport.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11046,
+          "text": "Numărul de răspunsuri corecte la un test este, de regulă, pe scară de:",
+          "options": {
+            "a": "interval — fără zero absolut",
+            "b": "raport — zero real (niciun răspuns corect) și raporturi interpretabile",
+            "c": "ordinală — fără distanțe între valori",
+            "d": "nominală — fără ordine"
+          },
+          "kind": "single",
+          "correct": [
+            "b"
+          ],
+          "explanation": "Număr răspunsuri corecte: zero real (0 corecte), valori întregi, raporturi interpretabile (6 vs 3 corecte). Nu e interval fără zero și nici nominal fără ordine.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11047,
+          "text": "Care dintre următoarele capcane privind scalele și eșantionarea trebuie avute în vedere?",
+          "options": {
+            "a": "tratarea Likert ca interval fără argument",
+            "b": "generalizare largă din eșantion de conveniență",
+            "c": "verificarea exhaustivității categoriilor la variabile categoriale",
+            "d": "confundarea intervalului cu raportul la temperatură"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "d"
+          ],
+          "explanation": "Trei capcane frecvente: Celsius ca raport; Likert ca interval; generalizare din conveniență. Verificarea categoriilor exhaustive e bună practică, nu capcană — de aceea nu e a patra variantă corectă aici.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11048,
+          "text": "Temperamentul încadrat în tipuri discrete (ex. categorii clinice sau tipologice) este tratat, de regulă, ca variabilă:",
+          "options": {
+            "a": "de raport, pentru că tipurile pot fi numerotate",
+            "b": "de interval cu zero absolut",
+            "c": "continuă, pentru că trăsătura există în grade",
+            "d": "nominală sau ordinală, în funcție de cum sunt definite categoriile"
+          },
+          "kind": "single",
+          "correct": [
+            "d"
+          ],
+          "explanation": "Temperament tipologic = categorii — nominal sau ordinal dacă există ordine teoretică între tipuri. Nu devine raport doar prin numerotare. Trăsătura continuă e alt nivel de măsură decât tipologia.",
+          "domeniu": "Statistică II",
+          "tip": "unic",
+          "exam_item": true
+        },
+        {
+          "id": 11049,
+          "text": "Care dintre următoarele afirmații despre eșantion mare vs mic sunt corecte?",
+          "options": {
+            "a": "mărimea eșantionului înlocuiește reprezentativitatea",
+            "b": "sub N = 30 se vorbește adesea de eșantion mic",
+            "c": "N ≥ 30 este o orientare frecventă pentru „eșantion mare”",
+            "d": "N mare elimină erorile sistematice de măsurare"
+          },
+          "kind": "multi",
+          "correct": [
+            "b",
+            "c"
+          ],
+          "explanation": "N ≥ 30 vs N < 30 sunt orientări didactice pentru tipul de eșantion. Nu înlocuiesc reprezentativitatea și nu elimină erorile sistematice de măsurare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        },
+        {
+          "id": 11050,
+          "text": "Care dintre următoarele sintezează corect modulele scale–erori–eșantion?",
+          "options": {
+            "a": "scale Stevens: nominal < ordinal < interval < raport",
+            "b": "descriptiv descrie; inferențial testează și generalizează cu prudență",
+            "c": "experimental → cauzalitate mai credibilă; corelațional → relații, nu cauză definitivă",
+            "d": "X = T + E; aleator vs sistematic (bias)"
+          },
+          "kind": "multi",
+          "correct": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "explanation": "Sinteză finală segment: ierarhia Stevens; X=T+E și tipuri de eroare; descriptiv vs inferențial; experimental vs observațional. Patru piloni pentru scale, măsurare și eșantionare.",
+          "domeniu": "Statistică II",
+          "tip": "multi",
+          "exam_item": true
+        }
+      ]
     }
   },
-  "total_questions": 2998,
+  "total_questions": 3088,
   "active_lots_only": true
 }

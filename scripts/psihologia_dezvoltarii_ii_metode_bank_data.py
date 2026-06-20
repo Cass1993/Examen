@@ -473,7 +473,7 @@ METODE_CERCETARE_ITEMS: List[Item] = [
         "correct": "ab",
     },
     {
-        "stem": "Care două distincții metodologice din grila de examen sunt corecte?",
+        "stem": "Care dintre următoarele distincții metodologice sunt corecte?",
         "options": [
             "longitudinală / transversală: aceiași indivizi vs. vârste simultane",
             "experiment / observație: manipulare vs. descriere în context",

@@ -709,7 +709,7 @@ EPP_PERFORMANTA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care confuzii din grila de examen sunt perechi corecte legate "
+            "Care confuzii frecvente formează perechi corecte legate "
             "de performanță la muncă?"
         ),
         "options": [

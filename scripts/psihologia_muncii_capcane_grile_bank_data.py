@@ -71,7 +71,7 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
     {
         "stem": (
             "Un HR amestecă în același fișier „operează soft X” cu „are diplomă "
-            "în Y”. Ce confuzie de grilă ilustrează?"
+            "în Y”. Ce confuzie frecventă ilustrează?"
         ),
         "options": [
             "amestecă job description cu job specification",
@@ -134,7 +134,7 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care distincții din grila de selecție și măsurare sunt corecte?"
+            "Care distincții din selecția și măsurarea personalului sunt corecte?"
         ),
         "options": [
             "screening elimină; comprehensive selectează dintre supraviețuitori",
@@ -336,7 +336,7 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care perechi eroare / efect din grila EPP sunt inversate greșit?"
+            "Care perechi eroare / efect din evaluarea performanței sunt inversate greșit?"
         ),
         "options": [
             "halo (Halo) = impresie pozitivă globală ridică scorurile; "
@@ -424,8 +424,7 @@ CAPCANE_GRILE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care distincții din grila de capcane (toate capitolele PM II) sunt "
-            "corecte?"
+            "Care dintre următoarele distincții frecvent confundate sunt corecte?"
         ),
         "options": [
             "description/specification; knowledge/ability; screening/comprehensive",

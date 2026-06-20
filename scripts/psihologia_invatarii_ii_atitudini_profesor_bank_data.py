@@ -188,8 +188,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele tipuri de profesor din clasificarea pentru grilă sunt "
-            "descrise corect?"
+            "Care dintre următoarele tipuri de profesor sunt descrise corect?"
         ),
         "options": [
             "centrat pe conținut — selectează și structurează informația esențială",
@@ -399,7 +398,7 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele perechi tip de profesor–accent sunt potrivite pentru grilă?"
+            "Care dintre următoarele perechi tip de profesor–accent sunt corecte?"
         ),
         "options": [
             "centrat pe conținut — informație esențială, structurată",
@@ -481,8 +480,8 @@ ATITUDINI_PROFESOR_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Pentru grilă, diferența rapidă între profesorul cu inițiativă ridicată "
-            "și cel cu inițiativă scăzută este:"
+            "Care este diferența esențială între profesorul cu inițiativă ridicată "
+            "și cel cu inițiativă scăzută?"
         ),
         "options": [
             "flexibilitate, stimularea alegerii și a responsabilității vs formalism "

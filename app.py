@@ -125,12 +125,15 @@ def bank_path_fallback() -> Path:
     return BANK_MD_DEFAULT
 
 
-WORDING_VERSION = "152"  # rebalance II lot MC distributions (16/12/10/3/5 etc.)
+WORDING_VERSION = "153"  # fix polish_text + Statistică II 90 itemi
 
 
 def _questions_cache_key() -> str:
     """Cheie cache — se invalidează când se schimbă fișierele băncii."""
     parts: List[str] = [WORDING_VERSION]
+    app_py = APP_DIR / "app.py"
+    if app_py.exists():
+        parts.append(f"app:{app_py.stat().st_mtime_ns}")
     for path in (MERGED_JSON, BANK_1400, BANK_2000, QUESTIONS_JSON, QUESTIONS_ARCHIVE_JSON):
         if path.exists():
             parts.append(f"{path}:{path.stat().st_mtime_ns}")
@@ -222,6 +225,11 @@ def _questions_cache_key() -> str:
         APP_DIR / "scripts" / "psihologia_invatarii_ii_roluri_empatie_explanations.py",
         APP_DIR / "scripts" / "psihologia_invatarii_ii_lider_grila_bank_data.py",
         APP_DIR / "scripts" / "psihologia_invatarii_ii_lider_grila_explanations.py",
+        APP_DIR / "scripts" / "statistica_ii_bank_data.py",
+        APP_DIR / "scripts" / "statistica_ii_explanations.py",
+        APP_DIR / "scripts" / "statistica_ii_exam_items.py",
+        APP_DIR / "scripts" / "statistica_ii_scales_sampling_bank_data.py",
+        APP_DIR / "scripts" / "statistica_ii_scales_sampling_explanations.py",
         APP_DIR / "scripts" / "perspectiva_psihometrica_bank_data.py",
         APP_DIR / "scripts" / "psihopatologie_ii_option_polish.py",
         APP_DIR / "scripts" / "psihoterapie_ii_option_polish.py",
@@ -442,14 +450,10 @@ def _flatten_questions(
                         for x in (fixed.get("correct") or raw["correct"])
                     ],
                     lot=str(lot_name),
-                    explanation=(
-                        _exam_explanation(fixed_expl)
-                        if raw["exam_item"]
-                        else (
-                            _polish_expl_text(fixed_expl)
-                            if _has_scripts()
-                            else fixed_expl
-                        )
+                    explanation=_format_explanation_for_display(
+                        qid,
+                        fixed_expl,
+                        exam_item=bool(raw["exam_item"]),
                     ),
                 )
             )
@@ -529,21 +533,37 @@ def _score_question(q: Q, selected: Sequence[str]) -> float:
     return _score_single(selected, q.correct)
 
 
+def _is_exam_ii_explanation_id(qid: int) -> bool:
+    """Loturi examen II cu explicații scrise — doar extindere abrevieri la afișare."""
+    return (
+        7001 <= qid <= 7858
+        or 8001 <= qid <= 8360
+        or 9001 <= qid <= 9360
+        or 9501 <= qid <= 9970
+        or 10001 <= qid <= 10490
+        or 10501 <= qid <= 10960
+        or 10961 <= qid <= 11050
+    )
+
+
+def _format_explanation_for_display(qid: int, text: str, *, exam_item: bool = False) -> str:
+    """Formatează explicația pentru afișare — fără reformulare agresivă la loturile II."""
+    expl = (text or "").strip()
+    if not expl:
+        return ""
+    if exam_item or _is_exam_ii_explanation_id(qid):
+        return _exam_explanation(expl)
+    if _has_scripts():
+        return _polish_expl_text(expl)
+    return expl
+
+
 def _build_result_item(q: Q, selected: Sequence[str]) -> Dict[str, Any]:
     pts = _score_question(q, selected)
     explanation = _resolve_explanation(q.id, q.lot, q.explanation)
     if explanation:
-        explanation = (
-            _exam_explanation(explanation)
-            if (
-                7001 <= q.id <= 7858
-                or 8001 <= q.id <= 8360
-                or 9001 <= q.id <= 9360
-                or 9501 <= q.id <= 9970
-                or 10001 <= q.id <= 10490
-                or 10501 <= q.id <= 10960
-            )
-            else polish_text(explanation)
+        explanation = _format_explanation_for_display(
+            q.id, explanation, exam_item=True
         )
     return {
         "id": q.id,
@@ -580,13 +600,14 @@ def _render_feedback_block(item: Dict[str, Any], *, show_points: bool = True) ->
 
     explanation = str(item.get("explanation") or "").strip()
     if not explanation:
+        qid = int(item.get("id") or 0)
         explanation = _resolve_explanation(
-            int(item.get("id") or 0),
+            qid,
             str(item.get("lot") or ""),
             "",
         )
         if explanation:
-            explanation = _exam_explanation(explanation)
+            explanation = _format_explanation_for_display(qid, explanation, exam_item=True)
     if explanation:
         st.info(f"**Explicație:** {explanation}")
 
@@ -623,13 +644,14 @@ def _render_correct_item(item: Dict[str, Any]) -> None:
 
     explanation = str(item.get("explanation") or "").strip()
     if not explanation:
+        qid = int(item.get("id") or 0)
         explanation = _resolve_explanation(
-            int(item.get("id") or 0),
+            qid,
             str(item.get("lot") or ""),
             "",
         )
         if explanation:
-            explanation = _exam_explanation(explanation)
+            explanation = _format_explanation_for_display(qid, explanation, exam_item=True)
     if explanation:
         st.info(f"**Explicație:** {explanation}")
 
@@ -695,12 +717,19 @@ def main() -> None:
         bank_path = Path(bank_path_str)
 
         cache_key = _questions_cache_key()
-        db = _load_question_bank(cache_key)
+        try:
+            db = _load_question_bank(cache_key)
+            all_questions = _get_all_questions(cache_key)
+        except Exception as exc:
+            st.error(f"Eroare la încărcarea băncii: {exc}")
+            if st.button("Șterge cache și reîncearcă"):
+                st.cache_data.clear()
+                st.rerun()
+            return
         if not db.get("lots"):
             st.error(f"Nu am putut încărca banca. Verifică: {bank_path}")
             return
 
-        all_questions = _get_all_questions(cache_key)
         _ensure_history()
 
         all_lot_names = sorted({q.lot for q in all_questions})
@@ -736,6 +765,10 @@ def main() -> None:
         limit_n = st.number_input("Număr întrebări (0 = toate)", min_value=0, value=0, step=10)
         time_limit_min = st.number_input("Limită timp (minute)", min_value=1, value=45, step=5)
         start = st.button("Start / Restart")
+        if st.button("Reîncarcă banca (șterge cache)"):
+            st.cache_data.clear()
+            st.session_state.pop("run", None)
+            st.rerun()
 
         st.divider()
         st.caption("Bancă încărcată")
@@ -793,6 +826,8 @@ def main() -> None:
             "shuffle": shuffle,
             "limit_n": int(limit_n),
         }
+        if start:
+            st.rerun()
 
     run = st.session_state.run
     run.setdefault("feedback_qid", None)

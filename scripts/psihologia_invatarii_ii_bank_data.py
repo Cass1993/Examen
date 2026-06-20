@@ -613,7 +613,8 @@ PSIHOLOGIA_INVATARII_II_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele distincții ajută la grilă între Pavlov, Watson și Skinner?"
+            "Care dintre următoarele distincții diferențiază corect contribuțiile "
+            "lui Pavlov, Watson și Skinner?"
         ),
         "options": [
             "Pavlov — condiționare clasică, reflexe fiziologice",

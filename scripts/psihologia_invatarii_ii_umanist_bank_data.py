@@ -330,7 +330,7 @@ UMANIST_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele confuzii frecvente la grilă despre Rogers trebuie evitate?"
+            "Care dintre următoarele confuzii frecvente despre Rogers trebuie evitate?"
         ),
         "options": [
             "Rogers nu înseamnă lipsă de structură — facilitatorul are obiective și cadru",

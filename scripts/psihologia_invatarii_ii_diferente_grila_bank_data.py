@@ -66,7 +66,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele perechi „concept–diferență esențială” sunt corecte pentru grilă?"
+            "Care dintre următoarele perechi „concept–diferență esențială” sunt corecte?"
         ),
         "options": [
             "întărire pozitivă vs negativă — ambele cresc comportamentul, dar una adaugă "
@@ -467,7 +467,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Care dintre următoarele perechi autor–idee sunt potrivite pentru grilă?"
+            "Care dintre următoarele perechi autor–idee sunt corecte?"
         ),
         "options": [
             "Edward C. Tolman — învățare latentă, hărți cognitive",
@@ -479,7 +479,7 @@ DIFERENTE_GRILA_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Pentru grilă, diferența rapidă cognitivism–behaviorism se rezumă la:"
+            "Care este diferența esențială între cognitivism și behaviorism?"
         ),
         "options": [
             "procese interne și organizare mentală vs comportament observabil și "

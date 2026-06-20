@@ -424,7 +424,7 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     {
         "stem": (
             "Care dintre următoarele trăsături definesc rolul de „om de afaceri” și al celui de "
-            "„expert”, în sinteza pentru grilă?"
+            "„expert”?"
         ),
         "options": [
             "om de afaceri: eficiență și pragmatism",
@@ -474,8 +474,8 @@ ROLURI_EMPATIE_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Pentru grilă, diferența rapidă între rolul „Socrate” și cel de "
-            "„organizator al minților” este:"
+            "Care este diferența esențială între rolul „Socrate” și cel de "
+            "„organizator al minților”?"
         ),
         "options": [
             "Socrate: dialog, întrebări, dezbatere; organizator: structurare, "

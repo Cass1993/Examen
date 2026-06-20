@@ -21,6 +21,7 @@ II_LOT_NAMES = frozenset(
         "Psihopatologie II",
         "Psihologia dezvoltării II",
         "Psihologia învățării II",
+        "Statistică II",
     }
 )
 
@@ -73,6 +74,11 @@ def _register() -> None:
         build_items as build_psiho_inv_ii,
         merge_into_bank as merge_psiho_inv_ii,
     )
+    from scripts.statistica_ii_exam_items import (
+        LOT_NAME as STATISTICA_II_LOT,
+        build_items as build_statistica_ii,
+        merge_into_bank as merge_statistica_ii,
+    )
 
     REGISTERED_LOTS.extend(
         [
@@ -85,6 +91,7 @@ def _register() -> None:
             (PSIHO_MUNCII_II_LOT, build_psiho_muncii_ii, merge_psiho_muncii_ii),
             (PSIHO_DEZ_II_LOT, build_psiho_dez_ii, merge_psiho_dez_ii),
             (PSIHO_INV_II_LOT, build_psiho_inv_ii, merge_psiho_inv_ii),
+            (STATISTICA_II_LOT, build_statistica_ii, merge_statistica_ii),
         ]
     )
 

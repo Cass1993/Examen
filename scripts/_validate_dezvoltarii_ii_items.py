@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
+from scripts.ii_grila_meta_audit import audit_grila_meta_stem  # noqa: E402
 from scripts.explanation_prose import to_prose_explanation  # noqa: E402
 from scripts.psihologia_dezvoltarii_ii_exam_items import build_items  # noqa: E402
 
@@ -47,6 +48,9 @@ def main() -> int:
 
         # Întrebare la singular („riscul principal”) cu mai multe răspunsuri
         stem = str(q.get("text") or "").lower()
+        for issue in audit_grila_meta_stem(str(q.get("text") or "")):
+            issues.append(f"{qid}: [{issue.rule}] {issue.message}")
+
         if re.search(r"\b(riscul principal|cel mai probabil|ilustrează mai ales)\b", stem):
             if len(correct) > 1:
                 issues.append(

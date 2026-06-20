@@ -358,7 +358,7 @@ PREDARE_STILURI_ITEMS: List[Item] = [
     },
     {
         "stem": (
-            "Pentru grilă, diferența rapidă între predarea directă și cea indirectă este:"
+            "Care este diferența esențială între predarea directă și cea indirectă?"
         ),
         "options": [
             "conducere explicită și explicații structurate vs descoperire, dialog "
