@@ -831,6 +831,16 @@ def main() -> None:
                 "Verificare (feedback imediat)",
             ],
         )
+        retry_wrong = False
+        if mode.startswith("Verificare"):
+            retry_wrong = st.checkbox(
+                "Reverificare la final (itemii greșiți)",
+                value=True,
+                help=(
+                    "După ce termini lotul, itemii la care ai greșit revin o dată "
+                    "pentru a le rezolva din nou, cu feedback imediat."
+                ),
+            )
         shuffle = st.checkbox("Amestecă întrebările la start", value=True)
         limit_n = st.number_input("Număr întrebări (0 = toate)", min_value=0, value=0, step=10)
         time_limit_min = st.number_input("Limită timp (minute)", min_value=1, value=45, step=5)
@@ -885,6 +895,10 @@ def main() -> None:
 
         st.session_state.run = {
             "questions": run_questions,
+            "main_questions": list(run_questions),
+            "phase": "main",
+            "retry_wrong": retry_wrong,
+            "review_offered": False,
             "idx": 0,
             "answers": {},  # qid -> selected letters (list[str])
             "confirmed": set(),  # qid confirmed
@@ -901,17 +915,25 @@ def main() -> None:
 
     run = st.session_state.run
     run.setdefault("feedback_qid", None)
+    run.setdefault("main_questions", run.get("questions") or [])
+    run.setdefault("phase", "main")
+    run.setdefault("retry_wrong", False)
+    run.setdefault("review_offered", False)
     questions: List[Q] = run["questions"]
     idx: int = run["idx"]
     verify_mode = run["mode"].startswith("Verificare")
     showing_feedback = verify_mode and run.get("feedback_qid") is not None
+    in_review = run.get("phase") == "review"
 
     elapsed = time.time() - run["start_ts"]
     remaining = run["time_limit_s"] - elapsed
 
     col1, col2, col3 = st.columns([2, 1, 1])
     with col1:
-        st.write(f"Progres: **{min(idx + 1, len(questions))}/{len(questions)}**")
+        progress_label = "Reverificare" if in_review else "Progres"
+        st.write(f"{progress_label}: **{min(idx + 1, len(questions))}/{len(questions)}**")
+        if in_review:
+            st.caption("A doua trecere — doar itemii greșiți la prima parcurgere.")
     with col2:
         st.write(f"Timp: **{_format_seconds(elapsed)}**")
     with col3:
@@ -923,9 +945,35 @@ def main() -> None:
         st.rerun()
 
     if run["idx"] >= len(questions):
-        # Results
+        main_questions: List[Q] = run.get("main_questions") or questions
+        if (
+            verify_mode
+            and run.get("retry_wrong")
+            and run.get("phase") == "main"
+            and not run.get("review_offered")
+        ):
+            wrong_qs: List[Q] = []
+            for mq in main_questions:
+                sel = run["answers"].get(mq.id) or []
+                if not _is_fully_correct(_build_result_item(mq, sel)):
+                    wrong_qs.append(mq)
+            if wrong_qs:
+                run["review_offered"] = True
+                run["phase"] = "review"
+                run["questions"] = wrong_qs
+                run["idx"] = 0
+                run["confirmed"] = set()
+                run["feedback_qid"] = None
+                st.info(
+                    f"**Reverificare:** {len(wrong_qs)} întrebări greșite — "
+                    "le parcurgi din nou acum, cu feedback imediat."
+                )
+                st.rerun()
+                return
+
+        # Results (scor final după reverificare, dacă a existat)
         per_item: List[Dict[str, Any]] = []
-        for q in questions:
+        for q in main_questions:
             sel = run["answers"].get(q.id) or []
             per_item.append(_build_result_item(q, sel))
 
@@ -933,9 +981,11 @@ def main() -> None:
         correct_items = [item for item in per_item if _is_fully_correct(item)]
         wrong_items = [item for item in per_item if not _is_fully_correct(item)]
 
-        percent = 100.0 * total / max(1, len(questions))
+        percent = 100.0 * total / max(1, len(main_questions))
         st.subheader("Rezultat")
-        st.write(f"Scor: **{total:.2f} / {len(questions)}**  (**{percent:.1f}%**)")
+        if run.get("review_offered"):
+            st.caption("Scorul reflectă răspunsurile după reverificarea itemilor greșiți.")
+        st.write(f"Scor: **{total:.2f} / {len(main_questions)}**  (**{percent:.1f}%**)")
         st.write(
             f"Răspunsuri corecte: **{len(correct_items)}** | "
             f"Răspunsuri greșite: **{len(wrong_items)}**"
@@ -949,7 +999,7 @@ def main() -> None:
                     "mode": run["mode"],
                     "lots": run["selected_lots"],
                     "shuffle": run["shuffle"],
-                    "n_questions": len(questions),
+                    "n_questions": len(main_questions),
                     "time_limit_min": int(run["time_limit_s"] // 60),
                     "elapsed_s": int(elapsed),
                     "score_points": float(total),

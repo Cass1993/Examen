@@ -21,6 +21,18 @@ def archive_path_for(bank_path: Path) -> Path:
     return bank_path.parent / ARCHIVE_JSON_NAME
 
 
+def promote_ii_lots_from_archive(
+    active: Dict[str, Any], archive: Dict[str, Any]
+) -> Tuple[Dict[str, Any], Dict[str, Any], bool]:
+    """Mută în questions.json loturile II care au rămas greșit în arhivă."""
+    changed = False
+    for name in list(archive.keys()):
+        if is_ii_lot(name):
+            active[name] = archive.pop(name)
+            changed = True
+    return active, archive, changed
+
+
 def split_lots(lots: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     active: Dict[str, Any] = {}
     archived: Dict[str, Any] = {}

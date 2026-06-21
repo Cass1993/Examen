@@ -25,6 +25,7 @@ II_LOT_NAMES = frozenset(
         "Caracteristici psihometrice II",
         "Inventare de personalitate II",
         "Psihologia personalității II",
+        "Epigenetica II: BAZE MOLECULARE",
     }
 )
 
@@ -184,6 +185,7 @@ def ensure_all_supplemental_lots(data: Dict[str, Any], bank_path: Path) -> Dict[
         is_ii_lot,
         load_archive,
         merge_active_and_archive,
+        promote_ii_lots_from_archive,
     )
 
     _register()
@@ -194,8 +196,11 @@ def ensure_all_supplemental_lots(data: Dict[str, Any], bank_path: Path) -> Dict[
     archive_data = load_archive(archive_path)
     active_lots = data.setdefault("lots", {})
     archive_lots = archive_data.setdefault("lots", {})
-    changed = False
-    archive_changed = False
+    active_lots, archive_lots, promoted = promote_ii_lots_from_archive(
+        active_lots, archive_lots
+    )
+    changed = promoted
+    archive_changed = promoted
     version_path = bank_path.parent / ".ii_distractor_version"
     stored_ii_version = (
         version_path.read_text(encoding="utf-8").strip() if version_path.exists() else ""
